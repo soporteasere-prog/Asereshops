@@ -1,0 +1,2824 @@
+{
+  "products": [
+    {
+      "nombre": "Carne de cerdo x Lb",
+      "categoria": "cárnicos",
+      "precio": 2.9,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": true,
+      "disponibilidad": true,
+      "descripcion": "Carne fresca, se hace el corte al momento del pedido",
+      "nuevo": false,
+      "id": "mlgzank1-sikt6w1",
+      "imagenes": [
+        "Carne_de_Cerdo.jpg"
+      ]
+    },
+    {
+      "nombre": "Carne de Ovejo x Lb",
+      "categoria": "cárnicos",
+      "precio": 2.15,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Carne fresca al momento del pedido",
+      "nuevo": false,
+      "id": "mlgzank1-1s4o3vq",
+      "imagenes": [
+        "Carne_de_Ovejo.jpg"
+      ]
+    },
+    {
+      "nombre": "Chuletas de cerdo x Lb",
+      "categoria": "cárnicos",
+      "precio": 3.5,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Corte fresco se realiza al momento del pedido",
+      "nuevo": false,
+      "id": "mlgzank1-1ukdukm",
+      "imagenes": [
+        "Chuletas_de_Cerdo.jpg"
+      ]
+    },
+    {
+      "nombre": "Pernil de Cerdo asado (15 libras)",
+      "categoria": "cárnicos",
+      "precio": 50,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": true,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank1-1eo49xr",
+      "imagenes": [
+        "pernil_de_cerdo_asado_15_libras.jpg"
+      ]
+    },
+    {
+      "nombre": "Queso blanco x Lb",
+      "categoria": "lacteos",
+      "precio": 2.91,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": true,
+      "disponibilidad": true,
+      "descripcion": "Queso Criollo Fresco, Disfruta del auténtico sabor del queso criollo, un clásico en la cocina tradicional. Este queso fresco tiene una textura firme y ligeramente quebradiza, ideal para rallar, cortar en cubos o simplemente disfrutarlo como está. Su color blanco puro y su aroma suave evocan frescura y calidad artesanal. Perfecto para acompañar tus platos favoritos, ya sea como ingrediente en ensaladas, arepas o junto a frutas y miel. Este queso es una opción deliciosa y versátil para los amantes de los sabores auténticos.",
+      "nuevo": false,
+      "id": "mlgzank1-16w7pq2",
+      "imagenes": [
+        "queso_criollo.jpg"
+      ]
+    },
+    {
+      "nombre": "Manzana",
+      "categoria": "despensa",
+      "precio": 1.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": true,
+      "disponibilidad": false,
+      "descripcion": "Descubre la frescura y el sabor de una manzana premium, cuidadosamente seleccionada para ofrecerte la mejor calidad. Perfecta como snack saludable, para añadir a tus recetas favoritas o para disfrutar en cualquier momento del día. Con una textura crujiente, un color vibrante y una dulzura natural irresistible, esta manzana es una fuente excelente de vitaminas y antioxidantes 🍎",
+      "nuevo": false,
+      "id": "mlgzank1-dfulus1",
+      "imagenes": [
+        "manzana.jpg"
+      ]
+    },
+    {
+      "nombre": "Manzanas Pack x6",
+      "categoria": "despensa",
+      "precio": 6.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": true,
+      "disponibilidad": false,
+      "descripcion": "Disfruta de la frescura y el sabor natural de nuestras manzanas cuidadosamente seleccionadas. Este paquete incluye 6 manzanas premium, perfectas para tus meriendas saludables, recetas favoritas o para llevar un delicioso bocado en cualquier momento del día. Con su textura crujiente y dulzura irresistible, nuestras manzanas son una excelente fuente de vitaminas y antioxidantes. Llena tu cocina con lo mejor de la naturaleza 🍎",
+      "nuevo": false,
+      "id": "mlgzank1-qrq1qtb",
+      "imagenes": [
+        "manzana_cantidad.jpg"
+      ]
+    },
+    {
+      "nombre": "Nutela",
+      "categoria": "confituras",
+      "precio": 7.67,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank1-14h56hk",
+      "imagenes": [
+        "nutela.jpeg"
+      ]
+    },
+    {
+      "nombre": "Azúcar blanca x lb",
+      "categoria": "despensa",
+      "precio": 1.23,
+      "descuento": 10,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "id": "mlgzank1-12y2y72",
+      "imagenes": [
+        "Azucar_Blanca.jpeg"
+      ]
+    },
+    {
+      "nombre": "Frijol Negro x Lb",
+      "categoria": "pastas-y-granos",
+      "precio": 1.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-1gog4gl",
+      "imagenes": [
+        "Frijol_Negro.jpeg"
+      ]
+    },
+    {
+      "nombre": "Paquete de pan de bola 8u/10u",
+      "categoria": "despensa",
+      "precio": 1.8,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-c6lmvk1",
+      "imagenes": [
+        "Pan.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pastilla de Pollo",
+      "categoria": "despensa",
+      "precio": 0.2,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-1cy7vbf",
+      "imagenes": [
+        "Pastilla_de_Pollo.jpeg"
+      ]
+    },
+    {
+      "nombre": "Cartón de Huevos",
+      "categoria": "despensa",
+      "precio": 9,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Disfruta del sabor inigualable de los verdaderos huevos de campo. Nuestros huevos provienen de gallinas criadas en libertad, al aire libre, donde pueden picotear pastos naturales, moverse sin restricciones y llevar una vida libre de estrés. Esta alimentación variada y su bienestar se traducen directamente en un producto superior: yemas de color intenso, cremosas y consistentes, y un sabor auténtico que transformará tus desayunos y recetas. Al elegir nuestros huevos frescos, no solo estás comprando un alimento rico en proteínas y nutrientes, sino que también apoyas las prácticas de bienestar animal y la agricultura sostenible. ¡Lleva a tu mesa la frescura y la calidad que solo los huevos de gallinas felices pueden ofrecer!",
+      "nuevo": false,
+      "id": "mlgzank2-1pwcv2o",
+      "imagenes": [
+        "cartn_de_huevos.jpg"
+      ]
+    },
+    {
+      "nombre": "Espaguetis (500g)",
+      "categoria": "pastas-y-granos",
+      "precio": 0.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-abqwioi",
+      "imagenes": [
+        "espaguetis_500g.jpeg"
+      ]
+    },
+    {
+      "nombre": "Leche Condensada azucarada (390g)",
+      "categoria": "enlatados",
+      "precio": 1.67,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-33xzoiy",
+      "imagenes": [
+        "leche_condensada_azucarada_390g.jpg"
+      ]
+    },
+    {
+      "nombre": "Arroz Blanco (1Kg)",
+      "categoria": "pastas-y-granos",
+      "precio": 1.79,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank2-psrcao1",
+      "imagenes": [
+        "arroz_blanco_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Mayonesa Victoria (250ml)",
+      "categoria": "aderezos",
+      "precio": 2.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Descubre la mayonesa Victoria de 250 ml, elaborada con ingredientes de alta calidad para garantizar un sabor auténtico y delicioso. Perfecta para acompañar sándwiches, ensaladas y tus recetas favoritas, esta mayonesa destaca por su textura cremosa y su frescura incomparable. Su presentación en un frasco práctico con tapa verde asegura la conservación del sabor y la comodidad en cada uso. Haz de Mayonesa Victoria tu elección de confianza para realzar cada bocado",
+      "nuevo": false,
+      "id": "mlgzank2-g6p9901",
+      "imagenes": [
+        "mayonesa_vima_450ml.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de sal (1kg)",
+      "categoria": "despensa",
+      "precio": 0.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-147xys0",
+      "imagenes": [
+        "sal_x_lb.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Harina (1kg)",
+      "categoria": "despensa",
+      "precio": 2.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-1nnvd1p",
+      "imagenes": [
+        "paquete_de_harina_de_trigo.jpg"
+      ]
+    },
+    {
+      "nombre": "Frijoles Negros (1Kg)",
+      "categoria": "pastas-y-granos",
+      "precio": 2.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-1o8tjjr",
+      "imagenes": [
+        "frijoles_negros_1kg.webp"
+      ]
+    },
+    {
+      "nombre": "Frazada de Piso",
+      "categoria": "aseo",
+      "precio": 1,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-q8ffff1",
+      "imagenes": [
+        "Frazada_de_Piso.jpg"
+      ]
+    },
+    {
+      "nombre": "Cebolla blanca × lb",
+      "categoria": "agro",
+      "precio": 3.371,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "La cebolla blanca es un ingrediente esencial, reconocida por su frescura y calidad. Su forma redonda y su brillante color blanco la hacen atractiva, mientras que su sabor suave pero distintivo es ideal para una amplia variedad de recetas. Desde sofritos aromáticos hasta ensaladas crujientes, esta cebolla agrega un toque especial a cualquier platillo. Perfecta para quienes valoran productos naturales y versátiles en su cocina, garantizando satisfacción en cada preparación.",
+      "nuevo": false,
+      "id": "mlgzank2-1d1yfql",
+      "imagenes": [
+        "mazo_de_cebolla_blanca.jpg"
+      ]
+    },
+    {
+      "nombre": "Mano de plátano burro",
+      "categoria": "agro",
+      "precio": 0.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-104syot",
+      "imagenes": [
+        "Platano_Burro.jpg"
+      ]
+    },
+    {
+      "nombre": "Pepino x Lb",
+      "categoria": "agro",
+      "precio": 0.58,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-rixdtgx",
+      "imagenes": [
+        "Pepino.jpg"
+      ]
+    },
+    {
+      "nombre": "Plátano macho x unidad",
+      "categoria": "agro",
+      "precio": 0.31,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-7rrnc41",
+      "imagenes": [
+        "Platano_Macho.jpg"
+      ]
+    },
+    {
+      "nombre": "Boniato x Lb",
+      "categoria": "agro",
+      "precio": 0.53,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-6p9wgln",
+      "imagenes": [
+        "Boniato.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de refresco Naranja",
+      "categoria": "bebidas",
+      "precio": 17.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-7lrzeme",
+      "imagenes": [
+        "caja_de_refresco_naranja.jpg"
+      ]
+    },
+    {
+      "nombre": "Refresco Limón (330ml)",
+      "categoria": "bebidas",
+      "precio": 0.95,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-3q88ipu",
+      "imagenes": [
+        "refresco_limn_330ml.webp"
+      ]
+    },
+    {
+      "nombre": "Cervezas Cristal (355ml)",
+      "categoria": "alcohol",
+      "precio": 1.15,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-58oemeg",
+      "imagenes": [
+        "Cerveza_Cristal.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de Cervezas Cristal",
+      "categoria": "alcohol",
+      "precio": 23.5,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-13eusc4",
+      "imagenes": [
+        "Caja_Cerveza_Cristal.jpg"
+      ]
+    },
+    {
+      "nombre": "Malta Bucanero",
+      "categoria": "bebidas",
+      "precio": 1.19,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-xjt0jl1",
+      "imagenes": [
+        "Malta_Bucanero.jpg"
+      ]
+    },
+    {
+      "nombre": "Refresco Naranja (330ml)",
+      "categoria": "bebidas",
+      "precio": 0.95,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-10xda28",
+      "imagenes": [
+        "refresco_naranja_330ml.webp"
+      ]
+    },
+    {
+      "nombre": "Vinagre de vino tinto (500ml)",
+      "categoria": "despensa",
+      "precio": 2.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-153zx0s",
+      "imagenes": [
+        "vinagre_1litro.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pasta de tomate Oderich 350g",
+      "categoria": "enlatados",
+      "precio": 1.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-1wjn711",
+      "imagenes": [
+        "pasta_de_tomate_400g.webp"
+      ]
+    },
+    {
+      "nombre": "Desodorante Keewell",
+      "categoria": "aseo",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-15j5pds",
+      "imagenes": [
+        "Desodorante_Keewell.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Papel Sanitario 4 rollos",
+      "categoria": "otros",
+      "precio": 2,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank2-1lffzlq",
+      "imagenes": [
+        "paquete_de_papel_sanitario.jpg"
+      ]
+    },
+    {
+      "nombre": "Colonia Bonabel de Violetas",
+      "categoria": "aseo",
+      "precio": 3.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank2-1lafy52",
+      "imagenes": [
+        "Colobnia_Bonabel_de_Violetas.jpg"
+      ]
+    },
+    {
+      "nombre": "Spam de cerdo 340g",
+      "categoria": "enlatados",
+      "precio": 2.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank3-1yyr2pc",
+      "imagenes": [
+        "spam.webp"
+      ]
+    },
+    {
+      "nombre": "Picadillo de pollo (1Kg)",
+      "categoria": "cárnicos",
+      "precio": 2.37,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": true,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank3-vqyyagj",
+      "imagenes": [
+        "picadillo_de_pollo_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Toallas Sanitarias Princesa (10u)",
+      "categoria": "otros",
+      "precio": 1.14,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Las Toallas Sanitarias Princesa de Algodón ofrecen una protección cómoda y confiable para uso diurno y nocturno. Con su diseño con alas, aseguran un ajuste seguro y evitan fugas, brindando máxima absorción y tranquilidad durante todo el día. Este paquete contiene 10 toallas, cada una diseñada para ofrecerte la suavidad y el cuidado que necesitas. Su capa superior de algodón minimiza la irritación y proporciona una sensación de frescura, ideal para una protección completa y discreta.",
+      "nuevo": false,
+      "id": "mlgzank3-1f1x18n",
+      "imagenes": [
+        "almohadillas_sanitarias.jpg"
+      ]
+    },
+    {
+      "nombre": "Salsa Rosa Rayan 440ml",
+      "categoria": "aderezos",
+      "precio": 3.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank3-w0yr57a",
+      "imagenes": [
+        "pasta_de_bocadito.jpg"
+      ]
+    },
+    {
+      "nombre": "Malta Unlaguer x unidad 330ml",
+      "categoria": "bebidas",
+      "precio": 1.1,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": false,
+      "id": "mlgzank3-fe92v6h",
+      "imagenes": [
+        "malta_guajira_x_unidad_330ml.png"
+      ]
+    },
+    {
+      "nombre": "Refresco Gaseado",
+      "categoria": "bebidas",
+      "precio": 2.49,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "Sabor según disponibilidad del momento. Disfruta del refrescante y vibrante surtido de bebidas de Ciego Montero, una línea de refrescos con sabor tradicional que no puede faltar en tu hogar. Este pack incluye tres de sus sabores más populares, presentados en convenientes botellas de plástico, perfectas para cualquier ocasión. Encontrarás la clásica Tukola, con su inconfundible sabor a cola; una refrescante gaseosa, ideal para quienes prefieren un sabor más neutro y burbujeante; y la deliciosa Naranja, una explosión de sabor cítrico que te encantará. Cada botella está claramente identificada con su etiqueta y color característico, facilitando la elección. Ideales para acompañar tus comidas, animar tus fiestas o simplemente para saciar tu sed en cualquier momento del día. Elige el pack de refrescos Ciego Montero y disfruta de la variedad y el sabor que te ofrecen.",
+      "nuevo": false,
+      "id": "mlgzank3-1qurynp",
+      "imagenes": [
+        "refresco_gaseado.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de íntimas 8u",
+      "categoria": "aseo",
+      "precio": 1.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank3-426dh21",
+      "imagenes": [
+        "almohadilla_sanitaria_24u.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Azúcar Extra Fina 1Kg",
+      "categoria": "despensa",
+      "precio": 1.77,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlgzank3-14obyzx",
+      "imagenes": [
+        "azcar_extra_fina_1kg_mirante.jpg"
+      ]
+    },
+    {
+      "nombre": "Costillas de Cerdo x Lb",
+      "categoria": "cárnicos",
+      "precio": 3.5,
+      "descuento": 17.1,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Corte de carne fresca. Se corta al pedido. Ideal para tu cocina y tus comidas",
+      "nuevo": true,
+      "id": "mlgzank3-12z5u5d",
+      "imagenes": [
+        "costillas_de_cerdo_x_lb.jpg"
+      ]
+    },
+    {
+      "nombre": "Frijol Negro (500g)",
+      "categoria": "pastas-y-granos",
+      "precio": 1.73,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Lleva a tu mesa la base de la cocina tradicional con el Frijol Negro (Alubia) de IFA Eliges. Reconocido por su profundo sabor, su textura suave y su versatilidad, este frijol es un ingrediente esencial para preparar platos emblemáticos como la feijoada, el arroz congrí, o cualquier guiso y potaje. Además de su excelente sabor, el Frijol Negro de IFA es una Fuente de Fibra, contribuyendo a una dieta equilibrada y nutritiva. Cada paquete de 500 g garantiza granos de alta calidad, listos para ser remojados y cocinados hasta alcanzar la perfección. ¡Elige IFA para asegurar el auténtico sabor en tus platos más queridos!",
+      "nuevo": true,
+      "id": "mlgzank3-1qm9qmp",
+      "imagenes": [
+        "frijol_negro_alubia_500g.jpg"
+      ]
+    },
+    {
+      "nombre": "Cebolla blanca × lb",
+      "categoria": "agro",
+      "precio": 3.371,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "La cebolla blanca es un ingrediente esencial, reconocida por su frescura y calidad. Su forma redonda y su brillante color blanco la hacen atractiva, mientras que su sabor suave pero distintivo es ideal para una amplia variedad de recetas. Desde sofritos aromáticos hasta ensaladas crujientes, esta cebolla agrega un toque especial a cualquier platillo. Perfecta para quienes valoran productos naturales y versátiles en su cocina, garantizando satisfacción en cada preparación.",
+      "nuevo": false,
+      "id": "mlgzank3-uh8jflq",
+      "imagenes": [
+        "mazo_de_cebolla_blanca.jpg"
+      ]
+    },
+    {
+      "nombre": "Leche entera en polvo (1kg)",
+      "categoria": "lacteos",
+      "precio": 9.13,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank3-1pzccww",
+      "imagenes": [
+        "leche_entera_en_polvo_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de íntimas 8u",
+      "categoria": "aseo",
+      "precio": 1.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank3-d7a8dnp",
+      "imagenes": [
+        "almohadilla_sanitaria_24u.jpg"
+      ]
+    },
+    {
+      "nombre": "Malta Unlaguer x unidad 330ml",
+      "categoria": "bebidas",
+      "precio": 1.1,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank3-fe92v6h",
+      "imagenes": [
+        "malta_guajira_x_unidad_330ml.png"
+      ]
+    },
+    {
+      "nombre": "Salsa rosa Rayan 440g",
+      "categoria": "aderezos",
+      "precio": 2.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlgzank3-w0yr57a",
+      "imagenes": [
+        "pasta_de_bocadito.jpg"
+      ]
+    },
+    {
+      "nombre": "Pack de 12 latas de néctar de pera",
+      "categoria": "bebidas",
+      "precio": 13.73,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlgzank3-18immgh",
+      "imagenes": [
+        "pack_de_12_latas_de_nctar_de_pera.jpg"
+      ]
+    },
+    {
+      "nombre": "Pack de 12 latas de néctar de piña",
+      "categoria": "bebidas",
+      "precio": 13.73,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlgzank4-182v9d0",
+      "imagenes": [
+        "pack_de_12_latas_de_nctar_de_pia.webp"
+      ]
+    },
+    {
+      "nombre": "Caja de cerveza Bucanero 24u",
+      "categoria": "alcohol",
+      "precio": 24,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank4-1gsjq05",
+      "imagenes": [
+        "caja_de_cerveza_bucanero_24u.jpg"
+      ]
+    },
+    {
+      "nombre": "Cerveza Bucanero x und.",
+      "categoria": "alcohol",
+      "precio": 1.15,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank4-492ui61",
+      "imagenes": [
+        "cerveza_bucanero_x_und..jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de coditos 500g",
+      "categoria": "despensa",
+      "precio": 0.93,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank4-1mscjxf",
+      "imagenes": [
+        "paquete_de_coditos_500g.jpg"
+      ]
+    },
+    {
+      "nombre": "Desodorante Keewell 24h",
+      "categoria": "aseo",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank4-dez8evc",
+      "imagenes": [
+        "desodorante_keewell_24h.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de hígados de pollo",
+      "categoria": "cárnicos",
+      "precio": 3.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlgzank4-1minyju",
+      "imagenes": [
+        "paquete_de_hgados_de_pollo.jpg"
+      ]
+    },
+    {
+      "nombre": "Frijoles pintos x lb",
+      "categoria": "pastas-y-granos",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank4-4veaetc",
+      "imagenes": [
+        "frijoles_pintos_x_lb-.jpg"
+      ]
+    },
+    {
+      "nombre": "Frijoles colorados x lb",
+      "categoria": "pastas-y-granos",
+      "precio": 2.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlgzank4-1oad65v",
+      "imagenes": [
+        "frijoles_colorados_x_lb.jpg"
+      ]
+    },
+    {
+      "nombre": "Refresco gaseado 1.5lts",
+      "categoria": "bebidas",
+      "precio": 2.37,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "imagenesAdicionales": [
+        "refresco_gaseado_1.5lts_1.jpg",
+        "refresco_gaseado_1.5lts_1.jpg"
+      ],
+      "nuevo": true,
+      "id": "mlgzank4-1a8sirs",
+      "imagenes": [
+        "refresco_gaseado_1.5lts.jpg"
+      ]
+    },
+    {
+      "nombre": "Helado nestle sabor chocolate 4.5lts",
+      "categoria": "lacteos",
+      "precio": 22,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlgzank4-jlsho8g",
+      "imagenes": [
+        "helado_nestle_sabor_chocolate_4.5lts.jpg"
+      ]
+    },
+    {
+      "nombre": "Pack de 1kg de jamón bravo y 1kg de queso gouda",
+      "categoria": "cárnicos",
+      "precio": 23.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlgzank4-gbgcf0r",
+      "imagenes": [
+        "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
+      ]
+    },
+    {
+      "nombre": "Lavadora Mystic (11Kg)",
+      "categoria": "electrodomésticos",
+      "precio": 225,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Lavadora Mystic de 11Kg ofrece una mayor capacidad para quienes necesitan lavar cargas más grandes con comodidad y eficiencia. Su diseño robusto y su panel superior intuitivo permiten un uso sencillo y confiable en el día a día. Con 11 kilogramos de capacidad, es perfecta para familias medianas o para quienes buscan un equipo más amplio sin sacrificar practicidad. Su construcción resistente y su garantía de 1 mes la convierten en una opción segura y accesible para el hogar.",
+      "nuevo": false,
+      "id": "mlgzank4-w4px7vl",
+      "imagenes": [
+        "lavadora_mystic_11kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Bicicleta Eléctrica Bucatti (48V – 1000W)",
+      "categoria": "vehículos",
+      "precio": 950,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Bicicleta Eléctrica Bucatti es un modelo robusto y moderno diseñado para ofrecer potencia, autonomía y comodidad en cada recorrido. Equipada con un motor de 1000 watts, funciona con un sistema eléctrico de 48V y una batería de 22,5Ah. ideal para desplazamientos urbanos y trayectos más largos sin esfuerzo. Sus gomas #16 proporcionan estabilidad y agarre, mientras que su diseño compacto y deportivo la hace perfecta para uso diario. disponibilidad en colores negro y rojo, es una opción confiable para quienes buscan movilidad eficiente y un estilo llamativo. Incluye garantía de 1 mes.",
+      "nuevo": true,
+      "id": "mlgzank4-c4n3r81",
+      "imagenes": [
+        "bicicleta_elctrica_bucatti_48v_1000w.jpg"
+      ]
+    },
+    {
+      "nombre": "Bici Moto VEDCA (48V – 30Ah)",
+      "categoria": "vehículos",
+      "precio": 900,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Bici Moto VEDCA es una opción compacta, moderna y eficiente para quienes buscan movilidad eléctrica confiable. Funciona con un sistema de 48V y una batería de 30Ah, ofreciendo una excelente autonomía para recorridos urbanos. Sus gomas #10 brindan estabilidad y maniobrabilidad, mientras que su diseño tipo scooter la hace cómoda y fácil de conducir. disponibilidad en colores rojo, azul y negro, combina estilo con funcionalidad. Incluye garantía de 1 mes, convirtiéndola en una alternativa ideal para el transporte diario con bajo consumo y cero emisiones.",
+      "nuevo": true,
+      "id": "mlgzank4-1wq8bgu",
+      "imagenes": [
+        "bici_moto_vedca_48v_30ah.jpg"
+      ]
+    },
+    {
+      "nombre": "Bicicleta Eléctrica VEDCA",
+      "categoria": "vehículos",
+      "precio": 750,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Bicicleta Eléctrica VEDCA es una opción ligera, eficiente y práctica para quienes buscan movilidad urbana sin complicaciones. Equipada con una batería Litium Lipo4, ofrece un sistema eléctrico de 48V y 12Ah, ideal para recorridos diarios con un consumo mínimo. Sus gomas #10 garantizan estabilidad y maniobrabilidad, mientras que su autonomía de 35 a 40 km permite desplazamientos cómodos sin necesidad de recargas frecuentes. Su diseño compacto con cesta frontal la hace perfecta para compras, mandados o transporte personal. Incluye garantía de un mes, convirtiéndola en una alternativa confiable y accesible para el día a día.",
+      "nuevo": true,
+      "id": "mlgzank4-409alq8",
+      "imagenes": [
+        "bicicleta_elctrica_vedca.jpg"
+      ]
+    },
+    {
+      "nombre": "Bici Moto TOP MAQ Evolution 2025",
+      "categoria": "vehículos",
+      "precio": 1550,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Bici Moto TOP MAQ Evolution 2025 es un modelo de alto rendimiento diseñado para quienes buscan potencia, autonomía y estilo en un solo vehículo eléctrico. Equipada con un sistema de 48V y una batería de 45Ah, ofrece una excelente duración por carga, ideal para recorridos largos. Su motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #14 garantizan agarre y seguridad en diferentes superficies. Con un diseño moderno y deportivo, disponibilidad en colores rojo, azul, blanco y negro, esta versión 2025 combina estética y funcionalidad. Incluye garantía de 1 mes, convirtiéndose en una opción premium dentro de la movilidad eléctrica.",
+      "nuevo": true,
+      "id": "mlgzank4-1gxic6r",
+      "imagenes": [
+        "bici_moto_top_maq_evolution_2025.jpg"
+      ]
+    },
+    {
+      "nombre": "Bici Power Bucatty 2025 (48V – 45Ah – 3000W)",
+      "categoria": "vehículos",
+      "precio": 1400,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Bici Power Bucatty 2025 es un modelo eléctrico de alto rendimiento diseñado para quienes buscan potencia, autonomía y estilo en un solo vehículo. Su sistema de 48V combinado con una batería de 45Ah ofrece una excelente duración por carga, ideal para recorridos largos y uso intensivo. El motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #14 garantizan agarre y seguridad en diferentes superficies. Con un diseño moderno y robusto, disponibilidad en color rojo, esta versión 2025 destaca por su presencia y fiabilidad. Incluye garantía de 1 mes, convirtiéndose en una opción premium dentro de la movilidad eléctrica.",
+      "nuevo": true,
+      "id": "mlgzank4-g7v4ro8",
+      "imagenes": [
+        "bici_power_bucatty_2025_48v_45ah_3000w.jpg"
+      ]
+    },
+    {
+      "nombre": "Bici Moto VEDCA Lipo4 (60V – 30Ah – 1000W)",
+      "categoria": "vehículos",
+      "precio": 1150,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Bici Moto VEDCA Lipo4 es una opción potente y moderna dentro de la movilidad eléctrica, equipada con una batería Lipo4 de 60V y 30Ah que ofrece una excelente autonomía y rendimiento. Su motor de 1000W proporciona una aceleración estable y suficiente para desplazamientos urbanos y trayectos más largos. Las gomas #10 garantizan un buen agarre y maniobrabilidad, mientras que su diseño compacto y estilizado la convierte en una alternativa práctica y atractiva para el uso diario. disponibilidad en colores rojo, azul y morado, incluye garantía de 1 mes, ofreciendo seguridad y confianza al comprador.",
+      "nuevo": true,
+      "id": "mlgzank4-unisua4",
+      "imagenes": [
+        "bici_moto_vedca_lipo4_60v_30ah_1000w.jpg"
+      ]
+    },
+    {
+      "nombre": "Motorina TOP MAQ Raptor (72V – 45Ah – 3000W)",
+      "categoria": "vehículos",
+      "precio": 2150,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Motorina TOP MAQ Raptor es un modelo eléctrico de alto rendimiento diseñado para quienes buscan potencia, autonomía y una conducción sólida. Equipada con un sistema de 72V y una batería de 45Ah, ofrece una excelente duración por carga, ideal para recorridos largos y uso intensivo. Su motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #13 garantizan agarre y seguridad en diferentes superficies. Incluye además caja Votol M50, un controlador avanzado que mejora la respuesta y eficiencia del motor. disponibilidad en color rojo, este modelo combina diseño moderno, robustez y fiabilidad. Incluye garantía de 1 mes.",
+      "nuevo": true,
+      "id": "mlgzank4-rvl9qi1",
+      "imagenes": [
+        "motorina_top_maq_raptor_72v_45ah_3000w.jpg"
+      ]
+    },
+    {
+      "nombre": "Motorina TOP MAQ FF (72V – 45Ah – 3000W)",
+      "categoria": "vehículos",
+      "precio": 2150,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "descripcion": "La Motorina TOP MAQ FF es un modelo eléctrico de alto rendimiento diseñado para quienes buscan potencia, autonomía y un estilo moderno. Funciona con un sistema de 72V y una batería de 45Ah, ofreciendo una excelente duración por carga ideal para recorridos largos y uso intensivo. Su motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #13 garantizan agarre y seguridad en diferentes superficies. Incorpora además caja Votol M50, un controlador avanzado que optimiza la respuesta del motor y mejora la eficiencia general. disponibilidad en colores rojo y negro, este modelo combina diseño robusto, tecnología y fiabilidad. Incluye garantía de 1 mes.",
+      "nuevo": true,
+      "id": "mlgzank4-16i28ko",
+      "imagenes": [
+        "motorina_top_maq_ff_72v_45ah_3000w.jpg"
+      ]
+    },
+    {
+      "nombre": "Lavadora Mystic Super Wash (7Kg)",
+      "categoria": "electrodomésticos",
+      "precio": 183,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "La Lavadora Mystic Super Wash de 7Kg es una opción práctica y eficiente para el hogar, diseñada para ofrecer un lavado confiable en un formato compacto. Su estructura resistente y su panel de control superior facilitan el uso diario, permitiendo ciclos de lavado rápidos y efectivos. Con capacidad para 7 kilogramos, es ideal para familias pequeñas o para quienes buscan una solución económica y funcional. Su diseño moderno en tonos blanco y negro combina con cualquier espacio, y cuenta con 1 mes de garantía, brindando seguridad y respaldo al comprador.",
+      "nuevo": true,
+      "id": "mlgzank4-vmo15hq",
+      "imagenes": [
+        "lavadora_mystic_super_wash_7kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Lavadora Milexus (7Kg)",
+      "categoria": "electrodomésticos",
+      "precio": 183,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "La Lavadora Milexus de 7Kg es una opción práctica y eficiente para el hogar, diseñada para ofrecer un lavado confiable en un formato compacto. Cuenta con un panel superior de tres perillas que permite seleccionar fácilmente los ciclos y funciones, además de un sistema Air Dry que mejora el secado de la ropa. Su capacidad de 7 kilogramos la hace ideal para familias pequeñas o para quienes buscan una solución económica y funcional. Con un diseño moderno y resistente, es perfecta para espacios reducidos y uso diario. Incluye 1 mes de garantía, brindando seguridad y respaldo al comprador.",
+      "nuevo": true,
+      "id": "mlgzank4-1wkh6v7",
+      "imagenes": [
+        "lavadora_milexus_7kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Atún en Aceite Vegetal (140g)",
+      "categoria": "enlatados",
+      "precio": 1.77,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "El mejor atún que podrás encontrar de este lado del Misisipi",
+      "nuevo": true,
+      "id": "mlgzank4-1uenll5",
+      "imagenes": [
+        "atn_en_aceite_vegetal_140g.webp"
+      ]
+    },
+    {
+      "nombre": "Saco de Azúcar 50kg",
+      "categoria": "despensa",
+      "precio": 80,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "Azúcar Don Isidro refino, de muy buena calidad",
+      "nuevo": true,
+      "id": "mlgzank5-fsnsjq1",
+      "imagenes": [
+        "saco_de_azcar_50kg.jpeg"
+      ]
+    },
+    {
+      "nombre": "Picadillo de pollo Guibon",
+      "categoria": "cárnicos",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "descripcion": "El mejor picadillo de este lado del Mississippi. Ideal para toda la familia. Calidad en cada porción",
+      "nuevo": true,
+      "id": "mlgzank5-12209k3",
+      "imagenes": [
+        "picadillo_de_pollo_guibon.jpg"
+      ]
+    },
+    {
+      "nombre": "Azúcar Parda x lb",
+      "categoria": "despensa",
+      "precio": 1.33,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": false,
+      "id": "mlh17sjk-1ltd9c1",
+      "imagenes": [
+        "azcar_parda_x_lb.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Cuartos de Pollo 10lb",
+      "categoria": "cárnicos",
+      "precio": 13.79,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mli1qt1h-m8mjr31",
+      "imagenes": [
+        "paquete_de_cuartos_de_pollo_10lb.webp"
+      ]
+    },
+    {
+      "nombre": "Aceite 900ml",
+      "categoria": "despensa",
+      "precio": 2.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mli2ve9o-a60fi91",
+      "imagenes": [
+        "aceite_1lt.jpg"
+      ]
+    },
+    {
+      "nombre": "Leche Evaporada",
+      "categoria": "lacteos",
+      "precio": 2.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlipxcrm-1ev233g",
+      "imagenes": [
+        "leche_evaporada.jpg"
+      ]
+    },
+    {
+      "nombre": "Mortadella especial 3Kg",
+      "categoria": "cárnicos",
+      "precio": 7.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mliq32iu-1vrvppm",
+      "imagenes": [
+        "mortadella_especial_3kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Coffee mate 311.8g",
+      "categoria": "café",
+      "precio": 5.67,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mliq4l5b-tfq39wu",
+      "imagenes": [
+        "coffe_mate_311.8g.jpg"
+      ]
+    },
+    {
+      "nombre": "Pack de Comino y Sazón",
+      "categoria": "despensa",
+      "precio": 0.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mliq66lf-8t6dfj1",
+      "imagenes": [
+        "pack_de_comino_y_sazn.jpg"
+      ]
+    },
+    {
+      "nombre": "Carne de Res enlatada",
+      "categoria": "cárnicos",
+      "precio": 2.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mll8udld-nu91en1",
+      "imagenes": [
+        "carne_de_res_enlatada.webp"
+      ]
+    },
+    {
+      "nombre": "Caja de Malta Bucanero",
+      "categoria": "bebidas",
+      "precio": 25,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mll8va5a-rodndwa",
+      "imagenes": [
+        "caja_de_malta_bucanero.webp"
+      ]
+    },
+    {
+      "nombre": "Salchichas GuiBon 3kg",
+      "categoria": "cárnicos",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq7hky0-1rilhzn",
+      "imagenes": [
+        "salchichas_guibon.jpg"
+      ]
+    },
+    {
+      "nombre": "Vinagre Vima 1L",
+      "categoria": "despensa",
+      "precio": 3.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq7ldgn-16r63aq",
+      "imagenes": [
+        "vinagre_vima.webp"
+      ]
+    },
+    {
+      "nombre": "Troncho de pescado en tomate",
+      "categoria": "enlatados",
+      "precio": 3.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq5gm49-sqhi7b1",
+      "imagenes": [
+        "troncho_de_pescado_en_tomate.jpeg"
+      ]
+    },
+    {
+      "nombre": "Atún Premium Vima",
+      "categoria": "enlatados",
+      "precio": 15.77,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq5if2i-yv9djh1",
+      "imagenes": [
+        "atn_premium_vima.jpeg"
+      ]
+    },
+    {
+      "nombre": "Café Molido Natural Vima (250g)",
+      "categoria": "café",
+      "precio": 7.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq5jmsg-5sd57k1",
+      "imagenes": [
+        "caf_molido_natural.jpeg"
+      ]
+    },
+    {
+      "nombre": "Caja de nectar de manzana",
+      "categoria": "bebidas",
+      "precio": 27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq5zw0f-1dg1iuw",
+      "imagenes": [
+        "caja_de_nectar_de_manzana.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pastilla de Pescado Vima",
+      "categoria": "despensa",
+      "precio": 0.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq662le-rfllul7",
+      "imagenes": [
+        "pastilla_de_pescado_vima.webp"
+      ]
+    },
+    {
+      "nombre": "Pastilla de Verduras Vima",
+      "categoria": "despensa",
+      "precio": 0.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq672k1-1rgiayv",
+      "imagenes": [
+        "pastilla_de_verduras_vima.webp"
+      ]
+    },
+    {
+      "nombre": "Pastilla de Carne Vima",
+      "categoria": "despensa",
+      "precio": 0.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq67tvn-vyqudu1",
+      "imagenes": [
+        "pastilla_de_carne_vima.webp"
+      ]
+    },
+    {
+      "nombre": "Saco de Azúcar Blanca 25kg",
+      "categoria": "despensa",
+      "precio": 44,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq6edvb-1uihmm2",
+      "imagenes": [
+        "saco_de_azcar_blanca_25kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de nectar de Mango",
+      "categoria": "bebidas",
+      "precio": 27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq6kesv-91b3n41",
+      "imagenes": [
+        "caja_de_nectar_de_mango.jpg"
+      ]
+    },
+    {
+      "nombre": "Jabón de Baño",
+      "categoria": "aseo",
+      "precio": 0.75,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq6lgga-c3hh86z",
+      "imagenes": [
+        "jabn_de_bao.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pack de 4 yogurts de Fresa Vima",
+      "categoria": "lacteos",
+      "precio": 2.9,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq6qth7-16rlvzs",
+      "imagenes": [
+        "pack_de_4_yogurts_de_fresa_vima.webp"
+      ]
+    },
+    {
+      "nombre": "Pack de 4 yogurts Natural Azucarado Vima",
+      "categoria": "lacteos",
+      "precio": 2.9,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq6rtqp-1d37txu",
+      "imagenes": [
+        "pack_de_4_yogurts_natural_azucarado_vima.webp"
+      ]
+    },
+    {
+      "nombre": "Salsa Cocktail Vima",
+      "categoria": "aderezos",
+      "precio": 3.37,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq6tkin-1cei2l5",
+      "imagenes": [
+        "salsa_cocktail.jpeg"
+      ]
+    },
+    {
+      "nombre": "Leche Condensada Vima",
+      "categoria": "despensa",
+      "precio": 1.73,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq6yah4-1vaviqx",
+      "imagenes": [
+        "leche_condensada_vima.jpeg"
+      ]
+    },
+    {
+      "nombre": "Salsa Barbacoa Vima",
+      "categoria": "aderezos",
+      "precio": 2.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq6zbut-1rdpwoy",
+      "imagenes": [
+        "salsa_barbacoa.jpeg"
+      ]
+    },
+    {
+      "nombre": "Ketchup",
+      "categoria": "aderezos",
+      "precio": 1.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq7104r-lquoyy1",
+      "imagenes": [
+        "ketchup.jpeg"
+      ]
+    },
+    {
+      "nombre": "Mostaza Vima",
+      "categoria": "aderezos",
+      "precio": 2.61,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq721wl-1plcgdw",
+      "imagenes": [
+        "mostaza_vima.jpeg"
+      ]
+    },
+    {
+      "nombre": "Salsa Brava",
+      "categoria": "aderezos",
+      "precio": 2.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq73223-1ukra32",
+      "imagenes": [
+        "salsa_brava.jpeg"
+      ]
+    },
+    {
+      "nombre": "Melocotón en Almíbar",
+      "categoria": "despensa",
+      "precio": 1.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mlq79e7y-1h3e8up",
+      "imagenes": [
+        "melocotn_en_almbar.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pasta de Tomate Vima",
+      "categoria": "despensa",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlq7aq58-1jmj44p",
+      "imagenes": [
+        "pasta_de_tomate_vima.jpeg"
+      ]
+    },
+    {
+      "nombre": "Saco de Carbón",
+      "categoria": "otros",
+      "precio": 6,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mlqxb74h-15nfelz",
+      "imagenes": [
+        "saco_de_carbn.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Salchichas 10u, 340g",
+      "categoria": "cárnicos",
+      "precio": 1.59,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mm0wf97i-1hvmh7i",
+      "imagenes": [
+        "paquete_de_salchichas_10u_340g.webp"
+      ]
+    },
+    {
+      "nombre": "Pechuga de pollo (2Kg)",
+      "categoria": "cárnicos",
+      "precio": 15.73,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mm0wy3wx-1jvjivz",
+      "imagenes": [
+        "pechuga_de_pollo_2kg.webp"
+      ]
+    },
+    {
+      "nombre": "Pollo entero congelado",
+      "categoria": "cárnicos",
+      "precio": 7.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mm0wz21h-u01m57b",
+      "imagenes": [
+        "pollo_entero_congelado.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de Picadillo 15kg",
+      "categoria": "cárnicos",
+      "precio": 33,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mm2t6w2b-89775xx",
+      "imagenes": [
+        "caja_de_picadillo_15kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Fideos 500g",
+      "categoria": "despensa",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mm46rkpk-1nsu79h",
+      "imagenes": [
+        "fideos_500g.jpg"
+      ]
+    },
+    {
+      "nombre": "Helado de fresa Nestle",
+      "categoria": "lacteos",
+      "precio": 4.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mm6myzyr-gp8h861",
+      "imagenes": [
+        "helado_de_fresa_nestle.jpg"
+      ]
+    },
+    {
+      "nombre": "Helado de Vainilla Nestle",
+      "categoria": "lacteos",
+      "precio": 4.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mm6mzrl2-1g22l2j",
+      "imagenes": [
+        "helado_de_vainilla_nestle.jpg"
+      ]
+    },
+    {
+      "nombre": "Aceitunas",
+      "categoria": "aderezos",
+      "precio": 2.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmazzije-1bccd11",
+      "imagenes": [
+        "aceitunas.jpg"
+      ]
+    },
+    {
+      "nombre": "Croquetas de pollo",
+      "categoria": "cárnicos",
+      "precio": 9.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmazpvvv-10w3z76",
+      "imagenes": [
+        "croquetas_de_pollo.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de muslos de pollo (2Kg)",
+      "categoria": "cárnicos",
+      "precio": 7.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmazm8vj-1b3c7jt",
+      "imagenes": [
+        "paquete_de_pollo_2_kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de muslos de pollo (12Kg)",
+      "categoria": "cárnicos",
+      "precio": 42.84,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmazne5w-dcfnu17",
+      "imagenes": [
+        "caja_de_pollo_12kg_6pqts.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de refresco Limon",
+      "categoria": "bebidas",
+      "precio": 17.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmbwn2vx-m283nb1",
+      "imagenes": [
+        "caja_de_refresco_limon.jpeg"
+      ]
+    },
+    {
+      "nombre": "Caja de refresco Piña",
+      "categoria": "bebidas",
+      "precio": 17.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmbwnuab-ynp33f2",
+      "imagenes": [
+        "caja_de_refresco_pia.jpeg"
+      ]
+    },
+    {
+      "nombre": "Mantequilla",
+      "categoria": "lacteos",
+      "precio": 0.77,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmdrgbwy-op6gwh3",
+      "imagenes": [
+        "mantequilla.webp"
+      ]
+    },
+    {
+      "nombre": "Crema de Abellanas y Cacao 350g",
+      "categoria": "confituras",
+      "precio": 3.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmdrj30h-18g5y53",
+      "imagenes": [
+        "crema_de_abellanas_y_cacao_350g.jpg"
+      ]
+    },
+    {
+      "nombre": "Macarrones con Queso 206g",
+      "categoria": "despensa",
+      "precio": 1,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmgbueo7-1j6ebwv",
+      "imagenes": [
+        "macarrones_con_queso_206g.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pasta para bocaditos 465ml",
+      "categoria": "aderezos",
+      "precio": 7.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmgryv82-jd94v21",
+      "imagenes": [
+        "pasta_para_bocaditos_465ml.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de Néctar Nezka (Mango)",
+      "categoria": "bebidas",
+      "precio": 27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmkpdgy1-8tf5q11",
+      "imagenes": [
+        "caja_de_nctar_nezka_mango.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de Néctar Nezka (Guayaba)",
+      "categoria": "bebidas",
+      "precio": 27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmkpeoz8-uidafd1",
+      "imagenes": [
+        "caja_de_nctar_nezka_guayaba.webp"
+      ]
+    },
+    {
+      "nombre": "Queso Gouda Vima 3Kg",
+      "categoria": "lacteos",
+      "precio": 36.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mml2tcre-1yodt0e",
+      "imagenes": [
+        "queso_gouda_vima_3kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Lomo de cerdo deshuesado x Kg",
+      "categoria": "cárnicos",
+      "precio": 7.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mml2uism-1ue4vr5",
+      "imagenes": [
+        "lomo_de_cerdo_deshuesado_x_kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Crema de Abellanas con Cacao",
+      "categoria": "confituras",
+      "precio": 2.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmm59z91-ngv7s6m",
+      "imagenes": [
+        "crema_de_abellanas_con_cacao.jpg"
+      ]
+    },
+    {
+      "nombre": "Hamburguesa de pollo (4u)",
+      "categoria": "cárnicos",
+      "precio": 1.49,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmnnilty-luzn711",
+      "imagenes": [
+        "hamburguesa_de_pollo_4u.jpg"
+      ]
+    },
+    {
+      "nombre": "Café Sello Rojo",
+      "categoria": "café",
+      "precio": 9,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2wkzx-c7qedfj",
+      "imagenes": [
+        "caf_sello_rojo.webp"
+      ]
+    },
+    {
+      "nombre": "Azúcar Blanca (1Kg)",
+      "categoria": "despensa",
+      "precio": 1.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2bugb-i6nwxh1",
+      "imagenes": [
+        "azcar_blanca_1kg.webp"
+      ]
+    },
+    {
+      "nombre": "Papa x Lb",
+      "categoria": "agro",
+      "precio": 1.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2d45l-1yp3xfb",
+      "imagenes": [
+        "papa_x_lb.webp"
+      ]
+    },
+    {
+      "nombre": "Tocino Natural de Cerdo (gordo) x Lb",
+      "categoria": "cárnicos",
+      "precio": 3.33,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2g1kv-165qg82",
+      "imagenes": [
+        "tocino_natural_de_cerdo_gordo_x_lb.webp"
+      ]
+    },
+    {
+      "nombre": "Caja de cuartos de pollo 40lbs",
+      "categoria": "cárnicos",
+      "precio": 49.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2ifm4-1y1ya3h",
+      "imagenes": [
+        "caja_de_cuartos_de_pollo_40lbs.webp"
+      ]
+    },
+    {
+      "nombre": "Spam de Pollo (340g)",
+      "categoria": "cárnicos",
+      "precio": 2.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2k4l6-13hwunp",
+      "imagenes": [
+        "spam_de_pollo_340g.webp"
+      ]
+    },
+    {
+      "nombre": "Pack x 6 maltas Guajira (6x330ml)",
+      "categoria": "bebidas",
+      "precio": 5.49,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmq2m3z4-16dcmut",
+      "imagenes": [
+        "pack_x_6_maltas_guajira_6x330ml.webp"
+      ]
+    },
+    {
+      "nombre": "Spam de Res (340g)",
+      "categoria": "cárnicos",
+      "precio": 2.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2uffm-1x68l4f",
+      "imagenes": [
+        "spam_de_res_340g.webp"
+      ]
+    },
+    {
+      "nombre": "Pack x 12 Néctar de Manzana (12x330ml)",
+      "categoria": "bebidas",
+      "precio": 13.73,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmq2vpro-1bckqxm",
+      "imagenes": [
+        "pack_x_12_nctar_de_manzana_12x330ml.webp"
+      ]
+    },
+    {
+      "nombre": "Paquete de fresa",
+      "categoria": "despensa",
+      "precio": 3.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mmxpk027-1n53odk",
+      "imagenes": [
+        "paquete_de_fresa.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de filetes de Panga",
+      "categoria": "cárnicos",
+      "precio": 5,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmxplkci-cg7fgw9",
+      "imagenes": [
+        "paquete_de_filetes_de_panga.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de anillas de Calamar",
+      "categoria": "cárnicos",
+      "precio": 8.69,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmxpp1m7-mr2qt01",
+      "imagenes": [
+        "paquete_de_anillas_de_calamar.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Croquetas de Pollo",
+      "categoria": "despensa",
+      "precio": 4.39,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmxpqsyk-14xfg8m",
+      "imagenes": [
+        "paquete_de_croquetas_de_pollo.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Croquetas de Bacalao",
+      "categoria": "despensa",
+      "precio": 4.39,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmxprxqc-wllozy1",
+      "imagenes": [
+        "paquete_de_croquetas_de_bacalao.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de papas prefritas 2.5kg",
+      "categoria": "despensa",
+      "precio": 7.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mmxptnd5-7a8q8vx",
+      "imagenes": [
+        "paquete_de_papas_prefritas_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Porron de Aceite 17.5lt",
+      "categoria": "despensa",
+      "precio": 64.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn3aj1rj-1i9d6mq",
+      "imagenes": [
+        "porron_de_aceite_17.5lt.jpg"
+      ]
+    },
+    {
+      "nombre": "Cacao en Polvo 800g",
+      "categoria": "despensa",
+      "precio": 12.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn4ikino-19m47n4",
+      "imagenes": [
+        "cacao_en_polvo_800g.webp"
+      ]
+    },
+    {
+      "nombre": "Maíz Dulce Vima 1Kg",
+      "categoria": "despensa",
+      "precio": 5.89,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn4imhrd-xpal1gu",
+      "imagenes": [
+        "maz_dulce_vima_1kg.webp"
+      ]
+    },
+    {
+      "nombre": "Chocolate en Polvo Rayan (350g)",
+      "categoria": "despensa",
+      "precio": 5,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn4ip333-hlfw334",
+      "imagenes": [
+        "chocolate_en_polvo_350g.webp"
+      ]
+    },
+    {
+      "nombre": "Saco de Arroz Premium 100Lb",
+      "categoria": "despensa",
+      "precio": 75,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn7880z5-4w3o9x1",
+      "imagenes": [
+        "saco_de_arroz_premium_100lb.jpeg"
+      ]
+    },
+    {
+      "nombre": "Arroz Criolllo x Libra",
+      "categoria": "despensa",
+      "precio": 1.17,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn77q2ru-fyc0glj",
+      "imagenes": [
+        "arroz_criolllo_x_libra.webp"
+      ]
+    },
+    {
+      "nombre": "Pack de 12 Botellas de Agua Purificada",
+      "categoria": "bebidas",
+      "precio": 10.19,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "imagenesAdicionales": [
+        "pack_de_12_botellas_de_agua_purificada_1.jpg"
+      ],
+      "nuevo": true,
+      "id": "mn77xr5d-xyulx13",
+      "imagenes": [
+        "pack_de_12_botellas_de_agua_purificada.webp"
+      ]
+    },
+    {
+      "nombre": "Caramelos de Leche 50u",
+      "categoria": "confituras",
+      "precio": 4.37,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn7mmrfk-19rl3s5",
+      "imagenes": [
+        "caramelos_de_leche_50u.jpg"
+      ]
+    },
+    {
+      "nombre": "Pasta dental 100g",
+      "categoria": "aseo",
+      "precio": 1.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn7mnt65-6h0qe9w",
+      "imagenes": [
+        "pasta_dental_100g.jpg"
+      ]
+    },
+    {
+      "nombre": "Mayonesa Vima 450ml",
+      "categoria": "aderezos",
+      "precio": 4.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn7miy5q-1yskdi7",
+      "imagenes": [
+        "mayonesa_vima_450ml.jpg"
+      ]
+    },
+    {
+      "nombre": "Harina Vima 1Kg",
+      "categoria": "despensa",
+      "precio": 2.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mn7mkh9e-mt5qc61",
+      "imagenes": [
+        "harina_vima_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Refresco Instantáneo Piña colada 20lts",
+      "categoria": "bebidas",
+      "precio": 7.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mna633yq-1akkie7",
+      "imagenes": [
+        "refresco_instantneo_pia_colada_20lts.jpg"
+      ]
+    },
+    {
+      "nombre": "Refresco Instantáneo Piña 20lts",
+      "categoria": "bebidas",
+      "precio": 7.27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mna63lqq-1mnrmod",
+      "imagenes": [
+        "refresco_instantneo_pia_20lts.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Mollejas de pollo 1kg",
+      "categoria": "cárnicos",
+      "precio": 4.97,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mna64u78-aliv17k",
+      "imagenes": [
+        "paquete_de_mollejas_de_pollo_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Helado Nestlé Sabor fresa 4.5lts",
+      "categoria": "lacteos",
+      "precio": 22,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mna5knx0-b76b8k1",
+      "imagenes": [
+        "helado_nestl_sabor_fresa_4.5lts.jpg"
+      ]
+    },
+    {
+      "nombre": "Jamón Bravo 2Kg",
+      "categoria": "cárnicos",
+      "precio": 22.5,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mng1iq5n-x7v07w1",
+      "imagenes": [
+        "jamn_bravo_2kg.webp"
+      ]
+    },
+    {
+      "nombre": "Leche en polvo Do Bon 1Kg",
+      "categoria": "lacteos",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mng1kh9h-fvr83w7",
+      "imagenes": [
+        "leche_en_polvo_do_bon_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de Jugo Mixto",
+      "categoria": "bebidas",
+      "precio": 27,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mng8pk26-1w0fg2r",
+      "imagenes": [
+        "caja_de_jugo_mixto.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Galletas Marías 12u (336g)",
+      "categoria": "confituras",
+      "precio": 3.49,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mnge3p1j-66tiyy1",
+      "imagenes": [
+        "paquete_de_galletas_maras_12u_336g.webp"
+      ]
+    },
+    {
+      "nombre": "Galleta Choice Naranja (20g)",
+      "categoria": "confituras",
+      "precio": 0.3,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mngfu1cn-13goymj",
+      "imagenes": [
+        "galleta_choice_naranja_20g.webp"
+      ]
+    },
+    {
+      "nombre": "Galletas Saltinas 207g",
+      "categoria": "confituras",
+      "precio": 3.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": false,
+      "nuevo": true,
+      "id": "mngfuky9-18lyhlo",
+      "imagenes": [
+        "galletas_saltinas_207g.webp"
+      ]
+    },
+    {
+      "nombre": "Maizena 1kg",
+      "categoria": "despensa",
+      "precio": 6.37,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mniyvfrn-11e10ac",
+      "imagenes": [
+        "maizena_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Garbanzos 1Kg",
+      "categoria": "pastas-y-granos",
+      "precio": 4.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mniywtl0-62b6089",
+      "imagenes": [
+        "garbanzos_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Pacas de arroz 30u de 1Kg",
+      "categoria": "pastas-y-granos",
+      "precio": 48,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mnq50bj3-1qtfbhl",
+      "imagenes": [
+        "pacas_de_arroz_30u_de_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Refesco sabor Mate 1.5lts",
+      "categoria": "bebidas",
+      "precio": 2.35,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moe41gnc-77m3901",
+      "imagenes": [
+        "refesco_sabor_mate_1.5lts.jpeg"
+      ]
+    },
+    {
+      "nombre": "Packs de 6 pomos de agua 1.5lts",
+      "categoria": "bebidas",
+      "precio": 8.67,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moe4b14m-34sgfi1",
+      "imagenes": [
+        "packs_de_6_pomos_de_agua_1.5lts.jpeg"
+      ]
+    },
+    {
+      "nombre": "Pomo de Alubias blancas 540g",
+      "categoria": "despensa",
+      "precio": 3.87,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moe4pk8o-g9eg3xx",
+      "imagenes": [
+        "pomo_de_alubias_blancas_540g.jpg"
+      ]
+    },
+    {
+      "nombre": "Pomo de Garbanzos 540g",
+      "categoria": "despensa",
+      "precio": 2.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moe4v4df-1bgw0pm",
+      "imagenes": [
+        "pomo_de_garbanzos_540g.webp"
+      ]
+    },
+    {
+      "nombre": "Paquete de Ajos pelados 1kg",
+      "categoria": "despensa",
+      "precio": 4.37,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moe4zjto-c02qjr1",
+      "imagenes": [
+        "paquete_de_ajos_pelados_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Yogurt Probiótico de fresa 1.5lts",
+      "categoria": "bebidas",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moh4pv5i-1at7p4l",
+      "imagenes": [
+        "yogurt_probitico_de_fresa_1.5lts.jpg"
+      ]
+    },
+    {
+      "nombre": "Yogurt Probiótico de guanabana 1.5lts",
+      "categoria": "bebidas",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moh4s653-24w7f1m",
+      "imagenes": [
+        "yogurt_probitico_de_guanabana_1.5lts.webp"
+      ]
+    },
+    {
+      "nombre": "Galletas de Lecha (8 packs dentro)",
+      "categoria": "confituras",
+      "precio": 3.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9ogv8-1o6m3tt",
+      "imagenes": [
+        "galletas_de_lecha_8_packs_dentro.jpg"
+      ]
+    },
+    {
+      "nombre": "Galletas Butter cookies (8 packs dentro)",
+      "categoria": "confituras",
+      "precio": 3.44,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9q64t-3z642ec",
+      "imagenes": [
+        "galletas_butter_cookies_8_packs_dentro.jpg"
+      ]
+    },
+    {
+      "nombre": "Malta Guajira 1.5lts",
+      "categoria": "bebidas",
+      "precio": 3.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9r658-1f6zort",
+      "imagenes": [
+        "malta_guajira_1.5lts.webp"
+      ]
+    },
+    {
+      "nombre": "Salsa de Soja 150ml",
+      "categoria": "aderezos",
+      "precio": 1.59,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi8xgdx-1qeyjdg",
+      "imagenes": [
+        "salsa_de_soja_150ml.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de anillas de calamar 1lb",
+      "categoria": "despensa",
+      "precio": 7.57,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi8zlar-1wkwtlj",
+      "imagenes": [
+        "paquete_de_anillas_de_calamar_1lb.jpeg"
+      ]
+    },
+    {
+      "nombre": "Paquete de minimagdalena",
+      "categoria": "confituras",
+      "precio": 3.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi91e5g-1e3oeeg",
+      "imagenes": [
+        "paquete_de_minimagdalena.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de Champiñones 1kg",
+      "categoria": "despensa",
+      "precio": 6,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi932d9-3elkd8k",
+      "imagenes": [
+        "paquete_de_championes_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Paquete de cebollas en tiras",
+      "categoria": "despensa",
+      "precio": 4.49,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi94ev9-xtb0ig1",
+      "imagenes": [
+        "paquete_de_cebollas_en_tiras.jpg"
+      ]
+    },
+    {
+      "nombre": "Chorizo premium vima 3und",
+      "categoria": "cárnicos",
+      "precio": 7.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi98wtu-122h0ru",
+      "imagenes": [
+        "chorizo_premium_vima_3und.jpg"
+      ]
+    },
+    {
+      "nombre": "Puré de papas 1kg",
+      "categoria": "despensa",
+      "precio": 8.79,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9bj6w-1toot66",
+      "imagenes": [
+        "pure_de_papas_1kg.jpg"
+      ]
+    },
+    {
+      "nombre": "Pomo de Macedonia de verduras 535g",
+      "categoria": "despensa",
+      "precio": 2.99,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9dui8-llkudj4",
+      "imagenes": [
+        "pomo_de_macedonia_de_verduras_535g.jpeg"
+      ]
+    },
+    {
+      "nombre": "Melocotón en Almibar 3kg",
+      "categoria": "despensa",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9fzj0-1x9xrco",
+      "imagenes": [
+        "melocotn_en_almibar_3kg.jpeg"
+      ]
+    },
+    {
+      "nombre": "Fresa en Almibar 3kg",
+      "categoria": "despensa",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9h0no-1td6l1y",
+      "imagenes": [
+        "fresa_en_almibar_3kg.jpeg"
+      ]
+    },
+    {
+      "nombre": "Aceituna sin hueso",
+      "categoria": "despensa",
+      "precio": 3.44,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9i0o9-5k8r70r",
+      "imagenes": [
+        "aceituna_sin_hueso.png"
+      ]
+    },
+    {
+      "nombre": "Cockail de frutas en almibar 3kg",
+      "categoria": "despensa",
+      "precio": 10,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9kbh7-jq93se1",
+      "imagenes": [
+        "cockail_de_frutas_en_almibar_3kg.webp"
+      ]
+    },
+    {
+      "nombre": "Caja de 27 jugos de manzana",
+      "categoria": "bebidas",
+      "precio": 19.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9lh1q-18m53iy",
+      "imagenes": [
+        "caja_de_27_jugos_de_manzana.jpg"
+      ]
+    },
+    {
+      "nombre": "Caja de 27 jugos de mango",
+      "categoria": "bebidas",
+      "precio": 19.29,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "moi9mh1b-1kx2nhi",
+      "imagenes": [
+        "caja_de_27_jugos_de_mango.jpg"
+      ]
+    },
+    {
+      "nombre": "Galletas Saltitacos",
+      "categoria": "confituras",
+      "precio": 5,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mon0i35f-oxbfit6",
+      "imagenes": [
+        "galletas_saltitacos.jpg"
+      ]
+    },
+    {
+      "nombre": "Detergente 400g",
+      "categoria": "aseo",
+      "precio": 1.47,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mon0jma2-dc0h1f1",
+      "imagenes": [
+        "detergente_400g.jpg"
+      ]
+    },
+    {
+      "nombre": "Servilletas",
+      "categoria": "otros",
+      "precio": 1.69,
+      "descuento": 0,
+      "oferta": false,
+      "mas_vendido": false,
+      "disponibilidad": true,
+      "nuevo": true,
+      "id": "mon0m7gc-1h93pvk",
+      "imagenes": [
+        "servilletas.jpg"
+      ]
+    }
+  ]
+}
