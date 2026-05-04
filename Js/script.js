@@ -2,8 +2,6 @@ let cart = JSON.parse(localStorage.getItem("cart")) || [];
 let products = [];
 let currentProduct = null;
 let categories = [];
-let evento = null;
-let secretCodesFound = new Set();
 let cartTotal = 0; // total del carrito actual
 
 // Snapshot del hash inicial proporcionado por el backend (p. ej. index.html#ID)
@@ -358,18 +356,6 @@ function initCarousel() {
   // Iniciar autoplay
   startCarouselAutoplay();
 
-  // Si el evento está activo, ajustar el texto del primer slide del carrusel
-  if (evento && evento.activo) {
-    const slide0Title = document.querySelector(".carousel-slide[data-slide='0'] .carousel-title");
-    const slide0Subtitle = document.querySelector(".carousel-slide[data-slide='0'] .carousel-subtitle");
-    if (slide0Title) {
-      slide0Title.textContent = `${evento.evento?.nombre || evento.titulo || '¡Evento especial!'}`;
-    }
-    if (slide0Subtitle) {
-      slide0Subtitle.textContent = `¡Participa y gana ${evento.premio || '5000 CUP'} en este evento!`;
-    }
-  }
-
   // Pausar autoplay al pasar el mouse (solo en desktop)
   const carouselContainer = document.querySelector(".carousel-container");
   if (carouselContainer) {
@@ -445,17 +431,7 @@ function pauseCarouselAutoplay() {
   }
 }
 
-// Cargar evento
-async function loadEvento() {
-  try {
-    const response = await fetch("Json/evento.json");
-    if (!response.ok) throw new Error("Error al cargar evento");
-    evento = await response.json();
-  } catch (error) {
-    console.error("Error cargando evento:", error);
-    evento = null;
-  }
-}
+
 
 // Cargar productos (local o remoto)
 // si se pasa un URL alternativo, se usará en lugar del archivo local.
@@ -1221,202 +1197,7 @@ function closeEmptyCartModal() {
 }
 
 // Mostrar modal de evento
-function showEventModal() {
-  const modal = document.getElementById("event-modal");
-  const modalBody = document.getElementById("event-modal-body");
-  const modalTitle = document.getElementById("event-title");
-  const closeBtn = document.getElementById("event-modal-close");
-  
-  if (!modal || !modalBody || !evento || !evento.activo) return;
 
-  // Establecer el título principal
-  if (modalTitle) {
-    modalTitle.textContent = evento.titulo;
-  }
-
-  const modalSubtitle = document.getElementById('event-modal-subtitle');
-  if (modalSubtitle && evento.premio) {
-    modalSubtitle.textContent = `Premio: ${evento.premio} (activo mientras dure el evento)`;
-  }
-
-  // Construir el HTML con toda la información del evento
-  const eventData = evento.evento;
-  const startDate = new Date(evento.inicio).toLocaleString("es-ES", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit"
-  });
-  const endDate = new Date(evento.fin).toLocaleString("es-ES", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit"
-  });
-
-  // Construir lista de instrucciones
-  const instructionsList = eventData.instrucciones
-    .map(instruction => `<li class="event-instruction-item">${instruction}</li>`)
-    .join("");
-
-  // Renderizar todo el contenido dinámicamente
-  modalBody.innerHTML = `
-    <article class="event-content">
-      <!-- Nombre del evento -->
-      <section class="event-section">
-        <h3 class="event-section-title">
-          <i class="fas fa-gift"></i> ${eventData.nombre}
-        </h3>
-      </section>
-
-      <!-- Premio -->
-      <section class="event-section event-reward-section">
-        <h4 class="event-subtitle">
-          <i class="fas fa-trophy"></i> Premio del Evento
-        </h4>
-        <p class="event-prize">${evento.premio || '5000 CUP'} (se entrega a participantes válidos al realizar la entrega)</p>
-      </section>
-
-      <!-- Resumen -->
-      <section class="event-section">
-        <p class="event-summary">${eventData.resumen}</p>
-      </section>
-
-      <!-- Objetivo -->
-      <section class="event-section">
-        <h4 class="event-subtitle">
-          <i class="fas fa-bullseye"></i> Objetivo
-        </h4>
-        <p class="event-objective">${eventData.objetivo}</p>
-      </section>
-
-      <!-- Instrucciones -->
-      <section class="event-section">
-        <h4 class="event-subtitle">
-          <i class="fas fa-list-ol"></i> Instrucciones
-        </h4>
-        <ol class="event-instructions">
-          ${instructionsList}
-        </ol>
-      </section>
-
-      <!-- Mecánica de ganadores -->
-      <section class="event-section event-winners-section">
-        <h4 class="event-subtitle">
-          <i class="fas fa-medal"></i> Ganadores
-        </h4>
-        <p class="event-winners-text">
-          ${evento.evento.ganadores?.mecanica || 'Al finalizar el evento se seleccionarán aleatoriamente 3 ganadores entre quienes hayan completado los 5 códigos.'}
-        </p>
-        <p class="event-winners-count">
-          ${evento.evento.ganadores?.cantidad || 'Todos los participantes válidos'}.
-        </p>
-      </section>
-
-      <!-- Nota importante -->
-      <section class="event-section event-note-section">
-        <div class="event-note">
-          <i class="fas fa-lightbulb"></i>
-          <p>${eventData.nota}</p>
-        </div>
-      </section>
-
-      <!-- Fechas del evento -->
-      <section class="event-section event-dates-section">
-        <div class="event-dates">
-          <div class="date-item">
-            <i class="fas fa-calendar-check"></i>
-            <div>
-              <strong>Inicio:</strong>
-              <span>${startDate}</span>
-            </div>
-          </div>
-          <div class="date-item">
-            <i class="fas fa-calendar-times"></i>
-            <div>
-              <strong>Fin:</strong>
-              <span>${endDate}</span>
-            </div>
-          </div>
-        </div>
-      </section>
-    </article>
-  `;
-
-  // Mostrar modal
-  modal.style.display = "flex";
-  setTimeout(() => {
-    modal.classList.add("active");
-  }, 10);
-
-  // Cerrar con botón
-  if (closeBtn) {
-    closeBtn.onclick = closeEventModal;
-  }
-
-  // Cerrar al tocar fuera del modal
-  const handleOutsideClick = (event) => {
-    if (event.target === modal) {
-      closeEventModal();
-      modal.removeEventListener("click", handleOutsideClick);
-    }
-  };
-  modal.addEventListener("click", handleOutsideClick);
-}
-
-// Cerrar modal de evento
-function closeEventModal() {
-  const modal = document.getElementById("event-modal");
-  if (!modal) return;
-
-  // Guardar el ID del evento cuando se cierra
-  saveEventId();
-
-  modal.classList.remove("active");
-  setTimeout(() => {
-    modal.style.display = "none";
-  }, 300);
-}
-
-// ========== GESTIÓN DE EVENTO CON LOCALSTORAGE ==========
-
-/**
- * Obtiene el ID del evento almacenado en localStorage
- */
-function getStoredEventId() {
-  return localStorage.getItem('buquenque_event_id');
-}
-
-/**
- * Guarda el ID del evento en localStorage
- */
-function saveEventId() {
-  if (evento && evento.id) {
-    localStorage.setItem('buquenque_event_id', evento.id.toString());
-  }
-}
-
-/**
- * Verifica si debe mostrarse el evento modal automáticamente y lo muestra si es necesario
- */
-function checkAndShowEventModal() {
-  if (!evento || !evento.activo) {
-    return;
-  }
-
-  const storedId = getStoredEventId();
-  const currentId = evento.id.toString();
-
-  // Mostrar si el ID es diferente o no hay ID almacenado
-  if (storedId !== currentId) {
-    // Esperar a que el DOM esté completamente renderizado
-    setTimeout(() => {
-      showEventModal();
-    }, 500);
-  }
-}
 
 // Renderizar productos agrupados por categoría
 function renderProducts(productsToRender = products) {
@@ -2193,21 +1974,6 @@ async function showProductDetail(arg) {
                     : ""
                 }
                 
-                <!-- Indicador de código secreto -->
-                ${
-                  evento && evento.activo && product.codigo_secreto
-                    ? `<div class="secret-code-indicator">
-                        <i class="fas fa-key"></i>
-                        <span>Producto especial del evento</span>
-                        ${
-                          secretCodesFound.has(product.codigo_secreto)
-                            ? '<span class="code-found"><i class="fas fa-check"></i> Código encontrado</span>'
-                            : '<span class="code-not-found">Añade al carrito para encontrar el código</span>'
-                        }
-                      </div>`
-                    : ""
-                }
-                
                 <div class="price-section">
                     ${
                       isOnSale
@@ -2607,23 +2373,12 @@ function addToCart(productName, fromDetail = false, event) {
     cart.push({ product: product, quantity: quantity });
   }
 
-  // Manejar códigos secretos del evento
-  if (evento && evento.activo && product.codigo_secreto && !secretCodesFound.has(product.codigo_secreto)) {
-    secretCodesFound.add(product.codigo_secreto);
-    showCartNotification("¡Código encontrado!", 1, "success");
-  }
-
   updateCart();
   saveCart();
   showCartNotification(product.cleanName || product.nombre, quantity);
   
   // Actualizar la sección de cantidad en la tarjeta del producto
   updateProductQuantitySection(product.nombre);
-
-  // Si se añade desde el detalle, refrescar el indicador de código secreto
-  if (fromDetail && evento && evento.activo && product.codigo_secreto) {
-    updateProductDetailSecretIndicator(product);
-  }
 }
 
 function updateCart() {
@@ -2631,18 +2386,8 @@ function updateCart() {
   const totalElement = document.getElementById("total");
   const emptyPanel = document.getElementById("empty-cart-panel");
   const cartSidebar = document.getElementById("cart");
-  const eventPanel = document.getElementById("cart-event-panel");
 
   if (!cartItems || !totalElement || !emptyPanel || !cartSidebar) return;
-
-  // Mostrar/ocultar panel de evento
-  if (eventPanel) {
-    if (evento && evento.activo) {
-      eventPanel.style.display = "block";
-    } else {
-      eventPanel.style.display = "none";
-    }
-  }
 
   cartItems.innerHTML = "";
   let total = 0;
@@ -2705,8 +2450,7 @@ function updateCart() {
     totalElement.textContent = total.toFixed(2);
   }
 
-  cartTotal = total; // mantener total del carrito para reglas de evento
-  updateSecretCodesPanel();
+  cartTotal = total;
   updateCartCount();
   
   // Actualizar las secciones de cantidad en los productos visibles
@@ -2757,18 +2501,6 @@ function removeFromCart(index, event) {
     const itemData = isPack ? cart[index].pack : cart[index].product;
     const itemName = itemData.nombre;
 
-    // Verificar si el producto tiene código secreto y si es el último en el carrito
-    if (evento && evento.activo && itemData.codigo_secreto) {
-      const hasOtherInstances = cart.some((item, i) => {
-        if (i === index) return false;
-        const data = item.isPack || item.pack ? item.pack : item.product;
-        return data && data.nombre === itemName;
-      });
-      if (!hasOtherInstances) {
-        secretCodesFound.delete(itemData.codigo_secreto);
-      }
-    }
-
     cart.splice(index, 1);
     updateCart();
     saveCart();
@@ -2778,86 +2510,9 @@ function removeFromCart(index, event) {
   }
 }
 
-function updateProductDetailSecretIndicator(product) {
-  const indicator = document.querySelector(".secret-code-indicator");
-  if (!indicator) return;
 
-  const statusSpan = indicator.querySelector(".code-found, .code-not-found");
-  if (statusSpan) {
-    if (secretCodesFound.has(product.codigo_secreto)) {
-      statusSpan.className = "code-found";
-      statusSpan.innerHTML = '<i class="fas fa-check"></i> Código encontrado';
-    } else {
-      statusSpan.className = "code-not-found";
-      statusSpan.textContent = "Añade al carrito para encontrar el código";
-    }
-  }
-}
 
-function calculateCodesTotal() {
-  let total = 0;
-  cart.forEach(item => {
-    const isPack = item.isPack || item.pack;
-    const itemData = isPack ? item.pack : item.product;
-    if (itemData && itemData.codigo_secreto) {
-      const isOnSale = itemData.oferta && itemData.descuento > 0;
-      const unitPrice = isOnSale
-        ? itemData.precio * (1 - itemData.descuento / 100)
-        : itemData.precio;
-      total += unitPrice * item.quantity;
-    }
-  });
-  return total;
-}
 
-function updateSecretCodesPanel() {
-  const codesGrid = document.getElementById("secret-codes-grid");
-  const codesPanel = document.getElementById("secret-codes-panel");
-  if (!codesGrid || !codesPanel) return;
-
-  const slots = codesGrid.querySelectorAll(".secret-code-slot");
-  const codesArray = Array.from(secretCodesFound);
-
-  slots.forEach((slot, index) => {
-    if (index < codesArray.length) {
-      slot.textContent = codesArray[index];
-      slot.classList.add("filled");
-    } else {
-      slot.textContent = "";
-      slot.classList.remove("filled");
-    }
-  });
-
-  // Agregar indicador de total general del carrito
-  let totalIndicator = codesPanel.querySelector(".codes-total-indicator");
-  const totalRequerido = 100;
-  if (!totalIndicator) {
-    totalIndicator = document.createElement("p");
-    totalIndicator.className = "codes-total-indicator";
-    codesPanel.appendChild(totalIndicator);
-  }
-  totalIndicator.textContent = `Total del carrito: $${cartTotal.toFixed(2)} (mínimo $${totalRequerido.toFixed(2)})`;
-
-  // Agregar mensaje de completado si todos los códigos están encontrados y el total de carrito mínimo alcanza
-  let completionMessage = codesPanel.querySelector(".completion-message");
-  if (secretCodesFound.size === 5 && cartTotal >= totalRequerido) {
-    if (!completionMessage) {
-      completionMessage = document.createElement("div");
-      completionMessage.className = "completion-message";
-      completionMessage.innerHTML = `
-        <div class="completion-banner">
-          <i class="fas fa-trophy"></i>
-          <span>¡Felicidades! Has completado el evento y estás participando para ganar ${evento.premio}.</span>
-        </div>
-      `;
-      codesPanel.appendChild(completionMessage);
-    }
-  } else {
-    if (completionMessage) {
-      completionMessage.remove();
-    }
-  }
-}
 
 function showRemoveNotification(productName) {
   const notification = document.createElement("div");
@@ -3770,25 +3425,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   }
   // Cargar productos, packs y evento en paralelo y esperar todos para que el manejo de rutas tenga los datasets disponibles
-  await Promise.all([loadProducts(), loadPacks(), loadEvento()]);
-  
-  // Verificar y mostrar automáticamente el modal de evento si es nuevo
-  checkAndShowEventModal();
+  await Promise.all([loadProducts(), loadPacks()]);
   
   initCarousel();
-  updateCart(); // Actualizar el carrito para mostrar el panel de evento si está activo
-
-  // Inicializar códigos secretos encontrados en el carrito actual
-  if (evento && evento.activo) {
-    cart.forEach(item => {
-      const itemData = item.isPack || item.pack ? item.pack : item.product;
-      if (itemData && itemData.codigo_secreto) {
-        secretCodesFound.add(itemData.codigo_secreto);
-      }
-    });
-    // Actualizar el panel de códigos después de inicializar
-    updateSecretCodesPanel();
-  }
+  updateCart();
 
   // Al iniciar, revisar si la URL apunta a un producto por pathname (/p/ID o /p/NOMBRE)
   const pathMatch = window.location.pathname.match(/^\/p\/([^\/]+)/);
@@ -3883,7 +3523,4 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 });
 
-// Función global para verificar si la participación en el evento está completa
-window.isEventParticipationComplete = function() {
-  return evento && evento.activo && secretCodesFound.size === 5;
-};
+

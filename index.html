@@ -3,13 +3,13 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Asere Shop - Tu Tienda Online de Comida Fresca y Productos
+        <title>Asere Shops - Tu Tienda Online de Comida Fresca y Productos
             Esenciales</title>
 
         <meta name="description"
-            content="En Asere Shop, tu tienda online de confianza, encuentra una amplia variedad de productos alimenticios frescos, víveres, y artículos esenciales para tu hogar. ¡Calidad y entrega rápida en Cuba!">
+            content="En Asere Shops, tu tienda online de confianza, encuentra una amplia variedad de productos alimenticios frescos, víveres, y artículos esenciales para tu hogar. ¡Calidad y entrega rápida en Cuba!">
         <meta name="keywords"
-            content="Asere Shop, tienda online de comida, productos frescos, víveres, alimentos, despensa, abarrotes, entregas a domicilio, comida a domicilio, compras online, ofertas de comida, Cuba">
+            content="Asere Shops, tienda online de comida, productos frescos, víveres, alimentos, despensa, abarrotes, entregas a domicilio, comida a domicilio, compras online, ofertas de comida, Cuba">
         <meta name="author" content="Asere y Afiliados H.A">
 
         <meta property="og:title"
@@ -17,7 +17,7 @@
         <meta property="og:description"
             content="En Asere Shop, tu tienda online de confianza, encuentra una amplia variedad de productos alimenticios frescos, víveres, y artículos esenciales para tu hogar. ¡Calidad y entrega rápida en Cuba!">
         <meta property="og:image"
-            content="https://raw.githubusercontent.com/HCoreBeat/Asere/main/Images/social-share-banner.jpg">
+            content="https://asereshops.onrender.com/Images/social-share-banner.jpg">
         <meta property="og:type" content="website">
         <meta property="og:locale" content="es_ES">
 
@@ -252,24 +252,7 @@
                 <button class="close-btn" onclick="toggleCart()">×</button>
             </div>
             <div class="cart-content">
-                <div class="cart-event-panel" id="cart-event-panel" style="display: none;">
-                    <div class="event-banner">
-                        <i class="fas fa-calendar-alt"></i>
-                        <span>Evento</span>
-                        <button class="event-btn" onclick="showEventModal()">Ver Evento</button>
-                    </div>
-                    <p class="event-panel-subtitle">Completa 5 códigos y compra mínimo 100 Zelle en productos con códigos para ganar 5000 CUP.</p>
-                    <div class="secret-codes-panel" id="secret-codes-panel">
-                        <h4>Códigos Secretos Encontrados:</h4>
-                        <div class="secret-codes-grid" id="secret-codes-grid">
-                            <div class="secret-code-slot" data-index="0"></div>
-                            <div class="secret-code-slot" data-index="1"></div>
-                            <div class="secret-code-slot" data-index="2"></div>
-                            <div class="secret-code-slot" data-index="3"></div>
-                            <div class="secret-code-slot" data-index="4"></div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="cart-items" id="cart-items"></div>
                 <div class="empty-cart-panel" id="empty-cart-panel">
                     <i class="fas fa-shopping-basket"></i>
@@ -296,30 +279,7 @@
             </div>
         </div>
 
-        <!-- Modal de Evento -->
-        <div class="event-modal" id="event-modal">
-            <div class="event-modal-content">
-                <!-- Encabezado del modal -->
-                <div class="event-modal-header">
-                    <div class="event-modal-title">
-                        <i class="fas fa-star"></i>
-                        <div>
-                          <h2 id="event-title">Evento Especial</h2>
-                          <p id="event-modal-subtitle" class="event-modal-subtitle">Gana 5000 CUP al completar 5 códigos</p>
-                        </div>
-                    </div>
-                    <button class="event-modal-close" id="event-modal-close">&times;</button>
-                </div>
 
-                <!-- Cuerpo del modal con scroll -->
-                <div class="event-modal-body">
-                    <!-- Contenido dinámico del evento -->
-                    <div id="event-modal-body" class="event-modal-content-wrapper">
-                        <!-- Se carga dinámicamente desde script.js -->
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <!-- Payment Section -->
         <section id="payment-section" class="payment-section hidden">
