@@ -6,7 +6,7 @@
 // Clase para gestionar notificaciones
 class NotificationManager {
     constructor() {
-        this.storageKey = 'buquenque_notification_id';
+        this.storageKey = 'asereshops_notification_id';
         this.notificationContainer = null;
         this.data = null;
         this.autoCloseTimeout = null;

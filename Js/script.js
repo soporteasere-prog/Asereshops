@@ -309,7 +309,7 @@ async function handleRouteChange() {
       window.__remoteAttempted = true;
       try {
         // la URL corresponde al raw del branch main
-        await loadProducts('https://raw.githubusercontent.com/HCoreBeat/Buquenque/refs/heads/main/Json/products.json');
+        await loadProducts('https://raw.githubusercontent.com/soporteasere-prog/Asereshops/refs/heads/main/Json/products.json');
       } catch (e) {
         console.warn('No se pudo cargar productos remotos:', e);
       }
@@ -753,9 +753,10 @@ function filterByCategory(category) {
     if (categoryBackButtonWrapper) {
       categoryBackButtonWrapper.style.display = "none";
     }
-    // Mostrar el category-card y best-sellers
+    // Mostrar el category-card solo si hay packs disponibles
     if (categoryCardSection) {
-      categoryCardSection.style.display = "block";
+      const availablePacks = packs.filter(pack => pack.disponible);
+      categoryCardSection.style.display = availablePacks.length > 0 ? "block" : "none";
     }
     if (bestSellersSection) {
       bestSellersSection.style.display = "block";
@@ -1752,7 +1753,7 @@ async function showProductDetail(arg) {
     if ((!info || !info.product) && !window.__remoteAttempted) {
       window.__remoteAttempted = true;
       try {
-        await loadProducts('https://raw.githubusercontent.com/HCoreBeat/Buquenque/refs/heads/main/Json/products.json');
+        await loadProducts('https://raw.githubusercontent.com/soporteasere-prog/Asereshops/refs/heads/main/Json/products.json');
       } catch (e) {
         console.warn('No se pudo cargar productos remotos:', e);
       }

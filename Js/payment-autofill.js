@@ -5,7 +5,7 @@
 
 class PaymentAutofill {
     constructor() {
-        this.storageKey = 'buquenque_payment_data';
+        this.storageKey = 'asereshops_payment_data';
         this.fields = {
             fullName: 'full-name',
             email: 'email',
@@ -146,5 +146,4 @@ const paymentAutofill = new PaymentAutofill();
 document.addEventListener('DOMContentLoaded', () => {
     // El inicializador real se llamará desde showPaymentSection()
     // Este evento solo asegura que la clase esté disponible
-    console.log('Sistema de autocompletado de payment inicializado');
 });

@@ -1,15 +1,10 @@
-/**
- * BUQUENQUE - SISTEMA DINÁMICO DE FRESCURA VISUAL
- * Similar a Amazon: orden inteligente, badges temporales, micro-animaciones
- * Modular, no invasivo, sin pop-ups ni notificaciones.
- */
 
 // ========== CONFIGURACIÓN ==========
 const DYNAMIC_CONFIG = {
   // Orden dinámico inteligente
   newProductBoostHours: 48,          // Horas de boost máximo para productos nuevos
   newProductFadeoutHours: 72,        // Horas para que desaparezca el boost
-  recentProductsCount: 5,             // Cantidad de productos "Recién añadidos"
+  recentProductsCount: 9,             // Cantidad de productos "Recién añadidos"
   
   // Rotación aleatoria
   normalOrderPercent: 70,             // 70% orden normal
@@ -480,23 +475,3 @@ function updateDynamicSystem() {
   // Aplicar layout
   applyDayLayoutVariation();
 }
-
-/**
- * Exportar para debuggear/testear
- */
-window.BUQUENQUE_DYNAMIC = {
-  config: DYNAMIC_CONFIG,
-  calculateProductScore,
-  sortProductsDynamic,
-  sortBestSellersDynamic,
-  getProductBadges,
-  getRecentProducts,
-  enrichProductsWithDynamicData,
-  renderRecentProductsSection,
-  getDayLayoutVariation,
-  applyDayLayoutVariation,
-  initDynamicSystem,
-  updateDynamicSystem,
-};
-
-console.log('[Buquenque Dynamic System] ✓ Cargado exitosamente');
