@@ -2075,23 +2075,6 @@
       "modified_at": null
     },
     {
-      "id": "mmbwnuab-ynp33f2",
-      "nombre": "Caja de refresco Piña",
-      "categoria": "bebidas",
-      "precio": 17.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_refresco_pia.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mmdrgbwy-op6gwh3",
       "nombre": "Mantequilla",
       "categoria": "lacteos",
