@@ -630,23 +630,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank3-1yyr2pc",
-      "nombre": "Spam de cerdo 340g",
-      "categoria": "enlatados",
-      "precio": 2.27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "spam.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank3-vqyyagj",
       "nombre": "Picadillo de pollo (1Kg)",
       "categoria": "cárnicos",
@@ -2121,9 +2104,9 @@
         "macarrones_con_queso_206g.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-08T01:54:27.809Z"
     },
     {
       "id": "mmgryv82-jd94v21",
@@ -2364,23 +2347,6 @@
       "modified_at": null
     },
     {
-      "id": "mmq2uffm-1x68l4f",
-      "nombre": "Spam de Res (340g)",
-      "categoria": "cárnicos",
-      "precio": 2.27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "spam_de_res_340g.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mmq2vpro-1bckqxm",
       "nombre": "Pack x 12 Néctar de Manzana (12x330ml)",
       "categoria": "bebidas",
@@ -2442,23 +2408,6 @@
       "oferta": false,
       "imagenes": [
         "paquete_de_anillas_de_calamar.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmxpqsyk-14xfg8m",
-      "nombre": "Paquete de Croquetas de Pollo",
-      "categoria": "despensa",
-      "precio": 4.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_croquetas_de_pollo.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
