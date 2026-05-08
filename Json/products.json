@@ -2427,9 +2427,9 @@
         "paquete_de_croquetas_de_bacalao.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-08T16:47:28.855Z"
     },
     {
       "id": "mmxptnd5-7a8q8vx",
