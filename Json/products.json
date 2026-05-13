@@ -2248,18 +2248,18 @@
       "id": "mmq2bugb-i6nwxh1",
       "nombre": "Azúcar Blanca (1Kg)",
       "categoria": "despensa",
-      "precio": 1.97,
+      "precio": 2.13,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
       "imagenes": [
-        "azcar_blanca_1kg.webp"
+        "1000077512_1778670371185.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-13T11:06:22.613Z"
     },
     {
       "id": "mmq2d45l-1yp3xfb",
