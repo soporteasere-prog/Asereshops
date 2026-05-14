@@ -2869,9 +2869,9 @@
         "refesco_sabor_mate_1.5lts.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-14T15:27:28.234Z"
     },
     {
       "id": "moe4b14m-34sgfi1",
