@@ -86,40 +86,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank1-dfulus1",
-      "nombre": "Manzana",
-      "categoria": "despensa",
-      "precio": 1.17,
-      "descuento": 0,
-      "mas_vendido": true,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "manzana.jpg"
-      ],
-      "descripcion": "Descubre la frescura y el sabor de una manzana premium, cuidadosamente seleccionada para ofrecerte la mejor calidad. Perfecta como snack saludable, para añadir a tus recetas favoritas o para disfrutar en cualquier momento del día. Con una textura crujiente, un color vibrante y una dulzura natural irresistible, esta manzana es una fuente excelente de vitaminas y antioxidantes 🍎",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank1-qrq1qtb",
-      "nombre": "Manzanas Pack x6",
-      "categoria": "despensa",
-      "precio": 6.97,
-      "descuento": 0,
-      "mas_vendido": true,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "manzana_cantidad.jpg"
-      ],
-      "descripcion": "Disfruta de la frescura y el sabor natural de nuestras manzanas cuidadosamente seleccionadas. Este paquete incluye 6 manzanas premium, perfectas para tus meriendas saludables, recetas favoritas o para llevar un delicioso bocado en cualquier momento del día. Con su textura crujiente y dulzura irresistible, nuestras manzanas son una excelente fuente de vitaminas y antioxidantes. Llena tu cocina con lo mejor de la naturaleza 🍎",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank1-14h56hk",
       "nombre": "Nutela",
       "categoria": "confituras",
@@ -888,8 +854,8 @@
       "id": "mlgzank4-1mscjxf",
       "nombre": "Paquete de coditos 500g",
       "categoria": "despensa",
-      "precio": 0.93,
-      "descuento": 0,
+      "precio": 0.99,
+      "descuento": 6.06,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
@@ -899,7 +865,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:44:06.374Z"
     },
     {
       "id": "mlgzank4-dez8evc",
@@ -1208,38 +1174,21 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank4-1uenll5",
-      "nombre": "Atún en Aceite Vegetal (140g)",
-      "categoria": "enlatados",
-      "precio": 1.77,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "atn_en_aceite_vegetal_140g.webp"
-      ],
-      "descripcion": "El mejor atún que podrás encontrar de este lado del Misisipi",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank5-fsnsjq1",
       "nombre": "Saco de Azúcar 50kg",
       "categoria": "despensa",
       "precio": 80,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "saco_de_azcar_50kg.jpeg"
       ],
       "descripcion": "Azúcar Don Isidro refino, de muy buena calidad",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.634Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -1378,23 +1327,6 @@
       "modified_at": null
     },
     {
-      "id": "mll8udld-nu91en1",
-      "nombre": "Carne de Res enlatada",
-      "categoria": "cárnicos",
-      "precio": 2.57,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "carne_de_res_enlatada.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mll8va5a-rodndwa",
       "nombre": "Caja de Malta Bucanero",
       "categoria": "bebidas",
@@ -1424,9 +1356,9 @@
         "salchichas_guibon.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.628Z"
     },
     {
       "id": "mlq7ldgn-16r63aq",
@@ -1466,7 +1398,7 @@
       "id": "mlq5if2i-yv9djh1",
       "nombre": "Atún Premium Vima",
       "categoria": "enlatados",
-      "precio": 15.77,
+      "precio": 12.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -1477,7 +1409,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:44:14.419Z"
     },
     {
       "id": "mlq5jmsg-5sd57k1",
@@ -1577,9 +1509,9 @@
         "saco_de_azcar_blanca_25kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.633Z"
     },
     {
       "id": "mlq6kesv-91b3n41",
@@ -1594,9 +1526,9 @@
         "caja_de_nectar_de_mango.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:44:06.374Z"
     },
     {
       "id": "mlq6lgga-c3hh86z",
@@ -1815,9 +1747,9 @@
         "paquete_de_salchichas_10u_340g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.626Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -1850,23 +1782,6 @@
       ],
       "descripcion": "",
       "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mm2t6w2b-89775xx",
-      "nombre": "Caja de Picadillo 15kg",
-      "categoria": "cárnicos",
-      "precio": 33,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_picadillo_15kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
       "created_at": null,
       "modified_at": null
     },
@@ -1952,40 +1867,6 @@
       ],
       "descripcion": "",
       "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmazm8vj-1b3c7jt",
-      "nombre": "Paquete de muslos de pollo (2Kg)",
-      "categoria": "cárnicos",
-      "precio": 7.27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_pollo_2_kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmazne5w-dcfnu17",
-      "nombre": "Caja de muslos de pollo (12Kg)",
-      "categoria": "cárnicos",
-      "precio": 42.84,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_pollo_12kg_6pqts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
       "created_at": null,
       "modified_at": null
     },
@@ -2333,7 +2214,7 @@
       "id": "mmxplkci-cg7fgw9",
       "nombre": "Paquete de filetes de Panga",
       "categoria": "cárnicos",
-      "precio": 5,
+      "precio": 3.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -2344,7 +2225,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.625Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -2452,10 +2333,10 @@
       "id": "mn4ip333-hlfw334",
       "nombre": "Chocolate en Polvo Rayan (350g)",
       "categoria": "despensa",
-      "precio": 5,
+      "precio": 6.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "chocolate_en_polvo_350g.webp"
@@ -2463,7 +2344,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.629Z"
     },
     {
       "id": "mn7880z5-4w3o9x1",
@@ -2489,7 +2370,7 @@
       "precio": 1.17,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "arroz_criolllo_x_libra.webp"
@@ -2497,7 +2378,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.631Z"
     },
     {
       "id": "mn77xr5d-xyulx13",
@@ -2704,40 +2585,6 @@
       "modified_at": null
     },
     {
-      "id": "mnge3p1j-66tiyy1",
-      "nombre": "Paquete de Galletas Marías 12u (336g)",
-      "categoria": "confituras",
-      "precio": 3.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_galletas_maras_12u_336g.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mngfu1cn-13goymj",
-      "nombre": "Galleta Choice Naranja (20g)",
-      "categoria": "confituras",
-      "precio": 0.3,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "galleta_choice_naranja_20g.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mngfuky9-18lyhlo",
       "nombre": "Galletas Saltinas 207g",
       "categoria": "confituras",
@@ -2925,40 +2772,6 @@
       "modified_at": null
     },
     {
-      "id": "moi9ogv8-1o6m3tt",
-      "nombre": "Galletas de Lecha (8 packs dentro)",
-      "categoria": "confituras",
-      "precio": 3.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "galletas_de_lecha_8_packs_dentro.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "moi9q64t-3z642ec",
-      "nombre": "Galletas Butter cookies (8 packs dentro)",
-      "categoria": "confituras",
-      "precio": 3.44,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "galletas_butter_cookies_8_packs_dentro.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "moi9r658-1f6zort",
       "nombre": "Malta Guajira 1.5lts",
       "categoria": "bebidas",
@@ -3010,28 +2823,11 @@
       "modified_at": null
     },
     {
-      "id": "moi91e5g-1e3oeeg",
-      "nombre": "Paquete de minimagdalena",
-      "categoria": "confituras",
-      "precio": 3.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_minimagdalena.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "moi932d9-3elkd8k",
       "nombre": "Paquete de Champiñones 1kg",
       "categoria": "despensa",
-      "precio": 6,
-      "descuento": 0,
+      "precio": 6.29,
+      "descuento": 4.61,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
@@ -3041,7 +2837,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:43:54.633Z"
     },
     {
       "id": "moi94ev9-xtb0ig1",
@@ -3095,23 +2891,6 @@
       "modified_at": null
     },
     {
-      "id": "moi9dui8-llkudj4",
-      "nombre": "Pomo de Macedonia de verduras 535g",
-      "categoria": "despensa",
-      "precio": 2.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "pomo_de_macedonia_de_verduras_535g.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "moi9fzj0-1x9xrco",
       "nombre": "Melocotón en Almibar 3kg",
       "categoria": "despensa",
@@ -3146,23 +2925,6 @@
       "modified_at": null
     },
     {
-      "id": "moi9i0o9-5k8r70r",
-      "nombre": "Aceituna sin hueso",
-      "categoria": "despensa",
-      "precio": 3.44,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "aceituna_sin_hueso.png"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "moi9kbh7-jq93se1",
       "nombre": "Cockail de frutas en almibar 3kg",
       "categoria": "despensa",
@@ -3183,7 +2945,7 @@
       "id": "moi9lh1q-18m53iy",
       "nombre": "Caja de 27 jugos de manzana",
       "categoria": "bebidas",
-      "precio": 19.29,
+      "precio": 17.59,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -3194,13 +2956,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:44:14.418Z"
     },
     {
       "id": "moi9mh1b-1kx2nhi",
       "nombre": "Caja de 27 jugos de mango",
       "categoria": "bebidas",
-      "precio": 19.29,
+      "precio": 17.59,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -3209,9 +2971,9 @@
         "caja_de_27_jugos_de_mango.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T13:44:06.374Z"
     },
     {
       "id": "mon0i35f-oxbfit6",
