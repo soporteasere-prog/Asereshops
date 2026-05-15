@@ -172,7 +172,7 @@
     },
     {
       "id": "mlgzank2-c6lmvk1",
-      "nombre": "Paquete de pan de bola 8u/10u",
+      "nombre": "pan de bola 8u/10u",
       "categoria": "despensa",
       "precio": 1.8,
       "descuento": 0,
@@ -291,7 +291,7 @@
     },
     {
       "id": "mlgzank2-147xys0",
-      "nombre": "Paquete de sal (1kg)",
+      "nombre": "sal (1kg)",
       "categoria": "despensa",
       "precio": 0.97,
       "descuento": 0,
@@ -308,7 +308,7 @@
     },
     {
       "id": "mlgzank2-1nnvd1p",
-      "nombre": "Paquete de Harina (1kg)",
+      "nombre": "Harina (1kg)",
       "categoria": "despensa",
       "precio": 2.29,
       "descuento": 0,
@@ -353,23 +353,6 @@
         "Frazada_de_Piso.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank2-1d1yfql",
-      "nombre": "Cebolla blanca × lb",
-      "categoria": "agro",
-      "precio": 3.371,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mazo_de_cebolla_blanca.jpg"
-      ],
-      "descripcion": "La cebolla blanca es un ingrediente esencial, reconocida por su frescura y calidad. Su forma redonda y su brillante color blanco la hacen atractiva, mientras que su sabor suave pero distintivo es ideal para una amplia variedad de recetas. Desde sofritos aromáticos hasta ensaladas crujientes, esta cebolla agrega un toque especial a cualquier platillo. Perfecta para quienes valoran productos naturales y versátiles en su cocina, garantizando satisfacción en cada preparación.",
       "disponibilidad": true,
       "created_at": null,
       "modified_at": null
@@ -597,7 +580,7 @@
     },
     {
       "id": "mlgzank2-1lffzlq",
-      "nombre": "Paquete de Papel Sanitario 4 rollos",
+      "nombre": "Papel Sanitario 4 rollos",
       "categoria": "otros",
       "precio": 2,
       "descuento": 0,
@@ -810,23 +793,6 @@
       "oferta": false,
       "imagenes": [
         "leche_entera_en_polvo_1kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank3-d7a8dnp",
-      "nombre": "Paquete de íntimas 8u",
-      "categoria": "aseo",
-      "precio": 1.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "almohadilla_sanitaria_24u.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
