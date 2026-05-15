@@ -273,6 +273,23 @@
       "modified_at": null
     },
     {
+      "id": "mlgzank2-g6p9901",
+      "nombre": "Mayonesa Victoria (250ml)",
+      "categoria": "aderezos",
+      "precio": 2.27,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mayonesa_vima_450ml.jpg"
+      ],
+      "descripcion": "Descubre la mayonesa Victoria de 250 ml, elaborada con ingredientes de alta calidad para garantizar un sabor auténtico y delicioso. Perfecta para acompañar sándwiches, ensaladas y tus recetas favoritas, esta mayonesa destaca por su textura cremosa y su frescura incomparable. Su presentación en un frasco práctico con tapa verde asegura la conservación del sabor y la comodidad en cada uso. Haz de Mayonesa Victoria tu elección de confianza para realzar cada bocado",
+      "disponibilidad": true,
+      "created_at": null,
+      "modified_at": null
+    },
+    {
       "id": "mlgzank2-147xys0",
       "nombre": "Paquete de sal (1kg)",
       "categoria": "despensa",
@@ -2586,9 +2603,9 @@
     },
     {
       "id": "mn7miy5q-1yskdi7",
-      "nombre": "Mayonesa light Vima 450ml",
+      "nombre": "Mayonesa Vima 450ml",
       "categoria": "aderezos",
-      "precio": 3.79,
+      "precio": 4.57,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -2599,7 +2616,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T01:31:54.220Z"
+      "modified_at": null
     },
     {
       "id": "mn7mkh9e-mt5qc61",
@@ -2631,9 +2648,9 @@
         "refresco_instantneo_pia_colada_20lts.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T01:35:48.146Z"
     },
     {
       "id": "mna63lqq-1mnrmod",
@@ -2648,9 +2665,9 @@
         "refresco_instantneo_pia_20lts.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T01:35:48.146Z"
     },
     {
       "id": "mna64u78-aliv17k",
