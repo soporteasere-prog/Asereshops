@@ -982,9 +982,9 @@
         "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T14:04:11.191Z"
     },
     {
       "id": "mlgzank4-w4px7vl",
@@ -1294,9 +1294,9 @@
     },
     {
       "id": "mliq4l5b-tfq39wu",
-      "nombre": "Coffee mate 311.8g",
+      "nombre": "Coffee mate 155",
       "categoria": "café",
-      "precio": 5.67,
+      "precio": 7.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -1305,9 +1305,9 @@
         "coffe_mate_311.8g.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T14:04:06.871Z"
     },
     {
       "id": "mliq66lf-8t6dfj1",
@@ -1356,9 +1356,9 @@
         "salchichas_guibon.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.628Z"
+      "modified_at": "2026-05-15T14:04:11.188Z"
     },
     {
       "id": "mlq7ldgn-16r63aq",
@@ -1398,7 +1398,7 @@
       "id": "mlq5if2i-yv9djh1",
       "nombre": "Atún Premium Vima",
       "categoria": "enlatados",
-      "precio": 12.99,
+      "precio": 15.77,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -1409,7 +1409,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:44:14.419Z"
+      "modified_at": "2026-05-15T14:04:11.187Z"
     },
     {
       "id": "mlq5jmsg-5sd57k1",
@@ -1770,20 +1770,20 @@
     },
     {
       "id": "mm0wz21h-u01m57b",
-      "nombre": "Pollo entero congelado",
+      "nombre": "Pollo entero (1800g)",
       "categoria": "cárnicos",
-      "precio": 7.17,
+      "precio": 11.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
       "imagenes": [
-        "pollo_entero_congelado.jpg"
+        "pollo-camelia2_1778853475778.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T14:04:08.912Z"
     },
     {
       "id": "mm46rkpk-1nsu79h",
@@ -1993,8 +1993,8 @@
       "id": "mml2tcre-1yodt0e",
       "nombre": "Queso Gouda Vima 3Kg",
       "categoria": "lacteos",
-      "precio": 36.99,
-      "descuento": 0,
+      "precio": 37,
+      "descuento": 0.03,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
@@ -2004,7 +2004,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T14:04:11.189Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -2146,8 +2146,8 @@
       "id": "mmq2k4l6-13hwunp",
       "nombre": "Spam de Pollo (340g)",
       "categoria": "cárnicos",
-      "precio": 2.27,
-      "descuento": 0,
+      "precio": 2.49,
+      "descuento": 8.84,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
@@ -2155,9 +2155,9 @@
         "spam_de_pollo_340g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T14:04:06.871Z"
     },
     {
       "id": "mmq2m3z4-16dcmut",
@@ -3144,6 +3144,23 @@
       "disponibilidad": true,
       "created_at": "2026-05-15T12:26:00.013Z",
       "modified_at": "2026-05-15T12:26:00.013Z"
+    },
+    {
+      "id": "prod_1778853047855_69d9llazb",
+      "nombre": "Galletas Hello",
+      "categoria": "confituras",
+      "precio": 0.58,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "8797-300x300_1778853047869.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-15T14:04:06.870Z",
+      "modified_at": "2026-05-15T14:04:06.870Z"
     }
   ]
 }
