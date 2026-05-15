@@ -2529,9 +2529,9 @@
         "saco_de_arroz_premium_100lb.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-15T12:25:51.572Z"
     },
     {
       "id": "mn77q2ru-fyc0glj",
@@ -3382,6 +3382,57 @@
       "disponibilidad": true,
       "created_at": "2026-05-13T07:16:20.630Z",
       "modified_at": "2026-05-13T07:16:20.630Z"
+    },
+    {
+      "id": "prod_1778847649268_1j5z7ejzk",
+      "nombre": "Saco de arroz 22.68kg",
+      "categoria": "pastas-y-granos",
+      "precio": 40.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000078471_1778847649359.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-15T12:25:55.566Z",
+      "modified_at": "2026-05-15T12:25:55.566Z"
+    },
+    {
+      "id": "prod_1778847806170_jkkjx370h",
+      "nombre": "Sardina en (aceite vegetal)",
+      "categoria": "enlatados",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": true,
+      "oferta": false,
+      "imagenes": [
+        "1000078472_1778847806270.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-15T12:25:57.720Z",
+      "modified_at": "2026-05-15T12:25:57.720Z"
+    },
+    {
+      "id": "prod_1778847937855_9mddry2ug",
+      "nombre": "Sardina en (salsa de tomate)",
+      "categoria": "enlatados",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": true,
+      "oferta": false,
+      "imagenes": [
+        "1000078470_1778847937952.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-15T12:26:00.013Z",
+      "modified_at": "2026-05-15T12:26:00.013Z"
     }
   ]
 }
