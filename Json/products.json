@@ -851,23 +851,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank3-w0yr57a",
-      "nombre": "Salsa rosa Rayan 440g",
-      "categoria": "aderezos",
-      "precio": 2.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pasta_de_bocadito.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank3-18immgh",
       "nombre": "Pack de 12 latas de néctar de pera",
       "categoria": "bebidas",
