@@ -749,6 +749,23 @@
       "modified_at": null
     },
     {
+      "id": "mlgzank3-fe92v6h",
+      "nombre": "Malta Unlaguer x unidad 330ml",
+      "categoria": "bebidas",
+      "precio": 1.1,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "malta_guajira_x_unidad_330ml.png"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": null,
+      "modified_at": null
+    },
+    {
       "id": "mlgzank3-18immgh",
       "nombre": "Pack de 12 latas de néctar de pera",
       "categoria": "bebidas",
@@ -3127,6 +3144,23 @@
       "disponibilidad": true,
       "created_at": "2026-05-15T14:04:06.870Z",
       "modified_at": "2026-05-15T14:04:06.870Z"
+    },
+    {
+      "id": "prod_1779282841071_vmhdhcagl",
+      "nombre": "Caja de Malta Sunchy",
+      "categoria": "bebidas",
+      "precio": 24,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000081599_1779282841144.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-20T13:14:13.919Z",
+      "modified_at": "2026-05-20T13:14:13.919Z"
     }
   ]
 }
