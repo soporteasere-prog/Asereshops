@@ -2081,15 +2081,15 @@
       "precio": 1.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "papa_x_lb.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-20T17:23:59.818Z"
     },
     {
       "id": "mmq2g1kv-165qg82",
