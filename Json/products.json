@@ -749,23 +749,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank3-fe92v6h",
-      "nombre": "Malta Unlaguer x unidad 330ml",
-      "categoria": "bebidas",
-      "precio": 1.1,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "malta_guajira_x_unidad_330ml.png"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank3-18immgh",
       "nombre": "Pack de 12 latas de néctar de pera",
       "categoria": "bebidas",
