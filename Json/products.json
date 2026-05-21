@@ -2438,15 +2438,15 @@
       "precio": 2.57,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "harina_vima_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-21T23:04:27.886Z"
     },
     {
       "id": "mna633yq-1akkie7",
