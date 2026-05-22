@@ -273,23 +273,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank2-1o8tjjr",
-      "nombre": "Frijoles Negros (1Kg)",
-      "categoria": "pastas-y-granos",
-      "precio": 2.57,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "frijoles_negros_1kg.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank2-q8ffff1",
       "nombre": "Frazada de Piso",
       "categoria": "aseo",
@@ -1362,20 +1345,20 @@
     },
     {
       "id": "mlq5if2i-yv9djh1",
-      "nombre": "Atún Premium Vima",
+      "nombre": "Atún en aceite vegetal",
       "categoria": "enlatados",
-      "precio": 15.77,
+      "precio": 12.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "atn_premium_vima.jpeg"
+        "1000083093_1779470065589.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T14:04:11.187Z"
+      "modified_at": "2026-05-22T17:16:58.435Z"
     },
     {
       "id": "mlq5jmsg-5sd57k1",
@@ -1566,20 +1549,20 @@
     },
     {
       "id": "mlq6yah4-1vaviqx",
-      "nombre": "Leche Condensada Vima",
+      "nombre": "Leche Condensada",
       "categoria": "despensa",
-      "precio": 1.73,
+      "precio": 1.39,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "leche_condensada_vima.jpeg"
+        "1000083089_1779469718675.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-22T17:16:45.016Z"
     },
     {
       "id": "mlq6zbut-1rdpwoy",
@@ -1656,15 +1639,15 @@
       "precio": 1.87,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "melocotn_en_almbar.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-22T17:16:47.449Z"
     },
     {
       "id": "mlq7aq58-1jmj44p",
@@ -2047,15 +2030,15 @@
       "precio": 2.13,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "1000077512_1778670371185.jpg"
+        "1000083088_1779469459758.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-13T11:06:22.613Z"
+      "modified_at": "2026-05-22T17:16:40.539Z"
     },
     {
       "id": "mmq2d45l-1yp3xfb",
@@ -2342,9 +2325,9 @@
         "arroz_criolllo_x_libra.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.631Z"
+      "modified_at": "2026-05-22T17:16:30.342Z"
     },
     {
       "id": "mn77xr5d-xyulx13",
@@ -2368,17 +2351,17 @@
       "nombre": "Caramelos de Leche 50u",
       "categoria": "confituras",
       "precio": 4.37,
-      "descuento": 0,
+      "descuento": 22.43,
       "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
+      "nuevo": false,
+      "oferta": true,
       "imagenes": [
         "caramelos_de_leche_50u.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-22T17:16:42.445Z"
     },
     {
       "id": "mn7mnt65-6h0qe9w",
@@ -2513,23 +2496,6 @@
       ],
       "descripcion": "",
       "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mng1kh9h-fvr83w7",
-      "nombre": "Leche en polvo Do Bon 1Kg",
-      "categoria": "lacteos",
-      "precio": 10,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "leche_en_polvo_do_bon_1kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
       "created_at": null,
       "modified_at": null
     },
@@ -2704,40 +2670,6 @@
       "modified_at": null
     },
     {
-      "id": "moh4pv5i-1at7p4l",
-      "nombre": "Yogurt Probiótico de fresa 1.5lts",
-      "categoria": "bebidas",
-      "precio": 10,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "yogurt_probitico_de_fresa_1.5lts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "moh4s653-24w7f1m",
-      "nombre": "Yogurt Probiótico de guanabana 1.5lts",
-      "categoria": "bebidas",
-      "precio": 10,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "yogurt_probitico_de_guanabana_1.5lts.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "moi9r658-1f6zort",
       "nombre": "Malta Guajira 1.5lts",
       "categoria": "bebidas",
@@ -2863,15 +2795,15 @@
       "precio": 10,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "melocotn_en_almibar_3kg.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-22T17:16:47.448Z"
     },
     {
       "id": "moi9h0no-1td6l1y",
