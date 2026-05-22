@@ -197,6 +197,59 @@ function findProductByIdOrName(identifier) {
   return null;
 }
 
+function getCartItemCurrentData(item) {
+  if (!item) return null;
+
+  if (item.isPack || item.pack) {
+    const itemData = item.pack || item.product;
+    if (!itemData) return null;
+    return packs.find((pack) => pack.id === itemData.id || pack.nombre === itemData.nombre) || null;
+  }
+
+  const itemData = item.product;
+  if (!itemData) return null;
+
+  const found = findProductByIdOrName(itemData.id || itemData.nombre);
+  return found ? found.product : null;
+}
+
+function isCartItemAvailable(item) {
+  const currentData = getCartItemCurrentData(item);
+  return currentData ? currentData.disponibilidad !== false : false;
+}
+
+function syncCartWithCurrentAvailability() {
+  if (!Array.isArray(cart) || cart.length === 0) return;
+
+  let hasChanges = false;
+
+  cart = cart.map((item) => {
+    if (!item || item.quantity <= 0) return item;
+
+    if (item.isPack || item.pack) {
+      const currentPack = getCartItemCurrentData(item);
+      if (currentPack) {
+        hasChanges = hasChanges || currentPack !== item.pack;
+        return { pack: currentPack, quantity: item.quantity, isPack: true };
+      }
+      return item;
+    }
+
+    const currentProduct = getCartItemCurrentData(item);
+    if (currentProduct) {
+      hasChanges = hasChanges || currentProduct !== item.product;
+      return { product: currentProduct, quantity: item.quantity };
+    }
+
+    return item;
+  }).filter((item) => item && item.quantity > 0);
+
+  if (hasChanges) {
+    saveCart();
+  }
+  updateCartCount();
+}
+
 
 // Manejo del historial con hash y pushState
 // el callback es async; envolverlo para capturar errores y no generar
@@ -2402,9 +2455,12 @@ function updateCart() {
       // Determinar si es pack o producto
       const isPack = item.isPack || item.pack;
       const itemData = isPack ? item.pack : item.product;
-      
       if (!itemData) return;
-      
+
+      const itemAvailable = isCartItemAvailable(item);
+      const unavailableBadge = itemAvailable ? '' : '<span class="cart-item-badge">AGOTADO</span>';
+      const unavailableMessage = itemAvailable ? '' : '<p class="cart-item-unavailable-text">Este producto ya no está disponible. Elimina el producto para continuar con la compra.</p>';
+
       // Calcular precio con descuento si aplica
       const isOnSale = itemData.oferta && itemData.descuento > 0;
       const unitPrice = isOnSale
@@ -2412,7 +2468,9 @@ function updateCart() {
         : itemData.precio;
 
       const itemTotal = unitPrice * item.quantity;
-      total += itemTotal;
+      if (itemAvailable) {
+        total += itemTotal;
+      }
 
       // Determinar imagen (packs usan imagen, productos usan imagenes[0])
       const imageSrc = isPack 
@@ -2420,29 +2478,38 @@ function updateCart() {
         : `Images/products/${itemData.imagenes[0]}`;
       
       const badgeType = isPack ? 'pack' : 'product';
-
-      const itemEl = document.createElement("div");
-      itemEl.className = `cart-item cart-item-${badgeType}`;
-      itemEl.innerHTML = `
-                ${
-                  isOnSale
-                    ? '<span class="cart-item-badge oferta">OFERTA</span>'
-                    : ""
-                }
-                <img src="${imageSrc}" alt="${itemData.nombre}">
-                <div class="cart-item-info">
-                    <p>${itemData.nombre}</p>
-                    <p class="cart-item-type">${isPack ? '[Pack]' : '[Producto]'}</p>
-                    <p>$${unitPrice.toFixed(2)} c/u</p>
-                    <div class="cart-item-controls">
+      const priceLine = itemAvailable ? `<p>$${unitPrice.toFixed(2)} c/u</p>` : '';
+      const totalLine = itemAvailable ? `<p>Total: $${itemTotal.toFixed(2)}</p>` : '';
+      const controlsHtml = itemAvailable
+        ? `<div class="cart-item-controls">
                         <button class="cart-quantity-btn decrease-btn" onclick="updateCartQuantity(${index}, -1, event)">-</button>
                         <span class="cart-quantity">${item.quantity}</span>
                         <button class="cart-quantity-btn increase-btn" onclick="updateCartQuantity(${index}, 1, event)">+</button>
                         <button class="delete-item-btn" onclick="removeFromCart(${index}, event)">
                             <i class="fas fa-trash-alt"></i>
                         </button>
-                    </div>
-                    <p>Total: $${itemTotal.toFixed(2)}</p>
+                    </div>`
+        : `<button class="delete-item-btn remove-only-btn" onclick="removeFromCart(${index}, event)">
+                            <i class="fas fa-trash-alt"></i>
+                        </button>`;
+
+      const itemEl = document.createElement("div");
+      itemEl.className = `cart-item cart-item-${badgeType}${itemAvailable ? '' : ' unavailable'}`;
+      itemEl.innerHTML = `
+                ${
+                  isOnSale
+                    ? '<span class="cart-item-badge oferta">OFERTA</span>'
+                    : ""
+                }
+                ${unavailableBadge}
+                <img src="${imageSrc}" alt="${itemData.nombre}">
+                <div class="cart-item-info">
+                    <p>${itemData.nombre}</p>
+                    <p class="cart-item-type">${isPack ? '[Pack]' : '[Producto]'}</p>
+                    ${priceLine}
+                    ${controlsHtml}
+                    ${totalLine}
+                    ${unavailableMessage}
                 </div>
             `;
       cartItems.appendChild(itemEl);
@@ -3428,6 +3495,10 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Cargar productos, packs y evento en paralelo y esperar todos para que el manejo de rutas tenga los datasets disponibles
   await Promise.all([loadProducts(), loadPacks()]);
   
+  if (typeof syncCartWithCurrentAvailability === 'function') {
+    syncCartWithCurrentAvailability();
+  }
+
   initCarousel();
   updateCart();
 

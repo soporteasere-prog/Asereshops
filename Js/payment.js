@@ -233,6 +233,10 @@ async function processPayment(e) {
     const loadingNotification = showPaymentNotification('Procesando tu pedido...', 'loading');
 
     try {
+        if (!validateCartBeforeCheckout()) {
+            throw new Error('Debes quitar primero los productos agotados del carrito para continuar con la compra');
+        }
+
         const cart = getValidatedCart();
         if (cart.length === 0) {
             throw new Error('Tu carrito está vacío');
@@ -382,11 +386,25 @@ function showPaymentNotification(message, type = 'info') {
 }
 
 function validateCartBeforeCheckout() {
-    const cart = JSON.parse(localStorage.getItem('cart')) || [];
-    if (cart.length === 0) {
+    if (typeof syncCartWithCurrentAvailability === 'function') {
+        syncCartWithCurrentAvailability();
+    }
+
+    const cartItems = JSON.parse(localStorage.getItem('cart')) || [];
+    if (!Array.isArray(cartItems) || cartItems.length === 0) {
         showPaymentNotification('Añade productos al carrito primero', 'error');
         return false;
     }
+
+    const unavailableItems = cartItems.filter((item) => {
+        return typeof isCartItemAvailable === 'function' ? !isCartItemAvailable(item) : false;
+    });
+
+    if (unavailableItems.length > 0) {
+        showPaymentNotification('Debes quitar primero los productos agotados del carrito para continuar con la compra', 'error');
+        return false;
+    }
+
     return true;
 }
 
@@ -395,8 +413,23 @@ function getValidatedCart() {
     if (!Array.isArray(cart)) {
         throw new Error('Formato de carrito inválido');
     }
-    // Permitir tanto productos como packs
-    return cart.filter(item => (item.product || item.pack) && item.quantity > 0);
+    return cart.filter(item => {
+        if (!item || item.quantity <= 0) return false;
+        const itemData = item.pack || item.product;
+        if (!itemData) return false;
+
+        if (item.pack) {
+            return itemData.disponible !== false;
+        }
+
+        if (typeof findProductByIdOrName === 'function') {
+            const found = findProductByIdOrName(itemData.id || itemData.nombre);
+            const currentProduct = found ? found.product : itemData;
+            return currentProduct && currentProduct.disponibilidad !== false;
+        }
+
+        return itemData.disponibilidad !== false;
+    });
 }
 
 function validateForm() {
