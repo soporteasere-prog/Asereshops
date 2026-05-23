@@ -460,27 +460,10 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank2-15j5pds",
-      "nombre": "Desodorante Keewell",
-      "categoria": "aseo",
-      "precio": 1.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "Desodorante_Keewell.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank2-1lffzlq",
       "nombre": "Papel Sanitario 4 rollos",
       "categoria": "otros",
-      "precio": 2,
+      "precio": 1.59,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -491,24 +474,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank2-1lafy52",
-      "nombre": "Colonia Bonabel de Violetas",
-      "categoria": "aseo",
-      "precio": 3.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "Colobnia_Bonabel_de_Violetas.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:17.827Z"
     },
     {
       "id": "mlgzank3-vqyyagj",
@@ -571,12 +537,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "almohadilla_sanitaria_24u.jpg"
+        "1000083713_1779517342523.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:14:38.377Z"
+      "modified_at": "2026-05-23T06:57:13.934Z"
     },
     {
       "id": "mlgzank3-14obyzx",
@@ -660,57 +626,6 @@
       ],
       "descripcion": "",
       "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank3-fe92v6h",
-      "nombre": "Malta Unlaguer x unidad 330ml",
-      "categoria": "bebidas",
-      "precio": 1.1,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "malta_guajira_x_unidad_330ml.png"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank3-18immgh",
-      "nombre": "Pack de 12 latas de néctar de pera",
-      "categoria": "bebidas",
-      "precio": 13.73,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "pack_de_12_latas_de_nctar_de_pera.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank4-182v9d0",
-      "nombre": "Pack de 12 latas de néctar de piña",
-      "categoria": "bebidas",
-      "precio": 13.73,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "pack_de_12_latas_de_nctar_de_pia.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
       "created_at": null,
       "modified_at": null
     },
@@ -800,25 +715,8 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank4-4veaetc",
-      "nombre": "Frijoles pintos x lb",
-      "categoria": "pastas-y-granos",
-      "precio": 1.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "frijoles_pintos_x_lb-.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank4-1oad65v",
-      "nombre": "Frijoles colorados x lb",
+      "nombre": "Frijoles rojos x lb",
       "categoria": "pastas-y-granos",
       "precio": 2.57,
       "descuento": 0,
@@ -831,7 +729,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:22.390Z"
     },
     {
       "id": "mlgzank4-1a8sirs",
@@ -883,23 +781,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-05-15T14:04:11.191Z"
-    },
-    {
-      "id": "mlgzank4-w4px7vl",
-      "nombre": "Lavadora Mystic (11Kg)",
-      "categoria": "electrodomésticos",
-      "precio": 225,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "lavadora_mystic_11kg.jpg"
-      ],
-      "descripcion": "La Lavadora Mystic de 11Kg ofrece una mayor capacidad para quienes necesitan lavar cargas más grandes con comodidad y eficiencia. Su diseño robusto y su panel superior intuitivo permiten un uso sencillo y confiable en el día a día. Con 11 kilogramos de capacidad, es perfecta para familias medianas o para quienes buscan un equipo más amplio sin sacrificar practicidad. Su construcción resistente y su garantía de 1 mes la convierten en una opción segura y accesible para el hogar.",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
     },
     {
       "id": "mlgzank4-c4n3r81",
@@ -1090,7 +971,7 @@
     },
     {
       "id": "mlgzank5-12209k3",
-      "nombre": "Picadillo de pollo Guibon",
+      "nombre": "Picadillo de pollo",
       "categoria": "cárnicos",
       "precio": 1.47,
       "descuento": 0,
@@ -1103,7 +984,7 @@
       "descripcion": "El mejor picadillo de este lado del Mississippi. Ideal para toda la familia. Calidad en cada porción",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:22.390Z"
     },
     {
       "id": "mlh17sjk-1ltd9c1",
@@ -1160,10 +1041,10 @@
       "id": "mlipxcrm-1ev233g",
       "nombre": "Leche Evaporada",
       "categoria": "lacteos",
-      "precio": 2.87,
+      "precio": 2.5,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "leche_evaporada.jpg"
@@ -1171,7 +1052,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:22.392Z"
     },
     {
       "id": "mliq32iu-1vrvppm",
@@ -1192,7 +1073,7 @@
     },
     {
       "id": "mliq4l5b-tfq39wu",
-      "nombre": "Coffee mate 155",
+      "nombre": "Coffee mate",
       "categoria": "café",
       "precio": 7.97,
       "descuento": 0,
@@ -1205,7 +1086,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T14:04:06.871Z"
+      "modified_at": "2026-05-23T06:57:15.796Z"
     },
     {
       "id": "mliq66lf-8t6dfj1",
@@ -1240,23 +1121,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": null
-    },
-    {
-      "id": "mlq7hky0-1rilhzn",
-      "nombre": "Salchichas GuiBon 3kg",
-      "categoria": "cárnicos",
-      "precio": 10,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "salchichas_guibon.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-15T14:04:11.188Z"
     },
     {
       "id": "mlq7ldgn-16r63aq",
@@ -1345,12 +1209,12 @@
     },
     {
       "id": "mlq662le-rfllul7",
-      "nombre": "Pastilla de Pescado Vima",
+      "nombre": "Pastilla de Pescado Vima 12u",
       "categoria": "despensa",
-      "precio": 0.17,
-      "descuento": 0,
+      "precio": 2.05,
+      "descuento": 91.71,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pastilla_de_pescado_vima.webp"
@@ -1358,14 +1222,14 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:23.542Z"
     },
     {
       "id": "mlq672k1-1rgiayv",
-      "nombre": "Pastilla de Verduras Vima",
+      "nombre": "Pastilla de Verduras Vima 12u",
       "categoria": "despensa",
-      "precio": 0.17,
-      "descuento": 0,
+      "precio": 2.05,
+      "descuento": 91.71,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
@@ -1375,16 +1239,16 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:23.543Z"
     },
     {
       "id": "mlq67tvn-vyqudu1",
-      "nombre": "Pastilla de Carne Vima",
+      "nombre": "Pastilla de Carne Vima 12u",
       "categoria": "despensa",
-      "precio": 0.17,
-      "descuento": 0,
+      "precio": 2.05,
+      "descuento": 91.71,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pastilla_de_carne_vima.webp"
@@ -1392,7 +1256,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:23.543Z"
     },
     {
       "id": "mlq6edvb-1uihmm2",
@@ -1616,23 +1480,6 @@
       "modified_at": null
     },
     {
-      "id": "mm0wf97i-1hvmh7i",
-      "nombre": "Paquete de Salchichas 10u, 340g",
-      "categoria": "cárnicos",
-      "precio": 1.59,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_salchichas_10u_340g.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.626Z"
-    },
-    {
       "id": "mm0wy3wx-1jvjivz",
       "nombre": "Pechuga de pollo (2Kg)",
       "categoria": "cárnicos",
@@ -1684,74 +1531,6 @@
       "modified_at": null
     },
     {
-      "id": "mm6myzyr-gp8h861",
-      "nombre": "Helado de fresa Nestle",
-      "categoria": "lacteos",
-      "precio": 4.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "helado_de_fresa_nestle.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mm6mzrl2-1g22l2j",
-      "nombre": "Helado de Vainilla Nestle",
-      "categoria": "lacteos",
-      "precio": 4.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "helado_de_vainilla_nestle.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmazzije-1bccd11",
-      "nombre": "Aceitunas",
-      "categoria": "aderezos",
-      "precio": 2.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "aceitunas.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmazpvvv-10w3z76",
-      "nombre": "Croquetas de pollo",
-      "categoria": "cárnicos",
-      "precio": 9.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "croquetas_de_pollo.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mmbwn2vx-m283nb1",
       "nombre": "Caja de refresco Limon",
       "categoria": "bebidas",
@@ -1779,57 +1558,6 @@
       "oferta": false,
       "imagenes": [
         "mantequilla.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmdrj30h-18g5y53",
-      "nombre": "Crema de Abellanas y Cacao 350g",
-      "categoria": "confituras",
-      "precio": 3.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "crema_de_abellanas_y_cacao_350g.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mmgbueo7-1j6ebwv",
-      "nombre": "Macarrones con Queso 206g",
-      "categoria": "despensa",
-      "precio": 1,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "macarrones_con_queso_206g.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-08T01:54:27.809Z"
-    },
-    {
-      "id": "mmgryv82-jd94v21",
-      "nombre": "Pasta para bocaditos 465ml",
-      "categoria": "aderezos",
-      "precio": 7.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "pasta_para_bocaditos_465ml.jpg"
       ],
       "descripcion": "",
       "disponibilidad": false,
@@ -2042,20 +1770,20 @@
     },
     {
       "id": "mmq2m3z4-16dcmut",
-      "nombre": "Pack x 6 maltas Guajira (6x330ml)",
+      "nombre": "Pack x 6 maltas Guajira (6x1.5lts)",
       "categoria": "bebidas",
-      "precio": 5.49,
+      "precio": 17.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_x_6_maltas_guajira_6x330ml.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:18.216Z"
     },
     {
       "id": "mmq2vpro-1bckqxm",
@@ -2163,10 +1891,10 @@
       "id": "mn3aj1rj-1i9d6mq",
       "nombre": "Porron de Aceite 17.5lt",
       "categoria": "despensa",
-      "precio": 64.97,
+      "precio": 47.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "porron_de_aceite_17.5lt.jpg"
@@ -2174,7 +1902,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:31.292Z"
     },
     {
       "id": "mn4ikino-19m47n4",
@@ -2469,10 +2197,10 @@
       "id": "mniyvfrn-11e10ac",
       "nombre": "Maizena 1kg",
       "categoria": "despensa",
-      "precio": 6.37,
+      "precio": 5.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "maizena_1kg.jpg"
@@ -2480,24 +2208,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mniywtl0-62b6089",
-      "nombre": "Garbanzos 1Kg",
-      "categoria": "pastas-y-granos",
-      "precio": 4.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "garbanzos_1kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:32.397Z"
     },
     {
       "id": "mnq50bj3-1qtfbhl",
@@ -2554,7 +2265,7 @@
       "id": "moe4pk8o-g9eg3xx",
       "nombre": "Pomo de Alubias blancas 540g",
       "categoria": "despensa",
-      "precio": 3.87,
+      "precio": 2.59,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -2565,16 +2276,16 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:32.398Z"
     },
     {
       "id": "moe4v4df-1bgw0pm",
-      "nombre": "Pomo de Garbanzos 540g",
+      "nombre": "Garbanzos extra 540g",
       "categoria": "despensa",
       "precio": 2.57,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pomo_de_garbanzos_540g.webp"
@@ -2582,24 +2293,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "moe4zjto-c02qjr1",
-      "nombre": "Paquete de Ajos pelados 1kg",
-      "categoria": "despensa",
-      "precio": 4.37,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_ajos_pelados_1kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:32.398Z"
     },
     {
       "id": "moi9r658-1f6zort",
@@ -2634,23 +2328,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-05-22T17:29:22.153Z"
-    },
-    {
-      "id": "moi8zlar-1wkwtlj",
-      "nombre": "Paquete de anillas de calamar 1lb",
-      "categoria": "despensa",
-      "precio": 7.57,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_anillas_de_calamar_1lb.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -2705,10 +2382,10 @@
     },
     {
       "id": "moi9bj6w-1toot66",
-      "nombre": "Puré de papas 1kg",
+      "nombre": "Papas copos 1kg vima",
       "categoria": "despensa",
-      "precio": 8.79,
-      "descuento": 0,
+      "precio": 8.99,
+      "descuento": 2.22,
       "mas_vendido": false,
       "nuevo": true,
       "oferta": false,
@@ -2718,13 +2395,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:34.521Z"
     },
     {
       "id": "moi9fzj0-1x9xrco",
       "nombre": "Melocotón en Almibar 3kg",
       "categoria": "despensa",
-      "precio": 10,
+      "precio": 10.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2733,43 +2410,9 @@
         "melocotn_en_almibar_3kg.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-22T17:16:47.448Z"
-    },
-    {
-      "id": "moi9h0no-1td6l1y",
-      "nombre": "Fresa en Almibar 3kg",
-      "categoria": "despensa",
-      "precio": 10,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "fresa_en_almibar_3kg.jpeg"
-      ],
-      "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "moi9kbh7-jq93se1",
-      "nombre": "Cockail de frutas en almibar 3kg",
-      "categoria": "despensa",
-      "precio": 10,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "cockail_de_frutas_en_almibar_3kg.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:57:35.609Z"
     },
     {
       "id": "moi9lh1q-18m53iy",
@@ -2795,15 +2438,15 @@
       "precio": 17.59,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_27_jugos_de_mango.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:44:06.374Z"
+      "modified_at": "2026-05-23T06:57:36.758Z"
     },
     {
       "id": "mon0i35f-oxbfit6",
@@ -2889,23 +2532,6 @@
       "disponibilidad": true,
       "created_at": "2026-05-05T06:54:29.669Z",
       "modified_at": "2026-05-05T06:54:29.669Z"
-    },
-    {
-      "id": "prod_1777964056235_q6i8vqyew",
-      "nombre": "Pomo de refresco 1.5lts",
-      "categoria": "bebidas",
-      "precio": 2.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "f98b812e-4d41-4729-8554_1777964056254.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-05T06:54:31.458Z",
-      "modified_at": "2026-05-05T06:54:31.458Z"
     },
     {
       "id": "prod_1778847649268_1j5z7ejzk",
