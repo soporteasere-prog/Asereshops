@@ -104,10 +104,10 @@
     },
     {
       "id": "mlgzank1-12y2y72",
-      "nombre": "Azúcar blanca x lb",
+      "nombre": "Azúcar blanca x kg",
       "categoria": "despensa",
-      "precio": 1.23,
-      "descuento": 10,
+      "precio": 2.19,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -117,7 +117,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:14:30.689Z"
     },
     {
       "id": "mlgzank2-1gog4gl",
@@ -375,23 +375,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank2-3q88ipu",
-      "nombre": "Refresco Limón (330ml)",
-      "categoria": "bebidas",
-      "precio": 0.95,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "refresco_limn_330ml.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank2-58oemeg",
       "nombre": "Cervezas Cristal (355ml)",
       "categoria": "alcohol",
@@ -439,23 +422,6 @@
       ],
       "descripcion": "",
       "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank2-10xda28",
-      "nombre": "Refresco Naranja (330ml)",
-      "categoria": "bebidas",
-      "precio": 0.95,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "refresco_naranja_330ml.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
       "created_at": null,
       "modified_at": null
     },
@@ -550,33 +516,16 @@
       "categoria": "cárnicos",
       "precio": 2.37,
       "descuento": 0,
-      "mas_vendido": true,
-      "nuevo": true,
+      "mas_vendido": false,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "picadillo_de_pollo_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank3-1f1x18n",
-      "nombre": "Toallas Sanitarias Princesa (10u)",
-      "categoria": "otros",
-      "precio": 1.14,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "almohadillas_sanitarias.jpg"
-      ],
-      "descripcion": "Las Toallas Sanitarias Princesa de Algodón ofrecen una protección cómoda y confiable para uso diurno y nocturno. Con su diseño con alas, aseguran un ajuste seguro y evitan fugas, brindando máxima absorción y tranquilidad durante todo el día. Este paquete contiene 10 toallas, cada una diseñada para ofrecerte la suavidad y el cuidado que necesitas. Su capa superior de algodón minimiza la irritación y proporciona una sensación de frescura, ideal para una protección completa y discreta.",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:14:30.689Z"
     },
     {
       "id": "mlgzank3-w0yr57a",
@@ -614,9 +563,9 @@
     },
     {
       "id": "mlgzank3-426dh21",
-      "nombre": "Paquete de íntimas 8u",
+      "nombre": "Paquete de íntimas 10u",
       "categoria": "aseo",
-      "precio": 1.17,
+      "precio": 1.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -627,7 +576,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:14:38.377Z"
     },
     {
       "id": "mlgzank3-14obyzx",
@@ -675,10 +624,10 @@
       "imagenes": [
         "frijol_negro_alubia_500g.jpg"
       ],
-      "descripcion": "Lleva a tu mesa la base de la cocina tradicional con el Frijol Negro (Alubia) de IFA Eliges. Reconocido por su profundo sabor, su textura suave y su versatilidad, este frijol es un ingrediente esencial para preparar platos emblemáticos como la feijoada, el arroz congrí, o cualquier guiso y potaje. Además de su excelente sabor, el Frijol Negro de IFA es una Fuente de Fibra, contribuyendo a una dieta equilibrada y nutritiva. Cada paquete de 500 g garantiza granos de alta calidad, listos para ser remojados y cocinados hasta alcanzar la perfección. ¡Elige IFA para asegurar el auténtico sabor en tus platos más queridos!",
+      "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:14:30.688Z"
     },
     {
       "id": "mlgzank3-uh8jflq",
@@ -1568,10 +1517,10 @@
       "id": "mlq6zbut-1rdpwoy",
       "nombre": "Salsa Barbacoa Vima",
       "categoria": "aderezos",
-      "precio": 2.87,
+      "precio": 2.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "salsa_barbacoa.jpeg"
@@ -1579,24 +1528,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlq7104r-lquoyy1",
-      "nombre": "Ketchup",
-      "categoria": "aderezos",
-      "precio": 1.87,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "ketchup.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-23T06:14:30.689Z"
     },
     {
       "id": "mlq721wl-1plcgdw",
@@ -1945,15 +1877,15 @@
       "precio": 37,
       "descuento": 0.03,
       "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
+      "nuevo": false,
+      "oferta": true,
       "imagenes": [
         "queso_gouda_vima_3kg.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T14:04:11.189Z"
+      "modified_at": "2026-05-23T06:14:30.689Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -2974,23 +2906,6 @@
       "disponibilidad": true,
       "created_at": "2026-05-05T06:54:31.458Z",
       "modified_at": "2026-05-05T06:54:31.458Z"
-    },
-    {
-      "id": "prod_1778655933218_bu3h397ko",
-      "nombre": "Caja de refresco de cola",
-      "categoria": "bebidas",
-      "precio": 16,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "images_1778655933234.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-13T07:16:20.630Z",
-      "modified_at": "2026-05-13T07:16:20.630Z"
     },
     {
       "id": "prod_1778847649268_1j5z7ejzk",
