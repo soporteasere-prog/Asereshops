@@ -73,38 +73,21 @@
       "nombre": "Queso blanco x Lb",
       "categoria": "lacteos",
       "precio": 2.91,
-      "descuento": 0,
+      "descuento": 14.43,
       "mas_vendido": true,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "queso_criollo.jpg"
       ],
-      "descripcion": "Queso Criollo Fresco, Disfruta del auténtico sabor del queso criollo, un clásico en la cocina tradicional. Este queso fresco tiene una textura firme y ligeramente quebradiza, ideal para rallar, cortar en cubos o simplemente disfrutarlo como está. Su color blanco puro y su aroma suave evocan frescura y calidad artesanal. Perfecto para acompañar tus platos favoritos, ya sea como ingrediente en ensaladas, arepas o junto a frutas y miel. Este queso es una opción deliciosa y versátil para los amantes de los sabores auténticos.",
+      "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank1-14h56hk",
-      "nombre": "Nutela",
-      "categoria": "confituras",
-      "precio": 7.67,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "nutela.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:57:58.422Z"
     },
     {
       "id": "mlgzank1-12y2y72",
-      "nombre": "Azúcar blanca x kg",
+      "nombre": "Azúcar blanca x Kg",
       "categoria": "despensa",
       "precio": 2.19,
       "descuento": 0,
@@ -117,58 +100,24 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:14:30.689Z"
+      "modified_at": "2026-05-27T05:58:00.412Z"
     },
     {
       "id": "mlgzank2-1gog4gl",
       "nombre": "Frijol Negro x Lb",
       "categoria": "pastas-y-granos",
-      "precio": 1.87,
-      "descuento": 0,
+      "precio": 2.54,
+      "descuento": 43.7,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "Frijol_Negro.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank2-c6lmvk1",
-      "nombre": "pan de bola 8u/10u",
-      "categoria": "despensa",
-      "precio": 1.8,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "Pan.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank2-1cy7vbf",
-      "nombre": "Pastilla de Pollo",
-      "categoria": "despensa",
-      "precio": 0.2,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "Pastilla_de_Pollo.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:22.226Z"
     },
     {
       "id": "mlgzank2-1pwcv2o",
@@ -205,42 +154,25 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank2-33xzoiy",
-      "nombre": "Leche Condensada azucarada (390g)",
-      "categoria": "enlatados",
-      "precio": 1.67,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "leche_condensada_azucarada_390g.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank2-psrcao1",
       "nombre": "Arroz Blanco (1Kg)",
       "categoria": "pastas-y-granos",
       "precio": 1.79,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "arroz_blanco_1kg.jpg"
+        "572142_1779859926201.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:31.500Z"
     },
     {
       "id": "mlgzank2-147xys0",
-      "nombre": "sal (1kg)",
+      "nombre": "Paquete de sal (1kg)",
       "categoria": "despensa",
       "precio": 0.97,
       "descuento": 0,
@@ -253,7 +185,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:37.877Z"
     },
     {
       "id": "mlgzank2-1nnvd1p",
@@ -359,20 +291,20 @@
     },
     {
       "id": "mlgzank2-7lrzeme",
-      "nombre": "Caja de refresco Naranja",
+      "nombre": "Caja de Refresco de Naranja 24u",
       "categoria": "bebidas",
-      "precio": 17.97,
+      "precio": 19.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "caja_de_refresco_naranja.jpg"
+        "19249_1779860899292.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:41.802Z"
     },
     {
       "id": "mlgzank2-58oemeg",
@@ -443,23 +375,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank2-1wjn711",
-      "nombre": "Pasta de tomate Oderich 350g",
-      "categoria": "enlatados",
-      "precio": 1.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pasta_de_tomate_400g.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank2-1lffzlq",
       "nombre": "Papel Sanitario 4 rollos",
       "categoria": "otros",
@@ -522,10 +437,10 @@
       "imagenes": [
         "refresco_gaseado.jpg"
       ],
-      "descripcion": "Sabor según disponibilidad del momento. Disfruta del refrescante y vibrante surtido de bebidas de Ciego Montero, una línea de refrescos con sabor tradicional que no puede faltar en tu hogar. Este pack incluye tres de sus sabores más populares, presentados en convenientes botellas de plástico, perfectas para cualquier ocasión. Encontrarás la clásica Tukola, con su inconfundible sabor a cola; una refrescante gaseosa, ideal para quienes prefieren un sabor más neutro y burbujeante; y la deliciosa Naranja, una explosión de sabor cítrico que te encantará. Cada botella está claramente identificada con su etiqueta y color característico, facilitando la elección. Ideales para acompañar tus comidas, animar tus fiestas o simplemente para saciar tu sed en cualquier momento del día. Elige el pack de refrescos Ciego Montero y disfruta de la variedad y el sabor que te ofrecen.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:52.871Z"
     },
     {
       "id": "mlgzank3-426dh21",
@@ -545,81 +460,30 @@
       "modified_at": "2026-05-23T06:57:13.934Z"
     },
     {
-      "id": "mlgzank3-14obyzx",
-      "nombre": "Paquete de Azúcar Extra Fina 1Kg",
-      "categoria": "despensa",
-      "precio": 1.77,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "azcar_extra_fina_1kg_mirante.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank3-12z5u5d",
-      "nombre": "Costillas de Cerdo x Lb",
-      "categoria": "cárnicos",
-      "precio": 3.5,
-      "descuento": 17.1,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "costillas_de_cerdo_x_lb.jpg"
-      ],
-      "descripcion": "Corte de carne fresca. Se corta al pedido. Ideal para tu cocina y tus comidas",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank3-1qm9qmp",
       "nombre": "Frijol Negro (500g)",
       "categoria": "pastas-y-granos",
-      "precio": 1.73,
-      "descuento": 0,
+      "precio": 1.99,
+      "descuento": 20.1,
       "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
+      "nuevo": false,
+      "oferta": true,
       "imagenes": [
         "frijol_negro_alubia_500g.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:14:30.688Z"
-    },
-    {
-      "id": "mlgzank3-uh8jflq",
-      "nombre": "Cebolla blanca × lb",
-      "categoria": "agro",
-      "precio": 3.371,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mazo_de_cebolla_blanca.jpg"
-      ],
-      "descripcion": "La cebolla blanca es un ingrediente esencial, reconocida por su frescura y calidad. Su forma redonda y su brillante color blanco la hacen atractiva, mientras que su sabor suave pero distintivo es ideal para una amplia variedad de recetas. Desde sofritos aromáticos hasta ensaladas crujientes, esta cebolla agrega un toque especial a cualquier platillo. Perfecta para quienes valoran productos naturales y versátiles en su cocina, garantizando satisfacción en cada preparación.",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:22.227Z"
     },
     {
       "id": "mlgzank3-1pzccww",
       "nombre": "Leche entera en polvo (1kg)",
       "categoria": "lacteos",
-      "precio": 9.13,
+      "precio": 8.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "leche_entera_en_polvo_1kg.jpg"
@@ -627,7 +491,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:57.781Z"
     },
     {
       "id": "mlgzank4-1gsjq05",
@@ -665,29 +529,29 @@
     },
     {
       "id": "mlgzank4-1mscjxf",
-      "nombre": "Paquete de coditos 500g",
+      "nombre": "Coditos Doga (500g)",
       "categoria": "despensa",
       "precio": 0.99,
       "descuento": 6.06,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete_de_coditos_500g.jpg"
+        "1566_1779861242092.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:44:06.374Z"
+      "modified_at": "2026-05-27T05:58:59.932Z"
     },
     {
       "id": "mlgzank4-dez8evc",
       "nombre": "Desodorante Keewell 24h",
       "categoria": "aseo",
-      "precio": 1.47,
-      "descuento": 0,
+      "precio": 1.97,
+      "descuento": 25.38,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "desodorante_keewell_24h.jpg"
@@ -695,7 +559,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:59:03.774Z"
     },
     {
       "id": "mlgzank4-1minyju",
@@ -730,23 +594,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-05-23T06:57:22.390Z"
-    },
-    {
-      "id": "mlgzank4-1a8sirs",
-      "nombre": "Refresco gaseado 1.5lts",
-      "categoria": "bebidas",
-      "precio": 2.37,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "refresco_gaseado_1.5lts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
     },
     {
       "id": "mlgzank4-jlsho8g",
@@ -925,15 +772,15 @@
       "precio": 183,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "lavadora_mystic_super_wash_7kg.jpg"
       ],
-      "descripcion": "La Lavadora Mystic Super Wash de 7Kg es una opción práctica y eficiente para el hogar, diseñada para ofrecer un lavado confiable en un formato compacto. Su estructura resistente y su panel de control superior facilitan el uso diario, permitiendo ciclos de lavado rápidos y efectivos. Con capacidad para 7 kilogramos, es ideal para familias pequeñas o para quienes buscan una solución económica y funcional. Su diseño moderno en tonos blanco y negro combina con cualquier espacio, y cuenta con 1 mes de garantía, brindando seguridad y respaldo al comprador.",
-      "disponibilidad": true,
+      "descripcion": "",
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:59:03.774Z"
     },
     {
       "id": "mlgzank4-1wkh6v7",
@@ -942,32 +789,15 @@
       "precio": 183,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "lavadora_milexus_7kg.jpg"
       ],
-      "descripcion": "La Lavadora Milexus de 7Kg es una opción práctica y eficiente para el hogar, diseñada para ofrecer un lavado confiable en un formato compacto. Cuenta con un panel superior de tres perillas que permite seleccionar fácilmente los ciclos y funciones, además de un sistema Air Dry que mejora el secado de la ropa. Su capacidad de 7 kilogramos la hace ideal para familias pequeñas o para quienes buscan una solución económica y funcional. Con un diseño moderno y resistente, es perfecta para espacios reducidos y uso diario. Incluye 1 mes de garantía, brindando seguridad y respaldo al comprador.",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank5-fsnsjq1",
-      "nombre": "Saco de Azúcar 50kg",
-      "categoria": "despensa",
-      "precio": 80,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "saco_de_azcar_50kg.jpeg"
-      ],
-      "descripcion": "Azúcar Don Isidro refino, de muy buena calidad",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.634Z"
+      "modified_at": "2026-05-27T05:59:03.775Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -976,15 +806,15 @@
       "precio": 1.47,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "picadillo_de_pollo_guibon.jpg"
       ],
       "descripcion": "El mejor picadillo de este lado del Mississippi. Ideal para toda la familia. Calidad en cada porción",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:22.390Z"
+      "modified_at": "2026-05-27T05:59:03.775Z"
     },
     {
       "id": "mlh17sjk-1ltd9c1",
@@ -1333,24 +1163,24 @@
       "precio": 2.9,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_de_4_yogurts_natural_azucarado_vima.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:06.081Z"
     },
     {
       "id": "mlq6tkin-1cei2l5",
-      "nombre": "Salsa Cocktail Vima",
+      "nombre": "Salsa Cocktail «Vima» (225ml)",
       "categoria": "aderezos",
       "precio": 3.37,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "salsa_cocktail.jpeg"
@@ -1358,24 +1188,24 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:39.736Z"
     },
     {
       "id": "mlq6yah4-1vaviqx",
       "nombre": "Leche Condensada",
       "categoria": "despensa",
-      "precio": 1.39,
-      "descuento": 0,
+      "precio": 1.49,
+      "descuento": 6.71,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "1000083089_1779469718675.webp"
+        "18646_1779859799446.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-22T17:16:45.016Z"
+      "modified_at": "2026-05-27T05:58:25.889Z"
     },
     {
       "id": "mlq6zbut-1rdpwoy",
@@ -1447,20 +1277,20 @@
     },
     {
       "id": "mlq7aq58-1jmj44p",
-      "nombre": "Pasta de Tomate Vima",
+      "nombre": "Pasta de tomate Vima (400g)",
       "categoria": "despensa",
-      "precio": 1.47,
-      "descuento": 0,
+      "precio": 1.85,
+      "descuento": 24.86,
       "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
+      "nuevo": false,
+      "oferta": true,
       "imagenes": [
         "pasta_de_tomate_vima.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:18.495Z"
     },
     {
       "id": "mlqxb74h-15nfelz",
@@ -1532,20 +1362,20 @@
     },
     {
       "id": "mmbwn2vx-m283nb1",
-      "nombre": "Caja de refresco Limon",
+      "nombre": "Caja de Refresco de Limón 24u",
       "categoria": "bebidas",
-      "precio": 17.97,
-      "descuento": 0,
+      "precio": 19.99,
+      "descuento": 10.11,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "caja_de_refresco_limon.jpeg"
+        "19250-600x600_1779860961881.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:45.712Z"
     },
     {
       "id": "mmdrgbwy-op6gwh3",
@@ -1602,18 +1432,18 @@
       "id": "mml2tcre-1yodt0e",
       "nombre": "Queso Gouda Vima 3Kg",
       "categoria": "lacteos",
-      "precio": 37,
-      "descuento": 0.03,
+      "precio": 36.99,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "queso_gouda_vima_3kg.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:14:30.689Z"
+      "modified_at": "2026-05-27T05:57:58.424Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -1685,9 +1515,9 @@
     },
     {
       "id": "mmq2bugb-i6nwxh1",
-      "nombre": "Azúcar Blanca (1Kg)",
+      "nombre": "Azúcar (1Kg)",
       "categoria": "despensa",
-      "precio": 2.13,
+      "precio": 2.05,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1698,7 +1528,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-22T17:16:40.539Z"
+      "modified_at": "2026-05-27T05:58:04.208Z"
     },
     {
       "id": "mmq2d45l-1yp3xfb",
@@ -1956,23 +1786,6 @@
       "modified_at": "2026-05-15T13:43:54.629Z"
     },
     {
-      "id": "mn7880z5-4w3o9x1",
-      "nombre": "Saco de Arroz Premium 100Lb",
-      "categoria": "despensa",
-      "precio": 75,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "saco_de_arroz_premium_100lb.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-15T12:25:51.572Z"
-    },
-    {
       "id": "mn77q2ru-fyc0glj",
       "nombre": "Arroz Criolllo x Libra",
       "categoria": "despensa",
@@ -2025,20 +1838,20 @@
     },
     {
       "id": "mn7mnt65-6h0qe9w",
-      "nombre": "Pasta dental 100g",
+      "nombre": "Pasta dental CRHOT",
       "categoria": "aseo",
-      "precio": 1.29,
-      "descuento": 0,
+      "precio": 1.59,
+      "descuento": 18.87,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "pasta_dental_100g.jpg"
+        "253_1779859543753.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:20.522Z"
     },
     {
       "id": "mn7miy5q-1yskdi7",
@@ -2314,7 +2127,7 @@
     },
     {
       "id": "moi8xgdx-1qeyjdg",
-      "nombre": "Salsa de Soja 150ml",
+      "nombre": "Salsa Soja (150ml)",
       "categoria": "aderezos",
       "precio": 1.67,
       "descuento": 4.79,
@@ -2327,7 +2140,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-22T17:29:22.153Z"
+      "modified_at": "2026-05-27T05:58:37.878Z"
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -2348,12 +2161,12 @@
     },
     {
       "id": "moi94ev9-xtb0ig1",
-      "nombre": "Paquete de cebollas en tiras",
+      "nombre": "Cebolla en Tiras 1Kg Vima",
       "categoria": "despensa",
       "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_cebollas_en_tiras.jpg"
@@ -2361,7 +2174,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T05:58:57.781Z"
     },
     {
       "id": "moi98wtu-122h0ru",
@@ -2535,7 +2348,7 @@
     },
     {
       "id": "prod_1778847649268_1j5z7ejzk",
-      "nombre": "Saco de arroz 22.68kg",
+      "nombre": "Saco de Arroz 50Lb",
       "categoria": "pastas-y-granos",
       "precio": 40.99,
       "descuento": 0,
@@ -2548,7 +2361,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-15T12:25:55.566Z",
-      "modified_at": "2026-05-15T12:25:55.566Z"
+      "modified_at": "2026-05-27T05:58:37.877Z"
     },
     {
       "id": "prod_1778847806170_jkkjx370h",
@@ -2634,6 +2447,125 @@
       "disponibilidad": true,
       "created_at": "2026-05-22T17:29:27.072Z",
       "modified_at": "2026-05-22T17:29:27.072Z"
+    },
+    {
+      "id": "prod_1779858736996_zjhtge405",
+      "nombre": "Carne de Res Enlatada (400g)",
+      "categoria": "cárnicos",
+      "precio": 1.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "560021-600x600_1779858737011.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:57:50.712Z",
+      "modified_at": "2026-05-27T05:57:50.712Z"
+    },
+    {
+      "id": "prod_1779858880649_gzwrc49yi",
+      "nombre": "Pernil de Cerdo asado (25 libras)",
+      "categoria": "cárnicos",
+      "precio": 65,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pernil_de_cerdo_asado_15_libras_1779858880682.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:57:55.881Z",
+      "modified_at": "2026-05-27T05:57:55.881Z"
+    },
+    {
+      "id": "prod_1779858910615_na9zlcivr",
+      "nombre": "Pernil de Cerdo asado (20 libras)",
+      "categoria": "cárnicos",
+      "precio": 58,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pernil_de_cerdo_asado_15_libras_1779858910638.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:57:58.420Z",
+      "modified_at": "2026-05-27T05:57:58.420Z"
+    },
+    {
+      "id": "prod_1779859225646_w1oxwv3sx",
+      "nombre": "Saco de Azucar Blanca 25Kg",
+      "categoria": "despensa",
+      "precio": 49.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "16817-600x900_1779859225663.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:58:06.080Z",
+      "modified_at": "2026-05-27T05:58:06.080Z"
+    },
+    {
+      "id": "prod_1779859869975_0b7rj40s1",
+      "nombre": "Leche Condensada «Vima» (390g)",
+      "categoria": "lacteos",
+      "precio": 1.73,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "603880_1779859869987.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:58:29.469Z",
+      "modified_at": "2026-05-27T05:58:29.469Z"
+    },
+    {
+      "id": "prod_1779860298512_ef39veear",
+      "nombre": "Salchichas Coctel 1kg",
+      "categoria": "cárnicos",
+      "precio": 8.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "8546-600x713_1779860298532.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:58:39.736Z",
+      "modified_at": "2026-05-27T05:58:39.736Z"
+    },
+    {
+      "id": "prod_1779861015786_uvh6vskdr",
+      "nombre": "Caja de Refresco de Cola 24u",
+      "categoria": "bebidas",
+      "precio": 19.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "19248_1779861015800.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T05:58:50.119Z",
+      "modified_at": "2026-05-27T05:58:50.119Z"
     }
   ]
 }
