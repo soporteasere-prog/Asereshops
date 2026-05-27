@@ -11,9 +11,9 @@
       "oferta": false,
       "disponible": true,
       "imagenes": [
-        "8895_1779860555449.webp"
+        "8895_1779861776162.webp"
       ],
-      "imagen": "8895_1779860555449.webp",
+      "imagen": "8895_1779861776162.webp",
       "descripcion": "",
       "caracteristicas": [
         "x5Lb frijoles negros",
@@ -27,7 +27,7 @@
         "x10lb de carne de cerdo"
       ],
       "created_at": "2026-05-27T05:59:15.640Z",
-      "modified_at": "2026-05-27T05:59:15.640Z"
+      "modified_at": "2026-05-27T06:03:54.695Z"
     },
     {
       "id": "7",
@@ -40,9 +40,9 @@
       "oferta": false,
       "disponible": true,
       "imagenes": [
-        "12398_1779860741841.webp"
+        "12398_1779861790189.webp"
       ],
-      "imagen": "12398_1779860741841.webp",
+      "imagen": "12398_1779861790189.webp",
       "descripcion": "",
       "caracteristicas": [
         "x3 Espaguetis",
@@ -50,7 +50,7 @@
         "x2lb Queso blanco"
       ],
       "created_at": "2026-05-27T05:59:15.664Z",
-      "modified_at": "2026-05-27T05:59:15.664Z"
+      "modified_at": "2026-05-27T06:03:57.438Z"
     }
   ]
 }
