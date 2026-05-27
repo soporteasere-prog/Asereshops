@@ -131,10 +131,10 @@
       "imagenes": [
         "cartn_de_huevos.jpg"
       ],
-      "descripcion": "Disfruta del sabor inigualable de los verdaderos huevos de campo. Nuestros huevos provienen de gallinas criadas en libertad, al aire libre, donde pueden picotear pastos naturales, moverse sin restricciones y llevar una vida libre de estrés. Esta alimentación variada y su bienestar se traducen directamente en un producto superior: yemas de color intenso, cremosas y consistentes, y un sabor auténtico que transformará tus desayunos y recetas. Al elegir nuestros huevos frescos, no solo estás comprando un alimento rico en proteínas y nutrientes, sino que también apoyas las prácticas de bienestar animal y la agricultura sostenible. ¡Lleva a tu mesa la frescura y la calidad que solo los huevos de gallinas felices pueden ofrecer!",
+      "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:16.201Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -565,18 +565,18 @@
       "id": "mlgzank4-1minyju",
       "nombre": "Paquete de hígados de pollo",
       "categoria": "cárnicos",
-      "precio": 3.17,
-      "descuento": 0,
+      "precio": 3.57,
+      "descuento": 11.2,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:07.775Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -636,15 +636,15 @@
       "precio": 950,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "bicicleta_elctrica_bucatti_48v_1000w.jpg"
       ],
-      "descripcion": "La Bicicleta Eléctrica Bucatti es un modelo robusto y moderno diseñado para ofrecer potencia, autonomía y comodidad en cada recorrido. Equipada con un motor de 1000 watts, funciona con un sistema eléctrico de 48V y una batería de 22,5Ah. ideal para desplazamientos urbanos y trayectos más largos sin esfuerzo. Sus gomas #16 proporcionan estabilidad y agarre, mientras que su diseño compacto y deportivo la hace perfecta para uso diario. disponibilidad en colores negro y rojo, es una opción confiable para quienes buscan movilidad eficiente y un estilo llamativo. Incluye garantía de 1 mes.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.371Z"
     },
     {
       "id": "mlgzank4-1wq8bgu",
@@ -653,15 +653,15 @@
       "precio": 900,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "bici_moto_vedca_48v_30ah.jpg"
       ],
-      "descripcion": "La Bici Moto VEDCA es una opción compacta, moderna y eficiente para quienes buscan movilidad eléctrica confiable. Funciona con un sistema de 48V y una batería de 30Ah, ofreciendo una excelente autonomía para recorridos urbanos. Sus gomas #10 brindan estabilidad y maniobrabilidad, mientras que su diseño tipo scooter la hace cómoda y fácil de conducir. disponibilidad en colores rojo, azul y negro, combina estilo con funcionalidad. Incluye garantía de 1 mes, convirtiéndola en una alternativa ideal para el transporte diario con bajo consumo y cero emisiones.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.372Z"
     },
     {
       "id": "mlgzank4-409alq8",
@@ -670,15 +670,15 @@
       "precio": 750,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "bicicleta_elctrica_vedca.jpg"
       ],
-      "descripcion": "La Bicicleta Eléctrica VEDCA es una opción ligera, eficiente y práctica para quienes buscan movilidad urbana sin complicaciones. Equipada con una batería Litium Lipo4, ofrece un sistema eléctrico de 48V y 12Ah, ideal para recorridos diarios con un consumo mínimo. Sus gomas #10 garantizan estabilidad y maniobrabilidad, mientras que su autonomía de 35 a 40 km permite desplazamientos cómodos sin necesidad de recargas frecuentes. Su diseño compacto con cesta frontal la hace perfecta para compras, mandados o transporte personal. Incluye garantía de un mes, convirtiéndola en una alternativa confiable y accesible para el día a día.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.372Z"
     },
     {
       "id": "mlgzank4-1gxic6r",
@@ -687,15 +687,15 @@
       "precio": 1550,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "bici_moto_top_maq_evolution_2025.jpg"
       ],
-      "descripcion": "La Bici Moto TOP MAQ Evolution 2025 es un modelo de alto rendimiento diseñado para quienes buscan potencia, autonomía y estilo en un solo vehículo eléctrico. Equipada con un sistema de 48V y una batería de 45Ah, ofrece una excelente duración por carga, ideal para recorridos largos. Su motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #14 garantizan agarre y seguridad en diferentes superficies. Con un diseño moderno y deportivo, disponibilidad en colores rojo, azul, blanco y negro, esta versión 2025 combina estética y funcionalidad. Incluye garantía de 1 mes, convirtiéndose en una opción premium dentro de la movilidad eléctrica.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.372Z"
     },
     {
       "id": "mlgzank4-g7v4ro8",
@@ -704,15 +704,15 @@
       "precio": 1400,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "bici_power_bucatty_2025_48v_45ah_3000w.jpg"
       ],
-      "descripcion": "La Bici Power Bucatty 2025 es un modelo eléctrico de alto rendimiento diseñado para quienes buscan potencia, autonomía y estilo en un solo vehículo. Su sistema de 48V combinado con una batería de 45Ah ofrece una excelente duración por carga, ideal para recorridos largos y uso intensivo. El motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #14 garantizan agarre y seguridad en diferentes superficies. Con un diseño moderno y robusto, disponibilidad en color rojo, esta versión 2025 destaca por su presencia y fiabilidad. Incluye garantía de 1 mes, convirtiéndose en una opción premium dentro de la movilidad eléctrica.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.372Z"
     },
     {
       "id": "mlgzank4-unisua4",
@@ -721,15 +721,15 @@
       "precio": 1150,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "bici_moto_vedca_lipo4_60v_30ah_1000w.jpg"
       ],
-      "descripcion": "La Bici Moto VEDCA Lipo4 es una opción potente y moderna dentro de la movilidad eléctrica, equipada con una batería Lipo4 de 60V y 30Ah que ofrece una excelente autonomía y rendimiento. Su motor de 1000W proporciona una aceleración estable y suficiente para desplazamientos urbanos y trayectos más largos. Las gomas #10 garantizan un buen agarre y maniobrabilidad, mientras que su diseño compacto y estilizado la convierte en una alternativa práctica y atractiva para el uso diario. disponibilidad en colores rojo, azul y morado, incluye garantía de 1 mes, ofreciendo seguridad y confianza al comprador.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.373Z"
     },
     {
       "id": "mlgzank4-rvl9qi1",
@@ -738,15 +738,15 @@
       "precio": 2150,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "motorina_top_maq_raptor_72v_45ah_3000w.jpg"
       ],
-      "descripcion": "La Motorina TOP MAQ Raptor es un modelo eléctrico de alto rendimiento diseñado para quienes buscan potencia, autonomía y una conducción sólida. Equipada con un sistema de 72V y una batería de 45Ah, ofrece una excelente duración por carga, ideal para recorridos largos y uso intensivo. Su motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #13 garantizan agarre y seguridad en diferentes superficies. Incluye además caja Votol M50, un controlador avanzado que mejora la respuesta y eficiencia del motor. disponibilidad en color rojo, este modelo combina diseño moderno, robustez y fiabilidad. Incluye garantía de 1 mes.",
+      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.374Z"
     },
     {
       "id": "mlgzank4-16i28ko",
@@ -755,49 +755,15 @@
       "precio": 2150,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "motorina_top_maq_ff_72v_45ah_3000w.jpg"
       ],
-      "descripcion": "La Motorina TOP MAQ FF es un modelo eléctrico de alto rendimiento diseñado para quienes buscan potencia, autonomía y un estilo moderno. Funciona con un sistema de 72V y una batería de 45Ah, ofreciendo una excelente duración por carga ideal para recorridos largos y uso intensivo. Su motor de 3000 watts proporciona una aceleración fuerte y estable, mientras que sus gomas #13 garantizan agarre y seguridad en diferentes superficies. Incorpora además caja Votol M50, un controlador avanzado que optimiza la respuesta del motor y mejora la eficiencia general. disponibilidad en colores rojo y negro, este modelo combina diseño robusto, tecnología y fiabilidad. Incluye garantía de 1 mes.",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank4-vmo15hq",
-      "nombre": "Lavadora Mystic Super Wash (7Kg)",
-      "categoria": "electrodomésticos",
-      "precio": 183,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "lavadora_mystic_super_wash_7kg.jpg"
-      ],
       "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-27T05:59:03.774Z"
-    },
-    {
-      "id": "mlgzank4-1wkh6v7",
-      "nombre": "Lavadora Milexus (7Kg)",
-      "categoria": "electrodomésticos",
-      "precio": 183,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "lavadora_milexus_7kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T05:59:03.775Z"
+      "modified_at": "2026-05-27T06:31:12.375Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -1010,15 +976,15 @@
       "precio": 7.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caf_molido_natural.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:12.375Z"
     },
     {
       "id": "mlq5zw0f-1dg1iuw",
@@ -1208,23 +1174,6 @@
       "modified_at": "2026-05-27T05:58:25.889Z"
     },
     {
-      "id": "mlq6zbut-1rdpwoy",
-      "nombre": "Salsa Barbacoa Vima",
-      "categoria": "aderezos",
-      "precio": 2.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "salsa_barbacoa.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-23T06:14:30.689Z"
-    },
-    {
       "id": "mlq721wl-1plcgdw",
       "nombre": "Mostaza Vima",
       "categoria": "aderezos",
@@ -1238,23 +1187,6 @@
       ],
       "descripcion": "",
       "disponibilidad": true,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlq73223-1ukra32",
-      "nombre": "Salsa Brava",
-      "categoria": "aderezos",
-      "precio": 2.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "salsa_brava.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
       "created_at": null,
       "modified_at": null
     },
@@ -1600,7 +1532,7 @@
     },
     {
       "id": "mmq2m3z4-16dcmut",
-      "nombre": "Pack x 6 maltas Guajira (6x1.5lts)",
+      "nombre": "Pack 6u Malta Guajira 1.5Lt",
       "categoria": "bebidas",
       "precio": 17.99,
       "descuento": 0,
@@ -1613,7 +1545,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:18.216Z"
+      "modified_at": "2026-05-27T06:31:18.027Z"
     },
     {
       "id": "mmq2vpro-1bckqxm",
@@ -1684,23 +1616,6 @@
       "modified_at": null
     },
     {
-      "id": "mmxprxqc-wllozy1",
-      "nombre": "Paquete de Croquetas de Bacalao",
-      "categoria": "despensa",
-      "precio": 4.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_croquetas_de_bacalao.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-08T16:47:28.855Z"
-    },
-    {
       "id": "mmxptnd5-7a8q8vx",
       "nombre": "Paquete de papas prefritas 2.5kg",
       "categoria": "despensa",
@@ -1739,17 +1654,17 @@
       "nombre": "Cacao en Polvo 800g",
       "categoria": "despensa",
       "precio": 12.99,
-      "descuento": 0,
+      "descuento": 7.85,
       "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
+      "nuevo": false,
+      "oferta": true,
       "imagenes": [
         "cacao_en_polvo_800g.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:19.824Z"
     },
     {
       "id": "mn4imhrd-xpal1gu",
@@ -1806,10 +1721,10 @@
       "id": "mn77xr5d-xyulx13",
       "nombre": "Pack de 12 Botellas de Agua Purificada",
       "categoria": "bebidas",
-      "precio": 10.19,
+      "precio": 9.59,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_de_12_botellas_de_agua_purificada.webp"
@@ -1817,7 +1732,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:19.825Z"
     },
     {
       "id": "mn7mmrfk-19rl3s5",
@@ -1832,9 +1747,9 @@
         "caramelos_de_leche_50u.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-22T17:16:42.445Z"
+      "modified_at": "2026-05-27T06:31:19.825Z"
     },
     {
       "id": "mn7mnt65-6h0qe9w",
@@ -1855,20 +1770,20 @@
     },
     {
       "id": "mn7miy5q-1yskdi7",
-      "nombre": "Mayonesa Vima 450ml",
+      "nombre": "Mayonesa Light Vima (450ml)",
       "categoria": "aderezos",
-      "precio": 4.57,
+      "precio": 3.79,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "mayonesa_vima_450ml.jpg"
+        "1000452470_1779862914129.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:21.821Z"
     },
     {
       "id": "mn7mkh9e-mt5qc61",
@@ -1928,15 +1843,15 @@
       "precio": 4.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_mollejas_de_pollo_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:07.774Z"
     },
     {
       "id": "mna5knx0-b76b8k1",
@@ -2007,23 +1922,6 @@
       "modified_at": null
     },
     {
-      "id": "mniyvfrn-11e10ac",
-      "nombre": "Maizena 1kg",
-      "categoria": "despensa",
-      "precio": 5.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "maizena_1kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-23T06:57:32.397Z"
-    },
-    {
       "id": "mnq50bj3-1qtfbhl",
       "nombre": "Pacas de arroz 30u de 1Kg",
       "categoria": "pastas-y-granos",
@@ -2076,12 +1974,12 @@
     },
     {
       "id": "moe4pk8o-g9eg3xx",
-      "nombre": "Pomo de Alubias blancas 540g",
+      "nombre": "Alubias Blancas 540g Vima",
       "categoria": "despensa",
       "precio": 2.59,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pomo_de_alubias_blancas_540g.jpg"
@@ -2089,7 +1987,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:32.398Z"
+      "modified_at": "2026-05-27T06:31:24.855Z"
     },
     {
       "id": "moe4v4df-1bgw0pm",
@@ -2112,10 +2010,10 @@
       "id": "moi9r658-1f6zort",
       "nombre": "Malta Guajira 1.5lts",
       "categoria": "bebidas",
-      "precio": 3.47,
+      "precio": 3.29,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "malta_guajira_1.5lts.webp"
@@ -2123,7 +2021,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:24.856Z"
     },
     {
       "id": "moi8xgdx-1qeyjdg",
@@ -2144,12 +2042,12 @@
     },
     {
       "id": "moi932d9-3elkd8k",
-      "nombre": "Paquete de Champiñones 1kg",
+      "nombre": "Champiñones Enteros 1Kg Vima",
       "categoria": "despensa",
       "precio": 6.29,
       "descuento": 4.61,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_championes_1kg.jpg"
@@ -2157,7 +2055,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.633Z"
+      "modified_at": "2026-05-27T06:31:24.856Z"
     },
     {
       "id": "moi94ev9-xtb0ig1",
@@ -2183,15 +2081,15 @@
       "precio": 7.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "chorizo_premium_vima_3und.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-27T06:31:24.856Z"
     },
     {
       "id": "moi9bj6w-1toot66",
@@ -2223,43 +2121,26 @@
         "melocotn_en_almibar_3kg.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:35.609Z"
+      "modified_at": "2026-05-27T06:31:24.856Z"
     },
     {
       "id": "moi9lh1q-18m53iy",
-      "nombre": "Caja de 27 jugos de manzana",
+      "nombre": "Caja de Jugo La Estancia Sabor Manzana 27u",
       "categoria": "bebidas",
-      "precio": 17.59,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_27_jugos_de_manzana.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-15T13:44:14.418Z"
-    },
-    {
-      "id": "moi9mh1b-1kx2nhi",
-      "nombre": "Caja de 27 jugos de mango",
-      "categoria": "bebidas",
-      "precio": 17.59,
-      "descuento": 0,
+      "precio": 19.97,
+      "descuento": 11.92,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "caja_de_27_jugos_de_mango.jpg"
+        "18508_1779863249024.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:36.758Z"
+      "modified_at": "2026-05-27T06:31:32.396Z"
     },
     {
       "id": "mon0i35f-oxbfit6",
@@ -2427,9 +2308,9 @@
         "1000081599_1779282841144.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-20T13:14:13.919Z",
-      "modified_at": "2026-05-20T13:14:13.919Z"
+      "modified_at": "2026-05-27T06:31:45.114Z"
     },
     {
       "id": "prod_1779470950158_kr6xmachx",
@@ -2566,6 +2447,57 @@
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:50.119Z",
       "modified_at": "2026-05-27T05:58:50.119Z"
+    },
+    {
+      "id": "prod_1779862313985_w6o8v8k55",
+      "nombre": "Mostaza (300ml)",
+      "categoria": "aderezos",
+      "precio": 2.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000291878_1779862313999.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T06:31:16.201Z",
+      "modified_at": "2026-05-27T06:31:16.201Z"
+    },
+    {
+      "id": "prod_1779863394414_b6gj4n6uh",
+      "nombre": "Caja de Malta BOA 24u",
+      "categoria": "bebidas",
+      "precio": 23.5,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "11488_1779863394425.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T06:31:46.941Z",
+      "modified_at": "2026-05-27T06:31:46.941Z"
+    },
+    {
+      "id": "prod_1779863453850_90rp76jbl",
+      "nombre": "Galletas DULCE",
+      "categoria": "confituras",
+      "precio": 0.65,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1587-600x400_1779863453855.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-27T06:31:49.095Z",
+      "modified_at": "2026-05-27T06:31:49.095Z"
     }
   ]
 }
