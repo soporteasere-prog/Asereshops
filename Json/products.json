@@ -574,9 +574,9 @@
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:07.775Z"
+      "modified_at": "2026-05-29T06:39:39.501Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -1809,15 +1809,15 @@
       "precio": 7.27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "refresco_instantneo_pia_colada_20lts.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T01:35:48.146Z"
+      "modified_at": "2026-05-29T06:39:46.372Z"
     },
     {
       "id": "mna63lqq-1mnrmod",
@@ -2147,17 +2147,17 @@
       "nombre": "Galletas Saltitacos",
       "categoria": "confituras",
       "precio": 5,
-      "descuento": 0,
+      "descuento": 20.6,
       "mas_vendido": false,
-      "nuevo": true,
-      "oferta": false,
+      "nuevo": false,
+      "oferta": true,
       "imagenes": [
         "galletas_saltitacos.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-29T06:39:39.503Z"
     },
     {
       "id": "mon0jma2-dc0h1f1",
@@ -2498,6 +2498,91 @@
       "disponibilidad": true,
       "created_at": "2026-05-27T06:31:49.095Z",
       "modified_at": "2026-05-27T06:31:49.095Z"
+    },
+    {
+      "id": "prod_1780036555259_zhr6x5of2",
+      "nombre": "Spam de Cerdo (340g)",
+      "categoria": "enlatados",
+      "precio": 2.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "444114-600x600_1780036555269.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-29T06:39:43.772Z",
+      "modified_at": "2026-05-29T06:39:43.772Z"
+    },
+    {
+      "id": "prod_1780036583010_2sg3ync8t",
+      "nombre": "Spam de Res (340g)",
+      "categoria": "enlatados",
+      "precio": 2.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "444119-600x600_1780036583028.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-29T06:39:46.372Z",
+      "modified_at": "2026-05-29T06:39:46.372Z"
+    },
+    {
+      "id": "prod_1780036689025_8gtckttiu",
+      "nombre": "Sardinas en Salsa de Tomate 1Kg",
+      "categoria": "enlatados",
+      "precio": 7.09,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20173_1780036689047.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-29T06:39:48.783Z",
+      "modified_at": "2026-05-29T06:39:48.783Z"
+    },
+    {
+      "id": "prod_1780036724817_w1rhqc6tt",
+      "nombre": "Sardinas en Aceite Vegetal 1Kg",
+      "categoria": "enlatados",
+      "precio": 7.09,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20175_1780036724860.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-29T06:39:51.073Z",
+      "modified_at": "2026-05-29T06:39:51.073Z"
+    },
+    {
+      "id": "prod_1780036769803_qwbur3m87",
+      "nombre": "Galletas de Soda con Mantequilla Doricas",
+      "categoria": "confituras",
+      "precio": 3.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "doricas-1_1780036769823.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-05-29T06:39:54.177Z",
+      "modified_at": "2026-05-29T06:39:54.177Z"
     }
   ]
 }
