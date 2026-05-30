@@ -982,9 +982,9 @@
         "caf_molido_natural.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.375Z"
+      "modified_at": "2026-05-30T19:39:35.233Z"
     },
     {
       "id": "mlq5zw0f-1dg1iuw",
@@ -1435,15 +1435,15 @@
       "precio": 9,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caf_sello_rojo.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-05-30T19:39:35.232Z"
     },
     {
       "id": "mmq2bugb-i6nwxh1",
