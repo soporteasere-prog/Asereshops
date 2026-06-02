@@ -141,17 +141,17 @@
       "nombre": "Espaguetis (500g)",
       "categoria": "pastas-y-granos",
       "precio": 0.87,
-      "descuento": 0,
+      "descuento": 13.79,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "espaguetis_500g.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.721Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -310,7 +310,7 @@
       "id": "mlgzank2-58oemeg",
       "nombre": "Cervezas Cristal (355ml)",
       "categoria": "alcohol",
-      "precio": 1.15,
+      "precio": 1.1,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -321,13 +321,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.725Z"
     },
     {
       "id": "mlgzank2-13eusc4",
       "nombre": "Caja de Cervezas Cristal",
       "categoria": "alcohol",
-      "precio": 23.5,
+      "precio": 21.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -338,7 +338,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.727Z"
     },
     {
       "id": "mlgzank2-xjt0jl1",
@@ -460,23 +460,6 @@
       "modified_at": "2026-05-23T06:57:13.934Z"
     },
     {
-      "id": "mlgzank3-1qm9qmp",
-      "nombre": "Frijol Negro (500g)",
-      "categoria": "pastas-y-granos",
-      "precio": 1.99,
-      "descuento": 20.1,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": true,
-      "imagenes": [
-        "frijol_negro_alubia_500g.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-27T05:58:22.227Z"
-    },
-    {
       "id": "mlgzank3-1pzccww",
       "nombre": "Leche entera en polvo (1kg)",
       "categoria": "lacteos",
@@ -497,10 +480,10 @@
       "id": "mlgzank4-1gsjq05",
       "nombre": "Caja de cerveza Bucanero 24u",
       "categoria": "alcohol",
-      "precio": 24,
+      "precio": 21.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_cerveza_bucanero_24u.jpg"
@@ -508,13 +491,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.731Z"
     },
     {
       "id": "mlgzank4-492ui61",
       "nombre": "Cerveza Bucanero x und.",
       "categoria": "alcohol",
-      "precio": 1.15,
+      "precio": 1.1,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": true,
@@ -525,7 +508,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.730Z"
     },
     {
       "id": "mlgzank4-1mscjxf",
@@ -681,23 +664,6 @@
       "modified_at": "2026-05-27T06:31:12.372Z"
     },
     {
-      "id": "mlgzank4-1gxic6r",
-      "nombre": "Bici Moto TOP MAQ Evolution 2025",
-      "categoria": "vehículos",
-      "precio": 1550,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "bici_moto_top_maq_evolution_2025.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.372Z"
-    },
-    {
       "id": "mlgzank4-g7v4ro8",
       "nombre": "Bici Power Bucatty 2025 (48V – 45Ah – 3000W)",
       "categoria": "vehículos",
@@ -730,40 +696,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-05-27T06:31:12.373Z"
-    },
-    {
-      "id": "mlgzank4-rvl9qi1",
-      "nombre": "Motorina TOP MAQ Raptor (72V – 45Ah – 3000W)",
-      "categoria": "vehículos",
-      "precio": 2150,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "motorina_top_maq_raptor_72v_45ah_3000w.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.374Z"
-    },
-    {
-      "id": "mlgzank4-16i28ko",
-      "nombre": "Motorina TOP MAQ FF (72V – 45Ah – 3000W)",
-      "categoria": "vehículos",
-      "precio": 2150,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "motorina_top_maq_ff_72v_45ah_3000w.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.375Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -803,10 +735,10 @@
       "id": "mli1qt1h-m8mjr31",
       "nombre": "Paquete de Cuartos de Pollo 10lb",
       "categoria": "cárnicos",
-      "precio": 13.79,
+      "precio": 13.49,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_cuartos_de_pollo_10lb.webp"
@@ -814,7 +746,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.722Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -838,17 +770,17 @@
       "nombre": "Leche Evaporada",
       "categoria": "lacteos",
       "precio": 2.5,
-      "descuento": 0,
+      "descuento": 24.4,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "leche_evaporada.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:22.392Z"
+      "modified_at": "2026-06-02T06:50:26.728Z"
     },
     {
       "id": "mliq32iu-1vrvppm",
@@ -1143,7 +1075,7 @@
       "id": "mlq6tkin-1cei2l5",
       "nombre": "Salsa Cocktail «Vima» (225ml)",
       "categoria": "aderezos",
-      "precio": 3.37,
+      "precio": 1.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1154,7 +1086,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:39.736Z"
+      "modified_at": "2026-06-02T06:50:26.731Z"
     },
     {
       "id": "mlq6yah4-1vaviqx",
@@ -1212,7 +1144,7 @@
       "nombre": "Pasta de tomate Vima (400g)",
       "categoria": "despensa",
       "precio": 1.85,
-      "descuento": 24.86,
+      "descuento": 35.68,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": true,
@@ -1222,7 +1154,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:18.495Z"
+      "modified_at": "2026-06-02T06:50:26.723Z"
     },
     {
       "id": "mlqxb74h-15nfelz",
@@ -1245,8 +1177,8 @@
       "id": "mm0wy3wx-1jvjivz",
       "nombre": "Pechuga de pollo (2Kg)",
       "categoria": "cárnicos",
-      "precio": 15.73,
-      "descuento": 8.65,
+      "precio": 14.37,
+      "descuento": 30.62,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": true,
@@ -1256,7 +1188,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-22T17:29:22.152Z"
+      "modified_at": "2026-06-02T06:50:26.732Z"
     },
     {
       "id": "mm0wz21h-u01m57b",
@@ -1365,17 +1297,17 @@
       "nombre": "Queso Gouda Vima 3Kg",
       "categoria": "lacteos",
       "precio": 36.99,
-      "descuento": 0,
+      "descuento": 5.46,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "queso_gouda_vima_3kg.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:57:58.424Z"
+      "modified_at": "2026-06-02T06:50:26.731Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -1531,23 +1463,6 @@
       "modified_at": "2026-05-15T14:04:06.871Z"
     },
     {
-      "id": "mmq2m3z4-16dcmut",
-      "nombre": "Pack 6u Malta Guajira 1.5Lt",
-      "categoria": "bebidas",
-      "precio": 17.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack_x_6_maltas_guajira_6x330ml.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:18.027Z"
-    },
-    {
       "id": "mmq2vpro-1bckqxm",
       "nombre": "Pack x 12 Néctar de Manzana (12x330ml)",
       "categoria": "bebidas",
@@ -1583,12 +1498,12 @@
     },
     {
       "id": "mmxplkci-cg7fgw9",
-      "nombre": "Paquete de filetes de Panga",
+      "nombre": "Filete de Pescado Panga (456g)",
       "categoria": "cárnicos",
-      "precio": 3.99,
+      "precio": 2.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_filetes_de_panga.jpg"
@@ -1596,16 +1511,16 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.625Z"
+      "modified_at": "2026-06-02T06:50:26.732Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
       "nombre": "Paquete de anillas de Calamar",
       "categoria": "cárnicos",
-      "precio": 8.69,
+      "precio": 7.49,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_anillas_de_calamar.jpg"
@@ -1613,7 +1528,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.733Z"
     },
     {
       "id": "mmxptnd5-7a8q8vx",
@@ -1653,18 +1568,18 @@
       "id": "mn4ikino-19m47n4",
       "nombre": "Cacao en Polvo 800g",
       "categoria": "despensa",
-      "precio": 12.99,
-      "descuento": 7.85,
+      "precio": 10.99,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "cacao_en_polvo_800g.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:19.824Z"
+      "modified_at": "2026-06-02T06:50:26.733Z"
     },
     {
       "id": "mn4imhrd-xpal1gu",
@@ -1673,7 +1588,7 @@
       "precio": 5.89,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "maz_dulce_vima_1kg.webp"
@@ -1681,7 +1596,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.736Z"
     },
     {
       "id": "mn4ip333-hlfw334",
@@ -1874,10 +1789,10 @@
       "id": "mng1iq5n-x7v07w1",
       "nombre": "Jamón Bravo 2Kg",
       "categoria": "cárnicos",
-      "precio": 22.5,
+      "precio": 19.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "jamn_bravo_2kg.webp"
@@ -1885,7 +1800,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.729Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -1923,12 +1838,12 @@
     },
     {
       "id": "mnq50bj3-1qtfbhl",
-      "nombre": "Pacas de arroz 30u de 1Kg",
+      "nombre": "Paca de arroz de 30u de 1kg(66Lb)",
       "categoria": "pastas-y-granos",
-      "precio": 48,
+      "precio": 44.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pacas_de_arroz_30u_de_1kg.jpg"
@@ -1936,7 +1851,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-02T06:50:26.733Z"
     },
     {
       "id": "moe41gnc-77m3901",
@@ -1993,7 +1908,7 @@
       "id": "moe4v4df-1bgw0pm",
       "nombre": "Garbanzos extra 540g",
       "categoria": "despensa",
-      "precio": 2.57,
+      "precio": 2.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2004,41 +1919,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:32.398Z"
-    },
-    {
-      "id": "moi9r658-1f6zort",
-      "nombre": "Malta Guajira 1.5lts",
-      "categoria": "bebidas",
-      "precio": 3.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "malta_guajira_1.5lts.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:24.856Z"
-    },
-    {
-      "id": "moi8xgdx-1qeyjdg",
-      "nombre": "Salsa Soja (150ml)",
-      "categoria": "aderezos",
-      "precio": 1.67,
-      "descuento": 4.79,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "salsa_de_soja_150ml.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-05-27T05:58:37.878Z"
+      "modified_at": "2026-06-02T06:50:27.971Z"
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -2079,26 +1960,26 @@
       "nombre": "Chorizo premium vima 3und",
       "categoria": "cárnicos",
       "precio": 7.99,
-      "descuento": 0,
+      "descuento": 12.52,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "chorizo_premium_vima_3und.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:24.856Z"
+      "modified_at": "2026-06-02T06:50:26.734Z"
     },
     {
       "id": "moi9bj6w-1toot66",
       "nombre": "Papas copos 1kg vima",
       "categoria": "despensa",
-      "precio": 8.99,
-      "descuento": 2.22,
+      "precio": 6.99,
+      "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pure_de_papas_1kg.jpg"
@@ -2106,7 +1987,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:34.521Z"
+      "modified_at": "2026-06-02T06:50:26.735Z"
     },
     {
       "id": "moi9fzj0-1x9xrco",
@@ -2217,7 +2098,7 @@
       "precio": 1.49,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "img_1777963926092.webp"
@@ -2225,13 +2106,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-05T06:54:29.669Z",
-      "modified_at": "2026-05-05T06:54:29.669Z"
+      "modified_at": "2026-06-02T06:50:26.734Z"
     },
     {
       "id": "prod_1778847649268_1j5z7ejzk",
       "nombre": "Saco de Arroz 50Lb",
       "categoria": "pastas-y-granos",
-      "precio": 40.99,
+      "precio": 38.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2242,7 +2123,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-15T12:25:55.566Z",
-      "modified_at": "2026-05-27T05:58:37.877Z"
+      "modified_at": "2026-06-02T06:50:26.734Z"
     },
     {
       "id": "prod_1778847806170_jkkjx370h",
@@ -2311,40 +2192,6 @@
       "disponibilidad": true,
       "created_at": "2026-05-20T13:14:13.919Z",
       "modified_at": "2026-05-28T17:46:41.492Z"
-    },
-    {
-      "id": "prod_1779470950158_kr6xmachx",
-      "nombre": "Nutella vima",
-      "categoria": "confituras",
-      "precio": 4.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000083106_1779470950272.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-22T17:29:27.072Z",
-      "modified_at": "2026-05-22T17:29:27.072Z"
-    },
-    {
-      "id": "prod_1779858736996_zjhtge405",
-      "nombre": "Carne de Res Enlatada (400g)",
-      "categoria": "cárnicos",
-      "precio": 1.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "560021-600x600_1779858737011.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-27T05:57:50.712Z",
-      "modified_at": "2026-05-27T05:57:50.712Z"
     },
     {
       "id": "prod_1779858880649_gzwrc49yi",
@@ -2418,7 +2265,7 @@
       "id": "prod_1779860298512_ef39veear",
       "nombre": "Salchichas Coctel 1kg",
       "categoria": "cárnicos",
-      "precio": 8.97,
+      "precio": 7.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2429,7 +2276,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:39.736Z",
-      "modified_at": "2026-05-27T05:58:39.736Z"
+      "modified_at": "2026-06-02T06:50:26.735Z"
     },
     {
       "id": "prod_1779861015786_uvh6vskdr",
@@ -2452,7 +2299,7 @@
       "id": "prod_1779862313985_w6o8v8k55",
       "nombre": "Mostaza (300ml)",
       "categoria": "aderezos",
-      "precio": 2.29,
+      "precio": 1.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2463,24 +2310,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T06:31:16.201Z",
-      "modified_at": "2026-05-27T06:31:16.201Z"
-    },
-    {
-      "id": "prod_1779863394414_b6gj4n6uh",
-      "nombre": "Caja de Malta BOA 24u",
-      "categoria": "bebidas",
-      "precio": 23.5,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "11488_1779863394425.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-27T06:31:46.941Z",
-      "modified_at": "2026-05-28T17:46:41.492Z"
+      "modified_at": "2026-06-02T06:50:26.732Z"
     },
     {
       "id": "prod_1779863453850_90rp76jbl",
@@ -2583,6 +2413,40 @@
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:54.177Z",
       "modified_at": "2026-05-29T06:39:54.177Z"
+    },
+    {
+      "id": "prod_1780382904945_vczjgmbth",
+      "nombre": "Maíz Dulce 2840g Vima",
+      "categoria": "despensa",
+      "precio": 7.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "10802_1780382904959.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T06:50:27.969Z",
+      "modified_at": "2026-06-02T06:50:27.969Z"
+    },
+    {
+      "id": "prod_1780382999453_mb13qez1m",
+      "nombre": "Mermelada de Frutas Varias 340g",
+      "categoria": "confituras",
+      "precio": 3.05,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "10833_1780382999474.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T06:50:29.264Z",
+      "modified_at": "2026-06-02T06:50:29.264Z"
     }
   ]
 }
