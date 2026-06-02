@@ -310,7 +310,7 @@
   border: 0.5px solid rgba(255, 150, 150, 0.3) !important;
   animation: fadeInSoft 0.4s ease-out !important;
   font-size: 8px !important;
-  padding: 1px 5px !important;
+  padding: 0.25rem 0.5rem;
   letter-spacing: 0.2px !important;
   font-weight: 600 !important;
   align-content: center;

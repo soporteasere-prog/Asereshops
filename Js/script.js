@@ -2,6 +2,7 @@ let cart = JSON.parse(localStorage.getItem("cart")) || [];
 let products = [];
 let currentProduct = null;
 let categories = [];
+const NEW_PRODUCTS_CATEGORY = "Nuevos agregados";
 let cartTotal = 0; // total del carrito actual
 
 // Snapshot del hash inicial proporcionado por el backend (p. ej. index.html#ID)
@@ -44,6 +45,25 @@ function productIsAvailable(p) {
     return p.variants.some((v) => v.disponibilidad !== false);
   }
   return true;
+}
+
+function productHasNewBadge(product) {
+  if (!product) return false;
+  if (product.isGrouped && Array.isArray(product.variants)) {
+    return product.variants.some((variant) => productHasNewBadge(variant));
+  }
+  const badges = product._dynamicBadges || (typeof getProductBadges === 'function' ? getProductBadges(product) : []);
+  return Array.isArray(badges) && badges.some((badge) => badge.type === 'new-today' || badge.type === 'new-week');
+}
+
+function getCategoryProductCount(category) {
+  if (category === "Todo") {
+    return products.filter(productIsAvailable).length;
+  }
+  if (category === NEW_PRODUCTS_CATEGORY) {
+    return products.filter((product) => productHasNewBadge(product) && productIsAvailable(product)).length;
+  }
+  return products.filter((product) => product.categoria === category && productIsAvailable(product)).length;
 }
 
 // Normaliza strings eliminando tildes/diacríticos — usado para búsqueda insensible a acentos
@@ -561,6 +581,7 @@ async function loadProducts(sourceUrl = "/Json/products.json") {
 
     categories = [
       "Todo",
+      NEW_PRODUCTS_CATEGORY,
       ...new Set(products.map((product) => product.categoria)),
     ];
     
@@ -598,6 +619,7 @@ function renderCategories() {
   const desktopCategories = document.getElementById("categories-list");
 
   const categoryItems = categories
+    .filter((category) => getCategoryProductCount(category) > 0)
     .map(
       (category) => `
         <li onclick="filterByCategory('${category}')">
@@ -644,6 +666,7 @@ function getCategoryIcon(category) {
     aderezos: "spoon",
     "bebidas alcohólicas": "cocktail",
     electrodomésticos: "blender",
+    "nuevos agregados": "star",
   };
 
   return icons[category.toLowerCase().trim()] || "tag"; // Convertimos a minúsculas y eliminamos espacios extra
@@ -824,6 +847,8 @@ function filterByCategory(category) {
   const filteredProducts =
     category === "Todo"
       ? products
+      : category === NEW_PRODUCTS_CATEGORY
+      ? products.filter((product) => productHasNewBadge(product))
       : products.filter((product) => product.categoria === category);
 
   renderProducts(filteredProducts);
@@ -1705,7 +1730,9 @@ function renderCategoriesCircle() {
   if (!categoriesCircleScroll || !categoriesSectionCircle) return;
 
   // Comenzar con "All"/"Todo"
-  const displayCategories = ["Todo", ...categories.filter(cat => cat !== "Todo")];
+  const displayCategories = [
+    ...categories.filter((category) => getCategoryProductCount(category) > 0),
+  ];
 
   // Si no hay categorías, ocultar la sección
   if (displayCategories.length === 0) {
@@ -1722,6 +1749,8 @@ function renderCategoriesCircle() {
     let productsInCategory;
     if (category === "Todo") {
       productsInCategory = products.filter(productIsAvailable).length;
+    } else if (category === NEW_PRODUCTS_CATEGORY) {
+      productsInCategory = products.filter((p) => productHasNewBadge(p) && productIsAvailable(p)).length;
     } else {
       productsInCategory = products.filter(
         (p) => p.categoria === category && productIsAvailable(p)
@@ -1748,6 +1777,7 @@ function renderCategoriesCircle() {
       "Deportes": "deportes.jpg",
       "Belleza": "belleza.jpg",
       "Farmacia": "farmacia.jpg",
+      "Nuevos agregados": "nuevos agregados.jpg",
       "Accesorios": "accesorios.jpg"
     };
 
@@ -2151,20 +2181,22 @@ function getSuggestedProducts(currentProduct, count = 6) {
     ? [...baseProduct.variants.map((v) => v.id), baseProduct.id]
     : [baseProduct.id];
 
-  // Primero: productos de la misma categoría
+  // Primero: productos de la misma categoría y disponibles
   const sameCategory = products.filter(
     (p) =>
       p.categoria === currentCategory &&
       !excludedIds.includes(p.id) &&
-      p.id !== baseProduct.id
+      p.id !== baseProduct.id &&
+      productIsAvailable(p)
   );
 
-  // Segundo: productos destacados de otras categorías
+  // Segundo: productos destacados de otras categorías y disponibles
   const featuredProducts = products.filter(
     (p) =>
       p.categoria !== currentCategory &&
       !excludedIds.includes(p.id) &&
-      (p.mas_vendido || p.nuevo || p.oferta)
+      (p.mas_vendido || p.nuevo || p.oferta) &&
+      productIsAvailable(p)
   );
 
   // Combinar y ordenar
@@ -2409,12 +2441,15 @@ function addToCart(productName, fromDetail = false, event) {
     const quantityElement = document.getElementById("detail-quantity");
     quantity = quantityElement ? parseInt(quantityElement.textContent) || 1 : 1;
   } else {
-    // Modificado para manejar productos con variantes
+    // Si el botón está en un card estándar, tomar cantidad de allí;
+    // de lo contrario, usar 1 por defecto (por ejemplo productos relacionados).
     const productCard = event.target.closest(".product-card");
-    if (!productCard) return;
-
-    const quantityElement = productCard.querySelector(".product-quantity");
-    quantity = quantityElement ? parseInt(quantityElement.textContent) || 1 : 1;
+    if (!productCard) {
+      quantity = 1;
+    } else {
+      const quantityElement = productCard.querySelector(".product-quantity");
+      quantity = quantityElement ? parseInt(quantityElement.textContent) || 1 : 1;
+    }
   }
 
   const existingItem = cart.find((item) => {

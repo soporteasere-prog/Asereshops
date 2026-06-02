@@ -500,7 +500,7 @@
       "precio": 1.1,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "cerveza_bucanero_x_und..jpg"
@@ -568,7 +568,7 @@
       "precio": 2.57,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "frijoles_colorados_x_lb.jpg"
@@ -585,7 +585,7 @@
       "precio": 22,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "helado_nestle_sabor_chocolate_4.5lts.jpg"
@@ -602,7 +602,7 @@
       "precio": 23.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
@@ -737,7 +737,7 @@
       "categoria": "cárnicos",
       "precio": 13.49,
       "descuento": 0,
-      "mas_vendido": false,
+      "mas_vendido": true,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
@@ -755,7 +755,7 @@
       "precio": 2.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "aceite_1lt.jpg"
@@ -789,7 +789,7 @@
       "precio": 7.27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "mortadella_especial_3kg.jpg"
@@ -806,7 +806,7 @@
       "precio": 7.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "coffe_mate_311.8g.jpg"
@@ -823,7 +823,7 @@
       "precio": 0.87,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_de_comino_y_sazn.jpg"
@@ -840,7 +840,7 @@
       "precio": 25,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_malta_bucanero.webp"
@@ -857,7 +857,7 @@
       "precio": 3.47,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "vinagre_vima.webp"
@@ -874,7 +874,7 @@
       "precio": 3.47,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "troncho_de_pescado_en_tomate.jpeg"
@@ -925,7 +925,7 @@
       "precio": 27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_nectar_de_manzana.jpeg"
@@ -959,7 +959,7 @@
       "precio": 2.05,
       "descuento": 91.71,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pastilla_de_verduras_vima.webp"
@@ -993,7 +993,7 @@
       "precio": 44,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "saco_de_azcar_blanca_25kg.jpg"
@@ -1010,7 +1010,7 @@
       "precio": 27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_nectar_de_mango.jpg"
@@ -1027,7 +1027,7 @@
       "precio": 0.75,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "jabn_de_bao.jpeg"
@@ -1044,7 +1044,7 @@
       "precio": 2.9,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_de_4_yogurts_de_fresa_vima.webp"
@@ -1112,7 +1112,7 @@
       "precio": 2.61,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "mostaza_vima.jpeg"
@@ -1163,7 +1163,7 @@
       "precio": 6,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "saco_de_carbn.jpg"
@@ -1197,7 +1197,7 @@
       "precio": 11.29,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pollo-camelia2_1778853475778.webp"
@@ -1214,7 +1214,7 @@
       "precio": 1.47,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "fideos_500g.jpg"
@@ -1248,7 +1248,7 @@
       "precio": 0.77,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "mantequilla.webp"
@@ -1265,7 +1265,7 @@
       "precio": 27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_nctar_nezka_mango.jpg"
@@ -1282,7 +1282,7 @@
       "precio": 27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_nctar_nezka_guayaba.webp"
@@ -1316,7 +1316,7 @@
       "precio": 7.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "lomo_de_cerdo_deshuesado_x_kg.jpg"
@@ -1333,7 +1333,7 @@
       "precio": 2.87,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "crema_de_abellanas_con_cacao.jpg"
@@ -1350,7 +1350,7 @@
       "precio": 1.49,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "hamburguesa_de_pollo_4u.jpg"
@@ -1418,7 +1418,7 @@
       "precio": 3.33,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "tocino_natural_de_cerdo_gordo_x_lb.webp"
@@ -1435,7 +1435,7 @@
       "precio": 49.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_cuartos_de_pollo_40lbs.webp"
@@ -1452,7 +1452,7 @@
       "precio": 2.49,
       "descuento": 8.84,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "spam_de_pollo_340g.webp"
@@ -1469,7 +1469,7 @@
       "precio": 13.73,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "pack_x_12_nctar_de_manzana_12x330ml.webp"
@@ -1486,7 +1486,7 @@
       "precio": 3.57,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_fresa.jpg"
@@ -1537,7 +1537,7 @@
       "precio": 7.99,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "paquete_de_papas_prefritas_1kg.jpg"
@@ -1741,7 +1741,7 @@
       "precio": 7.27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "refresco_instantneo_pia_20lts.jpg"
@@ -1775,7 +1775,7 @@
       "precio": 22,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "helado_nestl_sabor_fresa_4.5lts.jpg"
@@ -1809,7 +1809,7 @@
       "precio": 27,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "caja_de_jugo_mixto.jpg"
@@ -1826,7 +1826,7 @@
       "precio": 3.29,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "galletas_saltinas_207g.webp"
@@ -1842,7 +1842,7 @@
       "categoria": "pastas-y-granos",
       "precio": 44.97,
       "descuento": 0,
-      "mas_vendido": false,
+      "mas_vendido": true,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
@@ -1860,7 +1860,7 @@
       "precio": 2.35,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "refesco_sabor_mate_1.5lts.jpeg"
@@ -1877,7 +1877,7 @@
       "precio": 8.67,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "packs_de_6_pomos_de_agua_1.5lts.jpeg"
@@ -2047,7 +2047,7 @@
       "precio": 1.47,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "detergente_400g.jpg"
@@ -2064,7 +2064,7 @@
       "precio": 1.69,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "servilletas.jpg"
@@ -2081,7 +2081,7 @@
       "precio": 3.79,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "261645_1777963852515.jpg"
@@ -2132,7 +2132,7 @@
       "precio": 3.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "1000078472_1778847806270.jpg"
@@ -2149,7 +2149,7 @@
       "precio": 3.97,
       "descuento": 0,
       "mas_vendido": false,
-      "nuevo": true,
+      "nuevo": false,
       "oferta": false,
       "imagenes": [
         "1000078470_1778847937952.jpg"
