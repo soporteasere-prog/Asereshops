@@ -546,10 +546,10 @@
     },
     {
       "id": "mlgzank4-1minyju",
-      "nombre": "Paquete de hígados de pollo",
+      "nombre": "Hígado de pollo (1Kg)",
       "categoria": "cárnicos",
       "precio": 3.57,
-      "descuento": 11.2,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -557,9 +557,9 @@
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-29T06:39:39.501Z"
+      "modified_at": "2026-06-02T07:45:01.327Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -2178,9 +2178,9 @@
     },
     {
       "id": "prod_1779282841071_vmhdhcagl",
-      "nombre": "Caja de Malta Sunchy",
+      "nombre": "Caja de Malta Sunchy 24u",
       "categoria": "bebidas",
-      "precio": 24,
+      "precio": 19.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2191,7 +2191,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-20T13:14:13.919Z",
-      "modified_at": "2026-05-28T17:46:41.492Z"
+      "modified_at": "2026-06-02T07:45:18.201Z"
     },
     {
       "id": "prod_1779858880649_gzwrc49yi",
@@ -2447,6 +2447,601 @@
       "disponibilidad": true,
       "created_at": "2026-06-02T06:50:29.264Z",
       "modified_at": "2026-06-02T06:50:29.264Z"
+    },
+    {
+      "id": "prod_1780383292523_450mmhapf",
+      "nombre": "Frijoles Negros (1Kg)",
+      "categoria": "despensa",
+      "precio": 1.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20503_1780383292549.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:44:56.671Z",
+      "modified_at": "2026-06-02T07:44:56.671Z"
+    },
+    {
+      "id": "prod_1780383383242_ntyipx145",
+      "nombre": "Troncho de Pescado en Aceite Vegetal (425g)",
+      "categoria": "cárnicos",
+      "precio": 3.05,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000098762_1780383383268.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:44:58.343Z",
+      "modified_at": "2026-06-02T07:44:58.343Z"
+    },
+    {
+      "id": "prod_1780383472429_4qoktkdkt",
+      "nombre": "Café El Morro (250g)",
+      "categoria": "café",
+      "precio": 8,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "img_1780383472455.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:44:59.745Z",
+      "modified_at": "2026-06-02T07:44:59.745Z"
+    },
+    {
+      "id": "prod_1780383540400_hv89o6cod",
+      "nombre": "Aceituna sin Hueso Vima (290g)",
+      "categoria": "despensa",
+      "precio": 3.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000493199_1780383540409.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:01.325Z",
+      "modified_at": "2026-06-02T07:45:01.325Z"
+    },
+    {
+      "id": "prod_1780383752592_7bi7uisel",
+      "nombre": "Rollitos de Primavera (200g)",
+      "categoria": "cárnicos",
+      "precio": 1.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20410_1780383752619.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:02.968Z",
+      "modified_at": "2026-06-02T07:45:02.968Z"
+    },
+    {
+      "id": "prod_1780383820362_r94e107n6",
+      "nombre": "Ketchup (310ml)",
+      "categoria": "aderezos",
+      "precio": 1.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000291877_1780383820389.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:04.494Z",
+      "modified_at": "2026-06-02T07:45:04.494Z"
+    },
+    {
+      "id": "prod_1780383900860_mybicsihb",
+      "nombre": "Aceituna con Hueso Vima (290g)",
+      "categoria": "despensa",
+      "precio": 3.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000493199-1_1780383900875.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:06.010Z",
+      "modified_at": "2026-06-02T07:45:06.010Z"
+    },
+    {
+      "id": "prod_1780383989393_k7vcb90aq",
+      "nombre": "Macarrones con queso (206g)",
+      "categoria": "despensa",
+      "precio": 0.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1891_1780383989407.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:07.469Z",
+      "modified_at": "2026-06-02T07:45:07.469Z"
+    },
+    {
+      "id": "prod_1780384073555_3m7xismjw",
+      "nombre": "Cóctel de Frutas en Almíbar 3Kg Vima",
+      "categoria": "despensa",
+      "precio": 10.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "10813_1780384073567.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:08.987Z",
+      "modified_at": "2026-06-02T07:45:08.987Z"
+    },
+    {
+      "id": "prod_1780384228413_57eqncwl0",
+      "nombre": "Queso Crema Vima 2Kg",
+      "categoria": "lacteos",
+      "precio": 29.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20497_1780384228440.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:10.485Z",
+      "modified_at": "2026-06-02T07:45:10.485Z"
+    },
+    {
+      "id": "prod_1780384311412_l1yxmvo5t",
+      "nombre": "Saco de Azucar Blanca (50Kg)",
+      "categoria": "despensa",
+      "precio": 94.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20522_1780384311431.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:12.049Z",
+      "modified_at": "2026-06-02T07:45:12.049Z"
+    },
+    {
+      "id": "prod_1780384383342_vckyovise",
+      "nombre": "Cebollitas en Vinagre 314ml",
+      "categoria": "aderezos",
+      "precio": 3.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20524_1780384383382.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:13.487Z",
+      "modified_at": "2026-06-02T07:45:13.487Z"
+    },
+    {
+      "id": "prod_1780384500436_bof39lwp2",
+      "nombre": "Barrita DUOX de Chocolate rellena de Caramelo",
+      "categoria": "confituras",
+      "precio": 0.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20523_1780384500460.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:14.909Z",
+      "modified_at": "2026-06-02T07:45:14.909Z"
+    },
+    {
+      "id": "prod_1780384558777_ecqtrcjuj",
+      "nombre": "Ponquecito Lupix relleno de Pistacho",
+      "categoria": "confituras",
+      "precio": 0.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20519-scaled_1780384558800.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:16.641Z",
+      "modified_at": "2026-06-02T07:45:16.641Z"
+    },
+    {
+      "id": "prod_1780384610471_nhcj5bc7c",
+      "nombre": "Galleta rellena de Malvavisco",
+      "categoria": "confituras",
+      "precio": 0.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20510-scaled_1780384610497.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:18.199Z",
+      "modified_at": "2026-06-02T07:45:18.199Z"
+    },
+    {
+      "id": "prod_1780384771108_8q8k2mgv7",
+      "nombre": "Malta Sunchy x unidad",
+      "categoria": "bebidas",
+      "precio": 0.95,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20505_1780384771127.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:19.838Z",
+      "modified_at": "2026-06-02T07:45:19.838Z"
+    },
+    {
+      "id": "prod_1780384859618_oqcrpbgqc",
+      "nombre": "Mantequilla Adorita con Sal 250g",
+      "categoria": "aderezos",
+      "precio": 1.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20501_1780384859631.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:21.279Z",
+      "modified_at": "2026-06-02T07:45:21.279Z"
+    },
+    {
+      "id": "prod_1780384951623_su1ikab0h",
+      "nombre": "Jabon Dove 3ux90g",
+      "categoria": "aseo",
+      "precio": 4.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20411_1780384951635.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:22.733Z",
+      "modified_at": "2026-06-02T07:45:22.733Z"
+    },
+    {
+      "id": "prod_1780385018623_2vgxw5dl4",
+      "nombre": "Banderillas Picantes 314ml",
+      "categoria": "aderezos",
+      "precio": 3.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20381_1780385018639.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:24.348Z",
+      "modified_at": "2026-06-02T07:45:24.348Z"
+    },
+    {
+      "id": "prod_1780385071281_tipkn7115",
+      "nombre": "Alcaparras en Vinagre 3140ml",
+      "categoria": "aderezos",
+      "precio": 3.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20394_1780385071310.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:25.887Z",
+      "modified_at": "2026-06-02T07:45:25.887Z"
+    },
+    {
+      "id": "prod_1780385154068_3hrmwsexv",
+      "nombre": "Guindillas en Vinagre 314ml",
+      "categoria": "aderezos",
+      "precio": 3.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20415_1780385154090.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:27.254Z",
+      "modified_at": "2026-06-02T07:45:27.254Z"
+    },
+    {
+      "id": "prod_1780385226877_0c3hybeut",
+      "nombre": "Aceitunas Verdes sin Hueso 1820g",
+      "categoria": "aderezos",
+      "precio": 16.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20408_1780385226895.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:28.679Z",
+      "modified_at": "2026-06-02T07:45:28.679Z"
+    },
+    {
+      "id": "prod_1780385278158_9jmmmksx4",
+      "nombre": "Aceitunas Aliñadas 314ml",
+      "categoria": "aderezos",
+      "precio": 3.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20404_1780385278185.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:29.989Z",
+      "modified_at": "2026-06-02T07:45:29.989Z"
+    },
+    {
+      "id": "prod_1780385348211_o7tzow1is",
+      "nombre": "Garbanzos Vima 2.5Kg",
+      "categoria": "despensa",
+      "precio": 8.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20500_1780385348231.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:31.376Z",
+      "modified_at": "2026-06-02T07:45:31.376Z"
+    },
+    {
+      "id": "prod_1780385463719_k3o5lfkns",
+      "nombre": "Maiz Dulce en Grano 425g",
+      "categoria": "despensa",
+      "precio": 1.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20390_1780385463728.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:32.632Z",
+      "modified_at": "2026-06-02T07:45:32.632Z"
+    },
+    {
+      "id": "prod_1780385531960_qeigw4bqk",
+      "nombre": "Pasta Tomate Vima 3Kg",
+      "categoria": "despensa",
+      "precio": 8.09,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20402_1780385531975.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:33.891Z",
+      "modified_at": "2026-06-02T07:45:33.891Z"
+    },
+    {
+      "id": "prod_1780385686701_42swpa61r",
+      "nombre": "Mayonesa Casera Vima 450ml",
+      "categoria": "aderezos",
+      "precio": 4.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20499_1780385686721.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:35.418Z",
+      "modified_at": "2026-06-02T07:45:35.418Z"
+    },
+    {
+      "id": "prod_1780385742966_rvlq3l7h5",
+      "nombre": "Mayonesa Vima 300ml",
+      "categoria": "aderezos",
+      "precio": 2.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20406_1780385742983.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:36.699Z",
+      "modified_at": "2026-06-02T07:45:36.699Z"
+    },
+    {
+      "id": "prod_1780385819341_7trd7j57s",
+      "nombre": "Minimagdalenas Vima con Chispas de Chocolate 200g",
+      "categoria": "confituras",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20401_1780385819350.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:38.042Z",
+      "modified_at": "2026-06-02T07:45:38.042Z"
+    },
+    {
+      "id": "prod_1780385956276_3eird4cdl",
+      "nombre": "Minimagdalenas Vima Mármol 200g",
+      "categoria": "confituras",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20375_1780385956292.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:39.769Z",
+      "modified_at": "2026-06-02T07:45:39.769Z"
+    },
+    {
+      "id": "prod_1780386014122_aynjr5nms",
+      "nombre": "Minimagdalenas Vima 200g",
+      "categoria": "confituras",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "20360_1780386014171.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:41.208Z",
+      "modified_at": "2026-06-02T07:45:41.208Z"
+    },
+    {
+      "id": "prod_1780386086104_ru8xikz2l",
+      "nombre": "Melocotón en Almíbar 3Kg Vima",
+      "categoria": "despensa",
+      "precio": 10.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "10831_1780386086131.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:42.495Z",
+      "modified_at": "2026-06-02T07:45:42.495Z"
+    },
+    {
+      "id": "prod_1780386152780_y71yckl8l",
+      "nombre": "Alubias Blancas 2.5Kg Vima",
+      "categoria": "despensa",
+      "precio": 8.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "10801_1780386152793.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:43.866Z",
+      "modified_at": "2026-06-02T07:45:43.866Z"
+    },
+    {
+      "id": "prod_1780386222938_qv7eu4w1u",
+      "nombre": "Caja de Cerveza Puerto Cristo 24u",
+      "categoria": "alcohol",
+      "precio": 16.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "3218_1780386222957.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:45.302Z",
+      "modified_at": "2026-06-02T07:45:45.302Z"
+    },
+    {
+      "id": "prod_1780386268964_ojds2d9c8",
+      "nombre": "Cerveza Puerto Cristo, 330ml",
+      "categoria": "alcohol",
+      "precio": 0.75,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "3217_1780386268987.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-02T07:45:47.124Z",
+      "modified_at": "2026-06-02T07:45:47.124Z"
     }
   ]
 }
