@@ -208,7 +208,7 @@
       "id": "mlgzank2-q8ffff1",
       "nombre": "Frazada de Piso",
       "categoria": "aseo",
-      "precio": 1,
+      "precio": 0.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -219,7 +219,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-04T07:49:00.829Z"
     },
     {
       "id": "mlgzank2-104syot",
@@ -293,7 +293,7 @@
       "id": "mlgzank2-7lrzeme",
       "nombre": "Caja de Refresco de Naranja 24u",
       "categoria": "bebidas",
-      "precio": 19.99,
+      "precio": 17.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -304,7 +304,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:41.802Z"
+      "modified_at": "2026-06-04T07:49:00.831Z"
     },
     {
       "id": "mlgzank2-58oemeg",
@@ -378,8 +378,8 @@
       "id": "mlgzank2-1lffzlq",
       "nombre": "Papel Sanitario 4 rollos",
       "categoria": "otros",
-      "precio": 1.59,
-      "descuento": 0,
+      "precio": 1.69,
+      "descuento": 5.92,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -389,7 +389,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:17.827Z"
+      "modified_at": "2026-06-04T07:49:00.831Z"
     },
     {
       "id": "mlgzank3-vqyyagj",
@@ -667,7 +667,7 @@
       "id": "mli2ve9o-a60fi91",
       "nombre": "Aceite 900ml",
       "categoria": "despensa",
-      "precio": 2.99,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -678,7 +678,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-04T07:49:00.832Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -886,9 +886,9 @@
     },
     {
       "id": "mlq6lgga-c3hh86z",
-      "nombre": "Jabón de Baño",
+      "nombre": "Jabón de Baño 100g",
       "categoria": "aseo",
-      "precio": 0.75,
+      "precio": 0.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -899,7 +899,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-04T07:49:00.832Z"
     },
     {
       "id": "mlq6qth7-16rlvzs",
@@ -939,8 +939,8 @@
       "id": "mlq6tkin-1cei2l5",
       "nombre": "Salsa Cocktail «Vima» (225ml)",
       "categoria": "aderezos",
-      "precio": 1.99,
-      "descuento": 0,
+      "precio": 2.49,
+      "descuento": 20.08,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -950,7 +950,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.731Z"
+      "modified_at": "2026-06-04T07:49:00.833Z"
     },
     {
       "id": "mlq6yah4-1vaviqx",
@@ -1092,8 +1092,8 @@
       "id": "mmbwn2vx-m283nb1",
       "nombre": "Caja de Refresco de Limón 24u",
       "categoria": "bebidas",
-      "precio": 19.99,
-      "descuento": 10.11,
+      "precio": 17.97,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1103,7 +1103,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:45.712Z"
+      "modified_at": "2026-06-04T07:49:00.833Z"
     },
     {
       "id": "mmdrgbwy-op6gwh3",
@@ -1396,9 +1396,9 @@
     },
     {
       "id": "mmxptnd5-7a8q8vx",
-      "nombre": "Paquete de papas prefritas 2.5kg",
+      "nombre": "Papas Prefritas 2.5Kg",
       "categoria": "despensa",
-      "precio": 7.99,
+      "precio": 7.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1409,7 +1409,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-04T07:49:00.834Z"
     },
     {
       "id": "mn3aj1rj-1i9d6mq",
@@ -1466,7 +1466,7 @@
       "id": "mn4ip333-hlfw334",
       "nombre": "Chocolate en Polvo Rayan (350g)",
       "categoria": "despensa",
-      "precio": 6.99,
+      "precio": 4.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1477,7 +1477,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.629Z"
+      "modified_at": "2026-06-04T07:49:00.835Z"
     },
     {
       "id": "mn77q2ru-fyc0glj",
@@ -1534,8 +1534,8 @@
       "id": "mn7mnt65-6h0qe9w",
       "nombre": "Pasta dental CRHOT",
       "categoria": "aseo",
-      "precio": 1.59,
-      "descuento": 18.87,
+      "precio": 1.29,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1545,7 +1545,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:20.522Z"
+      "modified_at": "2026-06-04T07:49:00.835Z"
     },
     {
       "id": "mn7miy5q-1yskdi7",
@@ -1824,17 +1824,17 @@
       "nombre": "Chorizo premium vima 3und",
       "categoria": "cárnicos",
       "precio": 7.99,
-      "descuento": 12.52,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "chorizo_premium_vima_3und.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.734Z"
+      "modified_at": "2026-06-04T07:49:00.836Z"
     },
     {
       "id": "moi9bj6w-1toot66",
@@ -2010,7 +2010,7 @@
       "id": "prod_1778853047855_69d9llazb",
       "nombre": "Galletas Hello",
       "categoria": "confituras",
-      "precio": 0.58,
+      "precio": 0.5,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2021,13 +2021,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-15T14:04:06.870Z",
-      "modified_at": "2026-05-15T14:04:06.870Z"
+      "modified_at": "2026-06-04T07:49:00.837Z"
     },
     {
       "id": "prod_1779282841071_vmhdhcagl",
       "nombre": "Caja de Malta Sunchy 24u",
       "categoria": "bebidas",
-      "precio": 19.99,
+      "precio": 23.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2038,7 +2038,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-20T13:14:13.919Z",
-      "modified_at": "2026-06-02T07:45:18.201Z"
+      "modified_at": "2026-06-04T07:49:00.837Z"
     },
     {
       "id": "prod_1779858880649_gzwrc49yi",
@@ -2129,7 +2129,7 @@
       "id": "prod_1779861015786_uvh6vskdr",
       "nombre": "Caja de Refresco de Cola 24u",
       "categoria": "bebidas",
-      "precio": 19.99,
+      "precio": 17.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2140,7 +2140,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:50.119Z",
-      "modified_at": "2026-05-27T05:58:50.119Z"
+      "modified_at": "2026-06-04T07:49:00.837Z"
     },
     {
       "id": "prod_1779862313985_w6o8v8k55",
@@ -2163,7 +2163,7 @@
       "id": "prod_1779863453850_90rp76jbl",
       "nombre": "Galletas DULCE",
       "categoria": "confituras",
-      "precio": 0.65,
+      "precio": 0.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2174,7 +2174,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T06:31:49.095Z",
-      "modified_at": "2026-05-27T06:31:49.095Z"
+      "modified_at": "2026-06-04T07:49:00.838Z"
     },
     {
       "id": "prod_1780036555259_zhr6x5of2",
@@ -2248,7 +2248,7 @@
       "id": "prod_1780036769803_qwbur3m87",
       "nombre": "Galletas de Soda con Mantequilla Doricas",
       "categoria": "confituras",
-      "precio": 3.99,
+      "precio": 4.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2259,7 +2259,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:54.177Z",
-      "modified_at": "2026-05-29T06:39:54.177Z"
+      "modified_at": "2026-06-04T07:49:00.838Z"
     },
     {
       "id": "prod_1780382904945_vczjgmbth",
@@ -2282,7 +2282,7 @@
       "id": "prod_1780382999453_mb13qez1m",
       "nombre": "Mermelada de Frutas Varias 340g",
       "categoria": "confituras",
-      "precio": 3.05,
+      "precio": 3.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2293,7 +2293,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T06:50:29.264Z",
-      "modified_at": "2026-06-02T06:50:29.264Z"
+      "modified_at": "2026-06-04T07:49:00.839Z"
     },
     {
       "id": "prod_1780383292523_450mmhapf",
@@ -2316,8 +2316,8 @@
       "id": "prod_1780383383242_ntyipx145",
       "nombre": "Troncho de Pescado en Aceite Vegetal (425g)",
       "categoria": "cárnicos",
-      "precio": 3.05,
-      "descuento": 0,
+      "precio": 3.57,
+      "descuento": 14.57,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2327,7 +2327,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:44:58.343Z",
-      "modified_at": "2026-06-02T07:44:58.343Z"
+      "modified_at": "2026-06-04T07:49:00.839Z"
     },
     {
       "id": "prod_1780383472429_4qoktkdkt",
@@ -2367,7 +2367,7 @@
       "id": "prod_1780383752592_7bi7uisel",
       "nombre": "Rollitos de Primavera (200g)",
       "categoria": "cárnicos",
-      "precio": 1.49,
+      "precio": 1.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2378,7 +2378,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:02.968Z",
-      "modified_at": "2026-06-02T07:45:02.968Z"
+      "modified_at": "2026-06-04T07:49:00.840Z"
     },
     {
       "id": "prod_1780383820362_r94e107n6",
@@ -2554,8 +2554,8 @@
       "id": "prod_1780384771108_8q8k2mgv7",
       "nombre": "Malta Sunchy x unidad",
       "categoria": "bebidas",
-      "precio": 0.95,
-      "descuento": 0,
+      "precio": 1.05,
+      "descuento": 9.52,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2565,7 +2565,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:19.838Z",
-      "modified_at": "2026-06-02T07:45:19.838Z"
+      "modified_at": "2026-06-04T07:49:00.843Z"
     },
     {
       "id": "prod_1780384859618_oqcrpbgqc",
@@ -2588,7 +2588,7 @@
       "id": "prod_1780384951623_su1ikab0h",
       "nombre": "Jabon Dove 3ux90g",
       "categoria": "aseo",
-      "precio": 4.49,
+      "precio": 4.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2599,7 +2599,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:22.733Z",
-      "modified_at": "2026-06-02T07:45:22.733Z"
+      "modified_at": "2026-06-04T07:49:00.844Z"
     },
     {
       "id": "prod_1780385018623_2vgxw5dl4",
@@ -2775,7 +2775,7 @@
       "id": "prod_1780385819341_7trd7j57s",
       "nombre": "Minimagdalenas Vima con Chispas de Chocolate 200g",
       "categoria": "confituras",
-      "precio": 3.97,
+      "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2786,13 +2786,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:38.042Z",
-      "modified_at": "2026-06-02T07:45:38.042Z"
+      "modified_at": "2026-06-04T07:49:00.845Z"
     },
     {
       "id": "prod_1780385956276_3eird4cdl",
       "nombre": "Minimagdalenas Vima Mármol 200g",
       "categoria": "confituras",
-      "precio": 3.97,
+      "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2803,13 +2803,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:39.769Z",
-      "modified_at": "2026-06-02T07:45:39.769Z"
+      "modified_at": "2026-06-04T07:49:00.845Z"
     },
     {
       "id": "prod_1780386014122_aynjr5nms",
       "nombre": "Minimagdalenas Vima 200g",
       "categoria": "confituras",
-      "precio": 3.97,
+      "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2820,7 +2820,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:41.208Z",
-      "modified_at": "2026-06-02T07:45:41.208Z"
+      "modified_at": "2026-06-04T07:49:00.846Z"
     },
     {
       "id": "prod_1780386086104_ru8xikz2l",
