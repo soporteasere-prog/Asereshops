@@ -21,7 +21,7 @@
       "id": "mlgzank1-1s4o3vq",
       "nombre": "Carne de Ovejo x Lb",
       "categoria": "cárnicos",
-      "precio": 2.15,
+      "precio": 2.14,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -32,13 +32,13 @@
       "descripcion": "Carne fresca al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-04T07:10:08.877Z"
     },
     {
       "id": "mlgzank1-1ukdukm",
       "nombre": "Chuletas de cerdo x Lb",
       "categoria": "cárnicos",
-      "precio": 3.5,
+      "precio": 3.31,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -49,7 +49,7 @@
       "descripcion": "Corte fresco se realiza al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-04T07:10:08.878Z"
     },
     {
       "id": "mlgzank1-1eo49xr",
@@ -613,91 +613,6 @@
       "modified_at": "2026-05-15T14:04:11.191Z"
     },
     {
-      "id": "mlgzank4-c4n3r81",
-      "nombre": "Bicicleta Eléctrica Bucatti (48V – 1000W)",
-      "categoria": "vehículos",
-      "precio": 950,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "bicicleta_elctrica_bucatti_48v_1000w.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.371Z"
-    },
-    {
-      "id": "mlgzank4-1wq8bgu",
-      "nombre": "Bici Moto VEDCA (48V – 30Ah)",
-      "categoria": "vehículos",
-      "precio": 900,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "bici_moto_vedca_48v_30ah.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.372Z"
-    },
-    {
-      "id": "mlgzank4-409alq8",
-      "nombre": "Bicicleta Eléctrica VEDCA",
-      "categoria": "vehículos",
-      "precio": 750,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "bicicleta_elctrica_vedca.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.372Z"
-    },
-    {
-      "id": "mlgzank4-g7v4ro8",
-      "nombre": "Bici Power Bucatty 2025 (48V – 45Ah – 3000W)",
-      "categoria": "vehículos",
-      "precio": 1400,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "bici_power_bucatty_2025_48v_45ah_3000w.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.372Z"
-    },
-    {
-      "id": "mlgzank4-unisua4",
-      "nombre": "Bici Moto VEDCA Lipo4 (60V – 30Ah – 1000W)",
-      "categoria": "vehículos",
-      "precio": 1150,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "bici_moto_vedca_lipo4_60v_30ah_1000w.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:12.373Z"
-    },
-    {
       "id": "mlgzank5-12209k3",
       "nombre": "Picadillo de pollo",
       "categoria": "cárnicos",
@@ -868,23 +783,6 @@
       "modified_at": null
     },
     {
-      "id": "mlq5gm49-sqhi7b1",
-      "nombre": "Troncho de pescado en tomate",
-      "categoria": "enlatados",
-      "precio": 3.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "troncho_de_pescado_en_tomate.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlq5if2i-yv9djh1",
       "nombre": "Atún en aceite vegetal",
       "categoria": "enlatados",
@@ -917,23 +815,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-05-30T19:39:35.233Z"
-    },
-    {
-      "id": "mlq5zw0f-1dg1iuw",
-      "nombre": "Caja de nectar de manzana",
-      "categoria": "bebidas",
-      "precio": 27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_nectar_de_manzana.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
     },
     {
       "id": "mlq662le-rfllul7",
@@ -1002,23 +883,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-05-15T13:43:54.633Z"
-    },
-    {
-      "id": "mlq6kesv-91b3n41",
-      "nombre": "Caja de nectar de Mango",
-      "categoria": "bebidas",
-      "precio": 27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_nectar_de_mango.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-15T13:44:06.374Z"
     },
     {
       "id": "mlq6lgga-c3hh86z",
@@ -1126,7 +990,7 @@
       "id": "mlq79e7y-1h3e8up",
       "nombre": "Melocotón en Almíbar",
       "categoria": "despensa",
-      "precio": 1.87,
+      "precio": 1.79,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1137,7 +1001,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-22T17:16:47.449Z"
+      "modified_at": "2026-06-04T07:10:08.877Z"
     },
     {
       "id": "mlq7aq58-1jmj44p",
@@ -1990,23 +1854,6 @@
       "modified_at": "2026-06-02T06:50:26.735Z"
     },
     {
-      "id": "moi9fzj0-1x9xrco",
-      "nombre": "Melocotón en Almibar 3kg",
-      "categoria": "despensa",
-      "precio": 10.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "melocotn_en_almibar_3kg.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-27T06:31:24.856Z"
-    },
-    {
       "id": "moi9lh1q-18m53iy",
       "nombre": "Caja de Jugo La Estancia Sabor Manzana 27u",
       "categoria": "bebidas",
@@ -2104,9 +1951,9 @@
         "img_1777963926092.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-05T06:54:29.669Z",
-      "modified_at": "2026-06-02T06:50:26.734Z"
+      "modified_at": "2026-06-04T07:10:06.357Z"
     },
     {
       "id": "prod_1778847649268_1j5z7ejzk",
