@@ -5,7 +5,7 @@
       "nombre": "Pack Nuestra Casa",
       "categoria": "Pack",
       "precio": 79.99,
-      "descuento": 0,
+      "descuento": 3.75,
       "top": false,
       "nuevo": false,
       "oferta": false,
@@ -27,7 +27,7 @@
         "x10lb de carne de cerdo"
       ],
       "created_at": "2026-05-27T05:59:15.640Z",
-      "modified_at": "2026-05-27T06:03:54.695Z"
+      "modified_at": "2026-06-05T06:19:43.828Z"
     },
     {
       "id": "7",
@@ -50,7 +50,10 @@
         "x2lb Queso blanco"
       ],
       "created_at": "2026-05-27T05:59:15.664Z",
-      "modified_at": "2026-05-27T06:03:57.438Z"
+      "modified_at": "2026-05-27T06:03:57.438Z",
+      "precioFinal": 10.47,
+      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/12398_1779861790189.webp",
+      "searchText": "pack «el salve» pack "
     }
   ]
 }
