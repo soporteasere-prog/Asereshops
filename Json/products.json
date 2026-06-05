@@ -107,7 +107,7 @@
       "nombre": "Frijol Negro x Lb",
       "categoria": "pastas-y-granos",
       "precio": 2.54,
-      "descuento": 43.7,
+      "descuento": 45.28,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": true,
@@ -117,7 +117,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:22.226Z"
+      "modified_at": "2026-06-05T06:19:40.403Z"
     },
     {
       "id": "mlgzank2-1pwcv2o",
@@ -293,7 +293,7 @@
       "id": "mlgzank2-7lrzeme",
       "nombre": "Caja de Refresco de Naranja 24u",
       "categoria": "bebidas",
-      "precio": 17.97,
+      "precio": 16.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -304,7 +304,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.831Z"
+      "modified_at": "2026-06-05T06:19:34.042Z"
     },
     {
       "id": "mlgzank2-58oemeg",
@@ -378,8 +378,8 @@
       "id": "mlgzank2-1lffzlq",
       "nombre": "Papel Sanitario 4 rollos",
       "categoria": "otros",
-      "precio": 1.69,
-      "descuento": 5.92,
+      "precio": 1.49,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -389,7 +389,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.831Z"
+      "modified_at": "2026-06-05T06:19:34.037Z"
     },
     {
       "id": "mlgzank3-vqyyagj",
@@ -565,7 +565,7 @@
       "id": "mlgzank4-1oad65v",
       "nombre": "Frijoles rojos x lb",
       "categoria": "pastas-y-granos",
-      "precio": 2.57,
+      "precio": 1.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -576,7 +576,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:22.390Z"
+      "modified_at": "2026-06-05T06:19:40.402Z"
     },
     {
       "id": "mlgzank4-jlsho8g",
@@ -650,7 +650,7 @@
       "id": "mli1qt1h-m8mjr31",
       "nombre": "Paquete de Cuartos de Pollo 10lb",
       "categoria": "cárnicos",
-      "precio": 13.49,
+      "precio": 12.49,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
@@ -661,7 +661,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.722Z"
+      "modified_at": "2026-06-05T06:19:40.400Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -718,7 +718,7 @@
       "id": "mliq4l5b-tfq39wu",
       "nombre": "Coffee mate",
       "categoria": "café",
-      "precio": 7.97,
+      "precio": 7.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -729,7 +729,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:15.796Z"
+      "modified_at": "2026-06-05T06:19:35.569Z"
     },
     {
       "id": "mliq66lf-8t6dfj1",
@@ -803,7 +803,7 @@
       "id": "mlq5jmsg-5sd57k1",
       "nombre": "Café Molido Natural Vima (250g)",
       "categoria": "café",
-      "precio": 7.97,
+      "precio": 6.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -814,7 +814,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-30T19:39:35.233Z"
+      "modified_at": "2026-06-05T06:19:34.031Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -866,23 +866,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-05-23T06:57:23.543Z"
-    },
-    {
-      "id": "mlq6edvb-1uihmm2",
-      "nombre": "Saco de Azúcar Blanca 25kg",
-      "categoria": "despensa",
-      "precio": 44,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "saco_de_azcar_blanca_25kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-15T13:43:54.633Z"
     },
     {
       "id": "mlq6lgga-c3hh86z",
@@ -1075,24 +1058,24 @@
       "id": "mm46rkpk-1nsu79h",
       "nombre": "Fideos 500g",
       "categoria": "despensa",
-      "precio": 1.47,
+      "precio": 0.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "fideos_500g.jpg"
+        "20624_1780639642240.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-05T06:19:37.105Z"
     },
     {
       "id": "mmbwn2vx-m283nb1",
       "nombre": "Caja de Refresco de Limón 24u",
       "categoria": "bebidas",
-      "precio": 17.97,
+      "precio": 16.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1103,7 +1086,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.833Z"
+      "modified_at": "2026-06-05T06:19:34.043Z"
     },
     {
       "id": "mmdrgbwy-op6gwh3",
@@ -1296,7 +1279,7 @@
       "id": "mmq2ifm4-1y1ya3h",
       "nombre": "Caja de cuartos de pollo 40lbs",
       "categoria": "cárnicos",
-      "precio": 49.99,
+      "precio": 45,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1307,14 +1290,14 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-05T06:19:40.401Z"
     },
     {
       "id": "mmq2k4l6-13hwunp",
       "nombre": "Spam de Pollo (340g)",
       "categoria": "cárnicos",
-      "precio": 2.49,
-      "descuento": 8.84,
+      "precio": 1.99,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1322,9 +1305,9 @@
         "spam_de_pollo_340g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T14:04:06.871Z"
+      "modified_at": "2026-06-05T06:19:34.032Z"
     },
     {
       "id": "mmq2vpro-1bckqxm",
@@ -1534,7 +1517,7 @@
       "id": "mn7mnt65-6h0qe9w",
       "nombre": "Pasta dental CRHOT",
       "categoria": "aseo",
-      "precio": 1.29,
+      "precio": 0.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1545,13 +1528,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.835Z"
+      "modified_at": "2026-06-05T06:19:35.570Z"
     },
     {
       "id": "mn7miy5q-1yskdi7",
       "nombre": "Mayonesa Light Vima (450ml)",
       "categoria": "aderezos",
-      "precio": 3.79,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1562,7 +1545,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:21.821Z"
+      "modified_at": "2026-06-05T06:19:35.570Z"
     },
     {
       "id": "mn7mkh9e-mt5qc61",
@@ -1585,7 +1568,7 @@
       "id": "mna633yq-1akkie7",
       "nombre": "Refresco Instantáneo Piña colada 20lts",
       "categoria": "bebidas",
-      "precio": 7.27,
+      "precio": 6.79,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1596,7 +1579,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-29T06:39:46.372Z"
+      "modified_at": "2026-06-05T06:19:40.402Z"
     },
     {
       "id": "mna63lqq-1mnrmod",
@@ -1704,7 +1687,7 @@
       "id": "mnq50bj3-1qtfbhl",
       "nombre": "Paca de arroz de 30u de 1kg(66Lb)",
       "categoria": "pastas-y-granos",
-      "precio": 44.97,
+      "precio": 45.39,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
@@ -1715,7 +1698,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.733Z"
+      "modified_at": "2026-06-05T06:19:40.404Z"
     },
     {
       "id": "moe41gnc-77m3901",
@@ -1891,7 +1874,7 @@
       "id": "mon0jma2-dc0h1f1",
       "nombre": "Detergente 400g",
       "categoria": "aseo",
-      "precio": 1.47,
+      "precio": 1.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1902,13 +1885,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-05T06:19:35.568Z"
     },
     {
       "id": "mon0m7gc-1h93pvk",
       "nombre": "Servilletas",
       "categoria": "otros",
-      "precio": 1.69,
+      "precio": 1.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1919,7 +1902,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-05T06:19:35.569Z"
     },
     {
       "id": "prod_1777963852488_1rs856dd0",
@@ -1942,7 +1925,7 @@
       "id": "prod_1777963926079_utzbwgzvz",
       "nombre": "Paquete de Salchicha 10u",
       "categoria": "cárnicos",
-      "precio": 1.49,
+      "precio": 1.34,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1951,15 +1934,15 @@
         "img_1777963926092.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-05T06:54:29.669Z",
-      "modified_at": "2026-06-04T07:10:06.357Z"
+      "modified_at": "2026-06-05T06:19:35.568Z"
     },
     {
       "id": "prod_1778847649268_1j5z7ejzk",
       "nombre": "Saco de Arroz 50Lb",
       "categoria": "pastas-y-granos",
-      "precio": 38.99,
+      "precio": 35.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1970,7 +1953,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-15T12:25:55.566Z",
-      "modified_at": "2026-06-02T06:50:26.734Z"
+      "modified_at": "2026-06-05T06:19:35.567Z"
     },
     {
       "id": "prod_1778847806170_jkkjx370h",
@@ -2027,7 +2010,7 @@
       "id": "prod_1779282841071_vmhdhcagl",
       "nombre": "Caja de Malta Sunchy 24u",
       "categoria": "bebidas",
-      "precio": 23.97,
+      "precio": 21.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2038,7 +2021,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-20T13:14:13.919Z",
-      "modified_at": "2026-06-04T07:49:00.837Z"
+      "modified_at": "2026-06-05T06:19:34.042Z"
     },
     {
       "id": "prod_1779858880649_gzwrc49yi",
@@ -2078,7 +2061,7 @@
       "id": "prod_1779859225646_w1oxwv3sx",
       "nombre": "Saco de Azucar Blanca 25Kg",
       "categoria": "despensa",
-      "precio": 49.99,
+      "precio": 47.93,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2089,7 +2072,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:06.080Z",
-      "modified_at": "2026-05-27T05:58:06.080Z"
+      "modified_at": "2026-06-05T06:19:35.565Z"
     },
     {
       "id": "prod_1779859869975_0b7rj40s1",
@@ -2129,7 +2112,7 @@
       "id": "prod_1779861015786_uvh6vskdr",
       "nombre": "Caja de Refresco de Cola 24u",
       "categoria": "bebidas",
-      "precio": 17.97,
+      "precio": 16.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2140,7 +2123,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:50.119Z",
-      "modified_at": "2026-06-04T07:49:00.837Z"
+      "modified_at": "2026-06-05T06:19:34.043Z"
     },
     {
       "id": "prod_1779862313985_w6o8v8k55",
@@ -2180,7 +2163,7 @@
       "id": "prod_1780036555259_zhr6x5of2",
       "nombre": "Spam de Cerdo (340g)",
       "categoria": "enlatados",
-      "precio": 2.39,
+      "precio": 1.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2191,13 +2174,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:43.772Z",
-      "modified_at": "2026-05-29T06:39:43.772Z"
+      "modified_at": "2026-06-05T06:19:34.034Z"
     },
     {
       "id": "prod_1780036583010_2sg3ync8t",
       "nombre": "Spam de Res (340g)",
       "categoria": "enlatados",
-      "precio": 2.39,
+      "precio": 1.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2208,13 +2191,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:46.372Z",
-      "modified_at": "2026-05-29T06:39:46.372Z"
+      "modified_at": "2026-06-05T06:19:34.035Z"
     },
     {
       "id": "prod_1780036689025_8gtckttiu",
       "nombre": "Sardinas en Salsa de Tomate 1Kg",
       "categoria": "enlatados",
-      "precio": 7.09,
+      "precio": 6.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2225,13 +2208,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:48.783Z",
-      "modified_at": "2026-05-29T06:39:48.783Z"
+      "modified_at": "2026-06-05T06:19:34.040Z"
     },
     {
       "id": "prod_1780036724817_w1rhqc6tt",
       "nombre": "Sardinas en Aceite Vegetal 1Kg",
       "categoria": "enlatados",
-      "precio": 7.09,
+      "precio": 6.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2242,7 +2225,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:51.073Z",
-      "modified_at": "2026-05-29T06:39:51.073Z"
+      "modified_at": "2026-06-05T06:19:34.041Z"
     },
     {
       "id": "prod_1780036769803_qwbur3m87",
@@ -2299,7 +2282,7 @@
       "id": "prod_1780383292523_450mmhapf",
       "nombre": "Frijoles Negros (1Kg)",
       "categoria": "despensa",
-      "precio": 1.99,
+      "precio": 1.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2310,7 +2293,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:44:56.671Z",
-      "modified_at": "2026-06-02T07:44:56.671Z"
+      "modified_at": "2026-06-05T06:19:34.040Z"
     },
     {
       "id": "prod_1780383383242_ntyipx145",
@@ -2333,7 +2316,7 @@
       "id": "prod_1780383472429_4qoktkdkt",
       "nombre": "Café El Morro (250g)",
       "categoria": "café",
-      "precio": 8,
+      "precio": 6.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2344,7 +2327,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:44:59.745Z",
-      "modified_at": "2026-06-02T07:44:59.745Z"
+      "modified_at": "2026-06-05T06:19:31.398Z"
     },
     {
       "id": "prod_1780383540400_hv89o6cod",
@@ -2367,7 +2350,7 @@
       "id": "prod_1780383752592_7bi7uisel",
       "nombre": "Rollitos de Primavera (200g)",
       "categoria": "cárnicos",
-      "precio": 1.99,
+      "precio": 1.79,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2378,7 +2361,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:02.968Z",
-      "modified_at": "2026-06-04T07:49:00.840Z"
+      "modified_at": "2026-06-05T06:19:34.036Z"
     },
     {
       "id": "prod_1780383820362_r94e107n6",
@@ -2571,7 +2554,7 @@
       "id": "prod_1780384859618_oqcrpbgqc",
       "nombre": "Mantequilla Adorita con Sal 250g",
       "categoria": "aderezos",
-      "precio": 1.49,
+      "precio": 1.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2582,13 +2565,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:21.279Z",
-      "modified_at": "2026-06-02T07:45:21.279Z"
+      "modified_at": "2026-06-05T06:19:34.039Z"
     },
     {
       "id": "prod_1780384951623_su1ikab0h",
       "nombre": "Jabon Dove 3ux90g",
       "categoria": "aseo",
-      "precio": 4.89,
+      "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2599,7 +2582,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:22.733Z",
-      "modified_at": "2026-06-04T07:49:00.844Z"
+      "modified_at": "2026-06-05T06:19:31.402Z"
     },
     {
       "id": "prod_1780385018623_2vgxw5dl4",
@@ -2775,7 +2758,7 @@
       "id": "prod_1780385819341_7trd7j57s",
       "nombre": "Minimagdalenas Vima con Chispas de Chocolate 200g",
       "categoria": "confituras",
-      "precio": 4.49,
+      "precio": 3.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2786,13 +2769,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:38.042Z",
-      "modified_at": "2026-06-04T07:49:00.845Z"
+      "modified_at": "2026-06-05T06:19:31.399Z"
     },
     {
       "id": "prod_1780385956276_3eird4cdl",
       "nombre": "Minimagdalenas Vima Mármol 200g",
       "categoria": "confituras",
-      "precio": 4.49,
+      "precio": 3.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2803,13 +2786,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:39.769Z",
-      "modified_at": "2026-06-04T07:49:00.845Z"
+      "modified_at": "2026-06-05T06:19:31.400Z"
     },
     {
       "id": "prod_1780386014122_aynjr5nms",
       "nombre": "Minimagdalenas Vima 200g",
       "categoria": "confituras",
-      "precio": 4.49,
+      "precio": 3.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2820,7 +2803,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:41.208Z",
-      "modified_at": "2026-06-04T07:49:00.846Z"
+      "modified_at": "2026-06-05T06:19:31.401Z"
     },
     {
       "id": "prod_1780386086104_ru8xikz2l",
@@ -2889,6 +2872,57 @@
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:47.124Z",
       "modified_at": "2026-06-02T07:45:47.124Z"
+    },
+    {
+      "id": "prod_1780638802643_qxxqbggxv",
+      "nombre": "Croqueta Bacalao (500g)",
+      "categoria": "despensa",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "croqueta-de-bacalao-vima_1780638802660.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-05T06:19:34.027Z",
+      "modified_at": "2026-06-05T06:19:34.027Z"
+    },
+    {
+      "id": "prod_1780639735895_6s3z9kf6i",
+      "nombre": "Refresco Instantáneo (2Lt)",
+      "categoria": "bebidas",
+      "precio": 0.14,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "533871-scaled_1780639735908.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-05T06:19:40.399Z",
+      "modified_at": "2026-06-05T06:19:40.399Z"
+    },
+    {
+      "id": "prod_1780640361640_rtb1nv6qh",
+      "nombre": "Pomo de Comino",
+      "categoria": "despensa",
+      "precio": 5.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "4702_1780640361678.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-05T06:19:42.102Z",
+      "modified_at": "2026-06-05T06:19:42.102Z"
     }
   ]
 }
