@@ -512,7 +512,7 @@
     },
     {
       "id": "mlgzank4-1mscjxf",
-      "nombre": "Coditos Doga (500g)",
+      "nombre": "Coditos (500g)",
       "categoria": "despensa",
       "precio": 0.99,
       "descuento": 6.06,
@@ -525,7 +525,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:59.932Z"
+      "modified_at": "2026-06-06T08:10:34.865Z"
     },
     {
       "id": "mlgzank4-dez8evc",
@@ -2923,6 +2923,40 @@
       "disponibilidad": true,
       "created_at": "2026-06-05T06:19:42.102Z",
       "modified_at": "2026-06-05T06:19:42.102Z"
+    },
+    {
+      "id": "prod_1780732999658_cnqyj0vwk",
+      "nombre": "Pasta para Bocaditos (465ml)",
+      "categoria": "despensa",
+      "precio": 6.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "qqqqq_1780732999690.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-06T08:10:39.562Z",
+      "modified_at": "2026-06-06T08:10:39.562Z"
+    },
+    {
+      "id": "prod_1780733066794_rrpiuy0xc",
+      "nombre": "Caja x 24 Néctar de Mango 🥭 ‘Nezka’ (250ml)",
+      "categoria": "bebidas",
+      "precio": 24.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "111111_1780733066821.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-06T08:10:41.979Z",
+      "modified_at": "2026-06-06T08:10:41.979Z"
     }
   ]
 }
