@@ -123,7 +123,7 @@
       "id": "mlgzank2-1pwcv2o",
       "nombre": "Cartón de Huevos",
       "categoria": "despensa",
-      "precio": 9,
+      "precio": 6.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -134,7 +134,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:16.201Z"
+      "modified_at": "2026-06-07T23:13:23.092Z"
     },
     {
       "id": "mlgzank2-abqwioi",
