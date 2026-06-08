@@ -72,18 +72,18 @@
       "id": "mlgzank1-16w7pq2",
       "nombre": "Queso blanco x Lb",
       "categoria": "lacteos",
-      "precio": 2.91,
-      "descuento": 14.43,
+      "precio": 2.29,
+      "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "queso_criollo.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:57:58.422Z"
+      "modified_at": "2026-06-08T07:21:49.134Z"
     },
     {
       "id": "mlgzank1-12y2y72",
@@ -140,18 +140,18 @@
       "id": "mlgzank2-abqwioi",
       "nombre": "Espaguetis (500g)",
       "categoria": "pastas-y-granos",
-      "precio": 0.87,
-      "descuento": 13.79,
+      "precio": 0.79,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "espaguetis_500g.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.721Z"
+      "modified_at": "2026-06-08T07:21:55.002Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -327,7 +327,7 @@
       "id": "mlgzank2-13eusc4",
       "nombre": "Caja de Cervezas Cristal",
       "categoria": "alcohol",
-      "precio": 21.99,
+      "precio": 22.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -338,7 +338,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.727Z"
+      "modified_at": "2026-06-08T07:21:49.132Z"
     },
     {
       "id": "mlgzank2-xjt0jl1",
@@ -446,7 +446,7 @@
       "id": "mlgzank3-426dh21",
       "nombre": "Paquete de íntimas 10u",
       "categoria": "aseo",
-      "precio": 1.19,
+      "precio": 1,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -457,7 +457,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:13.934Z"
+      "modified_at": "2026-06-08T07:21:55.002Z"
     },
     {
       "id": "mlgzank3-1pzccww",
@@ -480,7 +480,7 @@
       "id": "mlgzank4-1gsjq05",
       "nombre": "Caja de cerveza Bucanero 24u",
       "categoria": "alcohol",
-      "precio": 21.99,
+      "precio": 22.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -491,7 +491,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.731Z"
+      "modified_at": "2026-06-08T07:21:49.133Z"
     },
     {
       "id": "mlgzank4-492ui61",
@@ -515,17 +515,17 @@
       "nombre": "Coditos (500g)",
       "categoria": "despensa",
       "precio": 0.99,
-      "descuento": 6.06,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "1566_1779861242092.webp"
+        "20685_1780902609388.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-06T08:10:34.865Z"
+      "modified_at": "2026-06-08T07:21:53.438Z"
     },
     {
       "id": "mlgzank4-dez8evc",
@@ -684,18 +684,18 @@
       "id": "mlipxcrm-1ev233g",
       "nombre": "Leche Evaporada",
       "categoria": "lacteos",
-      "precio": 2.5,
-      "descuento": 24.4,
+      "precio": 2.23,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "leche_evaporada.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.728Z"
+      "modified_at": "2026-06-08T07:21:51.941Z"
     },
     {
       "id": "mliq32iu-1vrvppm",
@@ -786,7 +786,7 @@
       "id": "mlq5if2i-yv9djh1",
       "nombre": "Atún en aceite vegetal",
       "categoria": "enlatados",
-      "precio": 12.99,
+      "precio": 11.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -797,7 +797,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-22T17:16:58.435Z"
+      "modified_at": "2026-06-08T07:21:55.000Z"
     },
     {
       "id": "mlq5jmsg-5sd57k1",
@@ -871,7 +871,7 @@
       "id": "mlq6lgga-c3hh86z",
       "nombre": "Jabón de Baño 100g",
       "categoria": "aseo",
-      "precio": 0.49,
+      "precio": 0.67,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -882,7 +882,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.832Z"
+      "modified_at": "2026-06-08T07:21:55.001Z"
     },
     {
       "id": "mlq6qth7-16rlvzs",
@@ -990,18 +990,18 @@
       "id": "mlq7aq58-1jmj44p",
       "nombre": "Pasta de tomate Vima (400g)",
       "categoria": "despensa",
-      "precio": 1.85,
-      "descuento": 35.68,
+      "precio": 1.29,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "pasta_de_tomate_vima.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.723Z"
+      "modified_at": "2026-06-08T07:21:51.940Z"
     },
     {
       "id": "mlqxb74h-15nfelz",
@@ -1313,7 +1313,7 @@
       "id": "mmq2vpro-1bckqxm",
       "nombre": "Pack x 12 Néctar de Manzana (12x330ml)",
       "categoria": "bebidas",
-      "precio": 13.73,
+      "precio": 10.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1324,7 +1324,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T07:21:55.003Z"
     },
     {
       "id": "mmxpk027-1n53odk",
@@ -1336,12 +1336,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete_de_fresa.jpg"
+        "380_1780902222774.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:35.176Z"
+      "modified_at": "2026-06-08T07:21:51.663Z"
     },
     {
       "id": "mmxplkci-cg7fgw9",
@@ -1636,7 +1636,7 @@
       "id": "mng1iq5n-x7v07w1",
       "nombre": "Jamón Bravo 2Kg",
       "categoria": "cárnicos",
-      "precio": 19.97,
+      "precio": 18.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1647,7 +1647,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.729Z"
+      "modified_at": "2026-06-08T07:21:49.131Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -2954,9 +2954,9 @@
         "111111_1780733066821.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-06T08:10:41.979Z",
-      "modified_at": "2026-06-06T08:10:41.979Z"
+      "modified_at": "2026-06-08T07:21:55.004Z"
     },
     {
       "id": "prod_1780895835637_y23whc4eu",
