@@ -4,7 +4,7 @@
       "id": "mlgzank1-sikt6w1",
       "nombre": "Carne de cerdo x Lb",
       "categoria": "cárnicos",
-      "precio": 2.9,
+      "precio": 2.89,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
@@ -15,7 +15,7 @@
       "descripcion": "Carne fresca, se hace el corte al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:37.013Z"
     },
     {
       "id": "mlgzank1-1s4o3vq",
@@ -38,7 +38,7 @@
       "id": "mlgzank1-1ukdukm",
       "nombre": "Chuletas de cerdo x Lb",
       "categoria": "cárnicos",
-      "precio": 3.31,
+      "precio": 3.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -49,7 +49,7 @@
       "descripcion": "Corte fresco se realiza al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:10:08.878Z"
+      "modified_at": "2026-06-08T06:09:37.013Z"
     },
     {
       "id": "mlgzank1-1eo49xr",
@@ -208,7 +208,7 @@
       "id": "mlgzank2-q8ffff1",
       "nombre": "Frazada de Piso",
       "categoria": "aseo",
-      "precio": 0.99,
+      "precio": 0.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -219,13 +219,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.829Z"
+      "modified_at": "2026-06-08T06:09:37.011Z"
     },
     {
       "id": "mlgzank2-104syot",
       "nombre": "Mano de plátano burro",
       "categoria": "agro",
-      "precio": 0.97,
+      "precio": 0.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -236,7 +236,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:44.057Z"
     },
     {
       "id": "mlgzank2-rixdtgx",
@@ -276,7 +276,7 @@
       "id": "mlgzank2-6p9wgln",
       "nombre": "Boniato x Lb",
       "categoria": "agro",
-      "precio": 0.53,
+      "precio": 0.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -287,7 +287,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-01-27T05:58:41.802Z",
-      "modified_at": "2026-01-27T05:58:41.802Z"
+      "modified_at": "2026-06-08T06:09:44.057Z"
     },
     {
       "id": "mlgzank2-7lrzeme",
@@ -412,7 +412,7 @@
       "id": "mlgzank3-w0yr57a",
       "nombre": "Salsa Rosa Rayan 440ml",
       "categoria": "aderezos",
-      "precio": 3.57,
+      "precio": 2.67,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -423,7 +423,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:37.003Z"
     },
     {
       "id": "mlgzank3-1qurynp",
@@ -463,7 +463,7 @@
       "id": "mlgzank3-1pzccww",
       "nombre": "Leche entera en polvo (1kg)",
       "categoria": "lacteos",
-      "precio": 8.97,
+      "precio": 8.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -474,7 +474,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:57.781Z"
+      "modified_at": "2026-06-08T06:09:37.009Z"
     },
     {
       "id": "mlgzank4-1gsjq05",
@@ -531,8 +531,8 @@
       "id": "mlgzank4-dez8evc",
       "nombre": "Desodorante Keewell 24h",
       "categoria": "aseo",
-      "precio": 1.97,
-      "descuento": 25.38,
+      "precio": 1.23,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -542,7 +542,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:59:03.774Z"
+      "modified_at": "2026-06-08T06:09:37.003Z"
     },
     {
       "id": "mlgzank4-1minyju",
@@ -600,17 +600,17 @@
       "nombre": "Pack de 1kg de jamón bravo y 1kg de queso gouda",
       "categoria": "cárnicos",
       "precio": 23.97,
-      "descuento": 0,
-      "mas_vendido": false,
+      "descuento": 4.09,
+      "mas_vendido": true,
       "nuevo": false,
-      "oferta": false,
+      "oferta": true,
       "imagenes": [
         "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-15T14:04:11.191Z"
+      "modified_at": "2026-06-08T06:09:37.012Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -633,7 +633,7 @@
       "id": "mlh17sjk-1ltd9c1",
       "nombre": "Azúcar Parda x lb",
       "categoria": "despensa",
-      "precio": 1.33,
+      "precio": 1.27,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -644,7 +644,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:37.012Z"
     },
     {
       "id": "mli1qt1h-m8mjr31",
@@ -905,7 +905,7 @@
       "id": "mlq6rtqp-1d37txu",
       "nombre": "Pack de 4 yogurts Natural Azucarado Vima",
       "categoria": "lacteos",
-      "precio": 2.9,
+      "precio": 2.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -916,14 +916,14 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:06.081Z"
+      "modified_at": "2026-06-08T06:09:33.712Z"
     },
     {
       "id": "mlq6tkin-1cei2l5",
       "nombre": "Salsa Cocktail «Vima» (225ml)",
       "categoria": "aderezos",
-      "precio": 2.49,
-      "descuento": 20.08,
+      "precio": 2.67,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -933,7 +933,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.833Z"
+      "modified_at": "2026-06-08T06:09:37.002Z"
     },
     {
       "id": "mlq6yah4-1vaviqx",
@@ -973,7 +973,7 @@
       "id": "mlq79e7y-1h3e8up",
       "nombre": "Melocotón en Almíbar",
       "categoria": "despensa",
-      "precio": 1.79,
+      "precio": 1.55,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -984,7 +984,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:10:08.877Z"
+      "modified_at": "2026-06-08T06:09:37.000Z"
     },
     {
       "id": "mlq7aq58-1jmj44p",
@@ -1024,18 +1024,18 @@
       "id": "mm0wy3wx-1jvjivz",
       "nombre": "Pechuga de pollo (2Kg)",
       "categoria": "cárnicos",
-      "precio": 14.37,
-      "descuento": 30.62,
+      "precio": 10.49,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "pechuga_de_pollo_2kg.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.732Z"
+      "modified_at": "2026-06-08T06:09:37.007Z"
     },
     {
       "id": "mm0wz21h-u01m57b",
@@ -1144,7 +1144,7 @@
       "nombre": "Queso Gouda Vima 3Kg",
       "categoria": "lacteos",
       "precio": 36.99,
-      "descuento": 5.46,
+      "descuento": 9.73,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": true,
@@ -1154,7 +1154,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.731Z"
+      "modified_at": "2026-06-08T06:09:37.011Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -1262,7 +1262,7 @@
       "id": "mmq2g1kv-165qg82",
       "nombre": "Tocino Natural de Cerdo (gordo) x Lb",
       "categoria": "cárnicos",
-      "precio": 3.33,
+      "precio": 3.09,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1273,7 +1273,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:37.014Z"
     },
     {
       "id": "mmq2ifm4-1y1ya3h",
@@ -1328,9 +1328,9 @@
     },
     {
       "id": "mmxpk027-1n53odk",
-      "nombre": "Paquete de fresa",
+      "nombre": "Fresas Congeladas (454g)",
       "categoria": "despensa",
-      "precio": 3.57,
+      "precio": 3.17,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1339,15 +1339,15 @@
         "paquete_de_fresa.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:35.176Z"
     },
     {
       "id": "mmxplkci-cg7fgw9",
       "nombre": "Filete de Pescado Panga (456g)",
       "categoria": "cárnicos",
-      "precio": 2.99,
+      "precio": 4.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1358,7 +1358,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.732Z"
+      "modified_at": "2026-06-08T06:09:31.168Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -1398,7 +1398,7 @@
       "id": "mn3aj1rj-1i9d6mq",
       "nombre": "Porron de Aceite 17.5lt",
       "categoria": "despensa",
-      "precio": 47.97,
+      "precio": 41.67,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1409,7 +1409,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-23T06:57:31.292Z"
+      "modified_at": "2026-06-08T06:09:37.001Z"
     },
     {
       "id": "mn4ikino-19m47n4",
@@ -1449,7 +1449,7 @@
       "id": "mn4ip333-hlfw334",
       "nombre": "Chocolate en Polvo Rayan (350g)",
       "categoria": "despensa",
-      "precio": 4.99,
+      "precio": 4.23,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1460,7 +1460,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.835Z"
+      "modified_at": "2026-06-08T06:09:37.001Z"
     },
     {
       "id": "mn77q2ru-fyc0glj",
@@ -1483,7 +1483,7 @@
       "id": "mn77xr5d-xyulx13",
       "nombre": "Pack de 12 Botellas de Agua Purificada",
       "categoria": "bebidas",
-      "precio": 9.59,
+      "precio": 8.15,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1494,7 +1494,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:19.825Z"
+      "modified_at": "2026-06-08T06:09:37.010Z"
     },
     {
       "id": "mn7mmrfk-19rl3s5",
@@ -1721,7 +1721,7 @@
       "id": "moe4b14m-34sgfi1",
       "nombre": "Packs de 6 pomos de agua 1.5lts",
       "categoria": "bebidas",
-      "precio": 8.67,
+      "precio": 5.88,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1732,7 +1732,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-08T06:09:33.712Z"
     },
     {
       "id": "moe4pk8o-g9eg3xx",
@@ -1755,7 +1755,7 @@
       "id": "moe4v4df-1bgw0pm",
       "nombre": "Garbanzos extra 540g",
       "categoria": "despensa",
-      "precio": 2.49,
+      "precio": 2.23,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1766,7 +1766,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:27.971Z"
+      "modified_at": "2026-06-08T06:09:37.000Z"
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -1806,7 +1806,7 @@
       "id": "moi98wtu-122h0ru",
       "nombre": "Chorizo premium vima 3und",
       "categoria": "cárnicos",
-      "precio": 6.99,
+      "precio": 6.34,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1817,7 +1817,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T05:26:52.471Z"
+      "modified_at": "2026-06-08T06:09:31.170Z"
     },
     {
       "id": "moi9bj6w-1toot66",
@@ -1840,8 +1840,8 @@
       "id": "moi9lh1q-18m53iy",
       "nombre": "Caja de Jugo La Estancia Sabor Manzana 27u",
       "categoria": "bebidas",
-      "precio": 19.97,
-      "descuento": 11.92,
+      "precio": 16.99,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1851,7 +1851,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:32.396Z"
+      "modified_at": "2026-06-08T06:09:31.183Z"
     },
     {
       "id": "mon0i35f-oxbfit6",
@@ -2231,7 +2231,7 @@
       "id": "prod_1780036769803_qwbur3m87",
       "nombre": "Galletas de Soda con Mantequilla Doricas",
       "categoria": "confituras",
-      "precio": 4.99,
+      "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2242,7 +2242,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-29T06:39:54.177Z",
-      "modified_at": "2026-06-04T07:49:00.838Z"
+      "modified_at": "2026-06-08T06:09:33.713Z"
     },
     {
       "id": "prod_1780382904945_vczjgmbth",
@@ -2265,7 +2265,7 @@
       "id": "prod_1780382999453_mb13qez1m",
       "nombre": "Mermelada de Frutas Varias 340g",
       "categoria": "confituras",
-      "precio": 3.69,
+      "precio": 3.13,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2276,7 +2276,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T06:50:29.264Z",
-      "modified_at": "2026-06-04T07:49:00.839Z"
+      "modified_at": "2026-06-08T06:09:31.171Z"
     },
     {
       "id": "prod_1780383292523_450mmhapf",
@@ -2299,8 +2299,8 @@
       "id": "prod_1780383383242_ntyipx145",
       "nombre": "Troncho de Pescado en Aceite Vegetal (425g)",
       "categoria": "cárnicos",
-      "precio": 3.57,
-      "descuento": 14.57,
+      "precio": 3.19,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2310,7 +2310,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:44:58.343Z",
-      "modified_at": "2026-06-04T07:49:00.839Z"
+      "modified_at": "2026-06-08T06:09:33.713Z"
     },
     {
       "id": "prod_1780383472429_4qoktkdkt",
@@ -2418,7 +2418,7 @@
       "id": "prod_1780384073555_3m7xismjw",
       "nombre": "Cóctel de Frutas en Almíbar 3Kg Vima",
       "categoria": "despensa",
-      "precio": 10.29,
+      "precio": 8.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2429,7 +2429,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:08.987Z",
-      "modified_at": "2026-06-02T07:45:08.987Z"
+      "modified_at": "2026-06-08T06:09:31.182Z"
     },
     {
       "id": "prod_1780384228413_57eqncwl0",
@@ -2809,7 +2809,7 @@
       "id": "prod_1780386086104_ru8xikz2l",
       "nombre": "Melocotón en Almíbar 3Kg Vima",
       "categoria": "despensa",
-      "precio": 10.29,
+      "precio": 8.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2820,7 +2820,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:42.495Z",
-      "modified_at": "2026-06-02T07:45:42.495Z"
+      "modified_at": "2026-06-08T06:09:31.179Z"
     },
     {
       "id": "prod_1780386152780_y71yckl8l",
@@ -3008,6 +3008,91 @@
       "disponibilidad": true,
       "created_at": "2026-06-08T05:26:55.675Z",
       "modified_at": "2026-06-08T05:26:55.675Z"
+    },
+    {
+      "id": "prod_1780897671315_ptr7g20yt",
+      "nombre": "Malta Guajira 1.5Lt",
+      "categoria": "bebidas",
+      "precio": 3.14,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "10841_1780897671335.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T06:09:33.710Z",
+      "modified_at": "2026-06-08T06:09:33.710Z"
+    },
+    {
+      "id": "prod_1780898576880_bipsglzoq",
+      "nombre": "Tomate x Lb",
+      "categoria": "agro",
+      "precio": 1.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "tomate_1780898576890.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T06:09:38.375Z",
+      "modified_at": "2026-06-08T06:09:38.375Z"
+    },
+    {
+      "id": "prod_1780898637844_fgf976qqp",
+      "nombre": "Pimiento x Lb",
+      "categoria": "agro",
+      "precio": 1.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pimiento_1780898637896.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T06:09:39.920Z",
+      "modified_at": "2026-06-08T06:09:39.920Z"
+    },
+    {
+      "id": "prod_1780898848519_oqjfcgt09",
+      "nombre": "Cebolla x Lb (Morada)",
+      "categoria": "agro",
+      "precio": 2.09,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "purple-onion-cebolla-morada-1-lb_1780898848543.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T06:09:42.311Z",
+      "modified_at": "2026-06-08T06:09:42.311Z"
+    },
+    {
+      "id": "prod_1780898877916_5d33s5iir",
+      "nombre": "Cebolla x Lb (Blanca)",
+      "categoria": "agro",
+      "precio": 2.09,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "cebolla-cabezona-blanca-500gr_1780898877935.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T06:09:44.056Z",
+      "modified_at": "2026-06-08T06:09:44.056Z"
     }
   ]
 }
