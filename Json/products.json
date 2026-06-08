@@ -1523,12 +1523,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "253_1779859543753.webp"
+        "856fde16-0c70-454b-b17f-b0c5a8562237_1780895721385.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-07T02:38:07.866Z"
+      "modified_at": "2026-06-08T05:26:50.247Z"
     },
     {
       "id": "mn7miy5q-1yskdi7",
@@ -1806,7 +1806,7 @@
       "id": "moi98wtu-122h0ru",
       "nombre": "Chorizo premium vima 3und",
       "categoria": "cárnicos",
-      "precio": 7.99,
+      "precio": 6.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1817,7 +1817,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.836Z"
+      "modified_at": "2026-06-08T05:26:52.471Z"
     },
     {
       "id": "moi9bj6w-1toot66",
@@ -1951,9 +1951,9 @@
         "1000078471_1778847649359.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-15T12:25:55.566Z",
-      "modified_at": "2026-06-05T06:19:35.567Z"
+      "modified_at": "2026-06-08T05:26:47.717Z"
     },
     {
       "id": "prod_1778847806170_jkkjx370h",
@@ -2002,9 +2002,9 @@
         "8797-300x300_1778853047869.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-15T14:04:06.870Z",
-      "modified_at": "2026-06-04T07:49:00.837Z"
+      "modified_at": "2026-06-08T05:26:47.716Z"
     },
     {
       "id": "prod_1779282841071_vmhdhcagl",
@@ -2722,10 +2722,10 @@
     },
     {
       "id": "prod_1780385686701_42swpa61r",
-      "nombre": "Mayonesa Casera 450ml",
+      "nombre": "Mayonesa Casera Vima 450ml",
       "categoria": "aderezos",
       "precio": 5.44,
-      "descuento": 10.11,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2735,14 +2735,14 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:35.418Z",
-      "modified_at": "2026-06-06T20:44:25.433Z"
+      "modified_at": "2026-06-08T05:26:52.469Z"
     },
     {
       "id": "prod_1780385742966_rvlq3l7h5",
-      "nombre": "Mayonesa 300ml",
+      "nombre": "Mayonesa Vima 300ml",
       "categoria": "aderezos",
       "precio": 3.19,
-      "descuento": 15.67,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2752,7 +2752,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:36.699Z",
-      "modified_at": "2026-06-06T20:44:25.434Z"
+      "modified_at": "2026-06-08T05:26:52.470Z"
     },
     {
       "id": "prod_1780385819341_7trd7j57s",
@@ -2957,6 +2957,57 @@
       "disponibilidad": true,
       "created_at": "2026-06-06T08:10:41.979Z",
       "modified_at": "2026-06-06T08:10:41.979Z"
+    },
+    {
+      "id": "prod_1780895835637_y23whc4eu",
+      "nombre": "Helado Crema 4Lt",
+      "categoria": "lacteos",
+      "precio": 11.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "helado_1780895835669.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T05:26:52.468Z",
+      "modified_at": "2026-06-08T05:26:52.468Z"
+    },
+    {
+      "id": "prod_1780896285491_qmucga8h2",
+      "nombre": "Almohadillas Sanitarias 10u",
+      "categoria": "aseo",
+      "precio": 0.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "almohadillas_1780896285512.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T05:26:53.881Z",
+      "modified_at": "2026-06-08T05:26:53.881Z"
+    },
+    {
+      "id": "prod_1780896395131_jht5ghx6o",
+      "nombre": "Juegos Variados de Shampoo(400ml) y Acondicionador (200ml)",
+      "categoria": "aseo",
+      "precio": 3.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "jvdsyc_1780896395150.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-08T05:26:55.675Z",
+      "modified_at": "2026-06-08T05:26:55.675Z"
     }
   ]
 }
