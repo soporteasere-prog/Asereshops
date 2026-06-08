@@ -113,7 +113,7 @@
                 <div class="search-container">
                     <input type="text" id="search-input"
                         placeholder="Buscar Asere...">
-                    <button class="search-btn" onclick="searchProducts()">
+                    <button class="search-btn" onclick="searchProducts(true)">
                         <i class="fas fa-search"></i>
                     </button>
                 </div>
@@ -263,9 +263,20 @@
                 </div>
                 <div class="cart-total">
                     <p>Total: $<span id="total">0.00</span></p>
-                    <button class="checkout-btn">Finalizar Compra</button>
+                    <div class="cart-actions-row">
+                        <button class="checkout-btn">Finalizar Compra</button>
+                        <button class="history-toggle-btn" type="button" onclick="toggleCartHistory()">Ver Historial</button>
+                    </div>
                 </div>
             </div>
+        </div>
+        <div class="cart-history-overlay" id="cart-history-overlay" hidden onclick="toggleCartHistory()"></div>
+        <div class="cart-history-modal" id="cart-history-modal" hidden tabindex="-1">
+            <div class="cart-history-modal-header">
+                <h3>Historial de Compras</h3>
+                <button class="close-history-btn" type="button" onclick="toggleCartHistory()">Cerrar</button>
+            </div>
+            <div class="cart-history" id="cart-history"></div>
         </div>
 
         <!-- Panel de carrito vacío -->

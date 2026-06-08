@@ -27,6 +27,187 @@ function debounce(fn, wait) {
     t = setTimeout(() => fn.apply(this, args), wait);
   };
 }
+
+const USER_HASH_STORAGE_KEY = 'asereshops_user_hash_id';
+const PURCHASE_HISTORY_STORAGE_KEY = 'asereshops_purchase_history';
+
+function generateBrowserUserHash() {
+  if (typeof crypto !== 'undefined' && typeof crypto.randomUUID === 'function') {
+    return crypto.randomUUID();
+  }
+  const randomPart = () => Math.random().toString(36).slice(2, 10);
+  return `user-${Date.now()}-${randomPart()}-${randomPart()}`;
+}
+
+function getUserHashId() {
+  try {
+    let userId = localStorage.getItem(USER_HASH_STORAGE_KEY);
+    if (userId && typeof userId === 'string' && userId.trim()) {
+      return userId;
+    }
+    userId = generateBrowserUserHash();
+    localStorage.setItem(USER_HASH_STORAGE_KEY, userId);
+    return userId;
+  } catch (error) {
+    console.error('No se puede acceder a localStorage para generar user hash:', error);
+    return generateBrowserUserHash();
+  }
+}
+
+function getPurchaseHistoryStorage() {
+  try {
+    const raw = localStorage.getItem(PURCHASE_HISTORY_STORAGE_KEY);
+    const storage = raw ? JSON.parse(raw) : {};
+    return storage && typeof storage === 'object' ? storage : {};
+  } catch (error) {
+    console.warn('Historial de compras corrupto en localStorage, se reiniciará:', error);
+    return {};
+  }
+}
+
+function setPurchaseHistoryStorage(storage) {
+  try {
+    localStorage.setItem(PURCHASE_HISTORY_STORAGE_KEY, JSON.stringify(storage));
+  } catch (error) {
+    console.error('Error guardando historial de compras en localStorage:', error);
+  }
+}
+
+function getPurchaseHistory(userId = null) {
+  const id = userId || getUserHashId();
+  const storage = getPurchaseHistoryStorage();
+  const history = storage[id];
+  return Array.isArray(history) ? history : [];
+}
+
+function savePurchaseHistoryEntry(entry, userId = null) {
+  const id = userId || getUserHashId();
+  const storage = getPurchaseHistoryStorage();
+  const history = Array.isArray(storage[id]) ? storage[id] : [];
+  history.unshift(entry);
+  storage[id] = history.slice(0, 5);
+  setPurchaseHistoryStorage(storage);
+}
+
+function createPurchaseHistoryEntry(orderPayload, serverResponse) {
+  const reference = serverResponse?.orderId || serverResponse?.order_id || serverResponse?.reference || orderPayload?.order_reference || generateOrderReference();
+  const date = orderPayload?.fecha_pedido || new Date().toISOString();
+  return {
+    orderReference: String(reference),
+    date,
+    total: Number(orderPayload?.precio_compra_total || 0).toFixed(2),
+    itemCount: Array.isArray(orderPayload?.compras) ? orderPayload.compras.length : 0,
+    items: Array.isArray(orderPayload?.compras) ? orderPayload.compras : [],
+    affiliate: orderPayload?.afiliado || 'Ninguno',
+    source: orderPayload?.origen || window.location.href,
+    customerName: orderPayload?.nombre_comprador || 'Sin nombre',
+    customerPhone: orderPayload?.telefono_comprador || 'N/A',
+    deliveryAddress: orderPayload?.direccion_envio || 'N/A',
+    recipientName: orderPayload?.nombre_persona_entrega || 'N/A',
+    recipientPhone: orderPayload?.telefono_persona_entrega || 'N/A'
+  };
+}
+
+function renderPurchaseHistory() {
+  const historyContainer = document.getElementById('cart-history');
+  if (!historyContainer) return;
+
+  const history = getPurchaseHistory();
+  if (!history.length) {
+    historyContainer.innerHTML = `
+      <div class="cart-history-empty">
+        <p>No hay pedidos confirmados todavía.</p>
+      </div>
+    `;
+    return;
+  }
+
+  const formatOrderItems = (items) => {
+    if (!Array.isArray(items) || items.length === 0) {
+      return `<div class="purchase-history-items"><em>No hay productos capturados en este pedido.</em></div>`;
+    }
+
+    const detailRows = items.map(item => {
+      const itemName = item.name || item.nombre || 'Artículo';
+      const quantity = item.quantity || item.cantidad || 0;
+      const unitPrice = Number(item.unitPrice || item.precio || 0);
+      const discount = Number(item.discount || 0);
+      const subtotal = (quantity * unitPrice).toFixed(2);
+      const priceLabel = discount > 0 ? `${unitPrice.toFixed(2)} (desc. ${discount}%)` : unitPrice.toFixed(2);
+      return `
+        <div class="purchase-history-item-row">
+          <span>${itemName} x${quantity}</span>
+          <strong>$${subtotal}</strong>
+        </div>
+        <div class="purchase-history-item-meta">
+          <span>Precio unitario: $${priceLabel}</span>
+        </div>
+      `;
+    }).join('');
+
+    return `
+      <div class="purchase-history-items">
+        ${detailRows}
+      </div>
+    `;
+  };
+
+  historyContainer.innerHTML = `
+    <div class="cart-history-header">
+      <span class="cart-history-title">Historial de compras</span>
+      <span class="cart-history-badge">${history.length} pedidos</span>
+    </div>
+    <ul class="purchase-history-list">
+      ${history.map(entry => {
+        const orderDate = new Date(entry.date).toLocaleString('es-ES', { dateStyle: 'short', timeStyle: 'short' });
+        const origin = entry.source ? String(entry.source).replace(/^https?:\/\//, '').replace(/\/.*$/, '') : 'Origen desconocido';
+        return `
+          <li class="purchase-history-item">
+            <div class="purchase-history-summary">
+              <strong>Pedido ${entry.orderReference}</strong>
+              <span>${orderDate}</span>
+            </div>
+            <div class="purchase-history-meta">
+              <span>${entry.itemCount} artículo${entry.itemCount === 1 ? '' : 's'}</span>
+              <span>Total: $${entry.total}</span>
+            </div>
+            <div class="purchase-history-order-info">
+              <div><strong>Comprador:</strong> ${entry.customerName}</div>
+              <div><strong>Teléfono:</strong> ${entry.customerPhone}</div>
+              <div><strong>Entrega a:</strong> ${entry.deliveryAddress}</div>
+              <div><strong>Recibe:</strong> ${entry.recipientName} (${entry.recipientPhone})</div>
+            </div>
+            ${formatOrderItems(entry.items)}
+            <div class="purchase-history-footer">
+              <span>Afiliado: ${entry.affiliate || 'Ninguno'}</span>
+              <span>${origin}</span>
+            </div>
+          </li>
+        `;
+      }).join('')}
+    </ul>
+  `;
+}
+
+function toggleCartHistory() {
+  const modal = document.getElementById('cart-history-modal');
+  const overlay = document.getElementById('cart-history-overlay');
+  if (!modal || !overlay) return;
+
+  const isHidden = modal.hasAttribute('hidden');
+  if (isHidden) {
+    modal.removeAttribute('hidden');
+    overlay.removeAttribute('hidden');
+    renderPurchaseHistory();
+    modal.focus();
+  } else {
+    modal.setAttribute('hidden', '');
+    overlay.setAttribute('hidden', '');
+  }
+}
+
+getUserHashId();
+
 const SEARCH_DEBOUNCE_MS = 250;
 
 // Helper to determine if a product (or grouped product) should be considered available
@@ -862,7 +1043,7 @@ function filterByCategory(category) {
 }
 
 // Buscar productos (ahora en tiempo real)
-function searchProducts() {
+function searchProducts(hideSuggestions = false) {
   const searchInput = document.getElementById("search-input");
   const productsContainer = document.getElementById("products-container");
   const noResultsMessage = document.getElementById("no-results-message");
@@ -911,6 +1092,7 @@ function searchProducts() {
     renderBestSellers();
     renderCategoriesCircle();
     hideNoResultsMessage();
+    if (hideSuggestions) clearSearchSuggestions();
     return;
   }
 
@@ -952,6 +1134,10 @@ function searchProducts() {
   } else {
     productsContainer.innerHTML = "";
     showNoResultsMessage(searchTerm);
+  }
+
+  if (hideSuggestions) {
+    clearSearchSuggestions();
   }
 }
 
@@ -2555,6 +2741,7 @@ function updateCart() {
 
   cartTotal = total;
   updateCartCount();
+  renderPurchaseHistory();
   
   // Actualizar las secciones de cantidad en los productos visibles
   updateAllProductQuantitySections();
@@ -2741,6 +2928,15 @@ function closeCart() {
         cartOverlay.remove();
       }
     }, 300);
+  }
+
+  const historyModal = document.getElementById('cart-history-modal');
+  const historyOverlay = document.getElementById('cart-history-overlay');
+  if (historyModal) {
+    historyModal.setAttribute('hidden', '');
+  }
+  if (historyOverlay) {
+    historyOverlay.setAttribute('hidden', '');
   }
 }
 
@@ -3591,7 +3787,9 @@ document.addEventListener("DOMContentLoaded", async () => {
           e.preventDefault();
           active.dispatchEvent(new MouseEvent('mousedown'));
         } else {
+          e.preventDefault();
           searchProducts();
+          clearSearchSuggestions();
         }
       } else if (e.key === 'Escape') {
         clearSearchSuggestions();
@@ -3615,18 +3813,27 @@ document.addEventListener("DOMContentLoaded", async () => {
       }
     });
 
-    // Reposicionar al hacer resize/scroll para mantener el dropdown pegado al input
+    // Reposicionar al hacer resize para mantener el dropdown pegado al input
     window.addEventListener('resize', () => positionSearchSuggestions());
-    window.addEventListener('scroll', () => positionSearchSuggestions(), { passive: true });
+    window.addEventListener('scroll', () => {
+      positionSearchSuggestions();
+      const container = document.getElementById('search-suggestions');
+      if (container && container.style.display !== 'none') {
+        clearSearchSuggestions();
+      }
+    }, { passive: true });
 
-    // Click fuera -> cerrar
-    document.addEventListener('click', (ev) => {
+    // Click / toque fuera -> cerrar
+    const hideSuggestionsIfClickedOutside = (ev) => {
       const container = document.getElementById('search-suggestions');
       if (!container || container.style.display === 'none') return;
       const input = document.getElementById('search-input');
       if (ev.target === input || input.contains(ev.target) || container.contains(ev.target)) return;
       clearSearchSuggestions();
-    });
+    };
+
+    document.addEventListener('click', hideSuggestionsIfClickedOutside);
+    document.addEventListener('pointerdown', hideSuggestionsIfClickedOutside);
   }
 });
 
