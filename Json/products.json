@@ -2945,7 +2945,7 @@
       "id": "prod_1780733066794_rrpiuy0xc",
       "nombre": "Caja x 24 Néctar de Mango 🥭 ‘Nezka’ (250ml)",
       "categoria": "bebidas",
-      "precio": 24.99,
+      "precio": 23.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2954,9 +2954,9 @@
         "111111_1780733066821.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-06T08:10:41.979Z",
-      "modified_at": "2026-06-08T07:21:55.004Z"
+      "modified_at": "2026-06-08T14:21:35.682Z"
     },
     {
       "id": "prod_1780895835637_y23whc4eu",
