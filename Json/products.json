@@ -1016,9 +1016,9 @@
         "saco_de_carbn.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-09T17:06:15.292Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
