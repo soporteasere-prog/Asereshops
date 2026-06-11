@@ -1007,7 +1007,7 @@
       "id": "mlqxb74h-15nfelz",
       "nombre": "Saco de Carbón",
       "categoria": "otros",
-      "precio": 6,
+      "precio": 7,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1016,9 +1016,9 @@
         "saco_de_carbn.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-09T17:06:15.292Z"
+      "modified_at": "2026-06-11T20:13:12.598Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
