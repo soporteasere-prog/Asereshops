@@ -540,9 +540,9 @@
         "desodorante_keewell_24h.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.003Z"
+      "modified_at": "2026-06-12T18:50:39.807Z"
     },
     {
       "id": "mlgzank4-1minyju",
@@ -1917,9 +1917,9 @@
         "261645_1777963852515.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-05T06:54:27.884Z",
-      "modified_at": "2026-05-05T06:54:27.884Z"
+      "modified_at": "2026-06-12T18:50:39.806Z"
     },
     {
       "id": "prod_1777963926079_utzbwgzvz",
@@ -2308,9 +2308,9 @@
         "1000098762_1780383383268.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:44:58.343Z",
-      "modified_at": "2026-06-08T06:09:33.713Z"
+      "modified_at": "2026-06-12T18:50:39.807Z"
     },
     {
       "id": "prod_1780383472429_4qoktkdkt",
@@ -2410,9 +2410,9 @@
         "1891_1780383989407.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:07.469Z",
-      "modified_at": "2026-06-02T07:45:07.469Z"
+      "modified_at": "2026-06-12T18:50:39.806Z"
     },
     {
       "id": "prod_1780384073555_3m7xismjw",
@@ -2943,20 +2943,20 @@
     },
     {
       "id": "prod_1780733066794_rrpiuy0xc",
-      "nombre": "Caja x 24 Néctar de Mango 🥭 ‘Nezka’ (250ml)",
+      "nombre": "Caja de Néctar de Mango 24u",
       "categoria": "bebidas",
-      "precio": 23.69,
+      "precio": 23.47,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "111111_1780733066821.jpg"
+        "caja-de-nctar-de-mango-24u_1781290234930.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-06T08:10:41.979Z",
-      "modified_at": "2026-06-08T14:21:35.682Z"
+      "modified_at": "2026-06-12T18:50:43.710Z"
     },
     {
       "id": "prod_1780895835637_y23whc4eu",
