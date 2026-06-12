@@ -1016,9 +1016,9 @@
         "saco_de_carbn.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-11T21:27:08.294Z"
+      "modified_at": "2026-06-12T17:59:13.546Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -1577,9 +1577,9 @@
         "refresco_instantneo_pia_colada_20lts.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:40.402Z"
+      "modified_at": "2026-06-12T17:59:13.545Z"
     },
     {
       "id": "mna63lqq-1mnrmod",
