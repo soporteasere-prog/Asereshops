@@ -3093,6 +3093,23 @@
       "disponibilidad": true,
       "created_at": "2026-06-08T06:09:44.056Z",
       "modified_at": "2026-06-08T06:09:44.056Z"
+    },
+    {
+      "id": "prod_1781444317080_muikyeg60",
+      "nombre": "Caja de Jugo La Estancia Sabor Coctel 27u",
+      "categoria": "bebidas",
+      "precio": 16.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000097953_1781444317182.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-14T13:38:52.842Z",
+      "modified_at": "2026-06-14T13:38:52.842Z"
     }
   ]
 }
