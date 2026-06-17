@@ -803,7 +803,7 @@
       "id": "mlq5jmsg-5sd57k1",
       "nombre": "Café Molido Natural Vima (250g)",
       "categoria": "café",
-      "precio": 6.97,
+      "precio": 6.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -814,7 +814,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:34.031Z"
+      "modified_at": "2026-06-17T22:45:22.553Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -1390,9 +1390,9 @@
         "paquete_de_papas_prefritas_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.834Z"
+      "modified_at": "2026-06-17T22:45:22.551Z"
     },
     {
       "id": "mn3aj1rj-1i9d6mq",
@@ -2333,7 +2333,7 @@
       "id": "prod_1780383540400_hv89o6cod",
       "nombre": "Aceituna sin Hueso Vima (290g)",
       "categoria": "despensa",
-      "precio": 3.69,
+      "precio": 3.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2344,7 +2344,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:01.325Z",
-      "modified_at": "2026-06-02T07:45:01.325Z"
+      "modified_at": "2026-06-17T22:45:22.554Z"
     },
     {
       "id": "prod_1780383752592_7bi7uisel",
@@ -2384,7 +2384,7 @@
       "id": "prod_1780383900860_mybicsihb",
       "nombre": "Aceituna con Hueso Vima (290g)",
       "categoria": "despensa",
-      "precio": 3.29,
+      "precio": 3.09,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2395,7 +2395,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:06.010Z",
-      "modified_at": "2026-06-02T07:45:06.010Z"
+      "modified_at": "2026-06-17T22:45:22.555Z"
     },
     {
       "id": "prod_1780383989393_k7vcb90aq",
@@ -2580,9 +2580,9 @@
         "20411_1780384951635.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:22.733Z",
-      "modified_at": "2026-06-05T06:19:31.402Z"
+      "modified_at": "2026-06-17T22:45:22.552Z"
     },
     {
       "id": "prod_1780385018623_2vgxw5dl4",
@@ -2605,7 +2605,7 @@
       "id": "prod_1780385071281_tipkn7115",
       "nombre": "Alcaparras en Vinagre 3140ml",
       "categoria": "aderezos",
-      "precio": 3.99,
+      "precio": 3.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2616,7 +2616,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:25.887Z",
-      "modified_at": "2026-06-02T07:45:25.887Z"
+      "modified_at": "2026-06-17T22:45:22.556Z"
     },
     {
       "id": "prod_1780385154068_3hrmwsexv",
@@ -2639,7 +2639,7 @@
       "id": "prod_1780385226877_0c3hybeut",
       "nombre": "Aceitunas Verdes sin Hueso 1820g",
       "categoria": "aderezos",
-      "precio": 16.97,
+      "precio": 15.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2650,13 +2650,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:28.679Z",
-      "modified_at": "2026-06-02T07:45:28.679Z"
+      "modified_at": "2026-06-17T22:45:22.555Z"
     },
     {
       "id": "prod_1780385278158_9jmmmksx4",
       "nombre": "Aceitunas Aliñadas 314ml",
       "categoria": "aderezos",
-      "precio": 3.69,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2667,7 +2667,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:29.989Z",
-      "modified_at": "2026-06-02T07:45:29.989Z"
+      "modified_at": "2026-06-17T22:45:22.556Z"
     },
     {
       "id": "prod_1780385348211_o7tzow1is",
@@ -3110,6 +3110,91 @@
       "disponibilidad": true,
       "created_at": "2026-06-14T13:38:52.842Z",
       "modified_at": "2026-06-14T13:38:52.842Z"
+    },
+    {
+      "id": "prod_1781736115628_2kqw4ei5p",
+      "nombre": "Atún en Aceite Vegetal (140g)",
+      "categoria": "enlatados",
+      "precio": 1.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "atn-en-aceite-vegetal-140g_1781736115656.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-17T22:45:25.573Z",
+      "modified_at": "2026-06-17T22:45:25.573Z"
+    },
+    {
+      "id": "prod_1781736148253_7fbquy0yf",
+      "nombre": "Paquete de muslos de pollo (2Kg)",
+      "categoria": "cárnicos",
+      "precio": 5.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-muslos-de-pollo-2kg_1781736148263.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-17T22:45:27.286Z",
+      "modified_at": "2026-06-17T22:45:27.286Z"
+    },
+    {
+      "id": "prod_1781736198000_ddpr73dwo",
+      "nombre": "Fresas en Almíbar 3Kg Vima",
+      "categoria": "despensa",
+      "precio": 10.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "fresas-en-almbar-3kg-vima_1781736198016.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-17T22:45:29.593Z",
+      "modified_at": "2026-06-17T22:45:29.593Z"
+    },
+    {
+      "id": "prod_1781736239303_r9qiq3dkx",
+      "nombre": "Caja de muslos de pollo (12Kg)",
+      "categoria": "cárnicos",
+      "precio": 33.75,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-de-muslos-de-pollo-12kg_1781736239330.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-17T22:45:31.025Z",
+      "modified_at": "2026-06-17T22:45:31.025Z"
+    },
+    {
+      "id": "prod_1781736295141_3y8cy1zdo",
+      "nombre": "Almidón de Maiz (Maicena) 500g",
+      "categoria": "despensa",
+      "precio": 2.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "almidn-de-maiz-maicena-500g_1781736295168.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-17T22:45:32.655Z",
+      "modified_at": "2026-06-17T22:45:32.655Z"
     }
   ]
 }
