@@ -155,33 +155,31 @@ function renderPurchaseHistory() {
   historyContainer.innerHTML = `
     <div class="cart-history-header">
       <span class="cart-history-title">Historial de compras</span>
-      <span class="cart-history-badge">${history.length} pedidos</span>
+      <span class="cart-history-badge">${history.length} pedido${history.length === 1 ? '' : 's'}</span>
     </div>
     <ul class="purchase-history-list">
-      ${history.map(entry => {
+      ${history.map((entry, index) => {
         const orderDate = new Date(entry.date).toLocaleString('es-ES', { dateStyle: 'short', timeStyle: 'short' });
         const origin = entry.source ? String(entry.source).replace(/^https?:\/\//, '').replace(/\/.*$/, '') : 'Origen desconocido';
+        const recipientLabel = entry.recipientName ? `${entry.recipientName} (${entry.recipientPhone || 'N/A'})` : 'N/A';
         return `
           <li class="purchase-history-item">
-            <div class="purchase-history-summary">
-              <strong>Pedido ${entry.orderReference}</strong>
-              <span>${orderDate}</span>
+            <div class="purchase-history-card-header">
+              <div>
+                <span class="purchase-history-label">Pedido ${index + 1}</span>
+                <strong>${entry.orderReference}</strong>
+              </div>
+              <span class="purchase-history-date">${orderDate}</span>
             </div>
             <div class="purchase-history-meta">
               <span>${entry.itemCount} artículo${entry.itemCount === 1 ? '' : 's'}</span>
               <span>Total: $${entry.total}</span>
             </div>
             <div class="purchase-history-order-info">
-              <div><strong>Comprador:</strong> ${entry.customerName}</div>
-              <div><strong>Teléfono:</strong> ${entry.customerPhone}</div>
-              <div><strong>Entrega a:</strong> ${entry.deliveryAddress}</div>
-              <div><strong>Recibe:</strong> ${entry.recipientName} (${entry.recipientPhone})</div>
+              <div><strong>Entrega:</strong> ${entry.deliveryAddress || 'N/A'}</div>
+              <div><strong>Recibe:</strong> ${recipientLabel}</div>
             </div>
             ${formatOrderItems(entry.items)}
-            <div class="purchase-history-footer">
-              <span>Afiliado: ${entry.affiliate || 'Ninguno'}</span>
-              <span>${origin}</span>
-            </div>
           </li>
         `;
       }).join('')}
