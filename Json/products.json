@@ -64,9 +64,9 @@
         "pernil_de_cerdo_asado_15_libras.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-20T06:41:49.214Z"
     },
     {
       "id": "mlgzank1-16w7pq2",
@@ -608,9 +608,9 @@
         "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.012Z"
+      "modified_at": "2026-06-20T06:41:49.213Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -667,7 +667,7 @@
       "id": "mli2ve9o-a60fi91",
       "nombre": "Aceite 900ml",
       "categoria": "despensa",
-      "precio": 3.39,
+      "precio": 3.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -678,7 +678,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-04T07:49:00.832Z"
+      "modified_at": "2026-06-20T06:41:49.216Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -1067,9 +1067,9 @@
         "20624_1780639642240.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:37.105Z"
+      "modified_at": "2026-06-20T06:41:49.215Z"
     },
     {
       "id": "mmbwn2vx-m283nb1",
@@ -1645,9 +1645,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:49.131Z"
+      "modified_at": "2026-06-20T06:41:49.212Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -2036,9 +2036,9 @@
         "pernil_de_cerdo_asado_15_libras_1779858880682.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-27T05:57:55.881Z",
-      "modified_at": "2026-05-27T05:57:55.881Z"
+      "modified_at": "2026-06-20T06:41:49.214Z"
     },
     {
       "id": "prod_1779858910615_na9zlcivr",
@@ -2053,9 +2053,9 @@
         "pernil_de_cerdo_asado_15_libras_1779858910638.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-27T05:57:58.420Z",
-      "modified_at": "2026-05-27T05:57:58.420Z"
+      "modified_at": "2026-06-20T06:41:49.214Z"
     },
     {
       "id": "prod_1779859225646_w1oxwv3sx",
@@ -2563,9 +2563,9 @@
         "20501_1780384859631.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:21.279Z",
-      "modified_at": "2026-06-05T06:19:34.039Z"
+      "modified_at": "2026-06-20T06:41:49.215Z"
     },
     {
       "id": "prod_1780384951623_su1ikab0h",
@@ -2580,9 +2580,9 @@
         "20411_1780384951635.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:22.733Z",
-      "modified_at": "2026-06-17T22:45:22.552Z"
+      "modified_at": "2026-06-20T06:41:49.216Z"
     },
     {
       "id": "prod_1780385018623_2vgxw5dl4",
