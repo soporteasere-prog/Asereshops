@@ -1016,9 +1016,9 @@
         "saco_de_carbn.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-12T17:59:13.546Z"
+      "modified_at": "2026-06-21T05:38:34.488Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -3195,6 +3195,23 @@
       "disponibilidad": true,
       "created_at": "2026-06-17T22:45:32.655Z",
       "modified_at": "2026-06-17T22:45:32.655Z"
+    },
+    {
+      "id": "prod_1782020309437_p737kh1vc",
+      "nombre": "Nutella Vima 210g",
+      "categoria": "confituras",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "nutella-vima-210g_1782020309451.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-21T05:38:37.393Z",
+      "modified_at": "2026-06-21T05:38:37.393Z"
     }
   ]
 }
