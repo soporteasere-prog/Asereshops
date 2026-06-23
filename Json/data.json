@@ -1,8 +1,8 @@
 {
-    "id": 3,
-    "titulo": "¡El día de papá 🧓🧓!",
-    "mensaje": "¡El Día del Padre ya está aquí! Encuentra el regalo perfecto para papá en nuestra tienda. 🎁",
-    "subtitulo": "\"Papá sienpre ha sido el mejor\" ",
-    "tipo": "success",
-    "icono": "fas fa-medal"
+    "id": 2,
+    "titulo": "La despensa está tratando de decirte algo... y tiene razón. 📦👀",
+    "mensaje": "No esperes a que se quede en cero. Asegura los productos favoritos hoy mismo de forma rápida, segura y sin complicaciones. ¡Haz tu pedido ahora y quédate tranquilo/a!",
+    "subtitulo": "\"Lo mejor siempre para ti\" ",
+    "tipo": "error",
+    "icono": "fas fa-gift"
 }
