@@ -4,7 +4,7 @@
       "id": "mlgzank1-sikt6w1",
       "nombre": "Carne de cerdo x Lb",
       "categoria": "cárnicos",
-      "precio": 2.89,
+      "precio": 2.9,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
@@ -15,7 +15,7 @@
       "descripcion": "Carne fresca, se hace el corte al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.013Z"
+      "modified_at": "2026-06-23T21:21:35.278Z"
     },
     {
       "id": "mlgzank1-1s4o3vq",
@@ -155,20 +155,20 @@
     },
     {
       "id": "mlgzank2-psrcao1",
-      "nombre": "Arroz Blanco (1Kg)",
+      "nombre": "Arroz (1Kg)",
       "categoria": "pastas-y-granos",
-      "precio": 1.79,
+      "precio": 1.57,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "1000095988_1781161114914.jpg"
+        "arroz-1kg_1782249233686.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-11T06:58:54.944Z"
+      "modified_at": "2026-06-23T21:21:38.752Z"
     },
     {
       "id": "mlgzank2-147xys0",
@@ -327,7 +327,7 @@
       "id": "mlgzank2-13eusc4",
       "nombre": "Caja de Cervezas Cristal",
       "categoria": "alcohol",
-      "precio": 22.99,
+      "precio": 21.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -338,7 +338,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:49.132Z"
+      "modified_at": "2026-06-23T21:21:40.806Z"
     },
     {
       "id": "mlgzank2-xjt0jl1",
@@ -480,7 +480,7 @@
       "id": "mlgzank4-1gsjq05",
       "nombre": "Caja de cerveza Bucanero 24u",
       "categoria": "alcohol",
-      "precio": 22.99,
+      "precio": 21.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -491,7 +491,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:49.133Z"
+      "modified_at": "2026-06-23T21:21:40.807Z"
     },
     {
       "id": "mlgzank4-492ui61",
@@ -905,7 +905,7 @@
       "id": "mlq6rtqp-1d37txu",
       "nombre": "Pack de 4 yogurts Natural Azucarado Vima",
       "categoria": "lacteos",
-      "precio": 2.49,
+      "precio": 2.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -916,7 +916,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:33.712Z"
+      "modified_at": "2026-06-23T21:21:40.808Z"
     },
     {
       "id": "mlq6tkin-1cei2l5",
@@ -1347,7 +1347,7 @@
       "id": "mmxplkci-cg7fgw9",
       "nombre": "Filete de Pescado Panga (456g)",
       "categoria": "cárnicos",
-      "precio": 4.19,
+      "precio": 2.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1358,24 +1358,24 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:31.168Z"
+      "modified_at": "2026-06-23T21:21:40.809Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
-      "nombre": "Paquete de anillas de Calamar",
+      "nombre": "Anillas de Calamar (454g)",
       "categoria": "cárnicos",
-      "precio": 7.49,
+      "precio": 6.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete_de_anillas_de_calamar.jpg"
+        "anillas-de-calamar-454g_1782249523319.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.733Z"
+      "modified_at": "2026-06-23T21:21:42.335Z"
     },
     {
       "id": "mmxptnd5-7a8q8vx",
@@ -1687,18 +1687,18 @@
       "id": "mnq50bj3-1qtfbhl",
       "nombre": "Paca de arroz de 30u de 1kg(66Lb)",
       "categoria": "pastas-y-granos",
-      "precio": 45.39,
+      "precio": 44.97,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "1000095987_1781161127061.jpg"
+        "paca-de-arroz-de-30u-de-1kg66lb_1782249568651.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-11T06:58:58.465Z"
+      "modified_at": "2026-06-23T21:21:45.559Z"
     },
     {
       "id": "moe41gnc-77m3901",
@@ -1789,7 +1789,7 @@
       "id": "moi94ev9-xtb0ig1",
       "nombre": "Cebolla en Tiras 1Kg Vima",
       "categoria": "despensa",
-      "precio": 4.49,
+      "precio": 3.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1800,7 +1800,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:57.781Z"
+      "modified_at": "2026-06-23T21:21:47.067Z"
     },
     {
       "id": "moi98wtu-122h0ru",
@@ -2758,7 +2758,7 @@
       "id": "prod_1780385819341_7trd7j57s",
       "nombre": "Minimagdalenas Vima con Chispas de Chocolate 200g",
       "categoria": "confituras",
-      "precio": 3.89,
+      "precio": 3.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2769,13 +2769,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:38.042Z",
-      "modified_at": "2026-06-05T06:19:31.399Z"
+      "modified_at": "2026-06-23T21:21:47.069Z"
     },
     {
       "id": "prod_1780385956276_3eird4cdl",
       "nombre": "Minimagdalenas Vima Mármol 200g",
       "categoria": "confituras",
-      "precio": 3.89,
+      "precio": 3.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2786,13 +2786,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:39.769Z",
-      "modified_at": "2026-06-05T06:19:31.400Z"
+      "modified_at": "2026-06-23T21:21:47.076Z"
     },
     {
       "id": "prod_1780386014122_aynjr5nms",
       "nombre": "Minimagdalenas Vima 200g",
       "categoria": "confituras",
-      "precio": 3.89,
+      "precio": 3.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2803,7 +2803,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:41.208Z",
-      "modified_at": "2026-06-05T06:19:31.401Z"
+      "modified_at": "2026-06-23T21:21:47.078Z"
     },
     {
       "id": "prod_1780386086104_ru8xikz2l",
