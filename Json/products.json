@@ -446,7 +446,7 @@
       "id": "mlgzank3-426dh21",
       "nombre": "Paquete de íntimas 10u",
       "categoria": "aseo",
-      "precio": 1,
+      "precio": 1.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -457,7 +457,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:55.002Z"
+      "modified_at": "2026-06-23T21:08:43.589Z"
     },
     {
       "id": "mlgzank3-1pzccww",
@@ -548,7 +548,7 @@
       "id": "mlgzank4-1minyju",
       "nombre": "Hígado de pollo (1Kg)",
       "categoria": "cárnicos",
-      "precio": 3.57,
+      "precio": 2.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -557,9 +557,9 @@
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-15T17:34:35.998Z"
+      "modified_at": "2026-06-23T21:08:43.591Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -1194,7 +1194,7 @@
       "id": "mmnnilty-luzn711",
       "nombre": "Hamburguesa de pollo (4u)",
       "categoria": "cárnicos",
-      "precio": 1.49,
+      "precio": 1.09,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1203,9 +1203,9 @@
         "hamburguesa_de_pollo_4u.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-06-23T21:08:37.036Z"
     },
     {
       "id": "mmq2wkzx-c7qedfj",
@@ -1645,9 +1645,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-20T06:41:49.212Z"
+      "modified_at": "2026-06-23T21:08:37.035Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -2019,9 +2019,9 @@
         "1000081599_1779282841144.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-20T13:14:13.919Z",
-      "modified_at": "2026-06-05T06:19:34.042Z"
+      "modified_at": "2026-06-23T21:08:43.586Z"
     },
     {
       "id": "prod_1779858880649_gzwrc49yi",
@@ -2410,9 +2410,9 @@
         "1891_1780383989407.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:07.469Z",
-      "modified_at": "2026-06-12T18:50:39.806Z"
+      "modified_at": "2026-06-23T21:08:37.036Z"
     },
     {
       "id": "prod_1780384073555_3m7xismjw",
@@ -2546,9 +2546,9 @@
         "20505_1780384771127.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:19.838Z",
-      "modified_at": "2026-06-04T07:49:00.843Z"
+      "modified_at": "2026-06-23T21:08:43.584Z"
     },
     {
       "id": "prod_1780384859618_oqcrpbgqc",
@@ -2911,7 +2911,7 @@
       "id": "prod_1780640361640_rtb1nv6qh",
       "nombre": "Pomo de Comino",
       "categoria": "despensa",
-      "precio": 5.19,
+      "precio": 4.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2922,7 +2922,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-05T06:19:42.102Z",
-      "modified_at": "2026-06-05T06:19:42.102Z"
+      "modified_at": "2026-06-23T21:08:43.593Z"
     },
     {
       "id": "prod_1780732999658_cnqyj0vwk",
@@ -2971,9 +2971,9 @@
         "helado_1780895835669.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-08T05:26:52.468Z",
-      "modified_at": "2026-06-08T05:26:52.468Z"
+      "modified_at": "2026-06-23T21:08:43.583Z"
     },
     {
       "id": "prod_1780896285491_qmucga8h2",
@@ -3212,6 +3212,57 @@
       "disponibilidad": true,
       "created_at": "2026-06-21T05:38:37.393Z",
       "modified_at": "2026-06-21T05:38:37.393Z"
+    },
+    {
+      "id": "prod_1782248629204_wwreudpb5",
+      "nombre": "Aceituna con Hueso Bolsita (160g)",
+      "categoria": "aderezos",
+      "precio": 2.17,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "aceituna-con-hueso-bolsita-160g_1782248629240.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-23T21:08:39.906Z",
+      "modified_at": "2026-06-23T21:08:39.906Z"
+    },
+    {
+      "id": "prod_1782248667290_8t4csl1b3",
+      "nombre": "Helado Crema 4Lt Sabor Mango",
+      "categoria": "lacteos",
+      "precio": 11.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "helado-crema-4lt-sabor-mango_1782248667313.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-23T21:08:41.901Z",
+      "modified_at": "2026-06-23T21:08:41.901Z"
+    },
+    {
+      "id": "prod_1782248723657_baci8f89g",
+      "nombre": "Paquete de salchichas (340g)",
+      "categoria": "cárnicos",
+      "precio": 1.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-salchichas-340g_1782248723680.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-23T21:08:43.582Z",
+      "modified_at": "2026-06-23T21:08:43.582Z"
     }
   ]
 }
