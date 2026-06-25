@@ -650,7 +650,7 @@
       "id": "mli1qt1h-m8mjr31",
       "nombre": "Paquete de Cuartos de Pollo 10lb",
       "categoria": "cárnicos",
-      "precio": 12.49,
+      "precio": 12.99,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
@@ -661,7 +661,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:40.400Z"
+      "modified_at": "2026-06-25T23:14:34.404Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -939,8 +939,8 @@
       "id": "mlq6yah4-1vaviqx",
       "nombre": "Leche Condensada",
       "categoria": "despensa",
-      "precio": 1.49,
-      "descuento": 6.71,
+      "precio": 1.99,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -950,7 +950,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:25.889Z"
+      "modified_at": "2026-06-25T23:14:34.405Z"
     },
     {
       "id": "mlq721wl-1plcgdw",
@@ -1237,9 +1237,9 @@
         "1000083088_1779469459758.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:04.208Z"
+      "modified_at": "2026-06-25T23:14:34.403Z"
     },
     {
       "id": "mmq2d45l-1yp3xfb",
@@ -3175,9 +3175,9 @@
         "caja-de-muslos-de-pollo-12kg_1781736239330.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-17T22:45:31.025Z",
-      "modified_at": "2026-06-17T22:45:31.025Z"
+      "modified_at": "2026-06-25T23:14:34.388Z"
     },
     {
       "id": "prod_1781736295141_3y8cy1zdo",
@@ -3263,6 +3263,57 @@
       "disponibilidad": true,
       "created_at": "2026-06-23T21:08:43.582Z",
       "modified_at": "2026-06-23T21:08:43.582Z"
+    },
+    {
+      "id": "prod_1782429201944_53adonqyc",
+      "nombre": "Pack x 6 maltas Guajira (6x330ml)",
+      "categoria": "bebidas",
+      "precio": 5.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-x-6-maltas-guajira-6x330ml_1782429201964.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-25T23:14:37.484Z",
+      "modified_at": "2026-06-25T23:14:37.484Z"
+    },
+    {
+      "id": "prod_1782429232830_ggw2ffir0",
+      "nombre": "Pack 6u Malta Guajira 1.5Lt",
+      "categoria": "bebidas",
+      "precio": 17.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-6u-malta-guajira-15lt_1782429232847.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-25T23:14:39.471Z",
+      "modified_at": "2026-06-25T23:14:39.471Z"
+    },
+    {
+      "id": "prod_1782429253140_tct29meio",
+      "nombre": "Malta Guajira (330ml)",
+      "categoria": "bebidas",
+      "precio": 0.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "malta-guajira-330ml_1782429253162.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-06-25T23:14:41.466Z",
+      "modified_at": "2026-06-25T23:14:41.466Z"
     }
   ]
 }
