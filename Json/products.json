@@ -58,7 +58,7 @@
       "precio": 50,
       "descuento": 0,
       "mas_vendido": true,
-      "nuevo": false,
+      "nuevo": true,
       "oferta": false,
       "imagenes": [
         "pernil_de_cerdo_asado_15_libras.jpg"
@@ -66,7 +66,7 @@
       "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-20T06:41:49.214Z"
+      "modified_at": "2026-06-28T08:40:29.876Z"
     },
     {
       "id": "mlgzank1-16w7pq2",
