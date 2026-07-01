@@ -472,9 +472,9 @@
         "leche_entera_en_polvo_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.009Z"
+      "modified_at": "2026-07-01T11:44:30.299Z"
     },
     {
       "id": "mlgzank4-1gsjq05",
@@ -1254,9 +1254,9 @@
         "papa_x_lb.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-20T17:23:59.818Z"
+      "modified_at": "2026-07-01T11:44:32.677Z"
     },
     {
       "id": "mmq2g1kv-165qg82",
@@ -1906,20 +1906,20 @@
     },
     {
       "id": "prod_1777963852488_1rs856dd0",
-      "nombre": "Mortadella de Pollo 1kg",
+      "nombre": "Mortadela de Pollo 1kg",
       "categoria": "cárnicos",
-      "precio": 3.79,
+      "precio": 5.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "261645_1777963852515.jpg"
+        "mortadela-de-pollo-1kg_1782906265786.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-05T06:54:27.884Z",
-      "modified_at": "2026-06-12T18:50:39.806Z"
+      "modified_at": "2026-07-01T11:44:34.188Z"
     },
     {
       "id": "prod_1777963926079_utzbwgzvz",
@@ -3107,9 +3107,9 @@
         "1000097953_1781444317182.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-14T13:38:52.842Z",
-      "modified_at": "2026-06-14T13:38:52.842Z"
+      "modified_at": "2026-07-01T11:44:30.299Z"
     },
     {
       "id": "prod_1781736115628_2kqw4ei5p",
@@ -3314,6 +3314,23 @@
       "disponibilidad": true,
       "created_at": "2026-06-25T23:14:41.466Z",
       "modified_at": "2026-06-25T23:14:41.466Z"
+    },
+    {
+      "id": "prod_1782906189919_mttmmaiuj",
+      "nombre": "Saco Arroz Blanco 25Kg",
+      "categoria": "despensa",
+      "precio": 44.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "saco-arroz-blanco-25kg_1782906189945.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-01T11:44:32.676Z",
+      "modified_at": "2026-07-01T11:44:32.676Z"
     }
   ]
 }
