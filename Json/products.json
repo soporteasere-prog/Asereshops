@@ -2495,9 +2495,9 @@
         "20523_1780384500460.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:14.909Z",
-      "modified_at": "2026-06-02T07:45:14.909Z"
+      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1780384558777_ecqtrcjuj",
@@ -2852,9 +2852,9 @@
         "3218_1780386222957.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:45.302Z",
-      "modified_at": "2026-06-02T07:45:45.302Z"
+      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1780386268964_ojds2d9c8",
@@ -2954,9 +2954,9 @@
         "caja-de-nctar-de-mango-24u_1781290234930.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-06T08:10:41.979Z",
-      "modified_at": "2026-06-12T18:50:43.710Z"
+      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1780895835637_y23whc4eu",
@@ -3005,9 +3005,9 @@
         "jvdsyc_1780896395150.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-08T05:26:55.675Z",
-      "modified_at": "2026-06-08T05:26:55.675Z"
+      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1780897671315_ptr7g20yt",
@@ -3192,9 +3192,9 @@
         "almidn-de-maiz-maicena-500g_1781736295168.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-17T22:45:32.655Z",
-      "modified_at": "2026-06-17T22:45:32.655Z"
+      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1782020309437_p737kh1vc",
@@ -3243,9 +3243,9 @@
         "helado-crema-4lt-sabor-mango_1782248667313.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-23T21:08:41.901Z",
-      "modified_at": "2026-06-23T21:08:41.901Z"
+      "modified_at": "2026-07-03T15:10:36.685Z"
     },
     {
       "id": "prod_1782248723657_baci8f89g",
