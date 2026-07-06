@@ -1968,9 +1968,9 @@
         "1000078472_1778847806270.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-15T12:25:57.720Z",
-      "modified_at": "2026-05-15T12:25:57.720Z"
+      "modified_at": "2026-07-06T21:37:37.950Z"
     },
     {
       "id": "prod_1778847937855_9mddry2ug",
@@ -2223,9 +2223,9 @@
         "20175_1780036724860.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-29T06:39:51.073Z",
-      "modified_at": "2026-06-05T06:19:34.041Z"
+      "modified_at": "2026-07-06T21:37:37.949Z"
     },
     {
       "id": "prod_1780036769803_qwbur3m87",
@@ -2427,9 +2427,9 @@
         "10813_1780384073567.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:08.987Z",
-      "modified_at": "2026-06-08T06:09:31.182Z"
+      "modified_at": "2026-07-06T21:37:37.950Z"
     },
     {
       "id": "prod_1780384228413_57eqncwl0",
@@ -3277,9 +3277,9 @@
         "pack-x-6-maltas-guajira-6x330ml_1782429201964.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-25T23:14:37.484Z",
-      "modified_at": "2026-06-25T23:14:37.484Z"
+      "modified_at": "2026-07-06T21:37:37.948Z"
     },
     {
       "id": "prod_1782429232830_ggw2ffir0",
@@ -3311,9 +3311,9 @@
         "malta-guajira-330ml_1782429253162.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-25T23:14:41.466Z",
-      "modified_at": "2026-06-25T23:14:41.466Z"
+      "modified_at": "2026-07-06T21:37:37.946Z"
     },
     {
       "id": "prod_1782906189919_mttmmaiuj",
@@ -3328,9 +3328,9 @@
         "saco-arroz-blanco-25kg_1782906189945.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-01T11:44:32.676Z",
-      "modified_at": "2026-07-01T11:44:32.676Z"
+      "modified_at": "2026-07-06T21:37:37.949Z"
     }
   ]
 }
