@@ -123,7 +123,7 @@
       "id": "mlgzank2-1pwcv2o",
       "nombre": "Cartón de Huevos",
       "categoria": "despensa",
-      "precio": 6.49,
+      "precio": 7.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -134,7 +134,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-07T23:13:23.092Z"
+      "modified_at": "2026-07-11T13:48:15.179Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -180,12 +180,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "sal_x_lb.jpg"
+        "paquete-de-sal-1kg_1783777449212.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-27T05:58:37.877Z"
+      "modified_at": "2026-07-11T13:48:19.047Z"
     },
     {
       "id": "mlgzank2-1nnvd1p",
@@ -387,9 +387,9 @@
         "paquete_de_papel_sanitario.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:34.037Z"
+      "modified_at": "2026-07-11T13:48:15.179Z"
     },
     {
       "id": "mlgzank3-vqyyagj",
@@ -463,8 +463,8 @@
       "id": "mlgzank3-1pzccww",
       "nombre": "Leche entera en polvo (1kg)",
       "categoria": "lacteos",
-      "precio": 8.89,
-      "descuento": 0,
+      "precio": 9.99,
+      "descuento": 11.01,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -472,9 +472,9 @@
         "leche_entera_en_polvo_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-01T11:44:30.299Z"
+      "modified_at": "2026-07-11T13:48:30.590Z"
     },
     {
       "id": "mlgzank4-1gsjq05",
@@ -523,9 +523,9 @@
         "20685_1780902609388.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:53.438Z"
+      "modified_at": "2026-07-11T13:48:15.179Z"
     },
     {
       "id": "mlgzank4-dez8evc",
@@ -1364,7 +1364,7 @@
       "id": "mmxpp1m7-mr2qt01",
       "nombre": "Anillas de Calamar (454g)",
       "categoria": "cárnicos",
-      "precio": 6.69,
+      "precio": 6.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1375,7 +1375,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:42.335Z"
+      "modified_at": "2026-07-11T13:48:15.179Z"
     },
     {
       "id": "mmxptnd5-7a8q8vx",
@@ -2189,9 +2189,9 @@
         "444119-600x600_1780036583028.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-29T06:39:46.372Z",
-      "modified_at": "2026-06-05T06:19:34.035Z"
+      "modified_at": "2026-07-11T13:48:15.178Z"
     },
     {
       "id": "prod_1780036689025_8gtckttiu",
@@ -2288,12 +2288,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "20503_1780383292549.webp"
+        "img_1783777548677.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:44:56.671Z",
-      "modified_at": "2026-06-05T06:19:34.040Z"
+      "modified_at": "2026-07-11T13:48:28.375Z"
     },
     {
       "id": "prod_1780383383242_ntyipx145",
@@ -2410,9 +2410,9 @@
         "1891_1780383989407.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:07.469Z",
-      "modified_at": "2026-06-23T21:08:37.036Z"
+      "modified_at": "2026-07-11T13:48:15.179Z"
     },
     {
       "id": "prod_1780384073555_3m7xismjw",
@@ -3331,6 +3331,23 @@
       "disponibilidad": false,
       "created_at": "2026-07-01T11:44:32.676Z",
       "modified_at": "2026-07-06T21:37:37.949Z"
+    },
+    {
+      "id": "prod_1783777672836_8a1f06f66",
+      "nombre": "Refresco Gaseado 1.5Lts (naranja)",
+      "categoria": "bebidas",
+      "precio": 2.75,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "refresco-gaseado-15lts-naranja_1783777672856.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-11T13:48:32.576Z",
+      "modified_at": "2026-07-11T13:48:32.576Z"
     }
   ]
 }
