@@ -868,23 +868,6 @@
       "modified_at": "2026-05-23T06:57:23.543Z"
     },
     {
-      "id": "mlq6lgga-c3hh86z",
-      "nombre": "Jabón de Baño 100g",
-      "categoria": "aseo",
-      "precio": 0.67,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "jabn_de_bao.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-08T07:21:55.001Z"
-    },
-    {
       "id": "mlq6qth7-16rlvzs",
       "nombre": "Pack de 4 yogurts de Fresa Vima",
       "categoria": "lacteos",
@@ -897,26 +880,9 @@
         "pack_de_4_yogurts_de_fresa_vima.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlq6rtqp-1d37txu",
-      "nombre": "Pack de 4 yogurts Natural Azucarado Vima",
-      "categoria": "lacteos",
-      "precio": 2.69,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack_de_4_yogurts_natural_azucarado_vima.webp"
-      ],
-      "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:40.808Z"
+      "modified_at": "2026-07-15T03:30:34.219Z"
     },
     {
       "id": "mlq6tkin-1cei2l5",
@@ -970,23 +936,6 @@
       "modified_at": null
     },
     {
-      "id": "mlq79e7y-1h3e8up",
-      "nombre": "Melocotón en Almíbar",
-      "categoria": "despensa",
-      "precio": 1.55,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "melocotn_en_almbar.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.000Z"
-    },
-    {
       "id": "mlq7aq58-1jmj44p",
       "nombre": "Pasta de tomate Vima (400g)",
       "categoria": "despensa",
@@ -1016,9 +965,9 @@
         "saco_de_carbn.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-07T23:42:41.629Z"
+      "modified_at": "2026-07-15T03:30:12.255Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -1577,9 +1526,9 @@
         "refresco_instantneo_pia_colada_20lts.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-12T17:59:13.545Z"
+      "modified_at": "2026-07-15T03:31:11.768Z"
     },
     {
       "id": "mna63lqq-1mnrmod",
@@ -1888,23 +1837,6 @@
       "modified_at": "2026-06-23T20:48:18.197Z"
     },
     {
-      "id": "mon0m7gc-1h93pvk",
-      "nombre": "Servilletas",
-      "categoria": "otros",
-      "precio": 1.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "servilletas.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-05T06:19:35.569Z"
-    },
-    {
       "id": "prod_1777963852488_1rs856dd0",
       "nombre": "Mortadela de Pollo 1kg",
       "categoria": "cárnicos",
@@ -2104,9 +2036,9 @@
         "8546-600x713_1779860298532.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-27T05:58:39.736Z",
-      "modified_at": "2026-06-17T18:46:10.173Z"
+      "modified_at": "2026-07-15T03:31:16.301Z"
     },
     {
       "id": "prod_1779861015786_uvh6vskdr",
@@ -2143,23 +2075,6 @@
       "modified_at": "2026-06-02T06:50:26.732Z"
     },
     {
-      "id": "prod_1779863453850_90rp76jbl",
-      "nombre": "Galletas DULCE",
-      "categoria": "confituras",
-      "precio": 0.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1587-600x400_1779863453855.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-27T06:31:49.095Z",
-      "modified_at": "2026-06-04T07:49:00.838Z"
-    },
-    {
       "id": "prod_1780036555259_zhr6x5of2",
       "nombre": "Spam de Cerdo (340g)",
       "categoria": "enlatados",
@@ -2172,9 +2087,9 @@
         "444114-600x600_1780036555269.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-29T06:39:43.772Z",
-      "modified_at": "2026-06-28T08:57:52.956Z"
+      "modified_at": "2026-07-15T03:30:34.220Z"
     },
     {
       "id": "prod_1780036583010_2sg3ync8t",
@@ -2206,9 +2121,9 @@
         "20173_1780036689047.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-29T06:39:48.783Z",
-      "modified_at": "2026-06-27T21:29:24.909Z"
+      "modified_at": "2026-07-15T03:31:16.301Z"
     },
     {
       "id": "prod_1780036724817_w1rhqc6tt",
@@ -2223,15 +2138,15 @@
         "20175_1780036724860.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-29T06:39:51.073Z",
-      "modified_at": "2026-07-06T21:37:37.949Z"
+      "modified_at": "2026-07-15T03:31:43.989Z"
     },
     {
       "id": "prod_1780036769803_qwbur3m87",
       "nombre": "Galletas de Soda con Mantequilla Doricas",
       "categoria": "confituras",
-      "precio": 4.49,
+      "precio": 3.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2240,9 +2155,9 @@
         "doricas-1_1780036769823.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-29T06:39:54.177Z",
-      "modified_at": "2026-06-24T16:56:32.308Z"
+      "modified_at": "2026-07-15T03:30:34.220Z"
     },
     {
       "id": "prod_1780382904945_vczjgmbth",
@@ -2282,8 +2197,8 @@
       "id": "prod_1780383292523_450mmhapf",
       "nombre": "Frijoles Negros (1Kg)",
       "categoria": "despensa",
-      "precio": 1.89,
-      "descuento": 0,
+      "precio": 1.99,
+      "descuento": 5.03,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2293,7 +2208,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:44:56.671Z",
-      "modified_at": "2026-07-11T13:48:28.375Z"
+      "modified_at": "2026-07-15T03:30:34.221Z"
     },
     {
       "id": "prod_1780383383242_ntyipx145",
@@ -2410,9 +2325,9 @@
         "1891_1780383989407.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:07.469Z",
-      "modified_at": "2026-07-11T13:48:15.179Z"
+      "modified_at": "2026-07-15T03:30:38.983Z"
     },
     {
       "id": "prod_1780384073555_3m7xismjw",
@@ -2435,7 +2350,7 @@
       "id": "prod_1780384228413_57eqncwl0",
       "nombre": "Queso Crema Vima 2Kg",
       "categoria": "lacteos",
-      "precio": 29.97,
+      "precio": 27.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2446,7 +2361,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:10.485Z",
-      "modified_at": "2026-06-02T07:45:10.485Z"
+      "modified_at": "2026-07-15T03:30:41.460Z"
     },
     {
       "id": "prod_1780384311412_l1yxmvo5t",
@@ -2469,7 +2384,7 @@
       "id": "prod_1780384383342_vckyovise",
       "nombre": "Cebollitas en Vinagre 314ml",
       "categoria": "aderezos",
-      "precio": 3.59,
+      "precio": 3.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2480,7 +2395,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:13.487Z",
-      "modified_at": "2026-06-02T07:45:13.487Z"
+      "modified_at": "2026-07-15T03:30:41.460Z"
     },
     {
       "id": "prod_1780384500436_bof39lwp2",
@@ -2498,40 +2413,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-02T07:45:14.909Z",
       "modified_at": "2026-07-03T15:10:36.684Z"
-    },
-    {
-      "id": "prod_1780384558777_ecqtrcjuj",
-      "nombre": "Ponquecito Lupix relleno de Pistacho",
-      "categoria": "confituras",
-      "precio": 0.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20519-scaled_1780384558800.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:16.641Z",
-      "modified_at": "2026-06-02T07:45:16.641Z"
-    },
-    {
-      "id": "prod_1780384610471_nhcj5bc7c",
-      "nombre": "Galleta rellena de Malvavisco",
-      "categoria": "confituras",
-      "precio": 0.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20510-scaled_1780384610497.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:18.199Z",
-      "modified_at": "2026-06-02T07:45:18.199Z"
     },
     {
       "id": "prod_1780384771108_8q8k2mgv7",
@@ -2563,9 +2444,9 @@
         "20501_1780384859631.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:21.279Z",
-      "modified_at": "2026-06-20T06:41:49.215Z"
+      "modified_at": "2026-07-15T03:31:09.228Z"
     },
     {
       "id": "prod_1780384951623_su1ikab0h",
@@ -2588,7 +2469,7 @@
       "id": "prod_1780385018623_2vgxw5dl4",
       "nombre": "Banderillas Picantes 314ml",
       "categoria": "aderezos",
-      "precio": 3.89,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2599,13 +2480,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:24.348Z",
-      "modified_at": "2026-06-02T07:45:24.348Z"
+      "modified_at": "2026-07-15T03:30:41.461Z"
     },
     {
       "id": "prod_1780385071281_tipkn7115",
       "nombre": "Alcaparras en Vinagre 3140ml",
       "categoria": "aderezos",
-      "precio": 3.49,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2616,13 +2497,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:25.887Z",
-      "modified_at": "2026-06-17T22:45:22.556Z"
+      "modified_at": "2026-07-15T03:30:41.461Z"
     },
     {
       "id": "prod_1780385154068_3hrmwsexv",
       "nombre": "Guindillas en Vinagre 314ml",
       "categoria": "aderezos",
-      "precio": 3.49,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2633,7 +2514,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:27.254Z",
-      "modified_at": "2026-06-02T07:45:27.254Z"
+      "modified_at": "2026-07-15T03:30:41.461Z"
     },
     {
       "id": "prod_1780385226877_0c3hybeut",
@@ -2704,23 +2585,6 @@
       "modified_at": "2026-06-02T07:45:32.632Z"
     },
     {
-      "id": "prod_1780385531960_qeigw4bqk",
-      "nombre": "Pasta Tomate Vima 3Kg",
-      "categoria": "despensa",
-      "precio": 8.09,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20402_1780385531975.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:33.891Z",
-      "modified_at": "2026-06-28T08:57:52.958Z"
-    },
-    {
       "id": "prod_1780385686701_42swpa61r",
       "nombre": "Mayonesa Casera Vima 450ml",
       "categoria": "aderezos",
@@ -2741,7 +2605,7 @@
       "id": "prod_1780385742966_rvlq3l7h5",
       "nombre": "Mayonesa Vima 300ml",
       "categoria": "aderezos",
-      "precio": 3.19,
+      "precio": 2.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2752,7 +2616,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:36.699Z",
-      "modified_at": "2026-06-08T05:26:52.470Z"
+      "modified_at": "2026-07-15T03:30:41.460Z"
     },
     {
       "id": "prod_1780385819341_7trd7j57s",
@@ -2857,23 +2721,6 @@
       "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
-      "id": "prod_1780386268964_ojds2d9c8",
-      "nombre": "Cerveza Puerto Cristo, 330ml",
-      "categoria": "alcohol",
-      "precio": 0.75,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "3217_1780386268987.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:47.124Z",
-      "modified_at": "2026-06-02T07:45:47.124Z"
-    },
-    {
       "id": "prod_1780638802643_qxxqbggxv",
       "nombre": "Croqueta Bacalao (500g)",
       "categoria": "despensa",
@@ -2889,23 +2736,6 @@
       "disponibilidad": true,
       "created_at": "2026-06-05T06:19:34.027Z",
       "modified_at": "2026-06-05T06:19:34.027Z"
-    },
-    {
-      "id": "prod_1780639735895_6s3z9kf6i",
-      "nombre": "Refresco Instantáneo (2Lt)",
-      "categoria": "bebidas",
-      "precio": 0.14,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "533871-scaled_1780639735908.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-05T06:19:40.399Z",
-      "modified_at": "2026-06-05T06:19:40.399Z"
     },
     {
       "id": "prod_1780640361640_rtb1nv6qh",
@@ -2979,7 +2809,7 @@
       "id": "prod_1780896285491_qmucga8h2",
       "nombre": "Almohadillas Sanitarias 10u",
       "categoria": "aseo",
-      "precio": 0.99,
+      "precio": 1.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2990,7 +2820,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-08T05:26:53.881Z",
-      "modified_at": "2026-06-08T05:26:53.881Z"
+      "modified_at": "2026-07-15T03:30:38.984Z"
     },
     {
       "id": "prod_1780896395131_jht5ghx6o",
@@ -3010,28 +2840,11 @@
       "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
-      "id": "prod_1780897671315_ptr7g20yt",
-      "nombre": "Malta Guajira 1.5Lt",
-      "categoria": "bebidas",
-      "precio": 3.14,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "10841_1780897671335.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-08T06:09:33.710Z",
-      "modified_at": "2026-06-08T06:09:33.710Z"
-    },
-    {
       "id": "prod_1780898576880_bipsglzoq",
       "nombre": "Tomate x Lb",
       "categoria": "agro",
-      "precio": 1.29,
-      "descuento": 0,
+      "precio": 1.49,
+      "descuento": 13.42,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -3041,7 +2854,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-08T06:09:38.375Z",
-      "modified_at": "2026-06-08T06:09:38.375Z"
+      "modified_at": "2026-07-15T03:30:34.219Z"
     },
     {
       "id": "prod_1780898637844_fgf976qqp",
@@ -3282,23 +3095,6 @@
       "modified_at": "2026-07-06T21:37:37.948Z"
     },
     {
-      "id": "prod_1782429232830_ggw2ffir0",
-      "nombre": "Pack 6u Malta Guajira 1.5Lt",
-      "categoria": "bebidas",
-      "precio": 17.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack-6u-malta-guajira-15lt_1782429232847.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-25T23:14:39.471Z",
-      "modified_at": "2026-06-25T23:14:39.471Z"
-    },
-    {
       "id": "prod_1782429253140_tct29meio",
       "nombre": "Malta Guajira (330ml)",
       "categoria": "bebidas",
@@ -3348,6 +3144,669 @@
       "disponibilidad": true,
       "created_at": "2026-07-11T13:48:32.576Z",
       "modified_at": "2026-07-11T13:48:32.576Z"
+    },
+    {
+      "id": "prod_1784084016255_xg67t5g5b",
+      "nombre": "Pack de 4 yogurts de Plátano Vima",
+      "categoria": "lacteos",
+      "precio": 2.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-de-4-yogurts-de-pltano-vima_1784084016268.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:36.633Z",
+      "modified_at": "2026-07-15T03:30:36.633Z"
+    },
+    {
+      "id": "prod_1784084234692_k2d8onmg8",
+      "nombre": "Aguacate x unidad",
+      "categoria": "despensa",
+      "precio": 1.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "aguacate-x-unidad_1784084234711.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:38.983Z",
+      "modified_at": "2026-07-15T03:30:38.983Z"
+    },
+    {
+      "id": "prod_1784084721193_sy1q41qd5",
+      "nombre": "Caramelo de Leche x unidad",
+      "categoria": "confituras",
+      "precio": 0.17,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caramelo-de-leche-x-unidad_1784084721212.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:45.951Z",
+      "modified_at": "2026-07-15T03:30:45.951Z"
+    },
+    {
+      "id": "prod_1784084803950_5g7o1en49",
+      "nombre": "Paquete de galletas Marías (170g)",
+      "categoria": "confituras",
+      "precio": 1.13,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-galletas-maras-170g_1784084803968.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:48.642Z",
+      "modified_at": "2026-07-15T03:30:48.642Z"
+    },
+    {
+      "id": "prod_1784084829573_xi4z3bi2l",
+      "nombre": "Desodorante Keewell (90ml)",
+      "categoria": "aseo",
+      "precio": 1.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "desodorante-keewell-90ml_1784084829592.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:51.975Z",
+      "modified_at": "2026-07-15T03:30:51.975Z"
+    },
+    {
+      "id": "prod_1784084861848_lf3sv6alp",
+      "nombre": "Paquete de Caramelos de Leche (50/u)",
+      "categoria": "confituras",
+      "precio": 3.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-caramelos-de-leche-50-u_1784084861871.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:54.387Z",
+      "modified_at": "2026-07-15T03:30:54.387Z"
+    },
+    {
+      "id": "prod_1784084902572_xbg4ag62q",
+      "nombre": "Donas cubiertas de chocolate",
+      "categoria": "confituras",
+      "precio": 0.4,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "donas-cubiertas-de-chocolate_1784084902583.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:57.199Z",
+      "modified_at": "2026-07-15T03:30:57.199Z"
+    },
+    {
+      "id": "prod_1784084934621_79txozc0c",
+      "nombre": "Colonia Bonabel de Violetas",
+      "categoria": "aseo",
+      "precio": 4.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "colonia-bonabel-de-violetas_1784084934638.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:30:59.662Z",
+      "modified_at": "2026-07-15T03:30:59.662Z"
+    },
+    {
+      "id": "prod_1784084967700_0flhj8uyc",
+      "nombre": "Sorbeto Wafer Pajucara 78g",
+      "categoria": "confituras",
+      "precio": 0.67,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "sorbeto-wafer-pajucara-78g_1784084967710.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:02.631Z",
+      "modified_at": "2026-07-15T03:31:02.631Z"
+    },
+    {
+      "id": "prod_1784085011314_2h142kngq",
+      "nombre": "Néctar de Mango 🥭 Nezka (250ml)",
+      "categoria": "bebidas",
+      "precio": 1.17,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "nctar-de-mango-nezka-250ml_1784085011328.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:04.658Z",
+      "modified_at": "2026-07-15T03:31:04.658Z"
+    },
+    {
+      "id": "prod_1784085043000_lzx6i6j7i",
+      "nombre": "Mango x Lb",
+      "categoria": "despensa",
+      "precio": 0.6,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mango-x-lb_1784085043017.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:06.886Z",
+      "modified_at": "2026-07-15T03:31:06.886Z"
+    },
+    {
+      "id": "prod_1784085069574_ou4tiu1nk",
+      "nombre": "Galletas JimJam 23g",
+      "categoria": "confituras",
+      "precio": 0.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-jimjam-23g_1784085069593.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:09.227Z",
+      "modified_at": "2026-07-15T03:31:09.227Z"
+    },
+    {
+      "id": "prod_1784085149536_q8dwstd9d",
+      "nombre": "Piña x unidad",
+      "categoria": "agro",
+      "precio": 1.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pia-x-unidad_1784085149555.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:11.768Z",
+      "modified_at": "2026-07-15T03:31:11.768Z"
+    },
+    {
+      "id": "prod_1784085220775_112af9owl",
+      "nombre": "Platano fruta x Lb",
+      "categoria": "agro",
+      "precio": 0.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "platano-fruta-x-lb_1784085220791.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:13.816Z",
+      "modified_at": "2026-07-15T03:31:13.816Z"
+    },
+    {
+      "id": "prod_1784085248530_j1n1fqr7a",
+      "nombre": "Talco para Bebé (200g)",
+      "categoria": "otros",
+      "precio": 2.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "talco-para-beb-200g_1784085248546.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:16.301Z",
+      "modified_at": "2026-07-15T03:31:16.301Z"
+    },
+    {
+      "id": "prod_1784085314957_b0f3v975k",
+      "nombre": "Frutabomba x Lb",
+      "categoria": "agro",
+      "precio": 0.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "frutabomba-x-lb_1784085314975.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:18.374Z",
+      "modified_at": "2026-07-15T03:31:18.374Z"
+    },
+    {
+      "id": "prod_1784085339216_ious2e4bs",
+      "nombre": "Galletas Marias Todeschini 360g",
+      "categoria": "confituras",
+      "precio": 2.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-marias-todeschini-360g_1784085339233.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:20.802Z",
+      "modified_at": "2026-07-15T03:31:20.802Z"
+    },
+    {
+      "id": "prod_1784085366223_q8zaqgla0",
+      "nombre": "Galletas Todeschini Agua y Sal (360g)",
+      "categoria": "confituras",
+      "precio": 2.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-todeschini-agua-y-sal-360g_1784085366242.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:22.956Z",
+      "modified_at": "2026-07-15T03:31:22.956Z"
+    },
+    {
+      "id": "prod_1784085391218_9s5bo46gf",
+      "nombre": "Galletas Paradise de Chocolate sin Relleno",
+      "categoria": "confituras",
+      "precio": 0.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-paradise-de-chocolate-sin-relleno_1784085391234.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:25.153Z",
+      "modified_at": "2026-07-15T03:31:25.153Z"
+    },
+    {
+      "id": "prod_1784085416556_rb7096vzy",
+      "nombre": "Galletas Oppo de Chocolate",
+      "categoria": "confituras",
+      "precio": 0.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-oppo-de-chocolate_1784085416573.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:27.266Z",
+      "modified_at": "2026-07-15T03:31:27.266Z"
+    },
+    {
+      "id": "prod_1784085471104_hir1edpb6",
+      "nombre": "Detergente en polvo 9kg",
+      "categoria": "aseo",
+      "precio": 17.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "detergente-en-polvo-9kg_1784085471122.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:29.494Z",
+      "modified_at": "2026-07-15T03:31:29.494Z"
+    },
+    {
+      "id": "prod_1784085505794_sqp0ta85x",
+      "nombre": "Jugo de Manzana Badelli 200ml",
+      "categoria": "bebidas",
+      "precio": 0.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "jugo-de-manzana-badelli-200ml_1784085505812.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:31.395Z",
+      "modified_at": "2026-07-15T03:31:31.395Z"
+    },
+    {
+      "id": "prod_1784085561490_6mqzztsi2",
+      "nombre": "Detergente Yamy 900g",
+      "categoria": "aseo",
+      "precio": 1.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "detergente-yamy-900g_1784085561507.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:33.324Z",
+      "modified_at": "2026-07-15T03:31:33.324Z"
+    },
+    {
+      "id": "prod_1784085602472_g1h7te2sg",
+      "nombre": "Caja de Jugo de Manzana Badelli 27u",
+      "categoria": "bebidas",
+      "precio": 16.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-de-jugo-de-manzana-badelli-27u_1784085602477.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:35.199Z",
+      "modified_at": "2026-07-15T03:31:35.199Z"
+    },
+    {
+      "id": "prod_1784085704063_e915gnzn7",
+      "nombre": "Jugo de Mango Badelli 200ml",
+      "categoria": "bebidas",
+      "precio": 0.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "jugo-de-mango-badelli-200ml_1784085704081.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:37.295Z",
+      "modified_at": "2026-07-15T03:31:37.295Z"
+    },
+    {
+      "id": "prod_1784085748394_kgvax0vp6",
+      "nombre": "Galletas Paradise Fun rellena de Vainilla",
+      "categoria": "confituras",
+      "precio": 0.45,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-paradise-fun-rellena-de-vainilla_1784085748411.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:39.397Z",
+      "modified_at": "2026-07-15T03:31:39.397Z"
+    },
+    {
+      "id": "prod_1784085786780_2pxj0erar",
+      "nombre": "Jugos de Manzana y Pera x unidad",
+      "categoria": "bebidas",
+      "precio": 1.2,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "jugos-de-manzana-y-pera-x-unidad_1784085786799.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:41.773Z",
+      "modified_at": "2026-07-15T03:31:41.773Z"
+    },
+    {
+      "id": "prod_1784085816036_uvbs6zrdw",
+      "nombre": "Juego de Shampoo y Acondicionador 413ml",
+      "categoria": "aseo",
+      "precio": 5.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "juego-de-shampoo-y-acondicionador-413ml_1784085816054.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:43.988Z",
+      "modified_at": "2026-07-15T03:31:43.988Z"
+    },
+    {
+      "id": "prod_1784085877455_7jew3h2ho",
+      "nombre": "Paquete de Caramelos de Café 600g",
+      "categoria": "confituras",
+      "precio": 3.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-caramelos-de-caf-600g_1784085877471.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:46.522Z",
+      "modified_at": "2026-07-15T03:31:46.522Z"
+    },
+    {
+      "id": "prod_1784085917968_bkx54al1x",
+      "nombre": "Barrita de Chocolate Roxy",
+      "categoria": "confituras",
+      "precio": 0.4,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "barrita-de-chocolate-roxy_1784085917984.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:48.363Z",
+      "modified_at": "2026-07-15T03:31:48.363Z"
+    },
+    {
+      "id": "prod_1784085970352_ewo3rwqs8",
+      "nombre": "Galletas Paradise Fun rellena de Fresa",
+      "categoria": "confituras",
+      "precio": 0.45,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-paradise-fun-rellena-de-fresa_1784085970368.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:50.598Z",
+      "modified_at": "2026-07-15T03:31:50.598Z"
+    },
+    {
+      "id": "prod_1784085996175_ccye2acd2",
+      "nombre": "Galletas Paradise Fun rellena de Chocolate",
+      "categoria": "confituras",
+      "precio": 0.45,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-paradise-fun-rellena-de-chocolate_1784085996192.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:52.469Z",
+      "modified_at": "2026-07-15T03:31:52.469Z"
+    },
+    {
+      "id": "prod_1784086022673_448dg85jx",
+      "nombre": "Agua 500ml 1u",
+      "categoria": "bebidas",
+      "precio": 0.75,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "agua-500ml-1u_1784086022683.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:54.298Z",
+      "modified_at": "2026-07-15T03:31:54.298Z"
+    },
+    {
+      "id": "prod_1784086044728_fbwp4wnwo",
+      "nombre": "Agua 500ml Set 24u",
+      "categoria": "bebidas",
+      "precio": 15.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "agua-500ml-set-24u_1784086044744.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:56.434Z",
+      "modified_at": "2026-07-15T03:31:56.434Z"
+    },
+    {
+      "id": "prod_1784086072969_29jsrsqk7",
+      "nombre": "Servilletas Azahar 50u",
+      "categoria": "otros",
+      "precio": 0.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "servilletas-azahar-50u_1784086072987.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:31:58.793Z",
+      "modified_at": "2026-07-15T03:31:58.793Z"
+    },
+    {
+      "id": "prod_1784086096660_2aimfm0lj",
+      "nombre": "Toallitas Húmedas 120u",
+      "categoria": "aseo",
+      "precio": 2.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "toallitas-hmedas-120u_1784086096679.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:32:01.164Z",
+      "modified_at": "2026-07-15T03:32:01.164Z"
+    },
+    {
+      "id": "prod_1784086127389_g4fi38i5z",
+      "nombre": "Set de Máquinas de afeitar 10u",
+      "categoria": "aseo",
+      "precio": 2.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "set-de-mquinas-de-afeitar-10u_1784086127398.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:32:03.466Z",
+      "modified_at": "2026-07-15T03:32:03.466Z"
+    },
+    {
+      "id": "prod_1784086145024_v08rrmax3",
+      "nombre": "Caja de Jugo de Mango Badelli 27u",
+      "categoria": "bebidas",
+      "precio": 16.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-de-jugo-de-mango-badelli-27u_1784086145042.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:32:05.513Z",
+      "modified_at": "2026-07-15T03:32:05.513Z"
+    },
+    {
+      "id": "prod_1784086180696_j0usyhdt1",
+      "nombre": "Sardinas Enteras Vima 1Lb",
+      "categoria": "cárnicos",
+      "precio": 5.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "sardinas-enteras-vima-1lb_1784086180715.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-15T03:32:07.949Z",
+      "modified_at": "2026-07-15T03:32:07.949Z"
     }
   ]
 }
