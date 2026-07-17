@@ -138,20 +138,20 @@
     },
     {
       "id": "mlgzank2-abqwioi",
-      "nombre": "Espaguetis (500g)",
+      "nombre": "Espaguetis (400g)",
       "categoria": "pastas-y-granos",
-      "precio": 0.79,
+      "precio": 0.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "espaguetis_500g.jpeg"
+        "6ff3d2b9-94ec-4eeb-b1f0-e0ac936531be_1784311453120.jfif"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:55.002Z"
+      "modified_at": "2026-07-17T18:36:03.982Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -784,9 +784,9 @@
     },
     {
       "id": "mlq5if2i-yv9djh1",
-      "nombre": "Atún en aceite vegetal",
+      "nombre": "Atún en Aceite Vegetal Premium (1kg)",
       "categoria": "enlatados",
-      "precio": 11.99,
+      "precio": 14.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -797,7 +797,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:55.000Z"
+      "modified_at": "2026-07-17T18:37:01.275Z"
     },
     {
       "id": "mlq5jmsg-5sd57k1",
@@ -871,8 +871,8 @@
       "id": "mlq6qth7-16rlvzs",
       "nombre": "Pack de 4 yogurts de Fresa Vima",
       "categoria": "lacteos",
-      "precio": 2.9,
-      "descuento": 0,
+      "precio": 3.19,
+      "descuento": 9.09,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -882,7 +882,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-15T03:30:34.219Z"
+      "modified_at": "2026-07-17T18:36:11.810Z"
     },
     {
       "id": "mlq6tkin-1cei2l5",
@@ -894,12 +894,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "salsa_cocktail.jpeg"
+        "salsa-cocktail-vima-225ml_1784312651909.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.002Z"
+      "modified_at": "2026-07-17T18:36:59.224Z"
     },
     {
       "id": "mlq6yah4-1vaviqx",
@@ -939,18 +939,18 @@
       "id": "mlq7aq58-1jmj44p",
       "nombre": "Pasta de tomate Vima (400g)",
       "categoria": "despensa",
-      "precio": 1.29,
-      "descuento": 0,
+      "precio": 1.49,
+      "descuento": 13.42,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "pasta_de_tomate_vima.jpeg"
+        "pasta-de-tomate-vima-400g_1784312578703.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:51.940Z"
+      "modified_at": "2026-07-17T18:36:54.845Z"
     },
     {
       "id": "mlqxb74h-15nfelz",
@@ -1305,9 +1305,9 @@
         "paquete_de_filetes_de_panga.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:40.809Z"
+      "modified_at": "2026-07-17T18:36:52.679Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -1328,20 +1328,20 @@
     },
     {
       "id": "mmxptnd5-7a8q8vx",
-      "nombre": "Papas Prefritas 2.5Kg",
+      "nombre": "Papas Prefritas 1Kg",
       "categoria": "despensa",
-      "precio": 7.97,
+      "precio": 4.89,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete_de_papas_prefritas_1kg.jpg"
+        "e467a646-96f0-48db-a170-b324b20000cf_1784311814866.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-17T22:45:22.551Z"
+      "modified_at": "2026-07-17T18:36:20.257Z"
     },
     {
       "id": "mn3aj1rj-1i9d6mq",
@@ -1594,9 +1594,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-23T21:08:37.035Z"
+      "modified_at": "2026-07-17T18:36:52.678Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -1993,7 +1993,7 @@
       "id": "prod_1779859225646_w1oxwv3sx",
       "nombre": "Saco de Azucar Blanca 25Kg",
       "categoria": "despensa",
-      "precio": 47.93,
+      "precio": 44.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2004,7 +2004,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:06.080Z",
-      "modified_at": "2026-06-05T06:19:35.565Z"
+      "modified_at": "2026-07-17T18:36:42.939Z"
     },
     {
       "id": "prod_1779859869975_0b7rj40s1",
@@ -2214,18 +2214,18 @@
       "id": "prod_1780383383242_ntyipx145",
       "nombre": "Troncho de Pescado en Aceite Vegetal (425g)",
       "categoria": "cárnicos",
-      "precio": 3.19,
-      "descuento": 0,
+      "precio": 3.79,
+      "descuento": 15.83,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "1000098762_1780383383268.webp"
+        "tronchos-de-pescado-en-aceite-vegetal-425g_1784312010278.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:44:58.343Z",
-      "modified_at": "2026-06-12T18:50:39.807Z"
+      "modified_at": "2026-07-17T18:36:31.268Z"
     },
     {
       "id": "prod_1780383472429_4qoktkdkt",
@@ -2571,7 +2571,7 @@
       "id": "prod_1780385463719_k3o5lfkns",
       "nombre": "Maiz Dulce en Grano 425g",
       "categoria": "despensa",
-      "precio": 1.69,
+      "precio": 2.27,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2582,7 +2582,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:32.632Z",
-      "modified_at": "2026-06-02T07:45:32.632Z"
+      "modified_at": "2026-07-17T18:36:42.938Z"
     },
     {
       "id": "prod_1780385686701_42swpa61r",
@@ -2597,9 +2597,9 @@
         "20499_1780385686721.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:35.418Z",
-      "modified_at": "2026-06-08T05:26:52.469Z"
+      "modified_at": "2026-07-17T18:36:52.680Z"
     },
     {
       "id": "prod_1780385742966_rvlq3l7h5",
@@ -3013,8 +3013,8 @@
       "id": "prod_1782020309437_p737kh1vc",
       "nombre": "Nutella Vima 210g",
       "categoria": "confituras",
-      "precio": 3.19,
-      "descuento": 0,
+      "precio": 4.66,
+      "descuento": 31.55,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -3024,7 +3024,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-21T05:38:37.393Z",
-      "modified_at": "2026-06-21T05:38:37.393Z"
+      "modified_at": "2026-07-17T18:37:01.276Z"
     },
     {
       "id": "prod_1782248629204_wwreudpb5",
@@ -3158,9 +3158,9 @@
         "pack-de-4-yogurts-de-pltano-vima_1784084016268.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:30:36.633Z",
-      "modified_at": "2026-07-15T03:30:36.633Z"
+      "modified_at": "2026-07-17T18:36:07.509Z"
     },
     {
       "id": "prod_1784084234692_k2d8onmg8",
@@ -3523,8 +3523,8 @@
       "id": "prod_1784085561490_6mqzztsi2",
       "nombre": "Detergente Yamy 900g",
       "categoria": "aseo",
-      "precio": 1.89,
-      "descuento": 0,
+      "precio": 2.29,
+      "descuento": 17.47,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -3534,7 +3534,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-15T03:31:33.324Z",
-      "modified_at": "2026-07-15T03:31:33.324Z"
+      "modified_at": "2026-07-17T18:37:01.277Z"
     },
     {
       "id": "prod_1784085602472_g1h7te2sg",
@@ -3807,6 +3807,278 @@
       "disponibilidad": true,
       "created_at": "2026-07-15T03:32:07.949Z",
       "modified_at": "2026-07-15T03:32:07.949Z"
+    },
+    {
+      "id": "prod_1784311267068_rzps00hpy",
+      "nombre": "Aceite de Oliva «Vima» (1Litro)",
+      "categoria": "despensa",
+      "precio": 11.67,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "d479d678-e3e1-4b38-9a47-2b1584a6aa84_1784311267081.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:35:58.926Z",
+      "modified_at": "2026-07-17T18:35:58.926Z"
+    },
+    {
+      "id": "prod_1784311413668_mfyzztxfy",
+      "nombre": "Pera en Almíbar 425g",
+      "categoria": "despensa",
+      "precio": 2.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "75029cf4-12dd-42e7-a076-85d7f703de10_1784311413681.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:01.891Z",
+      "modified_at": "2026-07-17T18:36:01.891Z"
+    },
+    {
+      "id": "prod_1784311496189_8mv83kfta",
+      "nombre": "Azucar 1kg Vima",
+      "categoria": "despensa",
+      "precio": 2.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "67682ca1-4aea-4d0d-932d-b341125041a8_1784311496202.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:07.509Z",
+      "modified_at": "2026-07-17T18:36:07.509Z"
+    },
+    {
+      "id": "prod_1784311591005_mje9wigp1",
+      "nombre": "Pack de 4 yogurts Natural Azucarado Vima",
+      "categoria": "lacteos",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-de-4-yogurts-natural-azucarado-vima_1784311591022.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:11.810Z",
+      "modified_at": "2026-07-17T18:36:11.810Z"
+    },
+    {
+      "id": "prod_1784311640158_yg8t9y9vz",
+      "nombre": "Pasta Tomate Vima 3Kg",
+      "categoria": "despensa",
+      "precio": 11.27,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "61050fd6-b1cf-4c8c-903e-2e7e02d29869_1784311640173.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:13.795Z",
+      "modified_at": "2026-07-17T18:36:13.795Z"
+    },
+    {
+      "id": "prod_1784311684025_ygvgs2mk5",
+      "nombre": "Macedonia de Verduras 535g Vima",
+      "categoria": "despensa",
+      "precio": 3.77,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "abee50d8-9f06-430e-ab91-f659aabbe766_1784311684039.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:15.707Z",
+      "modified_at": "2026-07-17T18:36:15.707Z"
+    },
+    {
+      "id": "prod_1784311726011_vwwfly0a8",
+      "nombre": "Salsa Brava (320g)",
+      "categoria": "aderezos",
+      "precio": 3.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "2941b51e-a0dc-457b-8568-c1f4bd5cb823_1784311726025.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:18.069Z",
+      "modified_at": "2026-07-17T18:36:18.069Z"
+    },
+    {
+      "id": "prod_1784311855068_8snj9k830",
+      "nombre": "Salsa Soja (150ml)",
+      "categoria": "aderezos",
+      "precio": 2.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "0d7a0965-b7e6-402f-9ddc-3c302b227c45_1784311855082.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:23.990Z",
+      "modified_at": "2026-07-17T18:36:23.990Z"
+    },
+    {
+      "id": "prod_1784311899552_3jixoywti",
+      "nombre": "Salsa Soja Vima 1750ml",
+      "categoria": "aderezos",
+      "precio": 6.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "8b287321-5bbd-4528-b170-6fc4bdddeb5d_1784311899567.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:26.240Z",
+      "modified_at": "2026-07-17T18:36:26.240Z"
+    },
+    {
+      "id": "prod_1784312038654_0299x9yt9",
+      "nombre": "Troncho de Pescado en Tomate (425g)",
+      "categoria": "cárnicos",
+      "precio": 3.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "troncho-de-pescado-en-tomate-425g_1784312038660.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:37.834Z",
+      "modified_at": "2026-07-17T18:36:37.834Z"
+    },
+    {
+      "id": "prod_1784312079492_9a8xpa79d",
+      "nombre": "Paquete de Harina «Vima» (1kg)",
+      "categoria": "despensa",
+      "precio": 3.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "45203d2e-55e0-4b53-bf61-2a0046e14f0a_1784312079506.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:40.201Z",
+      "modified_at": "2026-07-17T18:36:40.201Z"
+    },
+    {
+      "id": "prod_1784312125410_5z1u3agjz",
+      "nombre": "Aceite Olisol 1Lt 10% de oliva y 90% girasol",
+      "categoria": "despensa",
+      "precio": 5.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "b477c31d-805b-42c3-8fec-d66541d86217_1784312125424.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:42.936Z",
+      "modified_at": "2026-07-17T18:36:42.936Z"
+    },
+    {
+      "id": "prod_1784312320044_q2k2q2fxx",
+      "nombre": "Lentejas Extra Vima 540g",
+      "categoria": "despensa",
+      "precio": 2.23,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "lentejas-extra-vima-540g_1784312320058.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:45.192Z",
+      "modified_at": "2026-07-17T18:36:45.192Z"
+    },
+    {
+      "id": "prod_1784312391703_ikq9zuhtt",
+      "nombre": "Servilletas 50u",
+      "categoria": "otros",
+      "precio": 1.49,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "78996e6a-fe57-42f7-90f3-5f5a4f0135d3_1784312391717.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:47.695Z",
+      "modified_at": "2026-07-17T18:36:47.695Z"
+    },
+    {
+      "id": "prod_1784312436436_botvuh03l",
+      "nombre": "Frijol Pinto 500g La Merced",
+      "categoria": "pastas-y-granos",
+      "precio": 3.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "b1f4cc04-20ba-473f-9e89-0540a68e7eee_1784312436452.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:50.000Z",
+      "modified_at": "2026-07-17T18:36:50.000Z"
+    },
+    {
+      "id": "prod_1784312481388_emfpzeoo8",
+      "nombre": "Chicharo Seco 500g La Merced",
+      "categoria": "pastas-y-granos",
+      "precio": 3.77,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "4d526eaf-e790-4fb1-ad04-840ed44988b4_1784312481403.jfif"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-17T18:36:52.678Z",
+      "modified_at": "2026-07-17T18:36:52.678Z"
     }
   ]
 }
