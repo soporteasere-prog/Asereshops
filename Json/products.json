@@ -1585,7 +1585,7 @@
       "id": "mng1iq5n-x7v07w1",
       "nombre": "Jamón Bravo 2Kg",
       "categoria": "cárnicos",
-      "precio": 18.99,
+      "precio": 24,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1594,9 +1594,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-17T18:36:52.678Z"
+      "modified_at": "2026-07-18T16:17:57.230Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
