@@ -3073,9 +3073,9 @@
         "paquete-de-salchichas-340g_1782248723680.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-23T21:08:43.582Z",
-      "modified_at": "2026-06-23T21:08:43.582Z"
+      "modified_at": "2026-07-22T19:37:10.171Z"
     },
     {
       "id": "prod_1782429201944_53adonqyc",
@@ -3447,9 +3447,9 @@
         "galletas-todeschini-agua-y-sal-360g_1784085366242.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:22.956Z",
-      "modified_at": "2026-07-15T03:31:22.956Z"
+      "modified_at": "2026-07-22T19:37:10.171Z"
     },
     {
       "id": "prod_1784085391218_9s5bo46gf",
@@ -3838,9 +3838,9 @@
         "75029cf4-12dd-42e7-a076-85d7f703de10_1784311413681.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:01.891Z",
-      "modified_at": "2026-07-17T18:36:01.891Z"
+      "modified_at": "2026-07-22T19:37:10.171Z"
     },
     {
       "id": "prod_1784311496189_8mv83kfta",
