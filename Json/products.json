@@ -659,9 +659,9 @@
         "paquete_de_cuartos_de_pollo_10lb.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-25T23:14:34.404Z"
+      "modified_at": "2026-07-22T19:33:38.585Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -1237,9 +1237,9 @@
         "caja_de_cuartos_de_pollo_40lbs.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:40.401Z"
+      "modified_at": "2026-07-22T19:33:38.585Z"
     },
     {
       "id": "mmq2k4l6-13hwunp",
@@ -3294,9 +3294,9 @@
         "sorbeto-wafer-pajucara-78g_1784084967710.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:02.631Z",
-      "modified_at": "2026-07-15T03:31:02.631Z"
+      "modified_at": "2026-07-22T19:33:38.586Z"
     },
     {
       "id": "prod_1784085011314_2h142kngq",
@@ -4079,6 +4079,40 @@
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:52.678Z",
       "modified_at": "2026-07-17T18:36:52.678Z"
+    },
+    {
+      "id": "prod_1784748761834_tpr4w3ocz",
+      "nombre": "Paquete de Perros Calientes 680g",
+      "categoria": "cárnicos",
+      "precio": 5.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-perros-calientes-680g_1784748761932.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-22T19:33:42.829Z",
+      "modified_at": "2026-07-22T19:33:42.829Z"
+    },
+    {
+      "id": "prod_1784748815292_3xnw5skoq",
+      "nombre": "Porrón de Aceite 17.5Lt",
+      "categoria": "despensa",
+      "precio": 60,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "porrn-de-aceite-175lt_1784748815311.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-22T19:33:45.177Z",
+      "modified_at": "2026-07-22T19:33:45.177Z"
     }
   ]
 }
