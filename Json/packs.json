@@ -27,7 +27,10 @@
         "x10lb de carne de cerdo"
       ],
       "created_at": "2026-05-27T05:59:15.640Z",
-      "modified_at": "2026-07-15T03:32:11.240Z"
+      "modified_at": "2026-07-15T03:32:11.240Z",
+      "precioFinal": 76.99,
+      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/8895_1779861776162.webp",
+      "searchText": "pack nuestra casa pack "
     },
     {
       "id": "7",
@@ -54,6 +57,54 @@
       "precioFinal": 10.47,
       "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/12398_1779861790189.webp",
       "searchText": "pack «el salve» pack "
+    },
+    {
+      "id": "8",
+      "nombre": "Pack Veloz",
+      "categoria": "Pack",
+      "precio": 19.97,
+      "descuento": 0,
+      "top": false,
+      "nuevo": false,
+      "oferta": false,
+      "disponible": true,
+      "imagenes": [
+        "pack-veloz_1784879549565.jpg"
+      ],
+      "imagen": "pack-veloz_1784879549565.jpg",
+      "descripcion": "",
+      "caracteristicas": [
+        "x3lb carne de cerdo",
+        "x2 pqt arroz 1kg",
+        "x1 pqt frijoles negros 1kg",
+        "x10 plátanos"
+      ],
+      "created_at": "2026-07-24T08:00:11.079Z",
+      "modified_at": "2026-07-24T08:00:11.079Z"
+    },
+    {
+      "id": "9",
+      "nombre": "Pack La Solución",
+      "categoria": "Pack",
+      "precio": 29.97,
+      "descuento": 0,
+      "top": false,
+      "nuevo": false,
+      "oferta": false,
+      "disponible": true,
+      "imagenes": [
+        "pack-la-solucin_1784879659936.jpg"
+      ],
+      "imagen": "pack-la-solucin_1784879659936.jpg",
+      "descripcion": "",
+      "caracteristicas": [
+        "x1 pqt de 10Lb de cuartos de pollo",
+        "x2 pqts de arroz de 1kg",
+        "x1 pomo de aceite 900ml",
+        "x1 pasta tomate 400g"
+      ],
+      "created_at": "2026-07-24T08:00:11.081Z",
+      "modified_at": "2026-07-24T08:00:11.081Z"
     }
   ]
 }
