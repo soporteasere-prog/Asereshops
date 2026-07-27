@@ -163,12 +163,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "arroz-1kg_1782249233686.jpg"
+        "arroz-1kg_1785111928829.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:38.752Z"
+      "modified_at": "2026-07-27T00:27:21.585Z"
     },
     {
       "id": "mlgzank2-147xys0",
@@ -973,8 +973,8 @@
       "id": "mm0wy3wx-1jvjivz",
       "nombre": "Pechuga de pollo (2Kg)",
       "categoria": "cárnicos",
-      "precio": 10.49,
-      "descuento": 0,
+      "precio": 14.47,
+      "descuento": 27.51,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -982,9 +982,9 @@
         "pechuga_de_pollo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-28T08:57:52.955Z"
+      "modified_at": "2026-07-27T00:27:26.784Z"
     },
     {
       "id": "mm0wz21h-u01m57b",
@@ -3073,9 +3073,9 @@
         "paquete-de-salchichas-340g_1782248723680.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-23T21:08:43.582Z",
-      "modified_at": "2026-07-22T19:37:10.171Z"
+      "modified_at": "2026-07-27T00:27:15.784Z"
     },
     {
       "id": "prod_1782429201944_53adonqyc",
@@ -3846,7 +3846,7 @@
       "id": "prod_1784311496189_8mv83kfta",
       "nombre": "Azucar 1kg Vima",
       "categoria": "despensa",
-      "precio": 2.69,
+      "precio": 2.37,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3857,7 +3857,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:07.509Z",
-      "modified_at": "2026-07-17T18:36:07.509Z"
+      "modified_at": "2026-07-27T00:27:15.786Z"
     },
     {
       "id": "prod_1784311591005_mje9wigp1",
@@ -4144,9 +4144,9 @@
         "picadillo-mixto-400g_1784879020146.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:41.954Z",
-      "modified_at": "2026-07-24T07:59:41.954Z"
+      "modified_at": "2026-07-27T00:27:15.786Z"
     },
     {
       "id": "prod_1784879404434_ii84p32k8",
