@@ -667,8 +667,8 @@
       "id": "mli2ve9o-a60fi91",
       "nombre": "Aceite 900ml",
       "categoria": "despensa",
-      "precio": 4.19,
-      "descuento": 5.25,
+      "precio": 4.59,
+      "descuento": 8.71,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -676,9 +676,9 @@
         "aceite_1lt.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-30T21:01:00.980Z"
+      "modified_at": "2026-07-31T02:50:16.240Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
