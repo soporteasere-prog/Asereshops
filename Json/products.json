@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-11T13:48:15.179Z"
+      "modified_at": "2026-07-31T05:32:37.660Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -557,9 +557,9 @@
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-24T07:59:36.059Z"
+      "modified_at": "2026-07-31T05:32:37.664Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -1288,9 +1288,9 @@
         "380_1780902222774.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:51.663Z"
+      "modified_at": "2026-07-31T05:32:37.661Z"
     },
     {
       "id": "mmxplkci-cg7fgw9",
@@ -1594,9 +1594,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-23T14:56:02.116Z"
+      "modified_at": "2026-07-31T05:32:37.664Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -1908,8 +1908,8 @@
       "id": "prod_1778847937855_9mddry2ug",
       "nombre": "Sardina en (salsa de tomate)",
       "categoria": "enlatados",
-      "precio": 3.97,
-      "descuento": 0,
+      "precio": 4.47,
+      "descuento": 11.19,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1917,9 +1917,9 @@
         "1000078470_1778847937952.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-15T12:26:00.013Z",
-      "modified_at": "2026-06-27T21:29:24.909Z"
+      "modified_at": "2026-07-31T05:32:44.972Z"
     },
     {
       "id": "prod_1778853047855_69d9llazb",
@@ -2087,9 +2087,9 @@
         "444114-600x600_1780036555269.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-29T06:39:43.772Z",
-      "modified_at": "2026-07-15T03:30:34.220Z"
+      "modified_at": "2026-07-31T05:32:37.663Z"
     },
     {
       "id": "prod_1780036583010_2sg3ync8t",
@@ -2121,9 +2121,9 @@
         "20173_1780036689047.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-29T06:39:48.783Z",
-      "modified_at": "2026-07-15T03:31:16.301Z"
+      "modified_at": "2026-07-31T05:32:37.662Z"
     },
     {
       "id": "prod_1780036724817_w1rhqc6tt",
@@ -2138,9 +2138,9 @@
         "20175_1780036724860.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-29T06:39:51.073Z",
-      "modified_at": "2026-07-15T03:31:43.989Z"
+      "modified_at": "2026-07-31T05:32:37.663Z"
     },
     {
       "id": "prod_1780036769803_qwbur3m87",
@@ -2325,9 +2325,9 @@
         "1891_1780383989407.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:07.469Z",
-      "modified_at": "2026-07-15T03:30:38.983Z"
+      "modified_at": "2026-07-31T05:32:37.662Z"
     },
     {
       "id": "prod_1780384073555_3m7xismjw",
@@ -2359,9 +2359,9 @@
         "20497_1780384228440.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:10.485Z",
-      "modified_at": "2026-07-15T03:30:41.460Z"
+      "modified_at": "2026-07-31T05:32:37.663Z"
     },
     {
       "id": "prod_1780384311412_l1yxmvo5t",
@@ -3073,9 +3073,9 @@
         "paquete-de-salchichas-340g_1782248723680.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-23T21:08:43.582Z",
-      "modified_at": "2026-07-27T00:27:15.784Z"
+      "modified_at": "2026-07-31T05:32:37.661Z"
     },
     {
       "id": "prod_1782429201944_53adonqyc",
@@ -4093,9 +4093,9 @@
         "paquete-de-perros-calientes-680g_1784748761932.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-22T19:33:42.829Z",
-      "modified_at": "2026-07-22T19:33:42.829Z"
+      "modified_at": "2026-07-31T05:32:37.662Z"
     },
     {
       "id": "prod_1784748815292_3xnw5skoq",
@@ -4283,6 +4283,57 @@
       "disponibilidad": true,
       "created_at": "2026-07-24T08:00:06.306Z",
       "modified_at": "2026-07-24T08:00:06.306Z"
+    },
+    {
+      "id": "prod_1785475806100_e3uddjky9",
+      "nombre": "Carne de Res en Lata marca GOYA 340g",
+      "categoria": "cárnicos",
+      "precio": 7.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "carne-de-res-en-lata-marca-goya-340g_1785475806120.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-31T05:32:40.870Z",
+      "modified_at": "2026-07-31T05:32:40.870Z"
+    },
+    {
+      "id": "prod_1785475851648_w5joc5rw3",
+      "nombre": "Mortadela Criolla.marca Bravo 800g",
+      "categoria": "cárnicos",
+      "precio": 5.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mortadela-criollamarca-bravo-800g_1785475851679.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-31T05:32:42.777Z",
+      "modified_at": "2026-07-31T05:32:42.777Z"
+    },
+    {
+      "id": "prod_1785475908038_wm85nrxc1",
+      "nombre": "Jamon Chopped 800g marca Bravo",
+      "categoria": "cárnicos",
+      "precio": 6.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "jamon-chopped-800g-marca-bravo_1785475908044.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-07-31T05:32:44.972Z",
+      "modified_at": "2026-07-31T05:32:44.972Z"
     }
   ]
 }
