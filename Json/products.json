@@ -138,20 +138,20 @@
     },
     {
       "id": "mlgzank2-abqwioi",
-      "nombre": "Espaguetis (400g)",
+      "nombre": "Espaguetis (500g)",
       "categoria": "pastas-y-granos",
-      "precio": 0.89,
+      "precio": 0.79,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "6ff3d2b9-94ec-4eeb-b1f0-e0ac936531be_1784311453120.jfif"
+        "img_1785856635916.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-17T18:36:03.982Z"
+      "modified_at": "2026-08-04T15:25:50.629Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -251,9 +251,9 @@
         "Pepino.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-08-04T15:25:38.707Z"
     },
     {
       "id": "mlgzank2-7rrnc41",
@@ -514,18 +514,18 @@
       "id": "mlgzank4-1mscjxf",
       "nombre": "Coditos (500g)",
       "categoria": "despensa",
-      "precio": 0.99,
-      "descuento": 0,
+      "precio": 1.49,
+      "descuento": 33.56,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "20685_1780902609388.webp"
+        "coditos-500g_1785855537988.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-11T13:48:15.179Z"
+      "modified_at": "2026-08-04T15:25:41.193Z"
     },
     {
       "id": "mlgzank4-dez8evc",
@@ -557,9 +557,9 @@
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-31T05:32:37.664Z"
+      "modified_at": "2026-08-04T15:25:38.703Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -633,8 +633,8 @@
       "id": "mlh17sjk-1ltd9c1",
       "nombre": "Azúcar Parda x lb",
       "categoria": "despensa",
-      "precio": 1.27,
-      "descuento": 0,
+      "precio": 2.77,
+      "descuento": 54.15,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -642,9 +642,9 @@
         "azcar_parda_x_lb.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-30T21:01:00.978Z"
+      "modified_at": "2026-08-04T15:25:42.858Z"
     },
     {
       "id": "mli1qt1h-m8mjr31",
@@ -982,9 +982,9 @@
         "pechuga_de_pollo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-27T00:27:26.784Z"
+      "modified_at": "2026-08-04T15:25:32.116Z"
     },
     {
       "id": "mm0wz21h-u01m57b",
@@ -1056,9 +1056,9 @@
     },
     {
       "id": "mmkpdgy1-8tf5q11",
-      "nombre": "Caja de Néctar Nezka (Mango)",
+      "nombre": "Caja x 24 Néctar de Mango 🥭 ‘Nezka’ (250ml)",
       "categoria": "bebidas",
-      "precio": 27,
+      "precio": 23.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1067,15 +1067,15 @@
         "caja_de_nctar_nezka_mango.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-08-04T15:25:42.860Z"
     },
     {
       "id": "mmkpeoz8-uidafd1",
-      "nombre": "Caja de Néctar Nezka (Guayaba)",
+      "nombre": "Caja x 24 Néctar de Guayaba ‘Nezka’ (250ml)",
       "categoria": "bebidas",
-      "precio": 27,
+      "precio": 23.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1084,9 +1084,9 @@
         "caja_de_nctar_nezka_guayaba.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-08-04T15:25:42.861Z"
     },
     {
       "id": "mml2tcre-1yodt0e",
@@ -1254,9 +1254,9 @@
         "spam_de_pollo_340g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-28T08:57:52.956Z"
+      "modified_at": "2026-08-04T15:25:32.123Z"
     },
     {
       "id": "mmq2vpro-1bckqxm",
@@ -1364,7 +1364,7 @@
       "id": "mn4ikino-19m47n4",
       "nombre": "Cacao en Polvo 800g",
       "categoria": "despensa",
-      "precio": 10.99,
+      "precio": 10.87,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1375,7 +1375,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.733Z"
+      "modified_at": "2026-08-04T15:25:38.704Z"
     },
     {
       "id": "mn4imhrd-xpal1gu",
@@ -1390,9 +1390,9 @@
         "maz_dulce_vima_1kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-28T08:57:52.958Z"
+      "modified_at": "2026-08-04T15:25:42.863Z"
     },
     {
       "id": "mn4ip333-hlfw334",
@@ -1407,9 +1407,9 @@
         "chocolate-en-polvo-500g-chocofio_1784879747297.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-24T07:59:53.502Z"
+      "modified_at": "2026-08-04T15:25:32.120Z"
     },
     {
       "id": "mn77q2ru-fyc0glj",
@@ -1594,9 +1594,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-31T05:32:37.664Z"
+      "modified_at": "2026-08-04T15:25:32.113Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -1651,7 +1651,7 @@
     },
     {
       "id": "moe41gnc-77m3901",
-      "nombre": "Refesco sabor Mate 1.5lts",
+      "nombre": "Refresco Gaseado 1.5Lts (Mate)",
       "categoria": "bebidas",
       "precio": 2.35,
       "descuento": 0,
@@ -1662,9 +1662,9 @@
         "refesco_sabor_mate_1.5lts.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-05-14T15:27:28.234Z"
+      "modified_at": "2026-08-04T15:25:46.570Z"
     },
     {
       "id": "moe4b14m-34sgfi1",
@@ -1679,9 +1679,9 @@
         "packs_de_6_pomos_de_agua_1.5lts.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:33.712Z"
+      "modified_at": "2026-08-04T15:25:32.118Z"
     },
     {
       "id": "moe4pk8o-g9eg3xx",
@@ -1713,9 +1713,9 @@
         "pomo_de_garbanzos_540g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.000Z"
+      "modified_at": "2026-08-04T15:25:38.704Z"
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -1747,9 +1747,9 @@
         "paquete_de_cebollas_en_tiras.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:47.067Z"
+      "modified_at": "2026-08-04T15:25:32.122Z"
     },
     {
       "id": "moi98wtu-122h0ru",
@@ -1764,9 +1764,9 @@
         "chorizo_premium_vima_3und.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:31.170Z"
+      "modified_at": "2026-08-04T15:25:32.119Z"
     },
     {
       "id": "moi9bj6w-1toot66",
@@ -1798,9 +1798,9 @@
         "18508_1779863249024.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:31.183Z"
+      "modified_at": "2026-08-04T15:25:32.116Z"
     },
     {
       "id": "mon0i35f-oxbfit6",
@@ -2002,16 +2002,16 @@
         "16817-600x900_1779859225663.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-27T05:58:06.080Z",
-      "modified_at": "2026-07-17T18:36:42.939Z"
+      "modified_at": "2026-08-04T15:25:32.121Z"
     },
     {
       "id": "prod_1779859869975_0b7rj40s1",
       "nombre": "Leche Condensada «Vima» (390g)",
       "categoria": "lacteos",
-      "precio": 1.73,
-      "descuento": 0,
+      "precio": 2.27,
+      "descuento": 23.79,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2019,9 +2019,9 @@
         "603880_1779859869987.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-27T05:58:29.469Z",
-      "modified_at": "2026-05-28T17:46:41.491Z"
+      "modified_at": "2026-08-04T15:25:46.571Z"
     },
     {
       "id": "prod_1779860298512_ef39veear",
@@ -2036,9 +2036,9 @@
         "8546-600x713_1779860298532.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-27T05:58:39.736Z",
-      "modified_at": "2026-07-15T03:31:16.301Z"
+      "modified_at": "2026-08-04T15:25:38.705Z"
     },
     {
       "id": "prod_1779861015786_uvh6vskdr",
@@ -2076,10 +2076,10 @@
     },
     {
       "id": "prod_1780036555259_zhr6x5of2",
-      "nombre": "Spam de Cerdo (340g)",
+      "nombre": "Spam de Cerdo (320g)",
       "categoria": "enlatados",
-      "precio": 1.99,
-      "descuento": 0,
+      "precio": 2.7,
+      "descuento": 26.3,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2087,9 +2087,9 @@
         "444114-600x600_1780036555269.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-29T06:39:43.772Z",
-      "modified_at": "2026-07-31T05:32:37.663Z"
+      "modified_at": "2026-08-04T15:25:37.269Z"
     },
     {
       "id": "prod_1780036583010_2sg3ync8t",
@@ -2240,9 +2240,9 @@
         "img_1780383472455.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:44:59.745Z",
-      "modified_at": "2026-06-05T06:19:31.398Z"
+      "modified_at": "2026-08-04T15:25:32.114Z"
     },
     {
       "id": "prod_1780383540400_hv89o6cod",
@@ -2274,9 +2274,9 @@
         "20410_1780383752619.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:02.968Z",
-      "modified_at": "2026-06-05T06:19:34.036Z"
+      "modified_at": "2026-08-04T15:25:32.115Z"
     },
     {
       "id": "prod_1780383820362_r94e107n6",
@@ -2682,9 +2682,9 @@
         "10831_1780386086131.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:42.495Z",
-      "modified_at": "2026-06-08T06:09:31.179Z"
+      "modified_at": "2026-08-04T15:25:32.123Z"
     },
     {
       "id": "prod_1780386152780_y71yckl8l",
@@ -2869,9 +2869,9 @@
         "pimiento_1780898637896.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-08T06:09:39.920Z",
-      "modified_at": "2026-07-27T21:31:38.458Z"
+      "modified_at": "2026-08-04T15:25:48.815Z"
     },
     {
       "id": "prod_1780898848519_oqjfcgt09",
@@ -2945,8 +2945,8 @@
       "id": "prod_1781736148253_7fbquy0yf",
       "nombre": "Paquete de muslos de pollo (2Kg)",
       "categoria": "cárnicos",
-      "precio": 5.99,
-      "descuento": 0,
+      "precio": 7.78,
+      "descuento": 23.01,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2954,9 +2954,9 @@
         "paquete-de-muslos-de-pollo-2kg_1781736148263.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-17T22:45:27.286Z",
-      "modified_at": "2026-06-25T14:51:22.158Z"
+      "modified_at": "2026-08-04T15:25:42.859Z"
     },
     {
       "id": "prod_1781736198000_ddpr73dwo",
@@ -2979,8 +2979,8 @@
       "id": "prod_1781736239303_r9qiq3dkx",
       "nombre": "Caja de muslos de pollo (12Kg)",
       "categoria": "cárnicos",
-      "precio": 33.75,
-      "descuento": 0,
+      "precio": 44.97,
+      "descuento": 24.95,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2988,9 +2988,9 @@
         "caja-de-muslos-de-pollo-12kg_1781736239330.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-17T22:45:31.025Z",
-      "modified_at": "2026-06-25T23:14:34.388Z"
+      "modified_at": "2026-08-04T15:25:42.862Z"
     },
     {
       "id": "prod_1781736295141_3y8cy1zdo",
@@ -3039,9 +3039,9 @@
         "aceituna-con-hueso-bolsita-160g_1782248629240.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-23T21:08:39.906Z",
-      "modified_at": "2026-06-23T21:08:39.906Z"
+      "modified_at": "2026-08-04T15:25:32.121Z"
     },
     {
       "id": "prod_1782248667290_8t4csl1b3",
@@ -3062,20 +3062,20 @@
     },
     {
       "id": "prod_1782248723657_baci8f89g",
-      "nombre": "Paquete de salchichas (340g)",
+      "nombre": "Salchicas de Pollo 340g Sublime",
       "categoria": "cárnicos",
-      "precio": 1.97,
-      "descuento": 0,
+      "precio": 2.29,
+      "descuento": 13.97,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete-de-salchichas-340g_1782248723680.jpg"
+        "salchicas-de-pollo-340g-sublime_1785857083405.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-23T21:08:43.582Z",
-      "modified_at": "2026-07-31T05:32:37.661Z"
+      "modified_at": "2026-08-04T15:26:09.245Z"
     },
     {
       "id": "prod_1782429201944_53adonqyc",
@@ -3260,9 +3260,9 @@
         "donas-cubiertas-de-chocolate_1784084902583.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:30:57.199Z",
-      "modified_at": "2026-07-15T03:30:57.199Z"
+      "modified_at": "2026-08-04T15:25:32.113Z"
     },
     {
       "id": "prod_1784084934621_79txozc0c",
@@ -3464,9 +3464,9 @@
         "galletas-paradise-de-chocolate-sin-relleno_1784085391234.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:25.153Z",
-      "modified_at": "2026-07-15T03:31:25.153Z"
+      "modified_at": "2026-08-04T15:25:32.118Z"
     },
     {
       "id": "prod_1784085416556_rb7096vzy",
@@ -3481,9 +3481,9 @@
         "galletas-oppo-de-chocolate_1784085416573.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:27.266Z",
-      "modified_at": "2026-07-15T03:31:27.266Z"
+      "modified_at": "2026-08-04T15:25:32.117Z"
     },
     {
       "id": "prod_1784085471104_hir1edpb6",
@@ -3532,9 +3532,9 @@
         "detergente-yamy-900g_1784085561507.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:33.324Z",
-      "modified_at": "2026-07-17T18:37:01.277Z"
+      "modified_at": "2026-08-04T15:25:32.118Z"
     },
     {
       "id": "prod_1784085602472_g1h7te2sg",
@@ -3651,9 +3651,9 @@
         "barrita-de-chocolate-roxy_1784085917984.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:48.363Z",
-      "modified_at": "2026-07-15T03:31:48.363Z"
+      "modified_at": "2026-08-04T15:25:32.120Z"
     },
     {
       "id": "prod_1784085970352_ewo3rwqs8",
@@ -3770,9 +3770,9 @@
         "set-de-mquinas-de-afeitar-10u_1784086127398.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:32:03.466Z",
-      "modified_at": "2026-07-15T03:32:03.466Z"
+      "modified_at": "2026-08-04T15:25:32.120Z"
     },
     {
       "id": "prod_1784086145024_v08rrmax3",
@@ -3804,9 +3804,9 @@
         "sardinas-enteras-vima-1lb_1784086180715.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:32:07.949Z",
-      "modified_at": "2026-07-15T03:32:07.949Z"
+      "modified_at": "2026-08-04T15:25:38.707Z"
     },
     {
       "id": "prod_1784311267068_rzps00hpy",
@@ -3855,9 +3855,9 @@
         "67682ca1-4aea-4d0d-932d-b341125041a8_1784311496202.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:07.509Z",
-      "modified_at": "2026-07-27T00:27:15.786Z"
+      "modified_at": "2026-08-04T15:25:32.119Z"
     },
     {
       "id": "prod_1784311591005_mje9wigp1",
@@ -3974,9 +3974,9 @@
         "troncho-de-pescado-en-tomate-425g_1784312038660.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:37.834Z",
-      "modified_at": "2026-07-17T18:36:37.834Z"
+      "modified_at": "2026-08-04T15:25:32.114Z"
     },
     {
       "id": "prod_1784312079492_9a8xpa79d",
@@ -3988,12 +3988,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "45203d2e-55e0-4b53-bf61-2a0046e14f0a_1784312079506.jfif"
+        "paquete-de-harina-vima-1kg_1785855890105.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:40.201Z",
-      "modified_at": "2026-07-17T18:36:40.201Z"
+      "modified_at": "2026-08-04T15:25:45.208Z"
     },
     {
       "id": "prod_1784312125410_5z1u3agjz",
@@ -4127,16 +4127,16 @@
         "caf-la-llave_1784878975809.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:40.091Z",
-      "modified_at": "2026-07-24T07:59:40.091Z"
+      "modified_at": "2026-08-04T15:25:32.111Z"
     },
     {
       "id": "prod_1784879020125_epzgxylc4",
       "nombre": "Picadillo Mixto (400g)",
       "categoria": "cárnicos",
-      "precio": 1.97,
-      "descuento": 0,
+      "precio": 2.25,
+      "descuento": 12.44,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -4144,9 +4144,9 @@
         "picadillo-mixto-400g_1784879020146.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-24T07:59:41.954Z",
-      "modified_at": "2026-07-27T00:27:15.786Z"
+      "modified_at": "2026-08-04T15:25:48.815Z"
     },
     {
       "id": "prod_1784879404434_ii84p32k8",
@@ -4161,9 +4161,9 @@
         "gelatina-gely-de-fresa-125ml_1784879404500.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:47.609Z",
-      "modified_at": "2026-07-24T07:59:47.609Z"
+      "modified_at": "2026-08-04T15:25:32.115Z"
     },
     {
       "id": "prod_1784879437241_s8f0bfwn6",
@@ -4195,9 +4195,9 @@
         "pasta-de-bocadito-bravo-300g_1784879788909.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:56.873Z",
-      "modified_at": "2026-07-24T07:59:56.873Z"
+      "modified_at": "2026-08-04T15:25:38.705Z"
     },
     {
       "id": "prod_1784879816354_d3vxzolpy",
@@ -4303,10 +4303,10 @@
     },
     {
       "id": "prod_1785475851648_w5joc5rw3",
-      "nombre": "Mortadela Criolla.marca Bravo 800g",
+      "nombre": "Mortadela Criolla Marca Bravo 800g",
       "categoria": "cárnicos",
-      "precio": 5.69,
-      "descuento": 0,
+      "precio": 6.97,
+      "descuento": 18.36,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -4316,7 +4316,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-31T05:32:42.777Z",
-      "modified_at": "2026-07-31T05:32:42.777Z"
+      "modified_at": "2026-08-04T15:25:32.123Z"
     },
     {
       "id": "prod_1785475908038_wm85nrxc1",
@@ -4334,6 +4334,91 @@
       "disponibilidad": true,
       "created_at": "2026-07-31T05:32:44.972Z",
       "modified_at": "2026-07-31T05:32:44.972Z"
+    },
+    {
+      "id": "prod_1785856877811_06w11tpqh",
+      "nombre": "Picadillo de Res 1lb",
+      "categoria": "cárnicos",
+      "precio": 2.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "picadillo-de-res-1lb_1785856877826.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-04T15:25:56.543Z",
+      "modified_at": "2026-08-04T15:25:56.543Z"
+    },
+    {
+      "id": "prod_1785856957255_wgx179rkp",
+      "nombre": "Paquete de Carne de Res Troceada 1Kg",
+      "categoria": "cárnicos",
+      "precio": 8.47,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-carne-de-res-troceada-1kg_1785856957275.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-04T15:26:00.918Z",
+      "modified_at": "2026-08-04T15:26:00.918Z"
+    },
+    {
+      "id": "prod_1785857005231_q3b92z6to",
+      "nombre": "Flan Pascual Pack 4u",
+      "categoria": "confituras",
+      "precio": 3.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "flan-pascual-pack-4u_1785857005248.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-04T15:26:04.901Z",
+      "modified_at": "2026-08-04T15:26:04.901Z"
+    },
+    {
+      "id": "prod_1785857035570_9svxgdf5a",
+      "nombre": "Café Aroma 250g",
+      "categoria": "café",
+      "precio": 6.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caf-aroma-250g_1785857035580.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-04T15:26:06.741Z",
+      "modified_at": "2026-08-04T15:26:06.741Z"
+    },
+    {
+      "id": "prod_1785857123845_9d4p82szj",
+      "nombre": "Filete/Bistec de Res 1Kg",
+      "categoria": "cárnicos",
+      "precio": 10.57,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "filete-bistec-de-res-1kg_1785857123853.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-04T15:26:12.966Z",
+      "modified_at": "2026-08-04T15:26:12.966Z"
     }
   ]
 }
