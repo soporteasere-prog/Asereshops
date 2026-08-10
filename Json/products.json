@@ -557,9 +557,9 @@
         "paquete_de_hgados_de_pollo.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-04T15:25:38.703Z"
+      "modified_at": "2026-08-10T15:57:46.661Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -999,9 +999,9 @@
         "pollo-camelia2_1778853475778.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-15T14:04:08.912Z"
+      "modified_at": "2026-08-10T15:57:46.661Z"
     },
     {
       "id": "mm46rkpk-1nsu79h",
