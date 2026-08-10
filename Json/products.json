@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-07T10:45:13.927Z"
+      "modified_at": "2026-08-10T15:43:04.189Z"
     },
     {
       "id": "mlgzank2-abqwioi",
