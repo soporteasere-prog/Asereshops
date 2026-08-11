@@ -188,23 +188,6 @@
       "modified_at": "2026-07-11T13:48:19.047Z"
     },
     {
-      "id": "mlgzank2-1nnvd1p",
-      "nombre": "Harina (1kg)",
-      "categoria": "despensa",
-      "precio": 2.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_harina_de_trigo.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank2-q8ffff1",
       "nombre": "Frazada de Piso",
       "categoria": "aseo",
@@ -579,38 +562,21 @@
       "modified_at": "2026-06-05T06:19:40.402Z"
     },
     {
-      "id": "mlgzank4-jlsho8g",
-      "nombre": "Helado nestle sabor chocolate 4.5lts",
-      "categoria": "lacteos",
-      "precio": 22,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "helado_nestle_sabor_chocolate_4.5lts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlgzank4-gbgcf0r",
       "nombre": "Pack de 1kg de jamón bravo y 1kg de queso gouda",
       "categoria": "cárnicos",
-      "precio": 23.97,
-      "descuento": 4.09,
+      "precio": 27.69,
+      "descuento": 16.97,
       "mas_vendido": true,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-24T08:00:06.308Z"
+      "modified_at": "2026-08-11T05:38:37.544Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -696,23 +662,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-06-08T07:21:51.941Z"
-    },
-    {
-      "id": "mliq32iu-1vrvppm",
-      "nombre": "Mortadella especial 3Kg",
-      "categoria": "cárnicos",
-      "precio": 7.27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mortadella_especial_3kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
     },
     {
       "id": "mliq4l5b-tfq39wu",
@@ -1055,23 +1004,6 @@
       "modified_at": null
     },
     {
-      "id": "mmkpdgy1-8tf5q11",
-      "nombre": "Caja x 24 Néctar de Mango 🥭 ‘Nezka’ (250ml)",
-      "categoria": "bebidas",
-      "precio": 23.69,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "caja_de_nctar_nezka_mango.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-08-04T15:25:42.860Z"
-    },
-    {
       "id": "mmkpeoz8-uidafd1",
       "nombre": "Caja x 24 Néctar de Guayaba ‘Nezka’ (250ml)",
       "categoria": "bebidas",
@@ -1096,14 +1028,14 @@
       "descuento": 9.73,
       "mas_vendido": false,
       "nuevo": false,
-      "oferta": true,
+      "oferta": false,
       "imagenes": [
         "queso_gouda_vima_3kg.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.011Z"
+      "modified_at": "2026-08-11T05:38:37.543Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -1118,9 +1050,9 @@
         "lomo_de_cerdo_deshuesado_x_kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-08-11T05:38:40.057Z"
     },
     {
       "id": "mmm59z91-ngv7s6m",
@@ -1220,9 +1152,9 @@
         "tocino_natural_de_cerdo_gordo_x_lb.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.014Z"
+      "modified_at": "2026-08-11T05:38:37.544Z"
     },
     {
       "id": "mmq2ifm4-1y1ya3h",
@@ -1497,23 +1429,6 @@
       "modified_at": "2026-06-06T20:44:25.432Z"
     },
     {
-      "id": "mn7mkh9e-mt5qc61",
-      "nombre": "Harina Vima 1Kg",
-      "categoria": "despensa",
-      "precio": 2.57,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "harina_vima_1kg.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-21T23:04:27.886Z"
-    },
-    {
       "id": "mna633yq-1akkie7",
       "nombre": "Refresco Instantáneo Piña colada 20lts",
       "categoria": "bebidas",
@@ -1563,23 +1478,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-05-27T06:31:07.774Z"
-    },
-    {
-      "id": "mna5knx0-b76b8k1",
-      "nombre": "Helado Nestlé Sabor fresa 4.5lts",
-      "categoria": "lacteos",
-      "precio": 22,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "helado_nestl_sabor_fresa_4.5lts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
     },
     {
       "id": "mng1iq5n-x7v07w1",
@@ -1786,23 +1684,6 @@
       "modified_at": "2026-06-02T06:50:26.735Z"
     },
     {
-      "id": "moi9lh1q-18m53iy",
-      "nombre": "Caja de Jugo La Estancia Sabor Manzana 27u",
-      "categoria": "bebidas",
-      "precio": 16.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "18508_1779863249024.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-08-04T15:25:32.116Z"
-    },
-    {
       "id": "mon0i35f-oxbfit6",
       "nombre": "Galletas Saltitacos",
       "categoria": "confituras",
@@ -1849,9 +1730,9 @@
         "mortadela-de-pollo-1kg_1782906265786.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-05T06:54:27.884Z",
-      "modified_at": "2026-08-07T10:45:13.932Z"
+      "modified_at": "2026-08-11T05:38:47.426Z"
     },
     {
       "id": "prod_1777963926079_utzbwgzvz",
@@ -2075,40 +1956,6 @@
       "modified_at": "2026-06-02T06:50:26.732Z"
     },
     {
-      "id": "prod_1780036555259_zhr6x5of2",
-      "nombre": "Spam de Cerdo (320g)",
-      "categoria": "enlatados",
-      "precio": 2.7,
-      "descuento": 26.3,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "444114-600x600_1780036555269.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-29T06:39:43.772Z",
-      "modified_at": "2026-08-07T10:45:13.929Z"
-    },
-    {
-      "id": "prod_1780036583010_2sg3ync8t",
-      "nombre": "Spam de Res (340g)",
-      "categoria": "enlatados",
-      "precio": 1.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "444119-600x600_1780036583028.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-29T06:39:46.372Z",
-      "modified_at": "2026-07-11T13:48:15.178Z"
-    },
-    {
       "id": "prod_1780036689025_8gtckttiu",
       "nombre": "Sardinas en Salsa de Tomate 1Kg",
       "categoria": "enlatados",
@@ -2277,23 +2124,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-02T07:45:02.968Z",
       "modified_at": "2026-08-04T15:25:32.115Z"
-    },
-    {
-      "id": "prod_1780383820362_r94e107n6",
-      "nombre": "Ketchup (310ml)",
-      "categoria": "aderezos",
-      "precio": 1.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000291877_1780383820389.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:04.494Z",
-      "modified_at": "2026-06-02T07:45:04.494Z"
     },
     {
       "id": "prod_1780383900860_mybicsihb",
@@ -2534,23 +2364,6 @@
       "modified_at": "2026-06-17T22:45:22.555Z"
     },
     {
-      "id": "prod_1780385278158_9jmmmksx4",
-      "nombre": "Aceitunas Aliñadas 314ml",
-      "categoria": "aderezos",
-      "precio": 3.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20404_1780385278185.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:29.989Z",
-      "modified_at": "2026-06-17T22:45:22.556Z"
-    },
-    {
       "id": "prod_1780385348211_o7tzow1is",
       "nombre": "Garbanzos Vima 2.5Kg",
       "categoria": "despensa",
@@ -2600,23 +2413,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-02T07:45:35.418Z",
       "modified_at": "2026-07-17T18:36:52.680Z"
-    },
-    {
-      "id": "prod_1780385742966_rvlq3l7h5",
-      "nombre": "Mayonesa Vima 300ml",
-      "categoria": "aderezos",
-      "precio": 2.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20406_1780385742983.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:36.699Z",
-      "modified_at": "2026-07-15T03:30:41.460Z"
     },
     {
       "id": "prod_1780385819341_7trd7j57s",
@@ -2770,40 +2566,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-06T08:10:39.562Z",
       "modified_at": "2026-06-25T14:51:22.159Z"
-    },
-    {
-      "id": "prod_1780733066794_rrpiuy0xc",
-      "nombre": "Caja de Néctar de Mango 24u",
-      "categoria": "bebidas",
-      "precio": 23.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "caja-de-nctar-de-mango-24u_1781290234930.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-06T08:10:41.979Z",
-      "modified_at": "2026-07-03T15:10:36.684Z"
-    },
-    {
-      "id": "prod_1780895835637_y23whc4eu",
-      "nombre": "Helado Crema 4Lt",
-      "categoria": "lacteos",
-      "precio": 11.59,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "helado_1780895835669.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-08T05:26:52.468Z",
-      "modified_at": "2026-06-23T21:08:43.583Z"
     },
     {
       "id": "prod_1780896285491_qmucga8h2",
@@ -3044,23 +2806,6 @@
       "modified_at": "2026-08-04T15:25:32.121Z"
     },
     {
-      "id": "prod_1782248667290_8t4csl1b3",
-      "nombre": "Helado Crema 4Lt Sabor Mango",
-      "categoria": "lacteos",
-      "precio": 11.59,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "helado-crema-4lt-sabor-mango_1782248667313.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-23T21:08:41.901Z",
-      "modified_at": "2026-07-03T15:10:36.685Z"
-    },
-    {
       "id": "prod_1782248723657_baci8f89g",
       "nombre": "Salchicas de Pollo 340g Sublime",
       "categoria": "cárnicos",
@@ -3265,23 +3010,6 @@
       "modified_at": "2026-08-07T10:45:13.938Z"
     },
     {
-      "id": "prod_1784084934621_79txozc0c",
-      "nombre": "Colonia Bonabel de Violetas",
-      "categoria": "aseo",
-      "precio": 4.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "colonia-bonabel-de-violetas_1784084934638.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:30:59.662Z",
-      "modified_at": "2026-07-15T03:30:59.662Z"
-    },
-    {
       "id": "prod_1784084967700_0flhj8uyc",
       "nombre": "Sorbeto Wafer Pajucara 78g",
       "categoria": "confituras",
@@ -3297,23 +3025,6 @@
       "disponibilidad": false,
       "created_at": "2026-07-15T03:31:02.631Z",
       "modified_at": "2026-07-22T19:33:38.586Z"
-    },
-    {
-      "id": "prod_1784085011314_2h142kngq",
-      "nombre": "Néctar de Mango 🥭 Nezka (250ml)",
-      "categoria": "bebidas",
-      "precio": 1.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "nctar-de-mango-nezka-250ml_1784085011328.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:31:04.658Z",
-      "modified_at": "2026-07-15T03:31:04.658Z"
     },
     {
       "id": "prod_1784085043000_lzx6i6j7i",
@@ -3430,9 +3141,9 @@
         "galletas-marias-todeschini-360g_1784085339233.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:20.802Z",
-      "modified_at": "2026-07-15T03:31:20.802Z"
+      "modified_at": "2026-08-11T05:38:47.425Z"
     },
     {
       "id": "prod_1784085366223_q8zaqgla0",
@@ -3532,9 +3243,9 @@
         "detergente-yamy-900g_1784085561507.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-15T03:31:33.324Z",
-      "modified_at": "2026-08-04T15:25:32.118Z"
+      "modified_at": "2026-08-11T05:38:56.047Z"
     },
     {
       "id": "prod_1784085602472_g1h7te2sg",
@@ -4302,23 +4013,6 @@
       "modified_at": "2026-07-31T05:32:40.870Z"
     },
     {
-      "id": "prod_1785475851648_w5joc5rw3",
-      "nombre": "Mortadela Criolla Marca Bravo 800g",
-      "categoria": "cárnicos",
-      "precio": 6.97,
-      "descuento": 18.36,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mortadela-criollamarca-bravo-800g_1785475851679.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-31T05:32:42.777Z",
-      "modified_at": "2026-08-07T10:45:13.930Z"
-    },
-    {
       "id": "prod_1785475908038_wm85nrxc1",
       "nombre": "Jamon Chopped 800g marca Bravo",
       "categoria": "cárnicos",
@@ -4421,21 +4115,106 @@
       "modified_at": "2026-08-04T15:26:12.966Z"
     },
     {
-      "id": "prod_1786099449865_nvfj4k354",
-      "nombre": "Malta Guajira 1.5Lt",
-      "categoria": "bebidas",
-      "precio": 3.59,
+      "id": "prod_1786426225233_vbgrbamsd",
+      "nombre": "Mortadela de Pollo 500g",
+      "categoria": "cárnicos",
+      "precio": 3.47,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "malta-guajira-15lt_1786099449886.jpg"
+        "mortadela-de-pollo-500g_1786426225259.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
-      "created_at": "2026-08-07T10:45:17.347Z",
-      "modified_at": "2026-08-07T10:45:17.347Z"
+      "created_at": "2026-08-11T05:38:51.687Z",
+      "modified_at": "2026-08-11T05:38:51.687Z"
+    },
+    {
+      "id": "prod_1786426277935_qnvgfbtty",
+      "nombre": "Mayonesa Findy 920g",
+      "categoria": "aderezos",
+      "precio": 7.87,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mayonesa-findy-920g_1786426277952.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-11T05:38:53.097Z",
+      "modified_at": "2026-08-11T05:38:53.097Z"
+    },
+    {
+      "id": "prod_1786426306594_u9tfkiagu",
+      "nombre": "Caja Nectar de Manzana 24u 250ml",
+      "categoria": "bebidas",
+      "precio": 18.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-nectar-de-manzana-24u-250ml_1786426306611.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-11T05:38:54.686Z",
+      "modified_at": "2026-08-11T05:38:54.686Z"
+    },
+    {
+      "id": "prod_1786426333978_j9uguw98b",
+      "nombre": "Caja de Nectar de Mango 24u 250ml",
+      "categoria": "bebidas",
+      "precio": 18.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-de-nectar-de-mango-24u-250ml_1786426334008.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-11T05:38:56.046Z",
+      "modified_at": "2026-08-11T05:38:56.046Z"
+    },
+    {
+      "id": "prod_1786426437847_tff48z5pw",
+      "nombre": "Papel Higiénico Garbi 12 rollos doble capa",
+      "categoria": "aseo",
+      "precio": 6.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "papel-higinico-garbi-12-rollos-doble-capa_1786426437875.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-11T05:38:57.557Z",
+      "modified_at": "2026-08-11T05:38:57.557Z"
+    },
+    {
+      "id": "prod_1786426562076_16h5ze77t",
+      "nombre": "Helado Nestlé Sabor Vainilla (4.5Lts)",
+      "categoria": "lacteos",
+      "precio": 23.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "helado-nestl-sabor-vainilla-45lts_1786426562098.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-11T05:39:11.440Z",
+      "modified_at": "2026-08-11T05:39:11.440Z"
     }
   ]
 }
