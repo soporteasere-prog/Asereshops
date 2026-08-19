@@ -4,8 +4,8 @@
       "id": "mlgzank1-sikt6w1",
       "nombre": "Carne de cerdo x Lb",
       "categoria": "cárnicos",
-      "precio": 2.9,
-      "descuento": 0,
+      "precio": 3.29,
+      "descuento": 11.85,
       "mas_vendido": true,
       "nuevo": false,
       "oferta": false,
@@ -15,7 +15,7 @@
       "descripcion": "Carne fresca, se hace el corte al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:35.278Z"
+      "modified_at": "2026-08-19T09:11:35.482Z"
     },
     {
       "id": "mlgzank1-1s4o3vq",
@@ -676,9 +676,9 @@
         "coffe_mate_311.8g.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-07T10:45:13.934Z"
+      "modified_at": "2026-08-19T09:11:01.485Z"
     },
     {
       "id": "mliq66lf-8t6dfj1",
@@ -1209,20 +1209,20 @@
     },
     {
       "id": "mmxpk027-1n53odk",
-      "nombre": "Fresas Congeladas (454g)",
+      "nombre": "Fresas en almíbar (425g)",
       "categoria": "despensa",
-      "precio": 3.17,
+      "precio": 2.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "380_1780902222774.webp"
+        "fresas-en-almbar-425g_1787130579732.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-31T05:32:37.661Z"
+      "modified_at": "2026-08-19T09:11:37.924Z"
     },
     {
       "id": "mmxplkci-cg7fgw9",
@@ -1701,23 +1701,6 @@
       "modified_at": "2026-05-29T06:39:39.503Z"
     },
     {
-      "id": "mon0jma2-dc0h1f1",
-      "nombre": "Detergente 400g",
-      "categoria": "aseo",
-      "precio": 1.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "detergente-en-polvo-400g_1782247691279.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-23T20:48:18.197Z"
-    },
-    {
       "id": "prod_1777963852488_1rs856dd0",
       "nombre": "Mortadela de Pollo 1kg",
       "categoria": "cárnicos",
@@ -1767,40 +1750,6 @@
       "disponibilidad": false,
       "created_at": "2026-05-15T12:25:55.566Z",
       "modified_at": "2026-06-08T05:26:47.717Z"
-    },
-    {
-      "id": "prod_1778847806170_jkkjx370h",
-      "nombre": "Sardina en (aceite vegetal)",
-      "categoria": "enlatados",
-      "precio": 3.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000078472_1778847806270.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-15T12:25:57.720Z",
-      "modified_at": "2026-07-06T21:37:37.950Z"
-    },
-    {
-      "id": "prod_1778847937855_9mddry2ug",
-      "nombre": "Sardina en (salsa de tomate)",
-      "categoria": "enlatados",
-      "precio": 4.47,
-      "descuento": 11.19,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000078470_1778847937952.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-15T12:26:00.013Z",
-      "modified_at": "2026-07-31T05:32:44.972Z"
     },
     {
       "id": "prod_1778853047855_69d9llazb",
@@ -1956,40 +1905,6 @@
       "modified_at": "2026-06-02T06:50:26.732Z"
     },
     {
-      "id": "prod_1780036689025_8gtckttiu",
-      "nombre": "Sardinas en Salsa de Tomate 1Kg",
-      "categoria": "enlatados",
-      "precio": 6.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20173_1780036689047.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-29T06:39:48.783Z",
-      "modified_at": "2026-07-31T05:32:37.662Z"
-    },
-    {
-      "id": "prod_1780036724817_w1rhqc6tt",
-      "nombre": "Sardinas en Aceite Vegetal 1Kg",
-      "categoria": "enlatados",
-      "precio": 6.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20175_1780036724860.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-29T06:39:51.073Z",
-      "modified_at": "2026-07-31T05:32:37.663Z"
-    },
-    {
       "id": "prod_1780036769803_qwbur3m87",
       "nombre": "Galletas de Soda con Mantequilla Doricas",
       "categoria": "confituras",
@@ -2027,7 +1942,7 @@
       "id": "prod_1780382999453_mb13qez1m",
       "nombre": "Mermelada de Frutas Varias 340g",
       "categoria": "confituras",
-      "precio": 3.13,
+      "precio": 2.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2038,7 +1953,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T06:50:29.264Z",
-      "modified_at": "2026-06-08T06:09:31.171Z"
+      "modified_at": "2026-08-19T09:11:41.492Z"
     },
     {
       "id": "prod_1780383292523_450mmhapf",
@@ -2090,23 +2005,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-02T07:44:59.745Z",
       "modified_at": "2026-08-04T15:25:32.114Z"
-    },
-    {
-      "id": "prod_1780383540400_hv89o6cod",
-      "nombre": "Aceituna sin Hueso Vima (290g)",
-      "categoria": "despensa",
-      "precio": 3.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000493199_1780383540409.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:01.325Z",
-      "modified_at": "2026-06-17T22:45:22.554Z"
     },
     {
       "id": "prod_1780383752592_7bi7uisel",
@@ -2265,8 +2163,8 @@
       "id": "prod_1780384859618_oqcrpbgqc",
       "nombre": "Mantequilla Adorita con Sal 250g",
       "categoria": "aderezos",
-      "precio": 1.29,
-      "descuento": 0,
+      "precio": 1.49,
+      "descuento": 13.42,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2274,9 +2172,9 @@
         "20501_1780384859631.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:21.279Z",
-      "modified_at": "2026-08-07T10:45:13.934Z"
+      "modified_at": "2026-08-19T09:11:41.491Z"
     },
     {
       "id": "prod_1780384951623_su1ikab0h",
@@ -2345,23 +2243,6 @@
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:27.254Z",
       "modified_at": "2026-07-15T03:30:41.461Z"
-    },
-    {
-      "id": "prod_1780385226877_0c3hybeut",
-      "nombre": "Aceitunas Verdes sin Hueso 1820g",
-      "categoria": "aderezos",
-      "precio": 15.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20408_1780385226895.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:28.679Z",
-      "modified_at": "2026-06-17T22:45:22.555Z"
     },
     {
       "id": "prod_1780385348211_o7tzow1is",
@@ -2639,8 +2520,8 @@
       "id": "prod_1780898848519_oqjfcgt09",
       "nombre": "Cebolla x Lb (Morada)",
       "categoria": "agro",
-      "precio": 2.09,
-      "descuento": 0,
+      "precio": 2.79,
+      "descuento": 25.09,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2648,16 +2529,16 @@
         "purple-onion-cebolla-morada-1-lb_1780898848543.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-08T06:09:42.311Z",
-      "modified_at": "2026-08-15T08:17:05.795Z"
+      "modified_at": "2026-08-19T09:11:01.486Z"
     },
     {
       "id": "prod_1780898877916_5d33s5iir",
       "nombre": "Cebolla x Lb (Blanca)",
       "categoria": "agro",
-      "precio": 2.09,
-      "descuento": 0,
+      "precio": 2.79,
+      "descuento": 25.09,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2665,9 +2546,9 @@
         "cebolla-cabezona-blanca-500gr_1780898877935.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-08T06:09:44.056Z",
-      "modified_at": "2026-08-15T08:17:05.803Z"
+      "modified_at": "2026-08-19T09:11:01.487Z"
     },
     {
       "id": "prod_1781444317080_muikyeg60",
@@ -2894,8 +2775,8 @@
       "id": "prod_1784084016255_xg67t5g5b",
       "nombre": "Pack de 4 yogurts de Plátano Vima",
       "categoria": "lacteos",
-      "precio": 2.49,
-      "descuento": 0,
+      "precio": 3.19,
+      "descuento": 21.94,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2903,9 +2784,9 @@
         "pack-de-4-yogurts-de-pltano-vima_1784084016268.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-15T03:30:36.633Z",
-      "modified_at": "2026-07-17T18:36:07.509Z"
+      "modified_at": "2026-08-19T09:10:55.852Z"
     },
     {
       "id": "prod_1784084234692_k2d8onmg8",
@@ -3486,23 +3367,6 @@
       "modified_at": "2026-08-15T08:17:05.791Z"
     },
     {
-      "id": "prod_1784086180696_j0usyhdt1",
-      "nombre": "Sardinas Enteras Vima 1Lb",
-      "categoria": "cárnicos",
-      "precio": 5.19,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "sardinas-enteras-vima-1lb_1784086180715.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:32:07.949Z",
-      "modified_at": "2026-08-04T15:25:38.707Z"
-    },
-    {
       "id": "prod_1784311267068_rzps00hpy",
       "nombre": "Aceite de Oliva «Vima» (1Litro)",
       "categoria": "despensa",
@@ -3552,23 +3416,6 @@
       "disponibilidad": false,
       "created_at": "2026-07-17T18:36:07.509Z",
       "modified_at": "2026-08-04T15:25:32.119Z"
-    },
-    {
-      "id": "prod_1784311591005_mje9wigp1",
-      "nombre": "Pack de 4 yogurts Natural Azucarado Vima",
-      "categoria": "lacteos",
-      "precio": 3.19,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack-de-4-yogurts-natural-azucarado-vima_1784311591022.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-17T18:36:11.810Z",
-      "modified_at": "2026-07-17T18:36:11.810Z"
     },
     {
       "id": "prod_1784311640158_yg8t9y9vz",
@@ -3759,20 +3606,20 @@
     },
     {
       "id": "prod_1784312481388_emfpzeoo8",
-      "nombre": "Chicharo Seco 500g La Merced",
+      "nombre": "Chicharo 500g",
       "categoria": "pastas-y-granos",
-      "precio": 3.77,
+      "precio": 3.29,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "4d526eaf-e790-4fb1-ad04-840ed44988b4_1784312481403.jfif"
+        "chicharo-500g_1787129997103.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-17T18:36:52.678Z",
-      "modified_at": "2026-07-25T15:04:38.591Z"
+      "modified_at": "2026-08-19T09:11:03.819Z"
     },
     {
       "id": "prod_1784748761834_tpr4w3ocz",
@@ -4042,9 +3889,9 @@
         "paquete-de-carne-de-res-troceada-1kg_1785856957275.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-04T15:26:00.918Z",
-      "modified_at": "2026-08-04T15:26:00.918Z"
+      "modified_at": "2026-08-19T09:11:33.409Z"
     },
     {
       "id": "prod_1785857005231_q3b92z6to",
@@ -4198,6 +4045,40 @@
       "disponibilidad": true,
       "created_at": "2026-08-11T05:39:11.440Z",
       "modified_at": "2026-08-11T05:39:11.440Z"
+    },
+    {
+      "id": "prod_1787129812349_kqv887bz6",
+      "nombre": "Azúcar Blanca (1Kg)",
+      "categoria": "despensa",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "azcar-blanca-1kg_1787129812371.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-19T09:10:58.198Z",
+      "modified_at": "2026-08-19T09:10:58.198Z"
+    },
+    {
+      "id": "prod_1787129893535_8fqeae0kl",
+      "nombre": "Pollo Entero 3Lb",
+      "categoria": "cárnicos",
+      "precio": 7.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pollo-entero-3lb_1787129893560.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-19T09:11:01.484Z",
+      "modified_at": "2026-08-19T09:11:01.484Z"
     }
   ]
 }
