@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-15T08:17:11.361Z"
+      "modified_at": "2026-08-23T22:36:51.013Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -290,40 +290,6 @@
       "modified_at": "2026-06-05T06:19:34.042Z"
     },
     {
-      "id": "mlgzank2-58oemeg",
-      "nombre": "Cervezas Cristal (355ml)",
-      "categoria": "alcohol",
-      "precio": 1.1,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "Cerveza_Cristal.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.725Z"
-    },
-    {
-      "id": "mlgzank2-13eusc4",
-      "nombre": "Caja de Cervezas Cristal",
-      "categoria": "alcohol",
-      "precio": 21.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "Caja_Cerveza_Cristal.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-23T21:21:40.806Z"
-    },
-    {
       "id": "mlgzank2-xjt0jl1",
       "nombre": "Malta Bucanero",
       "categoria": "bebidas",
@@ -376,10 +342,10 @@
     },
     {
       "id": "mlgzank3-vqyyagj",
-      "nombre": "Picadillo de pollo (1Kg)",
+      "nombre": "Paquete de picadillo de pollo 1kg",
       "categoria": "cárnicos",
-      "precio": 2.37,
-      "descuento": 0,
+      "precio": 3.57,
+      "descuento": 33.61,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -389,7 +355,7 @@
       "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-23T06:14:30.689Z"
+      "modified_at": "2026-08-23T22:37:02.973Z"
     },
     {
       "id": "mlgzank3-w0yr57a",
@@ -472,9 +438,9 @@
         "caja_de_cerveza_bucanero_24u.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:40.807Z"
+      "modified_at": "2026-08-23T22:36:51.016Z"
     },
     {
       "id": "mlgzank4-492ui61",
@@ -489,9 +455,9 @@
         "cerveza_bucanero_x_und..jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-02T06:50:26.730Z"
+      "modified_at": "2026-08-23T22:36:51.014Z"
     },
     {
       "id": "mlgzank4-1mscjxf",
@@ -557,9 +523,9 @@
         "frijoles_colorados_x_lb.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:40.402Z"
+      "modified_at": "2026-08-23T22:36:56.969Z"
     },
     {
       "id": "mlgzank4-gbgcf0r",
@@ -648,10 +614,10 @@
     },
     {
       "id": "mlipxcrm-1ev233g",
-      "nombre": "Leche Evaporada",
+      "nombre": "Leche Evaporada Neska 354ml",
       "categoria": "lacteos",
-      "precio": 2.23,
-      "descuento": 0,
+      "precio": 3.37,
+      "descuento": 33.83,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -661,7 +627,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-08T07:21:51.941Z"
+      "modified_at": "2026-08-23T22:36:59.017Z"
     },
     {
       "id": "mliq4l5b-tfq39wu",
@@ -846,9 +812,9 @@
         "salsa-cocktail-vima-225ml_1784312651909.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-17T18:36:59.224Z"
+      "modified_at": "2026-08-23T22:36:51.017Z"
     },
     {
       "id": "mlq6yah4-1vaviqx",
@@ -900,23 +866,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-07-17T18:36:54.845Z"
-    },
-    {
-      "id": "mlqxb74h-15nfelz",
-      "nombre": "Saco de Carbón",
-      "categoria": "otros",
-      "precio": 6.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "saco-de-carbn_1784879073036.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-07-24T07:59:43.970Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -1041,8 +990,8 @@
       "id": "mml2uism-1ue4vr5",
       "nombre": "Lomo de cerdo deshuesado x Kg",
       "categoria": "cárnicos",
-      "precio": 7.97,
-      "descuento": 0,
+      "precio": 9.87,
+      "descuento": 19.25,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1050,9 +999,9 @@
         "lomo_de_cerdo_deshuesado_x_kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-11T05:38:40.057Z"
+      "modified_at": "2026-08-23T22:37:02.973Z"
     },
     {
       "id": "mmm59z91-ngv7s6m",
@@ -1189,23 +1138,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-08-04T15:25:32.123Z"
-    },
-    {
-      "id": "mmq2vpro-1bckqxm",
-      "nombre": "Pack x 12 Néctar de Manzana (12x330ml)",
-      "categoria": "bebidas",
-      "precio": 10.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack_x_12_nctar_de_manzana_12x330ml.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-08T07:21:55.003Z"
     },
     {
       "id": "mmxpk027-1n53odk",
@@ -1361,23 +1293,6 @@
       "modified_at": "2026-05-22T17:16:30.342Z"
     },
     {
-      "id": "mn77xr5d-xyulx13",
-      "nombre": "Pack de 12 Botellas de Agua Purificada",
-      "categoria": "bebidas",
-      "precio": 8.15,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack_de_12_botellas_de_agua_purificada.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.010Z"
-    },
-    {
       "id": "mn7mmrfk-19rl3s5",
       "nombre": "Caramelos de Leche 50u",
       "categoria": "confituras",
@@ -1483,8 +1398,8 @@
       "id": "mng1iq5n-x7v07w1",
       "nombre": "Jamón Bravo 2Kg",
       "categoria": "cárnicos",
-      "precio": 19.97,
-      "descuento": 0,
+      "precio": 23.97,
+      "descuento": 16.69,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1494,7 +1409,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-07T10:45:13.926Z"
+      "modified_at": "2026-08-23T22:37:02.971Z"
     },
     {
       "id": "mng8pk26-1w0fg2r",
@@ -2112,8 +2027,8 @@
       "id": "prod_1780384383342_vckyovise",
       "nombre": "Cebollitas en Vinagre 314ml",
       "categoria": "aderezos",
-      "precio": 3.29,
-      "descuento": 0,
+      "precio": 4.49,
+      "descuento": 26.73,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2123,7 +2038,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:13.487Z",
-      "modified_at": "2026-07-15T03:30:41.460Z"
+      "modified_at": "2026-08-23T22:37:02.972Z"
     },
     {
       "id": "prod_1780384500436_bof39lwp2",
@@ -2189,9 +2104,9 @@
         "20411_1780384951635.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:22.733Z",
-      "modified_at": "2026-07-20T16:15:51.019Z"
+      "modified_at": "2026-08-23T22:37:02.974Z"
     },
     {
       "id": "prod_1780385018623_2vgxw5dl4",
@@ -2495,9 +2410,9 @@
         "tomate_1780898576890.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-08T06:09:38.375Z",
-      "modified_at": "2026-07-15T03:30:34.219Z"
+      "modified_at": "2026-08-23T22:36:56.969Z"
     },
     {
       "id": "prod_1780898637844_fgf976qqp",
@@ -2529,9 +2444,9 @@
         "purple-onion-cebolla-morada-1-lb_1780898848543.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-08T06:09:42.311Z",
-      "modified_at": "2026-08-19T09:11:01.486Z"
+      "modified_at": "2026-08-23T22:36:52.862Z"
     },
     {
       "id": "prod_1780898877916_5d33s5iir",
@@ -2546,9 +2461,9 @@
         "cebolla-cabezona-blanca-500gr_1780898877935.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-08T06:09:44.056Z",
-      "modified_at": "2026-08-19T09:11:01.487Z"
+      "modified_at": "2026-08-23T22:36:52.867Z"
     },
     {
       "id": "prod_1781444317080_muikyeg60",
@@ -2920,9 +2835,9 @@
         "mango-x-lb_1784085043017.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:06.886Z",
-      "modified_at": "2026-07-15T03:31:06.886Z"
+      "modified_at": "2026-08-23T22:37:01.671Z"
     },
     {
       "id": "prod_1784085149536_q8dwstd9d",
@@ -2954,9 +2869,9 @@
         "platano-fruta-x-lb_1784085220791.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:13.816Z",
-      "modified_at": "2026-07-15T03:31:13.816Z"
+      "modified_at": "2026-08-23T22:37:01.670Z"
     },
     {
       "id": "prod_1784085248530_j1n1fqr7a",
@@ -2988,9 +2903,9 @@
         "frutabomba-x-lb_1784085314975.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:18.374Z",
-      "modified_at": "2026-07-15T03:31:18.374Z"
+      "modified_at": "2026-08-23T22:36:52.870Z"
     },
     {
       "id": "prod_1784085339216_ious2e4bs",
@@ -3804,9 +3719,9 @@
         "alubias-blancas-don-jos-500g_1784879919229.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T08:00:04.252Z",
-      "modified_at": "2026-07-24T08:00:04.252Z"
+      "modified_at": "2026-08-23T22:36:52.872Z"
     },
     {
       "id": "prod_1784879949476_82ekanc4n",
@@ -3838,9 +3753,9 @@
         "carne-de-res-en-lata-marca-goya-340g_1785475806120.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-31T05:32:40.870Z",
-      "modified_at": "2026-07-31T05:32:40.870Z"
+      "modified_at": "2026-08-23T22:36:52.872Z"
     },
     {
       "id": "prod_1785475908038_wm85nrxc1",
@@ -3855,9 +3770,9 @@
         "jamon-chopped-800g-marca-bravo_1785475908044.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-31T05:32:44.972Z",
-      "modified_at": "2026-08-15T08:17:11.358Z"
+      "modified_at": "2026-08-23T22:37:02.972Z"
     },
     {
       "id": "prod_1785856877811_06w11tpqh",
@@ -3926,23 +3841,6 @@
       "disponibilidad": true,
       "created_at": "2026-08-04T15:26:06.741Z",
       "modified_at": "2026-08-04T15:26:06.741Z"
-    },
-    {
-      "id": "prod_1785857123845_9d4p82szj",
-      "nombre": "Filete/Bistec de Res 1Kg",
-      "categoria": "cárnicos",
-      "precio": 10.57,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "filete-bistec-de-res-1kg_1785857123853.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-08-04T15:26:12.966Z",
-      "modified_at": "2026-08-04T15:26:12.966Z"
     },
     {
       "id": "prod_1786426225233_vbgrbamsd",
@@ -4025,9 +3923,9 @@
         "papel-higinico-garbi-12-rollos-doble-capa_1786426437875.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-11T05:38:57.557Z",
-      "modified_at": "2026-08-11T05:38:57.557Z"
+      "modified_at": "2026-08-23T22:36:54.371Z"
     },
     {
       "id": "prod_1786426562076_16h5ze77t",
@@ -4079,6 +3977,57 @@
       "disponibilidad": true,
       "created_at": "2026-08-19T09:11:01.484Z",
       "modified_at": "2026-08-19T09:11:01.484Z"
+    },
+    {
+      "id": "prod_1787524416218_szi40lxz3",
+      "nombre": "Picadillo Condimentado de Pollo 400g marca Bravo",
+      "categoria": "cárnicos",
+      "precio": 2.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "31490-600x600_1787524416243.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-23T22:37:04.267Z",
+      "modified_at": "2026-08-23T22:37:04.267Z"
+    },
+    {
+      "id": "prod_1787524522137_rfbzr3ki4",
+      "nombre": "Papel Sanitario 4 rollos doble capa",
+      "categoria": "aseo",
+      "precio": 1.78,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "papel-sanitario-4-rollos-doble-capa_1787524522157.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-23T22:37:05.871Z",
+      "modified_at": "2026-08-23T22:37:05.871Z"
+    },
+    {
+      "id": "prod_1787524599134_0dkne8qos",
+      "nombre": "Caja de Picadillo de Pollo 44Lb",
+      "categoria": "cárnicos",
+      "precio": 64.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "42849-600x901_1787524599148.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-08-23T22:37:07.341Z",
+      "modified_at": "2026-08-23T22:37:07.341Z"
     }
   ]
 }
