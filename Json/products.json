@@ -123,8 +123,8 @@
       "id": "mlgzank2-1pwcv2o",
       "nombre": "Cartón de Huevos",
       "categoria": "despensa",
-      "precio": 11.47,
-      "descuento": 30.34,
+      "precio": 11.59,
+      "descuento": 1.04,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-23T22:36:51.013Z"
+      "modified_at": "2026-08-25T05:34:23.924Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -1206,23 +1206,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-08-15T08:17:05.790Z"
-    },
-    {
-      "id": "mn3aj1rj-1i9d6mq",
-      "nombre": "Porron de Aceite 17.5lt",
-      "categoria": "despensa",
-      "precio": 41.67,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "porron_de_aceite_17.5lt.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-06-23T17:05:54.262Z"
     },
     {
       "id": "mn4ikino-19m47n4",
@@ -3282,23 +3265,6 @@
       "modified_at": "2026-08-15T08:17:05.791Z"
     },
     {
-      "id": "prod_1784311267068_rzps00hpy",
-      "nombre": "Aceite de Oliva «Vima» (1Litro)",
-      "categoria": "despensa",
-      "precio": 11.67,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "d479d678-e3e1-4b38-9a47-2b1584a6aa84_1784311267081.jfif"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-17T18:35:58.926Z",
-      "modified_at": "2026-07-17T18:35:58.926Z"
-    },
-    {
       "id": "prod_1784311413668_mfyzztxfy",
       "nombre": "Pera en Almíbar 425g",
       "categoria": "despensa",
@@ -3552,23 +3518,6 @@
       "disponibilidad": false,
       "created_at": "2026-07-22T19:33:42.829Z",
       "modified_at": "2026-07-31T05:32:37.662Z"
-    },
-    {
-      "id": "prod_1784748815292_3xnw5skoq",
-      "nombre": "Porrón de Aceite 17.5Lt",
-      "categoria": "despensa",
-      "precio": 60,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "porrn-de-aceite-175lt_1784748815311.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-22T19:33:45.177Z",
-      "modified_at": "2026-07-30T01:07:40.202Z"
     },
     {
       "id": "prod_1784878975788_gy9ibdemk",
