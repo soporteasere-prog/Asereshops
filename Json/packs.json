@@ -4,33 +4,30 @@
       "id": "6",
       "nombre": "Pack Nuestra Casa",
       "categoria": "Pack",
-      "precio": 76.99,
+      "precio": 109.97,
       "descuento": 0,
       "top": false,
       "nuevo": false,
       "oferta": false,
-      "disponible": false,
+      "disponible": true,
       "imagenes": [
         "8895_1779861776162.webp"
       ],
       "imagen": "8895_1779861776162.webp",
       "descripcion": "",
       "caracteristicas": [
-        "x5Lb frijoles negros",
-        "x10Lb arroz importado",
-        "x2 pomos de aceite de 900ml",
-        "x1 pasta de tomate vima",
-        "x1 paquete de salchichas 340g",
-        "x2 picadillo de pollo de 400g",
-        "x1 cartón de huevos",
-        "x1 paquete de pollo de cuartos de 10lb",
-        "x10lb de carne de cerdo"
+        "10lbs de cerdo",
+        "1 paquete de cuartos de pollo 10lbs",
+        "5lbs de ovejo",
+        "2 tubos de picadillos 400g",
+        "1 paquete de salchichas 10uds.",
+        "2 aceites 900ml",
+        "1 pasta de tomate 400g",
+        "10lbs de arroz",
+        "5lbs de frijoles negros"
       ],
       "created_at": "2026-05-27T05:59:15.640Z",
-      "modified_at": "2026-07-15T03:32:11.240Z",
-      "precioFinal": 76.99,
-      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/8895_1779861776162.webp",
-      "searchText": "pack nuestra casa pack "
+      "modified_at": "2026-08-29T05:47:19.716Z"
     },
     {
       "id": "7",
@@ -53,7 +50,10 @@
         "x2lb Queso blanco"
       ],
       "created_at": "2026-05-27T05:59:15.664Z",
-      "modified_at": "2026-08-23T22:37:09.373Z"
+      "modified_at": "2026-08-23T22:37:09.373Z",
+      "precioFinal": 15.79,
+      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/12398_1779861790189.webp",
+      "searchText": "pack «el salve» pack "
     },
     {
       "id": "8",
@@ -77,34 +77,34 @@
         "x10 plátanos"
       ],
       "created_at": "2026-07-24T08:00:11.079Z",
-      "modified_at": "2026-08-23T22:37:09.402Z"
+      "modified_at": "2026-08-23T22:37:09.402Z",
+      "precioFinal": 21.99,
+      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/pack-veloz_1787524035954.jpg",
+      "searchText": "pack veloz pack "
     },
     {
       "id": "9",
       "nombre": "Pack La Solución",
       "categoria": "Pack",
-      "precio": 29.97,
-      "descuento": 0,
+      "precio": 36.99,
+      "descuento": 18.98,
       "top": false,
       "nuevo": false,
       "oferta": false,
-      "disponible": false,
+      "disponible": true,
       "imagenes": [
         "pack-la-solucin_1784879659936.jpg"
       ],
       "imagen": "pack-la-solucin_1784879659936.jpg",
       "descripcion": "",
       "caracteristicas": [
-        "x1 pqt de 10Lb de cuartos de pollo",
-        "x2 pqts de arroz de 1kg",
-        "x1 pomo de aceite 900ml",
-        "x1 pasta tomate 400g"
+        "1 pqt de 10Lb de cuartos de pollo",
+        "2 pqts de arroz de 1kg",
+        "1 pomo de aceite 900ml",
+        "1 pasta tomate 400g"
       ],
       "created_at": "2026-07-24T08:00:11.081Z",
-      "modified_at": "2026-08-04T15:26:16.956Z",
-      "precioFinal": 29.97,
-      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/pack-la-solucin_1784879659936.jpg",
-      "searchText": "pack la solución pack "
+      "modified_at": "2026-08-29T05:47:19.716Z"
     }
   ]
 }
