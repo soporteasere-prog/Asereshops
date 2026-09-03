@@ -580,20 +580,20 @@
     },
     {
       "id": "mli1qt1h-m8mjr31",
-      "nombre": "Paquete de Cuartos de Pollo 10lb",
+      "nombre": "Paquete de cuartos de pollo 10 lbs",
       "categoria": "cárnicos",
-      "precio": 12.99,
-      "descuento": 0,
+      "precio": 15.97,
+      "descuento": 18.66,
       "mas_vendido": true,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete_de_cuartos_de_pollo_10lb.webp"
+        "paquete-de-cuartos-de-pollo-10-lbs_1788445407664.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-22T19:33:38.585Z"
+      "modified_at": "2026-09-03T14:23:41.764Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -2053,9 +2053,9 @@
         "20501_1780384859631.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:21.279Z",
-      "modified_at": "2026-08-19T09:11:41.491Z"
+      "modified_at": "2026-09-03T14:23:33.812Z"
     },
     {
       "id": "prod_1780384951623_su1ikab0h",
@@ -2597,9 +2597,9 @@
         "pack-x-6-maltas-guajira-6x330ml_1782429201964.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-25T23:14:37.484Z",
-      "modified_at": "2026-08-07T10:45:13.939Z"
+      "modified_at": "2026-09-03T14:23:33.812Z"
     },
     {
       "id": "prod_1782429253140_tct29meio",
@@ -3073,9 +3073,9 @@
         "paquete-de-caramelos-de-caf-600g_1784085877471.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:46.522Z",
-      "modified_at": "2026-07-15T03:31:46.522Z"
+      "modified_at": "2026-09-03T14:23:33.812Z"
     },
     {
       "id": "prod_1784085917968_bkx54al1x",
@@ -3481,9 +3481,9 @@
         "caf-la-llave_1784878975809.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:40.091Z",
-      "modified_at": "2026-08-15T08:17:11.363Z"
+      "modified_at": "2026-09-03T14:23:33.811Z"
     },
     {
       "id": "prod_1784879020125_epzgxylc4",
@@ -3753,9 +3753,9 @@
         "mayonesa-findy-920g_1786426277952.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-11T05:38:53.097Z",
-      "modified_at": "2026-08-11T05:38:53.097Z"
+      "modified_at": "2026-09-03T14:23:33.812Z"
     },
     {
       "id": "prod_1786426306594_u9tfkiagu",
@@ -4011,6 +4011,57 @@
       "disponibilidad": true,
       "created_at": "2026-08-29T05:47:15.990Z",
       "modified_at": "2026-08-29T05:47:15.990Z"
+    },
+    {
+      "id": "prod_1788445197858_5wzu64df1",
+      "nombre": "Mayonesa Celorrio 500ml",
+      "categoria": "aderezos",
+      "precio": 7.87,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mayonesa-celorrio-500ml_1788445197865.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-03T14:23:36.544Z",
+      "modified_at": "2026-09-03T14:23:36.544Z"
+    },
+    {
+      "id": "prod_1788445248267_ysocuxx1q",
+      "nombre": "Papas Prefritas 1Kg Maestro",
+      "categoria": "despensa",
+      "precio": 6.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "papas-prefritas-1kg-maestro_1788445248286.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-03T14:23:38.127Z",
+      "modified_at": "2026-09-03T14:23:38.127Z"
+    },
+    {
+      "id": "prod_1788445304270_5jwdid1oq",
+      "nombre": "Mantequilla Margarina con Sal 500g",
+      "categoria": "aderezos",
+      "precio": 4.47,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mantequilla-margarina-con-sal-500g_1788445304283.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-03T14:23:39.801Z",
+      "modified_at": "2026-09-03T14:23:39.801Z"
     }
   ]
 }
