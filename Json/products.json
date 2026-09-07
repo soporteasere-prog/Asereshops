@@ -3668,9 +3668,9 @@
         "paquete-de-carne-de-res-troceada-1kg_1785856957275.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-04T15:26:00.918Z",
-      "modified_at": "2026-08-29T05:47:13.071Z"
+      "modified_at": "2026-09-07T15:33:20.711Z"
     },
     {
       "id": "prod_1785857035570_9svxgdf5a",
