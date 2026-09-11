@@ -124,7 +124,7 @@
       "nombre": "Cartón de Huevos",
       "categoria": "despensa",
       "precio": 11.59,
-      "descuento": 1.04,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-06T14:54:29.786Z"
+      "modified_at": "2026-09-11T04:19:59.518Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -307,23 +307,6 @@
       "modified_at": null
     },
     {
-      "id": "mlgzank2-1lffzlq",
-      "nombre": "Papel Sanitario 4 rollos",
-      "categoria": "otros",
-      "precio": 1.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "paquete_de_papel_sanitario.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-07-11T13:48:15.179Z"
-    },
-    {
       "id": "mlgzank3-vqyyagj",
       "nombre": "Paquete de picadillo de pollo 1kg",
       "categoria": "cárnicos",
@@ -412,7 +395,7 @@
       "id": "mlgzank4-1gsjq05",
       "nombre": "Caja de cerveza Bucanero 24u",
       "categoria": "alcohol",
-      "precio": 21.99,
+      "precio": 28.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -421,15 +404,15 @@
         "caja_de_cerveza_bucanero_24u.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-23T22:36:51.016Z"
+      "modified_at": "2026-09-11T04:20:02.130Z"
     },
     {
       "id": "mlgzank4-492ui61",
       "nombre": "Cerveza Bucanero x und.",
       "categoria": "alcohol",
-      "precio": 1.1,
+      "precio": 1.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -438,9 +421,9 @@
         "cerveza_bucanero_x_und..jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-23T22:36:51.014Z"
+      "modified_at": "2026-09-11T04:20:02.131Z"
     },
     {
       "id": "mlgzank4-1mscjxf",
@@ -868,23 +851,6 @@
       "modified_at": "2026-08-04T15:25:32.116Z"
     },
     {
-      "id": "mm0wz21h-u01m57b",
-      "nombre": "Pollo entero (1800g)",
-      "categoria": "cárnicos",
-      "precio": 11.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pollo-camelia2_1778853475778.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-08-10T15:57:46.661Z"
-    },
-    {
       "id": "mm46rkpk-1nsu79h",
       "nombre": "Fideos 500g",
       "categoria": "despensa",
@@ -1291,23 +1257,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-08-01T20:48:23.635Z"
-    },
-    {
-      "id": "mna63lqq-1mnrmod",
-      "nombre": "Refresco Instantáneo Piña 20lts",
-      "categoria": "bebidas",
-      "precio": 7.27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "refresco_instantneo_pia_20lts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-05-15T01:35:48.146Z"
     },
     {
       "id": "mna64u78-aliv17k",
@@ -1917,9 +1866,9 @@
         "10813_1780384073567.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:08.987Z",
-      "modified_at": "2026-08-07T10:45:13.932Z"
+      "modified_at": "2026-09-11T04:19:54.400Z"
     },
     {
       "id": "prod_1780384228413_57eqncwl0",
@@ -2228,23 +2177,6 @@
       "modified_at": "2026-06-02T07:45:43.866Z"
     },
     {
-      "id": "prod_1780386222938_qv7eu4w1u",
-      "nombre": "Caja de Cerveza Puerto Cristo 24u",
-      "categoria": "alcohol",
-      "precio": 16.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "3218_1780386222957.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-02T07:45:45.302Z",
-      "modified_at": "2026-07-03T15:10:36.684Z"
-    },
-    {
       "id": "prod_1780638802643_qxxqbggxv",
       "nombre": "Croqueta Bacalao (500g)",
       "categoria": "despensa",
@@ -2481,23 +2413,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-17T22:45:31.025Z",
       "modified_at": "2026-08-07T10:45:13.931Z"
-    },
-    {
-      "id": "prod_1781736295141_3y8cy1zdo",
-      "nombre": "Almidón de Maiz (Maicena) 500g",
-      "categoria": "despensa",
-      "precio": 2.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "almidn-de-maiz-maicena-500g_1781736295168.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-17T22:45:32.655Z",
-      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1782020309437_p737kh1vc",
@@ -3362,9 +3277,9 @@
         "lentejas-extra-vima-540g_1784312320058.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:45.192Z",
-      "modified_at": "2026-07-17T18:36:45.192Z"
+      "modified_at": "2026-09-11T04:19:54.401Z"
     },
     {
       "id": "prod_1784312391703_ikq9zuhtt",
@@ -3588,23 +3503,6 @@
       "modified_at": "2026-08-23T22:36:52.872Z"
     },
     {
-      "id": "prod_1784879949476_82ekanc4n",
-      "nombre": "Maicena 200g",
-      "categoria": "despensa",
-      "precio": 2.07,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "maicena-200g_1784879949501.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-24T08:00:06.306Z",
-      "modified_at": "2026-08-11T05:45:07.555Z"
-    },
-    {
       "id": "prod_1785475806100_e3uddjky9",
       "nombre": "Carne de Res en Lata marca GOYA 340g",
       "categoria": "cárnicos",
@@ -3758,23 +3656,6 @@
       "modified_at": "2026-08-15T08:17:11.360Z"
     },
     {
-      "id": "prod_1786426437847_tff48z5pw",
-      "nombre": "Papel Higiénico Garbi 12 rollos doble capa",
-      "categoria": "aseo",
-      "precio": 6.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "papel-higinico-garbi-12-rollos-doble-capa_1786426437875.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-08-11T05:38:57.557Z",
-      "modified_at": "2026-08-23T22:36:54.371Z"
-    },
-    {
       "id": "prod_1786426562076_16h5ze77t",
       "nombre": "Helado Nestlé Sabor Vainilla (4.5Lts)",
       "categoria": "lacteos",
@@ -3787,9 +3668,9 @@
         "helado-nestl-sabor-vainilla-45lts_1786426562098.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-11T05:39:11.440Z",
-      "modified_at": "2026-08-11T05:39:11.440Z"
+      "modified_at": "2026-09-11T04:19:54.401Z"
     },
     {
       "id": "prod_1787129893535_8fqeae0kl",
