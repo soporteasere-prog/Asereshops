@@ -557,9 +557,9 @@
         "paquete-de-cuartos-de-pollo-10-lbs_1788445407664.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-03T14:23:41.764Z"
+      "modified_at": "2026-09-14T08:10:08.483Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -642,9 +642,9 @@
         "caja_de_malta_bucanero.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-29T05:47:04.448Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "mlq7ldgn-16r63aq",
@@ -931,9 +931,9 @@
         "lomo_de_cerdo_deshuesado_x_kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-23T22:37:02.973Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "mmm59z91-ngv7s6m",
@@ -1866,9 +1866,9 @@
         "10813_1780384073567.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-02T07:45:08.987Z",
-      "modified_at": "2026-09-11T04:19:54.400Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "prod_1780384228413_57eqncwl0",
@@ -2155,9 +2155,9 @@
         "10831_1780386086131.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:42.495Z",
-      "modified_at": "2026-08-07T10:45:17.348Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "prod_1780386152780_y71yckl8l",
@@ -2393,9 +2393,9 @@
         "fresas-en-almbar-3kg-vima_1781736198016.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-17T22:45:29.593Z",
-      "modified_at": "2026-08-29T05:46:37.107Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "prod_1781736239303_r9qiq3dkx",
@@ -3319,7 +3319,7 @@
       "id": "prod_1784312481388_emfpzeoo8",
       "nombre": "Chicharo 500g",
       "categoria": "pastas-y-granos",
-      "precio": 3.29,
+      "precio": 4.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3330,7 +3330,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:52.678Z",
-      "modified_at": "2026-08-19T09:11:03.819Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "prod_1784748761834_tpr4w3ocz",
@@ -3532,9 +3532,9 @@
         "jamon-chopped-800g-marca-bravo_1785475908044.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-31T05:32:44.972Z",
-      "modified_at": "2026-08-23T22:37:02.972Z"
+      "modified_at": "2026-09-14T08:10:08.484Z"
     },
     {
       "id": "prod_1785856877811_06w11tpqh",
