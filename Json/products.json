@@ -140,7 +140,7 @@
       "id": "mlgzank2-abqwioi",
       "nombre": "Espaguetis (500g)",
       "categoria": "pastas-y-granos",
-      "precio": 0.89,
+      "precio": 1.37,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -151,7 +151,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-29T05:46:53.950Z"
+      "modified_at": "2026-09-19T05:53:38.830Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -370,9 +370,9 @@
         "1000083713_1779517342523.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-23T21:08:43.589Z"
+      "modified_at": "2026-09-19T05:53:07.999Z"
     },
     {
       "id": "mlgzank3-1pzccww",
@@ -443,38 +443,21 @@
       "modified_at": "2026-08-04T15:25:41.193Z"
     },
     {
-      "id": "mlgzank4-dez8evc",
-      "nombre": "Desodorante Keewell 24h",
-      "categoria": "aseo",
-      "precio": 1.23,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "desodorante_keewell_24h.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-06-12T18:50:39.807Z"
-    },
-    {
       "id": "mlgzank4-1minyju",
       "nombre": "Hígado de pollo (1Kg)",
       "categoria": "cárnicos",
-      "precio": 2.97,
+      "precio": 4.49,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paquete_de_hgados_de_pollo.jpg"
+        "hgado-de-pollo-1kg_1789796554169.jpg"
       ],
       "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-10T15:57:46.661Z"
+      "modified_at": "2026-09-19T05:53:47.950Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -557,16 +540,16 @@
         "paquete-de-cuartos-de-pollo-10-lbs_1788445407664.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-14T08:10:08.483Z"
+      "modified_at": "2026-09-19T05:53:51.640Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
       "nombre": "Aceite 900ml",
       "categoria": "despensa",
-      "precio": 7.97,
-      "descuento": 12.3,
+      "precio": 6.29,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -576,7 +559,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-29T05:46:51.542Z"
+      "modified_at": "2026-09-19T05:53:42.420Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -1143,7 +1126,7 @@
       "id": "mn4imhrd-xpal1gu",
       "nombre": "Maíz Dulce Vima 1Kg",
       "categoria": "despensa",
-      "precio": 5.89,
+      "precio": 4.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1154,7 +1137,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-04T15:25:42.863Z"
+      "modified_at": "2026-09-19T05:53:51.640Z"
     },
     {
       "id": "mn4ip333-hlfw334",
@@ -1390,9 +1373,9 @@
         "pomo_de_alubias_blancas_540g.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-27T06:31:24.855Z"
+      "modified_at": "2026-09-19T05:53:36.483Z"
     },
     {
       "id": "moe4v4df-1bgw0pm",
@@ -1820,23 +1803,6 @@
       "modified_at": "2026-08-04T15:25:32.115Z"
     },
     {
-      "id": "prod_1780383900860_mybicsihb",
-      "nombre": "Aceituna con Hueso Vima (290g)",
-      "categoria": "despensa",
-      "precio": 3.09,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000493199-1_1780383900875.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:06.010Z",
-      "modified_at": "2026-06-17T22:45:22.555Z"
-    },
-    {
       "id": "prod_1780383989393_k7vcb90aq",
       "nombre": "Macarrones con queso (206g)",
       "categoria": "despensa",
@@ -2061,7 +2027,7 @@
       "id": "prod_1780385463719_k3o5lfkns",
       "nombre": "Maiz Dulce en Grano 425g",
       "categoria": "despensa",
-      "precio": 2.27,
+      "precio": 1.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2072,7 +2038,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:32.632Z",
-      "modified_at": "2026-07-17T18:36:42.938Z"
+      "modified_at": "2026-09-19T05:53:51.640Z"
     },
     {
       "id": "prod_1780385686701_42swpa61r",
@@ -2214,8 +2180,8 @@
       "id": "prod_1780732999658_cnqyj0vwk",
       "nombre": "Pasta para Bocaditos (465ml)",
       "categoria": "despensa",
-      "precio": 6.79,
-      "descuento": 0,
+      "precio": 6.97,
+      "descuento": 2.58,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2223,9 +2189,9 @@
         "qqqqq_1780732999690.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-06T08:10:39.562Z",
-      "modified_at": "2026-06-25T14:51:22.159Z"
+      "modified_at": "2026-09-19T05:54:00.264Z"
     },
     {
       "id": "prod_1780896285491_qmucga8h2",
@@ -2243,23 +2209,6 @@
       "disponibilidad": true,
       "created_at": "2026-06-08T05:26:53.881Z",
       "modified_at": "2026-07-15T03:30:38.984Z"
-    },
-    {
-      "id": "prod_1780896395131_jht5ghx6o",
-      "nombre": "Juegos Variados de Shampoo(400ml) y Acondicionador (200ml)",
-      "categoria": "aseo",
-      "precio": 3.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "jvdsyc_1780896395150.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-08T05:26:55.675Z",
-      "modified_at": "2026-07-03T15:10:36.684Z"
     },
     {
       "id": "prod_1780898576880_bipsglzoq",
@@ -2430,23 +2379,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-21T05:38:37.393Z",
       "modified_at": "2026-08-07T10:45:13.934Z"
-    },
-    {
-      "id": "prod_1782248629204_wwreudpb5",
-      "nombre": "Aceituna con Hueso Bolsita (160g)",
-      "categoria": "aderezos",
-      "precio": 2.17,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "aceituna-con-hueso-bolsita-160g_1782248629240.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-06-23T21:08:39.906Z",
-      "modified_at": "2026-08-04T15:25:32.121Z"
     },
     {
       "id": "prod_1782248723657_baci8f89g",
@@ -2806,23 +2738,6 @@
       "modified_at": "2026-08-04T15:25:32.117Z"
     },
     {
-      "id": "prod_1784085471104_hir1edpb6",
-      "nombre": "Detergente en polvo 9kg",
-      "categoria": "aseo",
-      "precio": 17.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "detergente-en-polvo-9kg_1784085471122.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:29.494Z",
-      "modified_at": "2026-07-30T21:01:00.975Z"
-    },
-    {
       "id": "prod_1784085505794_sqp0ta85x",
       "nombre": "Jugo de Manzana Badelli 200ml",
       "categoria": "bebidas",
@@ -2869,9 +2784,9 @@
         "caja-de-jugo-de-manzana-badelli-27u_1784085602477.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:35.199Z",
-      "modified_at": "2026-07-15T03:31:35.199Z"
+      "modified_at": "2026-09-19T05:53:34.742Z"
     },
     {
       "id": "prod_1784085704063_e915gnzn7",
@@ -2920,26 +2835,9 @@
         "jugos-de-manzana-y-pera-x-unidad_1784085786799.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:31:41.773Z",
-      "modified_at": "2026-07-15T03:31:41.773Z"
-    },
-    {
-      "id": "prod_1784085816036_uvbs6zrdw",
-      "nombre": "Juego de Shampoo y Acondicionador 413ml",
-      "categoria": "aseo",
-      "precio": 5.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "juego-de-shampoo-y-acondicionador-413ml_1784085816054.jpg"
-      ],
-      "descripcion": "",
       "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:43.988Z",
-      "modified_at": "2026-07-31T05:39:36.854Z"
+      "created_at": "2026-07-15T03:31:41.773Z",
+      "modified_at": "2026-09-19T05:53:34.742Z"
     },
     {
       "id": "prod_1784085877455_7jew3h2ho",
@@ -3059,23 +2957,6 @@
       "disponibilidad": true,
       "created_at": "2026-07-15T03:32:01.164Z",
       "modified_at": "2026-07-15T03:32:01.164Z"
-    },
-    {
-      "id": "prod_1784086127389_g4fi38i5z",
-      "nombre": "Set de Máquinas de afeitar 10u",
-      "categoria": "aseo",
-      "precio": 2.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "set-de-mquinas-de-afeitar-10u_1784086127398.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:32:03.466Z",
-      "modified_at": "2026-08-04T15:25:32.120Z"
     },
     {
       "id": "prod_1784086145024_v08rrmax3",
@@ -3418,23 +3299,6 @@
       "modified_at": "2026-07-24T07:59:51.704Z"
     },
     {
-      "id": "prod_1784879788889_1sktu1qi1",
-      "nombre": "Pasta de Bocadito Bravo 300g",
-      "categoria": "cárnicos",
-      "precio": 2.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pasta-de-bocadito-bravo-300g_1784879788909.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-24T07:59:56.873Z",
-      "modified_at": "2026-08-04T15:25:38.705Z"
-    },
-    {
       "id": "prod_1784879816354_d3vxzolpy",
       "nombre": "Avena en Ojuelas 1Lb",
       "categoria": "despensa",
@@ -3455,7 +3319,7 @@
       "id": "prod_1784879848198_mpnf25i2m",
       "nombre": "Salchichón al Ajo Bravo 2Kg",
       "categoria": "cárnicos",
-      "precio": 21.97,
+      "precio": 19.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3466,7 +3330,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-24T08:00:00.470Z",
-      "modified_at": "2026-07-24T08:00:00.470Z"
+      "modified_at": "2026-09-19T05:53:51.640Z"
     },
     {
       "id": "prod_1784879876962_3f7iszxnz",
@@ -3634,9 +3498,9 @@
         "caja-nectar-de-manzana-24u-250ml_1786426306611.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-11T05:38:54.686Z",
-      "modified_at": "2026-08-15T08:17:11.359Z"
+      "modified_at": "2026-09-19T05:53:29.107Z"
     },
     {
       "id": "prod_1786426333978_j9uguw98b",
@@ -3659,7 +3523,7 @@
       "id": "prod_1786426562076_16h5ze77t",
       "nombre": "Helado Nestlé Sabor Vainilla (4.5Lts)",
       "categoria": "lacteos",
-      "precio": 23.97,
+      "precio": 22.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3668,9 +3532,9 @@
         "helado-nestl-sabor-vainilla-45lts_1786426562098.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-08-11T05:39:11.440Z",
-      "modified_at": "2026-09-11T04:19:54.401Z"
+      "modified_at": "2026-09-19T05:53:42.420Z"
     },
     {
       "id": "prod_1787129893535_8fqeae0kl",
@@ -3716,12 +3580,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "papel-sanitario-4-rollos-doble-capa_1787524522157.jpg"
+        "14349_1789795956673.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-08-23T22:37:05.871Z",
-      "modified_at": "2026-08-23T22:37:05.871Z"
+      "modified_at": "2026-09-19T05:53:32.337Z"
     },
     {
       "id": "prod_1787524599134_0dkne8qos",
@@ -3821,9 +3685,9 @@
         "saco-de-carbn-100-marab-12kg_1787982299477.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-29T05:47:13.070Z",
-      "modified_at": "2026-08-29T05:47:13.070Z"
+      "modified_at": "2026-09-19T05:53:42.420Z"
     },
     {
       "id": "prod_1787982372301_hszxi6zmw",
@@ -3943,6 +3807,142 @@
       "disponibilidad": true,
       "created_at": "2026-09-06T14:54:44.987Z",
       "modified_at": "2026-09-06T14:54:44.987Z"
+    },
+    {
+      "id": "prod_1789796108167_phelelfxu",
+      "nombre": "Caja de Jugo de Manzana Fresko 24x330ml",
+      "categoria": "bebidas",
+      "precio": 27.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "54475-600x448_1789796108175.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:53:36.483Z",
+      "modified_at": "2026-09-19T05:53:36.483Z"
+    },
+    {
+      "id": "prod_1789796447389_y46pnolu4",
+      "nombre": "Helado Nestlé Sabor Chocolate (4.5Lts)",
+      "categoria": "lacteos",
+      "precio": 22.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000447467_1789796447397.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:53:44.224Z",
+      "modified_at": "2026-09-19T05:53:44.224Z"
+    },
+    {
+      "id": "prod_1789796497793_x90hqizlz",
+      "nombre": "Helado Nestlé Sabor Naranja-Piña (4.5Lts)",
+      "categoria": "lacteos",
+      "precio": 22.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "1000447467-1_1789796497799.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:53:45.924Z",
+      "modified_at": "2026-09-19T05:53:45.924Z"
+    },
+    {
+      "id": "prod_1789796762832_zsxcrsrss",
+      "nombre": "Fresas en almíbar (425g)",
+      "categoria": "despensa",
+      "precio": 3.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "fresas-en-almbar-425g_1789796762839.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:53:53.481Z",
+      "modified_at": "2026-09-19T05:53:53.481Z"
+    },
+    {
+      "id": "prod_1789796818935_7pae6ps13",
+      "nombre": "Melocotón en almíbar (425g)",
+      "categoria": "despensa",
+      "precio": 3.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "melocotn-en-almbar-425g_1789796818941.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:53:55.427Z",
+      "modified_at": "2026-09-19T05:53:55.427Z"
+    },
+    {
+      "id": "prod_1789796887993_hn7ygmm52",
+      "nombre": "Refresco en polvo 2Lt Sabor Naranja",
+      "categoria": "bebidas",
+      "precio": 0.56,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "54469_1789796888000.webp"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:53:57.407Z",
+      "modified_at": "2026-09-19T05:53:57.407Z"
+    },
+    {
+      "id": "prod_1789796965319_rjpo70ytw",
+      "nombre": "Aceite de Oliva «Vima» (1Litro)",
+      "categoria": "despensa",
+      "precio": 11.67,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "aceite-de-oliva-vima-1litro_1789796965325.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:54:00.264Z",
+      "modified_at": "2026-09-19T05:54:00.264Z"
+    },
+    {
+      "id": "prod_1789797152225_avf6lit3q",
+      "nombre": "Paquete de pechuga 2kg sin piel y sin hueso",
+      "categoria": "cárnicos",
+      "precio": 18.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-pechuga-2kg-sin-piel-y-sin-hueso_1789797152231.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-19T05:54:02.837Z",
+      "modified_at": "2026-09-19T05:54:02.837Z"
     }
   ]
 }
