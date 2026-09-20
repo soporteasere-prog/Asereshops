@@ -146,12 +146,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "img_1785856635916.webp"
+        "54787_1789882091274.webp"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-19T05:53:38.830Z"
+      "modified_at": "2026-09-20T05:29:15.005Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -3345,9 +3345,9 @@
         "mortadela-siciliana-bravo-2kg_1784879876977.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T08:00:02.287Z",
-      "modified_at": "2026-07-24T08:00:02.287Z"
+      "modified_at": "2026-09-20T05:29:12.922Z"
     },
     {
       "id": "prod_1784879919208_5u85moelo",
