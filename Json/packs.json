@@ -27,7 +27,11 @@
         "5lbs de frijoles negros"
       ],
       "created_at": "2026-05-27T05:59:15.640Z",
-      "modified_at": "2026-08-29T05:47:19.716Z"
+      "modified_at": "2026-08-29T05:47:19.716Z",
+      "precioFinal": 109.97,
+      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/8895_1779861776162.webp",
+      "searchText": "pack nuestra casa pack ",
+      "searchNorm": "pack nuestra casa pack"
     },
     {
       "id": "7",
@@ -53,22 +57,23 @@
       "modified_at": "2026-08-23T22:37:09.373Z",
       "precioFinal": 15.79,
       "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/12398_1779861790189.webp",
-      "searchText": "pack «el salve» pack "
+      "searchText": "pack «el salve» pack ",
+      "searchNorm": "pack «el salve» pack"
     },
     {
       "id": "8",
       "nombre": "Pack Veloz",
       "categoria": "Pack",
       "precio": 21.99,
-      "descuento": 9.19,
+      "descuento": 0,
       "top": false,
       "nuevo": false,
       "oferta": false,
       "disponible": true,
       "imagenes": [
-        "pack-veloz_1787524035954.jpg"
+        "42962_1789882122996.webp"
       ],
-      "imagen": "pack-veloz_1787524035954.jpg",
+      "imagen": "42962_1789882122996.webp",
       "descripcion": "",
       "caracteristicas": [
         "x3lb carne de cerdo",
@@ -77,25 +82,22 @@
         "x10 plátanos"
       ],
       "created_at": "2026-07-24T08:00:11.079Z",
-      "modified_at": "2026-08-23T22:37:09.402Z",
-      "precioFinal": 21.99,
-      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/pack-veloz_1787524035954.jpg",
-      "searchText": "pack veloz pack "
+      "modified_at": "2026-09-20T05:29:17.321Z"
     },
     {
       "id": "9",
       "nombre": "Pack La Solución",
       "categoria": "Pack",
       "precio": 36.99,
-      "descuento": 18.98,
+      "descuento": 0,
       "top": false,
       "nuevo": false,
       "oferta": false,
       "disponible": true,
       "imagenes": [
-        "pack-la-solucin_1784879659936.jpg"
+        "42920-600x335_1789882147942.webp"
       ],
-      "imagen": "pack-la-solucin_1784879659936.jpg",
+      "imagen": "42920-600x335_1789882147942.webp",
       "descripcion": "",
       "caracteristicas": [
         "1 pqt de 10Lb de cuartos de pollo",
@@ -104,7 +106,7 @@
         "1 pasta tomate 400g"
       ],
       "created_at": "2026-07-24T08:00:11.081Z",
-      "modified_at": "2026-08-29T05:47:19.716Z"
+      "modified_at": "2026-09-20T05:29:17.797Z"
     }
   ]
 }
