@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-11T04:19:59.518Z"
+      "modified_at": "2026-09-22T19:06:38.449Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -157,8 +157,8 @@
       "id": "mlgzank2-psrcao1",
       "nombre": "Arroz (1Kg)",
       "categoria": "pastas-y-granos",
-      "precio": 1.87,
-      "descuento": 16.04,
+      "precio": 1.89,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -168,7 +168,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-07T10:45:13.935Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "mlgzank2-q8ffff1",
@@ -557,9 +557,9 @@
         "aceite-900ml_1787981655212.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-19T05:53:42.420Z"
+      "modified_at": "2026-09-22T19:06:38.449Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -650,7 +650,7 @@
       "id": "mlq5if2i-yv9djh1",
       "nombre": "Atún en Aceite Vegetal Premium (1kg)",
       "categoria": "enlatados",
-      "precio": 14.49,
+      "precio": 13.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -661,13 +661,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-17T18:37:01.275Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "mlq5jmsg-5sd57k1",
       "nombre": "Café Molido Natural Vima (250g)",
       "categoria": "café",
-      "precio": 6.29,
+      "precio": 5.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -678,7 +678,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-17T22:45:22.553Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -903,10 +903,10 @@
     },
     {
       "id": "mml2uism-1ue4vr5",
-      "nombre": "Lomo de cerdo deshuesado x Kg",
+      "nombre": "Lomo de cerdo deshuesado (1Kg)",
       "categoria": "cárnicos",
-      "precio": 9.87,
-      "descuento": 19.25,
+      "precio": 10.79,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -914,9 +914,9 @@
         "lomo_de_cerdo_deshuesado_x_kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-14T08:10:08.484Z"
+      "modified_at": "2026-09-22T19:06:43.176Z"
     },
     {
       "id": "mmm59z91-ngv7s6m",
@@ -968,23 +968,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-05-30T19:39:35.232Z"
-    },
-    {
-      "id": "mmq2bugb-i6nwxh1",
-      "nombre": "Azúcar (1Kg)",
-      "categoria": "despensa",
-      "precio": 2.05,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000083088_1779469459758.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-06-25T23:14:34.403Z"
     },
     {
       "id": "mmq2d45l-1yp3xfb",
@@ -1107,9 +1090,9 @@
     },
     {
       "id": "mn4ikino-19m47n4",
-      "nombre": "Cacao en Polvo 800g",
+      "nombre": "Cacao en Polvo Azucarado (800g)",
       "categoria": "despensa",
-      "precio": 10.87,
+      "precio": 9.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1120,7 +1103,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-04T15:25:38.704Z"
+      "modified_at": "2026-09-22T19:06:45.697Z"
     },
     {
       "id": "mn4imhrd-xpal1gu",
@@ -1271,9 +1254,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-06T14:54:36.522Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "mngfuky9-18lyhlo",
@@ -1296,7 +1279,7 @@
       "id": "mnq50bj3-1qtfbhl",
       "nombre": "Paca de arroz de 30u de 1kg(66Lb)",
       "categoria": "pastas-y-granos",
-      "precio": 44.97,
+      "precio": 45.5,
       "descuento": 0,
       "mas_vendido": true,
       "nuevo": false,
@@ -1307,7 +1290,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-23T21:21:45.559Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "moe41gnc-77m3901",
@@ -1815,9 +1798,9 @@
         "10813_1780384073567.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:08.987Z",
-      "modified_at": "2026-09-14T08:10:08.484Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "prod_1780384228413_57eqncwl0",
@@ -2175,23 +2158,6 @@
       "disponibilidad": true,
       "created_at": "2026-06-06T08:10:39.562Z",
       "modified_at": "2026-09-19T05:54:00.264Z"
-    },
-    {
-      "id": "prod_1780896285491_qmucga8h2",
-      "nombre": "Almohadillas Sanitarias 10u",
-      "categoria": "aseo",
-      "precio": 1.19,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "almohadillas_1780896285512.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-08T05:26:53.881Z",
-      "modified_at": "2026-07-15T03:30:38.984Z"
     },
     {
       "id": "prod_1780898576880_bipsglzoq",
@@ -2602,23 +2568,6 @@
       "modified_at": "2026-08-23T22:37:01.670Z"
     },
     {
-      "id": "prod_1784085248530_j1n1fqr7a",
-      "nombre": "Talco para Bebé (200g)",
-      "categoria": "otros",
-      "precio": 2.79,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "talco-para-beb-200g_1784085248546.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:31:16.301Z",
-      "modified_at": "2026-07-15T03:31:16.301Z"
-    },
-    {
       "id": "prod_1784085314957_b0f3v975k",
       "nombre": "Frutabomba x Lb",
       "categoria": "agro",
@@ -2636,25 +2585,8 @@
       "modified_at": "2026-08-23T22:36:52.870Z"
     },
     {
-      "id": "prod_1784085339216_ious2e4bs",
-      "nombre": "Galletas Marias Todeschini 360g",
-      "categoria": "confituras",
-      "precio": 2.19,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-marias-todeschini-360g_1784085339233.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:20.802Z",
-      "modified_at": "2026-08-11T05:38:47.425Z"
-    },
-    {
       "id": "prod_1784085366223_q8zaqgla0",
-      "nombre": "Galletas Todeschini Agua y Sal (360g)",
+      "nombre": "Galletas Todeschini ‘Cream Cracker’ (360g)",
       "categoria": "confituras",
       "precio": 2.19,
       "descuento": 0,
@@ -2665,9 +2597,9 @@
         "galletas-todeschini-agua-y-sal-360g_1784085366242.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-15T03:31:22.956Z",
-      "modified_at": "2026-07-22T19:37:10.171Z"
+      "modified_at": "2026-09-22T19:06:49.604Z"
     },
     {
       "id": "prod_1784085391218_9s5bo46gf",
@@ -2682,9 +2614,9 @@
         "galletas-paradise-de-chocolate-sin-relleno_1784085391234.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-15T03:31:25.153Z",
-      "modified_at": "2026-08-04T15:25:32.118Z"
+      "modified_at": "2026-09-22T19:06:43.176Z"
     },
     {
       "id": "prod_1784085416556_rb7096vzy",
@@ -2894,7 +2826,7 @@
       "id": "prod_1784311413668_mfyzztxfy",
       "nombre": "Pera en Almíbar 425g",
       "categoria": "despensa",
-      "precio": 2.29,
+      "precio": 3.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2903,9 +2835,9 @@
         "75029cf4-12dd-42e7-a076-85d7f703de10_1784311413681.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-17T18:36:01.891Z",
-      "modified_at": "2026-07-22T19:37:10.171Z"
+      "modified_at": "2026-09-22T19:06:43.176Z"
     },
     {
       "id": "prod_1784311496189_8mv83kfta",
@@ -3200,7 +3132,7 @@
       "id": "prod_1784879437241_s8f0bfwn6",
       "nombre": "Jamón Bravo Barra (2kg)",
       "categoria": "cárnicos",
-      "precio": 23.97,
+      "precio": 22.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3211,7 +3143,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-24T07:59:51.704Z",
-      "modified_at": "2026-07-24T07:59:51.704Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "prod_1784879816354_d3vxzolpy",
@@ -3311,9 +3243,9 @@
         "jamon-chopped-800g-marca-bravo_1785475908044.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-31T05:32:44.972Z",
-      "modified_at": "2026-09-14T08:10:08.484Z"
+      "modified_at": "2026-09-22T19:06:34.449Z"
     },
     {
       "id": "prod_1785856877811_06w11tpqh",
@@ -3858,6 +3790,57 @@
       "disponibilidad": true,
       "created_at": "2026-09-19T05:54:02.837Z",
       "modified_at": "2026-09-19T05:54:02.837Z"
+    },
+    {
+      "id": "prod_1790103548613_1lmi4jyfc",
+      "nombre": "Aceite (1Lt)",
+      "categoria": "despensa",
+      "precio": 6.77,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "aceite-1lt_1790103548621.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-22T19:06:40.147Z",
+      "modified_at": "2026-09-22T19:06:40.147Z"
+    },
+    {
+      "id": "prod_1790103594550_td21k940a",
+      "nombre": "Azúcar Blanca (1Kg)",
+      "categoria": "despensa",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "azcar-blanca-1kg_1790103594558.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-22T19:06:43.175Z",
+      "modified_at": "2026-09-22T19:06:43.175Z"
+    },
+    {
+      "id": "prod_1790103983773_7vkq8kb0b",
+      "nombre": "Rodajas de Piña en Almibar 567g",
+      "categoria": "despensa",
+      "precio": 4.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "rodajas-de-pia-en-almibar-567g_1790103983775.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-22T19:06:51.639Z",
+      "modified_at": "2026-09-22T19:06:51.639Z"
     }
   ]
 }
