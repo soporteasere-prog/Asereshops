@@ -336,9 +336,9 @@
         "pasta_de_bocadito.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-08T06:09:37.003Z"
+      "modified_at": "2026-09-24T03:26:29.736Z"
     },
     {
       "id": "mlgzank3-1qurynp",
@@ -438,9 +438,9 @@
         "coditos-500g_1785855537988.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-04T15:25:41.193Z"
+      "modified_at": "2026-09-24T03:26:29.736Z"
     },
     {
       "id": "mlgzank4-1minyju",
@@ -625,9 +625,9 @@
         "caja_de_malta_bucanero.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-14T08:10:08.484Z"
+      "modified_at": "2026-09-24T03:26:29.736Z"
     },
     {
       "id": "mlq7ldgn-16r63aq",
@@ -982,9 +982,9 @@
         "papa_x_lb.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-07-01T11:44:32.677Z"
+      "modified_at": "2026-09-24T03:26:26.454Z"
     },
     {
       "id": "mmq2g1kv-165qg82",
@@ -2381,23 +2381,6 @@
       "modified_at": "2026-09-06T14:54:34.394Z"
     },
     {
-      "id": "prod_1784084016255_xg67t5g5b",
-      "nombre": "Pack de 4 yogurts de Plátano Vima",
-      "categoria": "lacteos",
-      "precio": 3.19,
-      "descuento": 21.94,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack-de-4-yogurts-de-pltano-vima_1784084016268.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:30:36.633Z",
-      "modified_at": "2026-08-19T09:10:55.852Z"
-    },
-    {
       "id": "prod_1784084234692_k2d8onmg8",
       "nombre": "Aguacate x unidad",
       "categoria": "despensa",
@@ -3617,9 +3600,9 @@
         "filete-bistec-de-res-1kg_1788706293017.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-06T14:54:39.930Z",
-      "modified_at": "2026-09-06T14:54:39.930Z"
+      "modified_at": "2026-09-24T03:26:29.736Z"
     },
     {
       "id": "prod_1788706396895_eolylam99",
@@ -3685,9 +3668,9 @@
         "1000447467_1789796447397.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-19T05:53:44.224Z",
-      "modified_at": "2026-09-19T05:53:44.224Z"
+      "modified_at": "2026-09-24T03:26:29.736Z"
     },
     {
       "id": "prod_1789796497793_x90hqizlz",
@@ -3804,9 +3787,9 @@
         "aceite-1lt_1790103548621.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-22T19:06:40.147Z",
-      "modified_at": "2026-09-22T19:06:40.147Z"
+      "modified_at": "2026-09-24T03:26:26.454Z"
     },
     {
       "id": "prod_1790103594550_td21k940a",
