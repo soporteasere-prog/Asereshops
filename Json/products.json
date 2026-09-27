@@ -259,8 +259,8 @@
       "id": "mlgzank2-7lrzeme",
       "nombre": "Caja de Refresco de Naranja 24u",
       "categoria": "bebidas",
-      "precio": 16.39,
-      "descuento": 0,
+      "precio": 24.97,
+      "descuento": 34.36,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -270,7 +270,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:34.042Z"
+      "modified_at": "2026-09-27T18:50:13.676Z"
     },
     {
       "id": "mlgzank2-xjt0jl1",
@@ -548,7 +548,7 @@
       "id": "mli2ve9o-a60fi91",
       "nombre": "Aceite 900ml",
       "categoria": "despensa",
-      "precio": 6.29,
+      "precio": 5.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -557,9 +557,9 @@
         "aceite-900ml_1787981655212.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:38.449Z"
+      "modified_at": "2026-09-27T18:50:15.085Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -673,12 +673,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "caf_molido_natural.jpeg"
+        "caf-molido-natural-vima-250g_1790534606883.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:34.449Z"
+      "modified_at": "2026-09-27T18:50:11.302Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -854,8 +854,8 @@
       "id": "mmbwn2vx-m283nb1",
       "nombre": "Caja de Refresco de Limón 24u",
       "categoria": "bebidas",
-      "precio": 16.39,
-      "descuento": 0,
+      "precio": 24.97,
+      "descuento": 34.36,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -865,7 +865,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:34.043Z"
+      "modified_at": "2026-09-27T18:50:13.676Z"
     },
     {
       "id": "mmdrgbwy-op6gwh3",
@@ -1356,9 +1356,9 @@
         "pomo_de_garbanzos_540g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-07T10:45:13.936Z"
+      "modified_at": "2026-09-27T18:49:52.873Z"
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -1619,8 +1619,8 @@
       "id": "prod_1779861015786_uvh6vskdr",
       "nombre": "Caja de Refresco de Cola 24u",
       "categoria": "bebidas",
-      "precio": 16.39,
-      "descuento": 0,
+      "precio": 24.97,
+      "descuento": 34.36,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1630,7 +1630,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:50.119Z",
-      "modified_at": "2026-06-05T06:19:34.043Z"
+      "modified_at": "2026-09-27T18:50:13.676Z"
     },
     {
       "id": "prod_1779862313985_w6o8v8k55",
@@ -1662,9 +1662,9 @@
         "doricas-1_1780036769823.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-05-29T06:39:54.177Z",
-      "modified_at": "2026-07-15T03:30:34.220Z"
+      "modified_at": "2026-09-27T18:49:52.873Z"
     },
     {
       "id": "prod_1780382904945_vczjgmbth",
@@ -1832,9 +1832,9 @@
         "20522_1780384311431.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:12.049Z",
-      "modified_at": "2026-06-02T07:45:12.049Z"
+      "modified_at": "2026-09-27T18:49:52.874Z"
     },
     {
       "id": "prod_1780384383342_vckyovise",
@@ -2342,9 +2342,9 @@
         "pack-x-6-maltas-guajira-6x330ml_1782429201964.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-06-25T23:14:37.484Z",
-      "modified_at": "2026-09-03T14:23:33.812Z"
+      "modified_at": "2026-09-27T18:50:15.085Z"
     },
     {
       "id": "prod_1782429253140_tct29meio",
@@ -2852,9 +2852,9 @@
         "61050fd6-b1cf-4c8c-903e-2e7e02d29869_1784311640173.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:13.795Z",
-      "modified_at": "2026-07-17T18:36:13.795Z"
+      "modified_at": "2026-09-27T18:49:52.873Z"
     },
     {
       "id": "prod_1784311684025_ygvgs2mk5",
@@ -2869,9 +2869,9 @@
         "abee50d8-9f06-430e-ab91-f659aabbe766_1784311684039.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:15.707Z",
-      "modified_at": "2026-07-17T18:36:15.707Z"
+      "modified_at": "2026-09-27T18:49:52.873Z"
     },
     {
       "id": "prod_1784311726011_vwwfly0a8",
@@ -3345,9 +3345,9 @@
         "caja-de-nectar-de-mango-24u-250ml_1786426334008.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-11T05:38:56.046Z",
-      "modified_at": "2026-08-15T08:17:11.360Z"
+      "modified_at": "2026-09-27T18:49:52.873Z"
     },
     {
       "id": "prod_1786426562076_16h5ze77t",
@@ -3685,9 +3685,9 @@
         "1000447467-1_1789796497799.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-19T05:53:45.924Z",
-      "modified_at": "2026-09-19T05:53:45.924Z"
+      "modified_at": "2026-09-27T18:49:52.873Z"
     },
     {
       "id": "prod_1789796762832_zsxcrsrss",
@@ -3824,6 +3824,40 @@
       "disponibilidad": true,
       "created_at": "2026-09-22T19:06:51.639Z",
       "modified_at": "2026-09-22T19:06:51.639Z"
+    },
+    {
+      "id": "prod_1790534864360_hdfvmbhop",
+      "nombre": "Mortadela Criolla Marca Bravo 800g",
+      "categoria": "cárnicos",
+      "precio": 6.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mortadela-criolla-marca-bravo-800g_1790534864367.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-27T18:50:15.085Z",
+      "modified_at": "2026-09-27T18:50:15.085Z"
+    },
+    {
+      "id": "prod_1790534980070_k6rnxzllx",
+      "nombre": "Leche Entera 1Lt Vima",
+      "categoria": "lacteos",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "leche-entera-1lt-vima_1790534980077.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-09-27T18:50:16.853Z",
+      "modified_at": "2026-09-27T18:50:16.853Z"
     }
   ]
 }
