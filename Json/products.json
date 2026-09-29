@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:38.449Z"
+      "modified_at": "2026-09-29T01:42:00.184Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -2478,9 +2478,9 @@
         "donas-cubiertas-de-chocolate_1784084902583.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:30:57.199Z",
-      "modified_at": "2026-08-07T10:45:13.938Z"
+      "modified_at": "2026-09-29T01:42:00.184Z"
     },
     {
       "id": "prod_1784084967700_0flhj8uyc",
