@@ -1050,9 +1050,9 @@
         "paquete_de_filetes_de_panga.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-17T18:36:52.679Z"
+      "modified_at": "2026-10-04T16:07:44.241Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -1254,9 +1254,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:34.449Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "mngfuky9-18lyhlo",
@@ -1670,7 +1670,7 @@
       "id": "prod_1780382904945_vczjgmbth",
       "nombre": "Maíz Dulce 2840g Vima",
       "categoria": "despensa",
-      "precio": 7.99,
+      "precio": 6.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1681,7 +1681,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T06:50:27.969Z",
-      "modified_at": "2026-06-02T06:50:27.969Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "prod_1780382999453_mb13qez1m",
@@ -1976,7 +1976,7 @@
       "id": "prod_1780385348211_o7tzow1is",
       "nombre": "Garbanzos Vima 2.5Kg",
       "categoria": "despensa",
-      "precio": 8.49,
+      "precio": 6.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1987,7 +1987,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:31.376Z",
-      "modified_at": "2026-06-02T07:45:31.376Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "prod_1780385463719_k3o5lfkns",
@@ -2095,7 +2095,7 @@
       "id": "prod_1780386152780_y71yckl8l",
       "nombre": "Alubias Blancas 2.5Kg Vima",
       "categoria": "despensa",
-      "precio": 8.49,
+      "precio": 6.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2106,7 +2106,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-06-02T07:45:43.866Z",
-      "modified_at": "2026-06-02T07:45:43.866Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "prod_1780638802643_qxxqbggxv",
@@ -3362,9 +3362,9 @@
         "helado-nestl-sabor-vainilla-45lts_1786426562098.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-11T05:39:11.440Z",
-      "modified_at": "2026-09-19T05:53:42.420Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "prod_1787129893535_8fqeae0kl",
@@ -3464,9 +3464,9 @@
         "pomo-de-agua-mineral-5lt_1787982132262.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-29T05:47:04.447Z",
-      "modified_at": "2026-08-29T05:47:04.447Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "prod_1787982215344_p9o98ofzz",
@@ -3566,9 +3566,9 @@
         "papas-prefritas-1kg-maestro_1788445248286.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-03T14:23:38.127Z",
-      "modified_at": "2026-09-03T14:23:38.127Z"
+      "modified_at": "2026-10-04T16:07:44.240Z"
     },
     {
       "id": "prod_1788445304270_5jwdid1oq",
@@ -3668,9 +3668,9 @@
         "1000447467_1789796447397.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-09-19T05:53:44.224Z",
-      "modified_at": "2026-09-24T03:26:29.736Z"
+      "modified_at": "2026-10-04T16:07:44.241Z"
     },
     {
       "id": "prod_1789796497793_x90hqizlz",
@@ -3875,6 +3875,23 @@
       "disponibilidad": true,
       "created_at": "2026-09-28T00:59:12.281Z",
       "modified_at": "2026-09-28T00:59:12.281Z"
+    },
+    {
+      "id": "prod_1791130061501_6c5h0s0qm",
+      "nombre": "Carne de Res de 1ra (5 Lb)",
+      "categoria": "cárnicos",
+      "precio": 28,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "carne-de-res-de-1ra-5-lb_1791130061507.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-10-04T16:07:46.076Z",
+      "modified_at": "2026-10-04T16:07:46.076Z"
     }
   ]
 }
