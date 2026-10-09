@@ -463,8 +463,8 @@
       "id": "mlgzank4-1oad65v",
       "nombre": "Frijoles rojos x lb",
       "categoria": "pastas-y-granos",
-      "precio": 1.89,
-      "descuento": 0,
+      "precio": 2.79,
+      "descuento": 32.26,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -472,9 +472,9 @@
         "frijoles_colorados_x_lb.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-23T22:36:56.969Z"
+      "modified_at": "2026-10-09T07:25:37.127Z"
     },
     {
       "id": "mlgzank4-gbgcf0r",
@@ -1441,9 +1441,9 @@
         "galletas_saltitacos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-05-29T06:39:39.503Z"
+      "modified_at": "2026-10-09T07:25:37.127Z"
     },
     {
       "id": "prod_1777963852488_1rs856dd0",
@@ -1730,9 +1730,9 @@
         "tronchos-de-pescado-en-aceite-vegetal-425g_1784312010278.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:44:58.343Z",
-      "modified_at": "2026-08-15T08:17:11.353Z"
+      "modified_at": "2026-10-09T07:25:37.127Z"
     },
     {
       "id": "prod_1780383472429_4qoktkdkt",
@@ -3736,9 +3736,9 @@
         "54469_1789796888000.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-19T05:53:57.407Z",
-      "modified_at": "2026-09-19T05:53:57.407Z"
+      "modified_at": "2026-10-09T07:25:37.127Z"
     },
     {
       "id": "prod_1789796965319_rjpo70ytw",
@@ -3889,9 +3889,9 @@
         "carne-de-res-de-1ra-5-lb_1791130061507.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-10-04T16:07:46.076Z",
-      "modified_at": "2026-10-04T16:07:46.076Z"
+      "modified_at": "2026-10-09T07:25:37.127Z"
     }
   ]
 }
