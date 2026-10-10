@@ -2274,9 +2274,9 @@
         "fresas-en-almbar-3kg-vima_1781736198016.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-17T22:45:29.593Z",
-      "modified_at": "2026-09-14T08:10:08.484Z"
+      "modified_at": "2026-10-10T17:43:35.680Z"
     },
     {
       "id": "prod_1781736239303_r9qiq3dkx",
@@ -2597,9 +2597,9 @@
         "galletas-paradise-de-chocolate-sin-relleno_1784085391234.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:25.153Z",
-      "modified_at": "2026-09-22T19:06:43.176Z"
+      "modified_at": "2026-10-10T17:43:35.680Z"
     },
     {
       "id": "prod_1784085416556_rb7096vzy",
@@ -2631,9 +2631,9 @@
         "jugo-de-manzana-badelli-200ml_1784085505812.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:31.395Z",
-      "modified_at": "2026-07-15T03:31:31.395Z"
+      "modified_at": "2026-10-10T17:43:35.679Z"
     },
     {
       "id": "prod_1784085561490_6mqzztsi2",
@@ -2648,9 +2648,9 @@
         "detergente-yamy-900g_1784085561507.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:33.324Z",
-      "modified_at": "2026-08-11T05:38:56.047Z"
+      "modified_at": "2026-10-10T17:43:35.679Z"
     },
     {
       "id": "prod_1784085602472_g1h7te2sg",
@@ -3277,9 +3277,9 @@
         "caf-aroma-250g_1785857035580.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-04T15:26:06.741Z",
-      "modified_at": "2026-08-04T15:26:06.741Z"
+      "modified_at": "2026-10-10T17:43:35.680Z"
     },
     {
       "id": "prod_1786426225233_vbgrbamsd",
@@ -3651,9 +3651,9 @@
         "54475-600x448_1789796108175.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-19T05:53:36.483Z",
-      "modified_at": "2026-09-19T05:53:36.483Z"
+      "modified_at": "2026-10-10T17:43:35.680Z"
     },
     {
       "id": "prod_1789796447389_y46pnolu4",
@@ -3668,9 +3668,9 @@
         "1000447467_1789796447397.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-19T05:53:44.224Z",
-      "modified_at": "2026-10-04T16:07:44.241Z"
+      "modified_at": "2026-10-10T17:43:35.680Z"
     },
     {
       "id": "prod_1789796497793_x90hqizlz",
