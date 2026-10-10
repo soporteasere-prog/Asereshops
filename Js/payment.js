@@ -166,6 +166,9 @@ function updateOrderSummary() {
 
     const cart = getValidatedCart();
     let total = 0;
+    
+    // Obtener info de moneda actual
+    const currencyInfo = typeof getCurrentCurrencyInfo === 'function' ? getCurrentCurrencyInfo() : { iconClass: 'dollar' };
 
     orderSummary.innerHTML = cart.map(item => {
         // Determinar si es pack o producto
@@ -182,6 +185,10 @@ function updateOrderSummary() {
         total += itemTotal;
 
         const itemType = isPack ? '<span class="item-type-badge pack-badge">Pack</span>' : '';
+        
+        const formattedUnitPrice = typeof formatPrice === 'function' ? formatPrice(unitPrice.toFixed(2), currencyInfo) : `$${unitPrice.toFixed(2)}`;
+        const formattedOriginalPrice = typeof formatPrice === 'function' ? formatPrice(itemData.precio.toFixed(2), currencyInfo) : `$${itemData.precio.toFixed(2)}`;
+        const formattedItemTotal = typeof formatPrice === 'function' ? formatPrice(itemTotal.toFixed(2), currencyInfo) : `$${itemTotal.toFixed(2)}`;
 
         return `
             <tr class="${isPack ? 'order-item-pack' : 'order-item-product'}">
@@ -193,11 +200,11 @@ function updateOrderSummary() {
                 <td class="order-item-quantity">${item.quantity}</td>
                 <td class="order-item-price">
                     ${isOnSale ? `
-                        <span class="original-price">$${itemData.precio.toFixed(2)}</span>
-                        <span class="discounted-price">$${unitPrice.toFixed(2)}</span>
-                    ` : `$${unitPrice.toFixed(2)}`}
+                        <span class="original-price">${formattedOriginalPrice}</span>
+                        <span class="discounted-price">${formattedUnitPrice}</span>
+                    ` : formattedUnitPrice}
                 </td>
-                <td class="order-item-total">$${itemTotal.toFixed(2)}</td>
+                <td class="order-item-total">${formattedItemTotal}</td>
             </tr>
         `;
     }).join('');
@@ -212,7 +219,8 @@ function updateOrderSummary() {
         `;
     }
 
-    paymentTotal.textContent = `$${total.toFixed(2)}`;
+    const formattedTotal = typeof formatPrice === 'function' ? formatPrice(total.toFixed(2), currencyInfo) : `$${total.toFixed(2)}`;
+    paymentTotal.innerHTML = formattedTotal;
 }
 
 let isProcessingPayment = false; // bandera para evitar envíos múltiples

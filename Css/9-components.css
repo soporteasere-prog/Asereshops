@@ -779,33 +779,201 @@
 .whatsapp-float:hover .whatsapp-tooltip {
     opacity: 1;
 }
-/* ========== IMAGEN DE MONEDA - ZELLE ========== */
+/* ========== SÍMBOLO DE MONEDA (FontAwesome) ========== */
+/* Europa (SEPA/IBAN) → € (fa-euro-sign) | Resto → $ (fa-dollar-sign) */
 
-.currency-icon {
-    display: inline-block;
-    height: 1em;
-    width: auto;
-    vertical-align: -0.125em;
-    margin: 0 0.2rem;
-    object-fit: contain;
+.currency-symbol {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    margin-right: 0.15rem;
+    font-size: 1em;
+    line-height: 1;
+    vertical-align: baseline;
+}
+
+/* Euro para países SEPA/IBAN */
+.currency-symbol.euro::before {
+    content: "\f153"; /* fa-euro-sign */
+}
+
+/* Dólar/Zelle para resto del mundo */
+.currency-symbol.dollar::before {
+    content: "\f155"; /* fa-dollar-sign */
 }
 
 /* Variantes de tamaño para diferentes contextos */
 
 /* Para precios normales en productos */
-.currency-icon.price-sm {
-    height: 0.9em;
+.currency-symbol.price-sm {
+    font-size: 0.9em;
 }
 
 /* Para precios grandes en detalle */
-.currency-icon.price-lg {
-    height: 1.1em;
-    margin: 0 0.25rem;
+.currency-symbol.price-lg {
+    font-size: 1.1em;
+    margin-right: 0.25rem;
 }
 
 /* Para best-sellers */
-.currency-icon.price-xs {
-    height: 0.8em;
+.currency-symbol.price-xs {
+    font-size: 0.8em;
+}
+
+/* ========== SELECTOR DE MONEDA (HEADER) ========== */
+
+.currency-selector {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.currency-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 0.8rem;
+    background: var(--gris-claro);
+    border: 1px solid var(--gris-medio);
+    border-radius: var(--borde-radius);
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--negro);
+    transition: var(--transicion);
+    white-space: nowrap;
+}
+
+.currency-btn:hover {
+    background: var(--color-principal);
+    color: var(--blanco);
+    border-color: var(--color-principal);
+}
+
+.currency-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.3);
+}
+
+.currency-btn .currency-symbol {
+    font-size: 1em;
+}
+
+.currency-btn i.fa-chevron-down {
+    font-size: 0.7rem;
+    transition: transform 0.2s ease;
+}
+
+.currency-btn.active i.fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+.currency-dropdown {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    background: var(--blanco);
+    border: 1px solid var(--gris-claro);
+    border-radius: var(--borde-radius);
+    box-shadow: var(--sombra-hover);
+    min-width: 220px;
+    z-index: 100;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+    overflow: hidden;
+}
+
+.currency-dropdown.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.currency-option {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--negro);
+    text-align: left;
+    transition: var(--transicion);
+    white-space: nowrap;
+}
+
+.currency-option:hover {
+    background: var(--gris-claro);
+}
+
+.currency-option:focus {
+    outline: none;
+    background: var(--color-principal);
+    color: var(--blanco);
+}
+
+.currency-option .currency-symbol {
+    font-size: 1.1em;
+    flex-shrink: 0;
+}
+
+.currency-divider {
+    height: 1px;
+    background: var(--gris-claro);
+    margin: 0.4rem 0;
+}
+
+.currency-option.currency-auto {
+    color: var(--color-principal);
+    font-weight: 600;
+}
+
+.currency-option.currency-auto:hover {
+    background: rgba(212, 175, 55, 0.1);
+}
+
+.currency-option.currency-auto .currency-symbol {
+    font-size: 1.1em;
+}
+
+/* Responsive para móvil */
+@media (max-width: 768px) {
+    .currency-btn-label {
+        display: none;
+    }
+    
+    .currency-btn {
+        padding: 0.5rem 0.6rem;
+    }
+    
+    .currency-dropdown {
+        right: -50px;
+        min-width: 200px;
+    }
+    
+    .currency-option {
+        padding: 0.7rem 0.9rem;
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .currency-dropdown {
+        right: -80px;
+        min-width: 180px;
+    }
+    
+    .currency-option {
+        font-size: 0.8rem;
+        padding: 0.6rem 0.8rem;
+    }
 }
 
 /* ========== CATEGORY CARD COMPONENT ========== */

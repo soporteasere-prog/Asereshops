@@ -38,19 +38,15 @@
     }
 }
 
-/* Tablets (769px - 991px) */
+/* Tablets y Desktop (≥769px) */
 @media (min-width: 769px) {
-    .header {
-        display: block;
-    }
-    
     .header-top {
-        display: flex;
-        justify-content: flex-start;
+        display: grid;
+        grid-template-columns: auto minmax(150px, 1fr) auto auto auto;
+        grid-template-areas: "logo search location currency cart";
         align-items: center;
-        padding: 1rem 2rem;
-        position: relative;
-        gap: 0;
+        gap: 0.75rem;
+        padding: 0.75rem clamp(1rem, 2vw, 2rem);
     }
     
     .menu-toggle {
@@ -58,32 +54,25 @@
     }
     
     .logo {
-        margin-right: 1.5rem;
-        text-align: left;
-        flex-grow: 0;
+        grid-area: logo;
+        margin: 0;
     }
     
     .search-container {
-        flex: 1;
-        margin: 0 1rem;
-        padding: 0;
-        background: transparent;
-        order: 0;
-        max-width: 500px;
+        grid-area: search;
+        width: 100%;
+        max-width: 600px;
+        min-width: 0;
+        justify-self: center;
     }
 
     /* Panel de ubicación en desktop */
     .location-panel {
+        grid-area: location;
         display: flex;
         align-items: center;
-        justify-content: flex-end;
-        gap: 0.5rem;
-        padding: 0.3rem 1rem 0.3rem 1.2rem;
-        border: none;
-        border-left: 2px solid var(--blanco);
-        width: auto;
-        order: 0;
-        margin-left: auto;
+        gap: 0.4rem;
+        padding: 0.3rem 0.5rem;
     }
 
     .location-label {
@@ -98,9 +87,18 @@
         font-size: 1rem;
     }
     
+    .currency-selector {
+        grid-area: currency;
+    }
+    
+    .currency-btn {
+        padding: 0.4rem 0.75rem;
+        font-size: 0.8rem;
+    }
+    
     .cart-btn {
-        margin-left: 1rem;
-        flex-shrink: 0;
+        grid-area: cart;
+        margin-left: 0.5rem;
     }
     
     .categories-nav {
@@ -113,65 +111,99 @@
     }
 }
 
-/* Tablets Medianas (768px) */
+/* Móvil y Tablet Pequeña (≤768px) */
 @media (max-width: 768px) {
-    .header {
-        display: flex;
-        flex-direction: column;
-    }
-    
     .header-top {
-        order: 1;
-        padding: 1rem;
-        position: static;
-        flex-wrap: wrap;
-    }
-
-    .price-section {
-        display: flex;
-        flex-direction: row-reverse;
-        flex-wrap: wrap;
-        align-items: flex-start;
-        justify-content: space-between;
-    }
-
-    .location-panel {
-        margin-top: 0.5rem;
-        margin-bottom: -10px;
-        display: flex;
+        display: grid;
+        grid-template-columns: 42px minmax(0, 1fr) auto;
+        grid-template-areas:
+            "menu logo cart"
+            "search search search"
+            "location location currency";
         align-items: center;
-        justify-content: center;
         gap: 0.5rem;
-        padding: 0.5rem 0.5rem;
-        border: none;
-        border-top: 1px solid var(--gris-claro);
-        width: 100%;
-        height: 30px;
-        margin-left: 0;
-        order: 5;
+        padding: 0.75rem 1rem;
     }
 
-    .location-label {
-        font-size: 0.7rem;
-    }
-
-    .location-city {
-        font-size: 0.95rem;
-    }
-
-    .location-icon {
-        font-size: 1.2rem;
-    }
-    
     .menu-toggle {
         display: flex;
-        order: 1;
+        grid-area: menu;
     }
     
     .logo {
-        order: 2;
-        margin-bottom: 10px;
-        font-size: 1.6rem;
+        grid-area: logo;
+        text-align: center;
+        min-width: 0;
+        justify-self: center;
+    }
+    
+    .logo-img {
+        height: 44px;
+        max-width: 140px;
+        width: auto;
+        flex-shrink: 0;
+    }
+
+    .search-container {
+        grid-area: search;
+        width: 100%;
+        max-width: none;
+        padding: 0;
+    }
+
+    #search-input {
+        min-width: 0;
+    }
+
+    .location-panel {
+        grid-area: location;
+        width: auto;
+        justify-content: flex-start;
+        padding: 0.35rem 0;
+        height: auto;
+        margin: 0;
+        min-width: 0;
+    }
+
+    .location-label {
+        font-size: 0.65rem;
+    }
+
+    .location-city {
+        font-size: 0.85rem;
+    }
+
+    .location-icon {
+        font-size: 1.1rem;
+    }
+    
+    .currency-selector {
+        grid-area: currency;
+        justify-self: end;
+    }
+    
+    .currency-btn {
+        padding: 0.4rem 0.6rem;
+        font-size: 0.75rem;
+    }
+    
+    .currency-btn-label {
+        display: inline;
+    }
+    
+    .currency-dropdown {
+        right: -0.5rem;
+        min-width: 200px;
+    }
+    
+    .cart-btn {
+        grid-area: cart;
+        margin: 0;
+        justify-self: end;
+    }
+    
+    .categories-nav {
+        display: none;
     }
 
     .product-card {
@@ -181,15 +213,6 @@
         --title-font: 0.85rem;
         --price-font: 1rem;
         --btn-font: 0.8rem;
-    }
-    
-    .cart-btn {
-        order: 3;
-    }
-    
-    .search-container {
-        order: 4;
-        padding: 0 1rem;
     }
     
     .categories-nav {

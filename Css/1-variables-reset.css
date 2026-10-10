@@ -1,13 +1,19 @@
 /* ========== VARIABLES Y RESET GLOBAL ========== */
 
-/* Variables de color mejoradas - Paleta Pastel Minimalista Profesional */
+/* Variables de color - Paleta Verde Característica Asere Shops */
 :root {
-    /* Colores Primarios Pastel */
-    --color-principal: #FAFAFA;
-    --color-principal-pastel: #00796B;
-    --color-accent-primary: #B4D9FF;
+    /* VERDES PRINCIPALES - Paleta característica */
+    --verde-principal: #00796B;        /* Verde teal oscuro - Header, botones primarios */
+    --verde-claro: #00b39e;            /* Verde teal medio - Hover, acentos */
+    --verde-suave: #B8E6D5;            /* Verde menta suave - Fondos, badges */
+    --verde-muy-suave: #E0F2F1;        /* Verde muy claro - Fondos sutiles */
     
-    /* Tonos Neutros Suave */
+    /* Colores Primarios (aliases para compatibilidad) */
+    --color-principal: var(--verde-principal);
+    --color-principal-pastel: var(--verde-claro);
+    --color-accent-primary: var(--verde-suave);
+    
+    /* Tonos Neutros */
     --negro: #2C2C2C;
     --negro-claro: #4A4A4A;
     --gris-oscuro: #6B7280;
@@ -15,31 +21,31 @@
     --gris-claro: #F3F4F6;
     --blanco: #FFFFFF;
     
-    /* Acentos Pastel Profesionales */
-    --rojo-oferta: #FFB4A8;
-    --oferta: #ff0000;
-    --rojo-oscuro: #DA8E88;
-    --rojo-mas-vendido: #ff4040;
-    --verde-oscuro: #7CBC9F;
-    --azul-destacado: #A8C8E1;
-    --morado-pastel: #D4A8E8;
-    --melocoton-pastel: #00b39e;
-    --menta-pastel: #B8E6D5;
+    /* Acentos Funcionales */
+    --rojo-oferta: #E53935;
+    --oferta: #E53935;
+    --rojo-oscuro: #C62828;
+    --rojo-mas-vendido: #EF5350;
+    --azul-destacado: #1976D2;
+    --morado-pastel: #AB47BC;
+    
+    /* ALIASES PARA COMPATIBILIDAD - Reemplazan naranja/amarillo por verdes */
+    --melocoton-pastel: var(--verde-claro);
+    --menta-pastel: var(--verde-suave);
+    --boton-carrito: var(--verde-suave);
+    --boton-carrito-borde: var(--verde-claro);
+    --botonA: var(--verde-claro);
+    --searchA: var(--verde-principal);
 
-    --precio : #C00;
-    --boton-carrito : #FFD814;
-    --boton-carrito-borde : #FCD200;
-
-    --botonA : #FFCE12;
-    --searchA : #f3a847;
+    --precio: #C00;
 
     --delivery--color: #22c55e;
     --delivery-background-color: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
     
-    /* Efectos y Transiciones */
-    --sombra: 0 2px 10px rgba(0, 0, 0, 0.06);
-    --sombra-hover: 0 8px 20px rgba(0, 0, 0, 0.1);
-    --sombra-suave: 0 1px 4px rgba(0, 0, 0, 0.04);
+    /* Efectos y Transiciones - Usando verde para sombras */
+    --sombra: 0 2px 10px rgba(0, 121, 107, 0.08);
+    --sombra-hover: 0 8px 20px rgba(0, 121, 107, 0.12);
+    --sombra-suave: 0 1px 4px rgba(0, 121, 107, 0.05);
     --transicion: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     --transicion-lenta: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     --borde-radius: 12px;
@@ -59,7 +65,7 @@ html {
 }
 
 body {
-    background: linear-gradient(180deg, #FAFAFA 0%, #F3F4F6 100%);
+    background: linear-gradient(180deg, var(--verde-muy-suave) 0%, var(--gris-claro) 100%);
     color: var(--negro);
     line-height: 1.6;
     min-height: 100vh;

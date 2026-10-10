@@ -407,6 +407,7 @@ function renderRecentProductsSection(productsArray) {
     const finalPrice = isOnSale
       ? (displayProduct.precio * (1 - displayProduct.descuento / 100)).toFixed(2)
       : displayProduct.precio.toFixed(2);
+    const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
     
     card.innerHTML = `
       <div class="recent-product-image" 
@@ -419,7 +420,7 @@ function renderRecentProductsSection(productsArray) {
       </div>
       <div class="recent-product-info">
         <h4 class="recent-product-title">${displayProduct.nombre}</h4>
-        <p class="recent-product-price">${finalPrice}</p>
+        <p class="recent-product-price">${formattedPrice}</p>
       </div>
     `;
     

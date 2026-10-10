@@ -16,11 +16,11 @@
 
 .header-top {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
     padding: 1rem 1.5rem;
     position: relative;
-    order: 1;
     flex-wrap: wrap;
 }
 
@@ -28,7 +28,7 @@
 .menu-toggle {
     background: none;
     border: none;
-    color: var(--color-principal);
+    color: var(--blanco);
     font-size: 1.6rem;
     cursor: pointer;
     padding: 0.5rem;
@@ -38,32 +38,29 @@
     border-radius: 50%;
     width: 42px;
     height: 42px;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .menu-toggle:hover {
-    background-color: var(--gris-claro);
-    color: var(--color-principal-pastel);
+    background-color: rgba(255, 255, 255, 0.15);
+    color: var(--blanco);
 }
 
 /* Logo mejorado */
 .logo {
     cursor: pointer;
     transition: var(--transicion);
-    text-align: center;
-    flex-grow: 1;
-    margin: 0 1.5rem;
+    flex-shrink: 0;
     position: relative;
     display: inline-block;
 }
 
 /* Logo como imagen */
 .logo-img {
-    height: 50px;
+    height: 48px;
     width: auto;
-    max-width: 180px;
+    max-width: 160px;
     object-fit: contain;
     filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
     transition: var(--transicion-lenta);
@@ -74,31 +71,12 @@
     transform: scale(1.03);
 }
 
-.logo::after {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 0;
-    height: 2px;
-    background-color: var(--color-principal);
-    transition: var(--transicion);
-}
-
-.logo:hover {
-    color: var(--blanco);
-}
-
-.logo:hover::after {
-    width: 100%;
-}
-
 /* Carrito mejorado */
 .cart-btn {
     background-color: transparent;
     color: var(--blanco);
     border: none;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     cursor: pointer;
     position: relative;
     padding: 0.5rem;
@@ -110,10 +88,11 @@
     width: 42px;
     height: 42px;
     border-radius: 50%;
+    flex-shrink: 0;
 }
 
 .cart-btn:hover {
-    background-color: var(--color-principal-pastel);
+    background-color: rgba(255, 255, 255, 0.15);
     color: var(--blanco);
 }
 
@@ -137,11 +116,11 @@
 
 /* Barra de búsqueda mejorada */
 .search-container {
-    padding: 0 1.5rem 1.25rem;
     display: flex;
+    flex: 1;
+    min-width: 0;
+    max-width: 500px;
     justify-content: center;
-    order: 2;
-    width: 100%;
     position: relative; /* necesario para el dropdown de sugerencias */
 } 
 
@@ -330,16 +309,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 0.6rem;
-    padding: 0.65rem 1.5rem;
-    border-top: 1px solid var(--gris-claro);
-    border-bottom: 2px solid var(--color-principal-pastel);
-    order: 3;
-    width: 100%;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    flex-shrink: 0;
 }
 
 .location-icon {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: var(--blanco);
     flex-shrink: 0;
     animation: pulse-location 2s ease-in-out infinite;
@@ -354,8 +330,8 @@
 }
 
 .location-label {
-    font-size: 0.75rem;
-    color: var(--color-principal);
+    font-size: 0.7rem;
+    color: var(--verde-suave);
     font-weight: 500;
     margin: 0;
     letter-spacing: 0.5px;
@@ -363,11 +339,134 @@
 }
 
 .location-city {
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: var(--blanco);
     font-weight: 700;
     margin: 0;
     letter-spacing: 0.3px;
+}
+
+/* ========== SELECTOR DE MONEDA (HEADER) ========== */
+
+.currency-selector {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.currency-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 0.75rem;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: var(--borde-radius);
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--blanco);
+    transition: var(--transicion);
+    white-space: nowrap;
+}
+
+.currency-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+.currency-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 179, 158, 0.4);
+}
+
+.currency-btn .currency-symbol {
+    font-size: 1em;
+}
+
+.currency-btn i.fa-chevron-down {
+    font-size: 0.65rem;
+    transition: transform 0.2s ease;
+}
+
+.currency-btn.active i.fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+.currency-dropdown {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    left: auto;
+    background: var(--blanco);
+    border: 1px solid var(--gris-claro);
+    border-radius: var(--borde-radius);
+    box-shadow: var(--sombra-hover);
+    min-width: 220px;
+    max-width: calc(100vw - 1rem);
+    z-index: 2000;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+    overflow: hidden;
+}
+
+.currency-dropdown.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.currency-option {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: var(--negro);
+    text-align: left;
+    transition: var(--transicion);
+    white-space: nowrap;
+}
+
+.currency-option:hover {
+    background: var(--verde-muy-suave);
+}
+
+.currency-option:focus {
+    outline: none;
+    background: var(--verde-muy-suave);
+    color: var(--verde-principal);
+}
+
+.currency-option .currency-symbol {
+    font-size: 1.1em;
+    flex-shrink: 0;
+}
+
+.currency-divider {
+    height: 1px;
+    background: var(--gris-claro);
+    margin: 0.4rem 0;
+}
+
+.currency-option.currency-auto {
+    color: var(--verde-principal);
+    font-weight: 600;
+}
+
+.currency-option.currency-auto:hover {
+    background: var(--verde-muy-suave);
+}
+
+.currency-option.currency-auto .currency-symbol {
+    font-size: 1.1em;
 }
 
 @keyframes pulse-location {

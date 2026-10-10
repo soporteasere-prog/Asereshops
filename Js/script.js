@@ -133,14 +133,16 @@ function renderPurchaseHistory() {
       const unitPrice = Number(item.unitPrice || item.precio || 0);
       const discount = Number(item.discount || 0);
       const subtotal = (quantity * unitPrice).toFixed(2);
+      const formattedSubtotal = typeof formatPrice === 'function' ? formatPrice(subtotal) : `$${subtotal}`;
       const priceLabel = discount > 0 ? `${unitPrice.toFixed(2)} (desc. ${discount}%)` : unitPrice.toFixed(2);
+      const formattedPriceLabel = typeof formatPrice === 'function' ? formatPrice(priceLabel) : `$${priceLabel}`;
       return `
         <div class="purchase-history-item-row">
           <span>${itemName} x${quantity}</span>
-          <strong>$${subtotal}</strong>
+          <strong>${formattedSubtotal}</strong>
         </div>
         <div class="purchase-history-item-meta">
-          <span>Precio unitario: $${priceLabel}</span>
+          <span>Precio unitario: ${formattedPriceLabel}</span>
         </div>
       `;
     }).join('');
@@ -173,7 +175,7 @@ function renderPurchaseHistory() {
             </div>
             <div class="purchase-history-meta">
               <span>${entry.itemCount} artículo${entry.itemCount === 1 ? '' : 's'}</span>
-              <span>Total: $${entry.total}</span>
+              <span>Total: ${typeof formatPrice === 'function' ? formatPrice(entry.total) : '$' + entry.total}</span>
             </div>
             <div class="purchase-history-order-info">
               <div><strong>Entrega:</strong> ${entry.deliveryAddress || 'N/A'}</div>
@@ -501,6 +503,7 @@ async function handleRouteChange() {
     // Restaurar vista 'Todo' (sin modificar el historial)
     const categoryCardSection = document.getElementById("category-card-section");
     const categoriesCircleSection = document.querySelector(".categories-circle-section");
+    const bestSellersSection = document.querySelector(".best-sellers-section");
     const banner = document.querySelector(".carousel-container");
     const productsContainer = document.getElementById("products-container");
 
@@ -508,6 +511,11 @@ async function handleRouteChange() {
     if (categoryCardSection) {
         const availablePacks = packs.filter(pack => pack.disponible);
         categoryCardSection.style.display = availablePacks.length > 0 ? "block" : "none";
+    }
+    // Mostrar best-sellers si hay productos con mas_vendido
+    if (bestSellersSection) {
+        const hasBestSellers = products.some(p => p.mas_vendido === true && productIsAvailable(p));
+        bestSellersSection.style.display = hasBestSellers ? "block" : "none";
     }
     if (categoriesCircleSection) categoriesCircleSection.style.display = "block";
     if (banner) banner.style.display = "block";
@@ -517,6 +525,7 @@ async function handleRouteChange() {
     renderProducts();
     renderBestSellers();
     renderCategoriesCircle();
+    renderCategoryCard();  // Renderizar packs en home
 
     return;
   }
@@ -774,8 +783,28 @@ async function loadProducts(sourceUrl = "/Json/products.json") {
     renderProducts();
     renderBestSellers();
     renderCategoriesCircle();
+    renderCategoryCard();  // Renderizar packs en home
     updateCartCount();
     updateCart();
+
+    // Inicializar detección de moneda y actualizar UI cuando esté lista
+    if (typeof getUserCurrencyInfo === 'function') {
+      getUserCurrencyInfo().then(currencyInfo => {
+        // Actualizar solo símbolos de moneda (ligero, sin re-renderizar productos)
+        if (typeof updateCurrencyUIOnly === 'function') {
+          updateCurrencyUIOnly(currencyInfo);
+        }
+      }).catch(console.error);
+    }
+
+    // Escuchar cambios de moneda (para testing o cambio manual)
+    window.addEventListener('currencyChanged', (e) => {
+      const currencyInfo = e.detail;
+      // Actualizar solo símbolos de moneda (ligero, sin re-renderizar productos)
+      if (typeof updateCurrencyUIOnly === 'function') {
+        updateCurrencyUIOnly(currencyInfo);
+      }
+    });
 
     document
       .getElementById("close-sidebar")
@@ -1312,13 +1341,13 @@ function renderSearchSuggestions(suggestions) {
       const price = typeof p.precio === 'number' ? p.precio : 0;
       const isOnSale = p.oferta && p.descuento > 0 && typeof p.descuento === 'number';
       const finalPrice = isOnSale ? ((price * (1 - p.descuento / 100)).toFixed(2)) : price.toFixed(2);
-      metaHtml = `${finalPrice}`;
+      metaHtml = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
     } else if (sugg.type === 'pack') {
       const pack = sugg.data;
       imgSrc = pack.imagenes?.[0] ? `Images/Packs/${pack.imagenes[0]}` : `Images/pack-placeholder.svg`;
       displayName = pack.nombre || '';
       const price = (typeof pack.precio === 'number' && pack.precio !== 0) ? pack.precio : (typeof pack.precioFinal === 'number' ? pack.precioFinal : 0);
-      metaHtml = `${price.toFixed(2)}`;
+      metaHtml = typeof formatPrice === 'function' ? formatPrice(price) : price.toFixed(2);
       typeBadge = `<span class="suggestion-type">Pack</span>`;
     } else if (sugg.type === 'category') {
       const cat = sugg.data;
@@ -1557,6 +1586,7 @@ function renderProducts(productsToRender = products) {
       const finalPrice = isOnSale
         ? (displayProduct.precio * (1 - displayProduct.descuento / 100)).toFixed(2)
         : displayProduct.precio.toFixed(2);
+      const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
 
       // Miniaturas de variantes
       const variantThumbnails = product.isGrouped
@@ -1662,7 +1692,7 @@ function renderProducts(productsToRender = products) {
                       `
                           : ""
                       }
-                      <span class="current-price">${finalPrice}</span>
+                      <span class="current-price">${formattedPrice}</span>
                   </div>
                   
                   <div class="quantity-section" data-product-name="${displayProduct.nombre}">
@@ -1728,6 +1758,7 @@ function changeProductVariant(thumbElement, baseName, variantIndex, event) {
   const finalPrice = isOnSale
     ? (variant.precio * (1 - variant.descuento / 100)).toFixed(2)
     : variant.precio.toFixed(2);
+  const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
 
   // Actualizar la imagen principal
   productCard.querySelector(
@@ -1797,7 +1828,7 @@ function changeProductVariant(thumbElement, baseName, variantIndex, event) {
         `
             : ""
         }
-        <span class="current-price">${finalPrice}</span>
+        <span class="current-price">${formattedPrice}</span>
     `;
   priceContainer.innerHTML = priceHTML;
 
@@ -1860,6 +1891,7 @@ function renderBestSellers() {
           2
         )
       : displayProduct.precio.toFixed(2);
+    const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
 
     const card = document.createElement("div");
     card.className = "best-seller-card";
@@ -1892,12 +1924,12 @@ function renderBestSellers() {
                     ${
                       isOnSale
                         ? `
-                        <span class="best-seller-price-original">${displayProduct.precio.toFixed(2)}</span>
+                        <span class="best-seller-price-original">${typeof formatPrice === 'function' ? formatPrice(displayProduct.precio.toFixed(2)) : displayProduct.precio.toFixed(2)}</span>
                         <span class="best-seller-discount">-${Math.round(displayProduct.descuento)}%</span>
                     `
                         : ""
                     }
-                    <span class="best-seller-price-current">${finalPrice}</span>
+                    <span class="best-seller-price-current">${formattedPrice}</span>
                 </div>
             </div>
         `;
@@ -2075,6 +2107,9 @@ async function showProductDetail(arg) {
     ? (product.precio * (1 - product.descuento / 100)).toFixed(2)
     : product.precio.toFixed(2);
   const priceSave = isOnSale ? (product.precio - finalPrice).toFixed(2) : 0;
+  const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
+  const formattedOriginalPrice = typeof formatPrice === 'function' ? formatPrice(product.precio.toFixed(2)) : product.precio.toFixed(2);
+  const formattedPriceSave = typeof formatPrice === 'function' ? formatPrice(priceSave) : priceSave;
 
   // Obtener productos sugeridos mejorados
   const suggestedProducts = getSuggestedProducts(mainProduct || product, 6); // Mostrar 6 sugerencias
@@ -2157,6 +2192,8 @@ async function showProductDetail(arg) {
                           (1 - suggested.descuento / 100)
                         ).toFixed(2)
                       : suggested.precio.toFixed(2);
+                    const formattedPriceSuggested = typeof formatPrice === 'function' ? formatPrice(finalPriceSuggested) : finalPriceSuggested;
+                    const formattedOriginalPriceSuggested = typeof formatPrice === 'function' ? formatPrice(suggested.precio.toFixed(2)) : suggested.precio.toFixed(2);
 
                     return `
                         <div class="suggested-item">
@@ -2196,13 +2233,11 @@ async function showProductDetail(arg) {
                                     ${
                                       isOnSaleSuggested
                                         ? `
-                                        <span class="original-price">${suggested.precio.toFixed(
-                                          2
-                                        )}</span>
-                                        <span class="current-price">${finalPriceSuggested}</span>
+                                        <span class="original-price">${formattedOriginalPriceSuggested}</span>
+                                        <span class="current-price">${formattedPriceSuggested}</span>
                                     `
                                         : `
-                                        <span class="current-price">${finalPriceSuggested}</span>
+                                        <span class="current-price">${formattedPriceSuggested}</span>
                                     `
                                     }
                                 </div>
@@ -2248,15 +2283,13 @@ async function showProductDetail(arg) {
                         ? `
                         <div class="price-with-discount">
                         PVPR:
-                            <span class="price-original">${product.precio.toFixed(
-                              2
-                            )} </span>
+                            <span class="price-original">${formattedOriginalPrice}</span>
                         </div>
-                        <span class="price-current">Precio: ${finalPrice}</span>
-                        <div class="price-save">Ahorras ${priceSave} </div>
+                        <span class="price-current">Precio: ${formattedPrice}</span>
+                        <div class="price-save">Ahorras ${formattedPriceSave}</div>
                     `
                         : `
-                        <span class="price-current">Precio: ${finalPrice}</span>
+                        <span class="price-current">Precio: ${formattedPrice}</span>
                     `
                     }
                 </div>
@@ -2657,6 +2690,7 @@ function addToCart(productName, fromDetail = false, event) {
 function updateCart() {
   const cartItems = document.getElementById("cart-items");
   const totalElement = document.getElementById("total");
+  const currencySymbolElement = document.getElementById("cart-currency-symbol");
   const emptyPanel = document.getElementById("empty-cart-panel");
   const cartSidebar = document.getElementById("cart");
 
@@ -2697,8 +2731,10 @@ function updateCart() {
         : `Images/products/${itemData.imagenes[0]}`;
       
       const badgeType = isPack ? 'pack' : 'product';
-      const priceLine = itemAvailable ? `<p>$${unitPrice.toFixed(2)} c/u</p>` : '';
-      const totalLine = itemAvailable ? `<p>Total: $${itemTotal.toFixed(2)}</p>` : '';
+      const formattedUnitPrice = typeof formatPrice === 'function' ? formatPrice(unitPrice.toFixed(2)) : unitPrice.toFixed(2);
+      const formattedItemTotal = typeof formatPrice === 'function' ? formatPrice(itemTotal.toFixed(2)) : itemTotal.toFixed(2);
+      const priceLine = itemAvailable ? `<p>${formattedUnitPrice} c/u</p>` : '';
+      const totalLine = itemAvailable ? `<p>Total: ${formattedItemTotal}</p>` : '';
       const controlsHtml = itemAvailable
         ? `<div class="cart-item-controls">
                         <button class="cart-quantity-btn decrease-btn" onclick="updateCartQuantity(${index}, -1, event)">-</button>
@@ -2734,6 +2770,11 @@ function updateCart() {
       cartItems.appendChild(itemEl);
     });
 
+    // Actualizar símbolo de moneda y total
+    if (currencySymbolElement && typeof formatCurrencySymbol === 'function') {
+      currencySymbolElement.innerHTML = formatCurrencySymbol();
+      currencySymbolElement.className = `currency-symbol ${getCurrentCurrencyInfo().iconClass}`;
+    }
     totalElement.textContent = total.toFixed(2);
   }
 
@@ -3401,6 +3442,7 @@ function renderPacksDetail() {
     const finalPrice = pack.descuento > 0 
       ? (pack.precio * (1 - pack.descuento / 100)).toFixed(2)
       : pack.precio.toFixed(2);
+    const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
     const discountText = pack.descuento > 0 
       ? `<div class="pack-discount">Ahorras un ${pack.descuento}%</div>`
       : '';
@@ -3428,7 +3470,7 @@ function renderPacksDetail() {
         
         <div class="pack-price-section">
           <div class="pack-price">
-            <span class="pack-price-symbol">$</span>${finalPrice}
+            ${formattedPrice}
           </div>
           ${discountText}
         </div>
@@ -3493,6 +3535,9 @@ function showPackDetail(packName, event) {
     ? (pack.precio * (1 - pack.descuento / 100)).toFixed(2)
     : pack.precio.toFixed(2);
   const priceSave = isOnSale ? (pack.precio - finalPrice).toFixed(2) : 0;
+  const formattedPrice = typeof formatPrice === 'function' ? formatPrice(finalPrice) : finalPrice;
+  const formattedOriginalPrice = typeof formatPrice === 'function' ? formatPrice(pack.precio.toFixed(2)) : pack.precio.toFixed(2);
+  const formattedPriceSave = typeof formatPrice === 'function' ? formatPrice(priceSave) : priceSave;
   
   // Construir badges
   const badges = [];
@@ -3533,12 +3578,12 @@ function showPackDetail(packName, event) {
           ${isOnSale ? `
             <div class="price-with-discount">
               PVPR:
-              <span class="price-original">${pack.precio.toFixed(2)}</span>
+              <span class="price-original">${formattedOriginalPrice}</span>
             </div>
-            <span class="price-current">Precio: ${finalPrice}</span>
-            <div class="price-save">Ahorras ${priceSave}</div>
+            <span class="price-current">Precio: ${formattedPrice}</span>
+            <div class="price-save">Ahorras ${formattedPriceSave}</div>
           ` : `
-            <span class="price-current">Precio: ${finalPrice}</span>
+            <span class="price-current">Precio: ${formattedPrice}</span>
           `}
         </div>
         
@@ -3736,8 +3781,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   if (pathMatch && pathMatch[1]) {
     // showProductDetail gestionará la búsqueda por id o nombre
     await showProductDetail(pathMatch[1]);
-  } else if (window.location.hash) {
-    // si no hay pathname product, procesar hash como antes
+  } else {
+    // Procesar también la ruta raíz sin hash para restaurar la vista "Todo".
     await handleRouteChange();
   }
 

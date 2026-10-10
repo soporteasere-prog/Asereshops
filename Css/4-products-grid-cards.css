@@ -274,7 +274,7 @@
 /* Botón agregar al carrito */
 .add-to-cart {
   background: var(--color-principal);
-  color: var(--negro);
+  color: var(--blanco);
   border: none;
   border-radius: 50px;
   padding: 0.9rem;
@@ -357,7 +357,7 @@
 .quantity-display {
   font-weight: 700;
   font-size: 1rem;
-  color: var(--negro);
+  color: var(--blanco);
   min-width: 40px;
   text-align: center;
   user-select: none;
@@ -587,7 +587,7 @@
 
 .category-count {
   background: var(--color-principal);
-  color: var(--negro);
+  color: var(--blanco);
   padding: 0.35rem 0.8rem;
   border-radius: 50px;
   font-weight: 700;

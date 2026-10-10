@@ -292,9 +292,8 @@
   margin-top: auto;
 }
 
-.currency-icon.price-xs {
-  width: 12px;
-  height: 12px;
+.currency-symbol.price-xs {
+  font-size: 0.8em;
 }
 
 /* ========== BADGES DINÁMICOS - SÚPER SUTILES E INTEGRADOS ========== */

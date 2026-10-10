@@ -101,7 +101,7 @@
         <header class="header">
             <div class="header-top">
                 <!-- Menú hamburguesa solo en móvil -->
-                <button class="menu-toggle" id="menu-toggle">
+                <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú">
                     <i class="fas fa-bars"></i>
                 </button>
 
@@ -127,8 +127,29 @@
                     </div>
                 </div>
 
-                <!-- Carrito -->
-                <button class="cart-btn" onclick="toggleCart()">
+                <!-- Selector de Moneda (al lado del carrito) -->
+                <div class="currency-selector" id="currency-selector">
+                    <button class="currency-btn" onclick="toggleCurrencySelector()" aria-label="Cambiar moneda" type="button">
+                        <span id="currency-btn-icon" class="currency-symbol"></span>
+                        <span id="currency-btn-label">EUR</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="currency-dropdown" id="currency-dropdown">
+                        <button class="currency-option" data-currency="EUR" onclick="selectCurrency('EUR')" type="button">
+                            <span class="currency-symbol euro"></span> Euro (€) - Europa/SEPA
+                        </button>
+                        <button class="currency-option" data-currency="USD" onclick="selectCurrency('USD')" type="button">
+                            <span class="currency-symbol dollar"></span> Zelle ($) - Resto del mundo
+                        </button>
+                        <div class="currency-divider"></div>
+                        <button class="currency-option currency-auto" onclick="resetCurrencyAuto()" type="button">
+                            <i class="fas fa-sync-alt"></i> Detección automática
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Carrito (siempre último a la derecha) -->
+                <button class="cart-btn" onclick="toggleCart()" aria-label="Carrito">
                     <i class="fas fa-shopping-cart"></i>
                     <span id="cart-count">0</span>
                 </button>
@@ -262,7 +283,7 @@
                         comprando</button>
                 </div>
                 <div class="cart-total">
-                    <p>Total: $<span id="total">0.00</span></p>
+                    <p>Total: <span id="cart-currency-symbol" class="currency-symbol"></span><span id="total">0.00</span></p>
                     <div class="cart-actions-row">
                         <button class="checkout-btn">Finalizar Compra</button>
                         <button class="history-toggle-btn" type="button" onclick="toggleCartHistory()">Ver Historial</button>
@@ -348,7 +369,7 @@
                     <div class="form-row">
                         <div class="form-group">
                             <label for="phone"><i class="fas fa-mobile-alt"></i>
-                                Tu Número de Teléfono (Para confirmar tu pedido)</label>
+                                Tu Número de Whatsapp (Para confirmar tu pedido)</label>
                             <input type="tel" id="phone" name="phone" placeholder="Ej: +1 234 567 8901" required>
                         </div>
                         <div class="form-group">
@@ -535,6 +556,7 @@
 
         <script src="Js/notifications.js"></script>
         <script src="Js/afiliados.js"></script>
+        <script src="Js/currency-icon.js"></script>
         <script src="Js/script.js"></script>
         <script src="Js/dynamic-system.js"></script>
         <script src="Js/payment-autofill.js"></script>
