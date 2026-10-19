@@ -571,12 +571,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "leche_evaporada.jpg"
+        "leche-evaporada-neska-354ml_1792384082528.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-23T22:36:59.017Z"
+      "modified_at": "2026-10-19T04:28:59.883Z"
     },
     {
       "id": "mliq4l5b-tfq39wu",
@@ -894,12 +894,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "queso_gouda_vima_3kg.jpg"
+        "queso-gouda-vima-premium-3kg_1792384042536.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-10-16T16:05:05.908Z"
+      "modified_at": "2026-10-19T04:28:57.710Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -1075,18 +1075,18 @@
       "id": "mmxptnd5-7a8q8vx",
       "nombre": "Papas Prefritas 1Kg",
       "categoria": "despensa",
-      "precio": 4.89,
-      "descuento": 0,
+      "precio": 5.89,
+      "descuento": 16.98,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "e467a646-96f0-48db-a170-b324b20000cf_1784311814866.jfif"
+        "papas-prefritas-1kg_1792383835846.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-15T08:17:05.790Z"
+      "modified_at": "2026-10-19T04:28:50.061Z"
     },
     {
       "id": "mn4ikino-19m47n4",
@@ -2945,7 +2945,7 @@
       "id": "prod_1784312079492_9a8xpa79d",
       "nombre": "Paquete de Harina «Vima» (1kg)",
       "categoria": "despensa",
-      "precio": 3.99,
+      "precio": 3.39,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2956,7 +2956,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:40.201Z",
-      "modified_at": "2026-08-04T15:25:45.208Z"
+      "modified_at": "2026-10-19T04:28:47.943Z"
     },
     {
       "id": "prod_1784312125410_5z1u3agjz",
@@ -3758,23 +3758,6 @@
       "modified_at": "2026-09-19T05:54:00.264Z"
     },
     {
-      "id": "prod_1789797152225_avf6lit3q",
-      "nombre": "Paquete de pechuga 2kg sin piel y sin hueso",
-      "categoria": "cárnicos",
-      "precio": 18.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "paquete-de-pechuga-2kg-sin-piel-y-sin-hueso_1789797152231.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-09-19T05:54:02.837Z",
-      "modified_at": "2026-09-19T05:54:02.837Z"
-    },
-    {
       "id": "prod_1790103548613_1lmi4jyfc",
       "nombre": "Aceite (1Lt)",
       "categoria": "despensa",
@@ -3909,6 +3892,57 @@
       "disponibilidad": true,
       "created_at": "2026-10-16T16:05:21.334Z",
       "modified_at": "2026-10-16T16:05:21.334Z"
+    },
+    {
+      "id": "prod_1792383858468_5ow72rfws",
+      "nombre": "Yogurt Probiotico 500ml sabor naranja piña",
+      "categoria": "bebidas",
+      "precio": 3.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "yogurt-probiotico-500ml-sabor-naranja-pia_1792383858477.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-10-19T04:28:52.929Z",
+      "modified_at": "2026-10-19T04:28:52.929Z"
+    },
+    {
+      "id": "prod_1792383952105_d8n2cnr24",
+      "nombre": "Cafe Sublime 250g",
+      "categoria": "café",
+      "precio": 7.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "cafe-sublime-250g_1792383952110.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-10-19T04:28:54.520Z",
+      "modified_at": "2026-10-19T04:28:54.520Z"
+    },
+    {
+      "id": "prod_1792383985919_d8ihmhnra",
+      "nombre": "Leche en Polvo 1Kg",
+      "categoria": "lacteos",
+      "precio": 9.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "leche-en-polvo-1kg_1792383985927.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-10-19T04:28:56.062Z",
+      "modified_at": "2026-10-19T04:28:56.062Z"
     }
   ]
 }
