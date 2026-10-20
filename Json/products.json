@@ -803,8 +803,8 @@
       "id": "mlq7aq58-1jmj44p",
       "nombre": "Pasta de tomate Vima (400g)",
       "categoria": "despensa",
-      "precio": 1.49,
-      "descuento": 13.42,
+      "precio": 2.29,
+      "descuento": 34.93,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -814,7 +814,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-07-17T18:36:54.845Z"
+      "modified_at": "2026-10-20T20:24:14.628Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -2843,8 +2843,8 @@
       "id": "prod_1784311640158_yg8t9y9vz",
       "nombre": "Pasta Tomate Vima 3Kg",
       "categoria": "despensa",
-      "precio": 11.27,
-      "descuento": 0,
+      "precio": 11.97,
+      "descuento": 5.85,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2852,9 +2852,9 @@
         "61050fd6-b1cf-4c8c-903e-2e7e02d29869_1784311640173.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-17T18:36:13.795Z",
-      "modified_at": "2026-09-27T18:49:52.873Z"
+      "modified_at": "2026-10-20T20:24:14.629Z"
     },
     {
       "id": "prod_1784311684025_ygvgs2mk5",
@@ -3124,9 +3124,9 @@
         "6ad940e1-7622-4f67-a040-3709b95b86f7_1784879437275.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:51.704Z",
-      "modified_at": "2026-09-22T19:06:34.449Z"
+      "modified_at": "2026-10-20T20:24:14.629Z"
     },
     {
       "id": "prod_1784879816354_d3vxzolpy",
