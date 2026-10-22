@@ -596,23 +596,6 @@
       "modified_at": "2026-08-19T09:11:01.485Z"
     },
     {
-      "id": "mliq66lf-8t6dfj1",
-      "nombre": "Pack de Comino y Sazón",
-      "categoria": "despensa",
-      "precio": 0.87,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pack_de_comino_y_sazn.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mll8va5a-rodndwa",
       "nombre": "Caja de Malta Bucanero",
       "categoria": "bebidas",
@@ -3008,23 +2991,6 @@
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:47.695Z",
       "modified_at": "2026-07-17T18:36:47.695Z"
-    },
-    {
-      "id": "prod_1784312436436_botvuh03l",
-      "nombre": "Frijol Pinto 500g La Merced",
-      "categoria": "pastas-y-granos",
-      "precio": 3.89,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "b1f4cc04-20ba-473f-9e89-0540a68e7eee_1784312436452.jfif"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-17T18:36:50.000Z",
-      "modified_at": "2026-07-17T18:36:50.000Z"
     },
     {
       "id": "prod_1784312481388_emfpzeoo8",
