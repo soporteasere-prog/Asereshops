@@ -3192,9 +3192,9 @@
         "jamon-chopped-800g-marca-bravo_1785475908044.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-31T05:32:44.972Z",
-      "modified_at": "2026-10-17T15:33:21.614Z"
+      "modified_at": "2026-10-24T09:27:41.062Z"
     },
     {
       "id": "prod_1785856877811_06w11tpqh",
@@ -3770,9 +3770,9 @@
         "mortadela-criolla-marca-bravo-800g_1790534864367.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-09-27T18:50:15.085Z",
-      "modified_at": "2026-10-16T16:04:57.272Z"
+      "modified_at": "2026-10-24T09:27:41.062Z"
     },
     {
       "id": "prod_1790534980070_k6rnxzllx",
