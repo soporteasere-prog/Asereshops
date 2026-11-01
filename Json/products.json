@@ -132,9 +132,9 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-29T01:42:00.184Z"
+      "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
       "id": "mlgzank2-abqwioi",
@@ -540,9 +540,9 @@
         "paquete-de-cuartos-de-pollo-10-lbs_1788445407664.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-19T05:53:51.640Z"
+      "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -557,9 +557,9 @@
         "aceite-900ml_1787981655212.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-27T18:50:15.085Z"
+      "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -919,23 +919,6 @@
       "modified_at": null
     },
     {
-      "id": "mmnnilty-luzn711",
-      "nombre": "Hamburguesa de pollo (4u)",
-      "categoria": "cárnicos",
-      "precio": 1.09,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "hamburguesa_de_pollo_4u.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-06-28T08:57:52.955Z"
-    },
-    {
       "id": "mmq2wkzx-c7qedfj",
       "nombre": "Café Sello Rojo",
       "categoria": "café",
@@ -1189,23 +1172,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-06-06T20:44:25.432Z"
-    },
-    {
-      "id": "mna633yq-1akkie7",
-      "nombre": "Refresco Instantáneo Piña colada 20lts",
-      "categoria": "bebidas",
-      "precio": 6.79,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "refresco_instantneo_pia_colada_20lts.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-08-01T20:48:23.635Z"
     },
     {
       "id": "mna64u78-aliv17k",
@@ -2223,9 +2189,9 @@
         "atn-en-aceite-vegetal-140g_1781736115656.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-17T22:45:25.573Z",
-      "modified_at": "2026-06-17T22:45:25.573Z"
+      "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
       "id": "prod_1781736148253_7fbquy0yf",
@@ -3056,9 +3022,9 @@
         "picadillo-mixto-400g_1784879020146.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T07:59:41.954Z",
-      "modified_at": "2026-08-04T15:25:48.815Z"
+      "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
       "id": "prod_1784879404434_ii84p32k8",
@@ -3396,9 +3362,9 @@
         "42849-600x901_1787524599148.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-23T22:37:07.341Z",
-      "modified_at": "2026-08-23T22:37:07.341Z"
+      "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
       "id": "prod_1787982081167_844dymu9w",
@@ -3926,6 +3892,91 @@
       "disponibilidad": true,
       "created_at": "2026-10-27T21:22:09.314Z",
       "modified_at": "2026-10-27T21:22:09.314Z"
+    },
+    {
+      "id": "prod_1793500036328_y6dbjnai5",
+      "nombre": "Pack de 5 Hamburguesas de pollo",
+      "categoria": "cárnicos",
+      "precio": 1.83,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-de-5-hamburguesas-de-pollo_1793500036331.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-01T02:32:18.740Z",
+      "modified_at": "2026-11-01T02:32:18.740Z"
+    },
+    {
+      "id": "prod_1793500078794_l15w9il21",
+      "nombre": "Galletas Lamore (150g)",
+      "categoria": "confituras",
+      "precio": 1.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-lamore-150g_1793500078797.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-01T02:32:20.748Z",
+      "modified_at": "2026-11-01T02:32:20.748Z"
+    },
+    {
+      "id": "prod_1793500114183_ynvcntizi",
+      "nombre": "Pack x 12 Néctar de Pera 🍐 (12x330ml)",
+      "categoria": "bebidas",
+      "precio": 13.5,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-x-12-nctar-de-pera-12x330ml_1793500114189.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-01T02:32:22.659Z",
+      "modified_at": "2026-11-01T02:32:22.659Z"
+    },
+    {
+      "id": "prod_1793500137230_ath5xdr93",
+      "nombre": "Pack x 12 Néctar de Manzana 🍎 (12x330ml)",
+      "categoria": "bebidas",
+      "precio": 13.5,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pack-x-12-nctar-de-manzana-12x330ml_1793500137238.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-01T02:32:24.336Z",
+      "modified_at": "2026-11-01T02:32:24.336Z"
+    },
+    {
+      "id": "prod_1793500185657_7um0f4ccg",
+      "nombre": "Refresco en polvo Piñata sabor Piña",
+      "categoria": "bebidas",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "refresco-en-polvo-piata-sabor-pia_1793500185665.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-01T02:32:27.647Z",
+      "modified_at": "2026-11-01T02:32:27.647Z"
     }
   ]
 }
