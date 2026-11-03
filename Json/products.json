@@ -137,23 +137,6 @@
       "modified_at": "2026-11-01T02:32:11.888Z"
     },
     {
-      "id": "mlgzank2-abqwioi",
-      "nombre": "Espaguetis (500g)",
-      "categoria": "pastas-y-granos",
-      "precio": 1.69,
-      "descuento": 18.93,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "espaguetis-500g_1792165970219.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-10-16T16:04:54.545Z"
-    },
-    {
       "id": "mlgzank2-psrcao1",
       "nombre": "Arroz (1Kg)",
       "categoria": "pastas-y-granos",
@@ -443,23 +426,6 @@
       "modified_at": "2026-10-16T16:05:10.655Z"
     },
     {
-      "id": "mlgzank4-1minyju",
-      "nombre": "Hígado de pollo (1Kg)",
-      "categoria": "cárnicos",
-      "precio": 4.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "hgado-de-pollo-1kg_1789796554169.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-09-19T07:11:39.669Z"
-    },
-    {
       "id": "mlgzank4-1oad65v",
       "nombre": "Frijoles rojos x lb",
       "categoria": "pastas-y-granos",
@@ -557,9 +523,9 @@
         "aceite-900ml_1787981655212.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-01T02:32:11.888Z"
+      "modified_at": "2026-11-03T04:00:36.397Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -608,9 +574,9 @@
         "caja_de_malta_bucanero.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-10-16T16:05:02.672Z"
+      "modified_at": "2026-11-03T04:00:56.847Z"
     },
     {
       "id": "mlq7ldgn-16r63aq",
@@ -1395,23 +1361,6 @@
       "modified_at": "2026-10-09T07:25:37.127Z"
     },
     {
-      "id": "prod_1777963852488_1rs856dd0",
-      "nombre": "Mortadela de Pollo 1kg",
-      "categoria": "cárnicos",
-      "precio": 5.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mortadela-de-pollo-1kg_1782906265786.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-05-05T06:54:27.884Z",
-      "modified_at": "2026-08-11T05:38:47.426Z"
-    },
-    {
       "id": "prod_1777963926079_utzbwgzvz",
       "nombre": "Paquete de Salchicha 10u",
       "categoria": "cárnicos",
@@ -1648,23 +1597,6 @@
       "disponibilidad": true,
       "created_at": "2026-06-02T06:50:29.264Z",
       "modified_at": "2026-08-19T09:11:41.492Z"
-    },
-    {
-      "id": "prod_1780383292523_450mmhapf",
-      "nombre": "Frijoles Negros (1Kg)",
-      "categoria": "despensa",
-      "precio": 2.68,
-      "descuento": 25.75,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "img_1783777548677.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:44:56.671Z",
-      "modified_at": "2026-09-30T16:09:07.507Z"
     },
     {
       "id": "prod_1780383383242_ntyipx145",
@@ -3792,23 +3724,6 @@
       "modified_at": "2026-10-09T07:25:37.127Z"
     },
     {
-      "id": "prod_1792166531365_en31rwdc0",
-      "nombre": "Pollo Entero 1500g",
-      "categoria": "cárnicos",
-      "precio": 7.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pollo-entero-1500g_1792166531370.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-10-16T16:05:18.369Z",
-      "modified_at": "2026-10-16T16:05:18.369Z"
-    },
-    {
       "id": "prod_1792166664001_0iscow4fw",
       "nombre": "Aderezo de Mayonesa 790g",
       "categoria": "aderezos",
@@ -3977,6 +3892,57 @@
       "disponibilidad": true,
       "created_at": "2026-11-01T02:32:27.647Z",
       "modified_at": "2026-11-01T02:32:27.647Z"
+    },
+    {
+      "id": "prod_1793677848553_iulsocrdq",
+      "nombre": "Azúcar Blanca (1Kg)",
+      "categoria": "despensa",
+      "precio": 3.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "azcar-blanca-1kg_1793677848559.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-03T04:00:39.968Z",
+      "modified_at": "2026-11-03T04:00:39.968Z"
+    },
+    {
+      "id": "prod_1793677965202_5ib7fyjwr",
+      "nombre": "Codito 500g",
+      "categoria": "despensa",
+      "precio": 0.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "codito-500g_1793677965204.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-03T04:00:42.156Z",
+      "modified_at": "2026-11-03T04:00:42.156Z"
+    },
+    {
+      "id": "prod_1793678032794_z39d8j1p9",
+      "nombre": "Tanques de Yogurt Natural Probiotico 4Lt",
+      "categoria": "lacteos",
+      "precio": 19.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "tanques-de-yogurt-natural-probiotico-4lt_1793678032798.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-03T04:00:44.217Z",
+      "modified_at": "2026-11-03T04:00:44.217Z"
     }
   ]
 }
