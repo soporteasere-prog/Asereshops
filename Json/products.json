@@ -132,15 +132,15 @@
         "cartn_de_huevos.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-01T02:32:11.888Z"
+      "modified_at": "2026-11-08T07:01:27.859Z"
     },
     {
       "id": "mlgzank2-psrcao1",
       "nombre": "Arroz (1Kg)",
       "categoria": "pastas-y-granos",
-      "precio": 1.89,
+      "precio": 2.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -151,7 +151,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:34.449Z"
+      "modified_at": "2026-11-08T07:00:45.249Z"
     },
     {
       "id": "mlgzank2-q8ffff1",
@@ -266,23 +266,6 @@
       "oferta": false,
       "imagenes": [
         "Malta_Bucanero.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
-      "id": "mlgzank2-153zx0s",
-      "nombre": "Vinagre de vino tinto (500ml)",
-      "categoria": "despensa",
-      "precio": 2.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "vinagre_1litro.jpeg"
       ],
       "descripcion": "",
       "disponibilidad": false,
@@ -506,9 +489,9 @@
         "paquete-de-cuartos-de-pollo-10-lbs_1788445407664.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-01T02:32:11.888Z"
+      "modified_at": "2026-11-08T07:01:27.859Z"
     },
     {
       "id": "mli2ve9o-a60fi91",
@@ -548,7 +531,7 @@
       "id": "mliq4l5b-tfq39wu",
       "nombre": "Coffee mate",
       "categoria": "café",
-      "precio": 7.19,
+      "precio": 6.83,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -559,7 +542,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-08-19T09:11:01.485Z"
+      "modified_at": "2026-11-08T07:00:37.168Z"
     },
     {
       "id": "mll8va5a-rodndwa",
@@ -579,23 +562,6 @@
       "modified_at": "2026-11-03T04:00:56.847Z"
     },
     {
-      "id": "mlq7ldgn-16r63aq",
-      "nombre": "Vinagre Vima 1L",
-      "categoria": "despensa",
-      "precio": 3.47,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "vinagre_vima.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mlq5if2i-yv9djh1",
       "nombre": "Atún en Aceite Vegetal Premium (1kg)",
       "categoria": "enlatados",
@@ -611,23 +577,6 @@
       "disponibilidad": true,
       "created_at": null,
       "modified_at": "2026-10-16T16:04:57.272Z"
-    },
-    {
-      "id": "mlq5jmsg-5sd57k1",
-      "nombre": "Café Molido Natural Vima (250g)",
-      "categoria": "café",
-      "precio": 5.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "caf-molido-natural-vima-250g_1790534606883.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-09-27T18:50:11.302Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -730,23 +679,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-10-16T16:04:49.754Z"
-    },
-    {
-      "id": "mlq721wl-1plcgdw",
-      "nombre": "Mostaza Vima",
-      "categoria": "aderezos",
-      "precio": 2.27,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mostaza_vima.jpeg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-10-16T16:05:02.672Z"
     },
     {
       "id": "mlq7aq58-1jmj44p",
@@ -982,9 +914,9 @@
         "paquete_de_filetes_de_panga.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-10-04T16:07:44.241Z"
+      "modified_at": "2026-11-08T07:00:58.114Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -1024,7 +956,7 @@
       "id": "mn4ikino-19m47n4",
       "nombre": "Cacao en Polvo Azucarado (800g)",
       "categoria": "despensa",
-      "precio": 9.97,
+      "precio": 8.74,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -1035,7 +967,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:45.697Z"
+      "modified_at": "2026-11-08T07:00:37.168Z"
     },
     {
       "id": "mn4imhrd-xpal1gu",
@@ -1169,43 +1101,26 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-10-07T18:33:25.954Z"
-    },
-    {
-      "id": "mngfuky9-18lyhlo",
-      "nombre": "Galletas Saltinas 207g",
-      "categoria": "confituras",
-      "precio": 3.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas_saltinas_207g.webp"
-      ],
-      "descripcion": "",
       "disponibilidad": false,
       "created_at": null,
-      "modified_at": null
+      "modified_at": "2026-11-08T07:01:25.877Z"
     },
     {
       "id": "mnq50bj3-1qtfbhl",
       "nombre": "Paca de arroz de 30u de 1kg(66Lb)",
       "categoria": "pastas-y-granos",
-      "precio": 45.5,
-      "descuento": 0,
+      "precio": 54.97,
+      "descuento": 17.23,
       "mas_vendido": true,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paca-de-arroz-de-30u-de-1kg66lb_1782249568651.jpg"
+        "paca-de-arroz-de-30u-de-1kg66lb_1794119763836.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:34.449Z"
+      "modified_at": "2026-11-08T07:00:40.828Z"
     },
     {
       "id": "moe41gnc-77m3901",
@@ -1271,9 +1186,9 @@
         "pomo_de_garbanzos_540g.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-27T18:49:52.873Z"
+      "modified_at": "2026-11-08T07:01:29.564Z"
     },
     {
       "id": "moi932d9-3elkd8k",
@@ -1344,23 +1259,6 @@
       "modified_at": "2026-10-27T21:22:06.735Z"
     },
     {
-      "id": "mon0i35f-oxbfit6",
-      "nombre": "Galletas Saltitacos",
-      "categoria": "confituras",
-      "precio": 5,
-      "descuento": 20.6,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": true,
-      "imagenes": [
-        "galletas_saltitacos.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": null,
-      "modified_at": "2026-10-09T07:25:37.127Z"
-    },
-    {
       "id": "prod_1777963926079_utzbwgzvz",
       "nombre": "Paquete de Salchicha 10u",
       "categoria": "cárnicos",
@@ -1393,23 +1291,6 @@
       "disponibilidad": false,
       "created_at": "2026-05-15T12:25:55.566Z",
       "modified_at": "2026-06-08T05:26:47.717Z"
-    },
-    {
-      "id": "prod_1778853047855_69d9llazb",
-      "nombre": "Galletas Hello",
-      "categoria": "confituras",
-      "precio": 0.5,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "8797-300x300_1778853047869.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-15T14:04:06.870Z",
-      "modified_at": "2026-06-08T05:26:47.716Z"
     },
     {
       "id": "prod_1779282841071_vmhdhcagl",
@@ -1543,26 +1424,9 @@
         "1000291878_1779862313999.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-05-27T06:31:16.201Z",
-      "modified_at": "2026-10-16T16:04:49.755Z"
-    },
-    {
-      "id": "prod_1780036769803_qwbur3m87",
-      "nombre": "Galletas de Soda con Mantequilla Doricas",
-      "categoria": "confituras",
-      "precio": 3.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "doricas-1_1780036769823.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-05-29T06:39:54.177Z",
-      "modified_at": "2026-09-27T18:49:52.873Z"
+      "modified_at": "2026-11-08T07:01:29.564Z"
     },
     {
       "id": "prod_1780382904945_vczjgmbth",
@@ -1803,23 +1667,6 @@
       "modified_at": "2026-08-23T22:37:02.974Z"
     },
     {
-      "id": "prod_1780385018623_2vgxw5dl4",
-      "nombre": "Banderillas Picantes 314ml",
-      "categoria": "aderezos",
-      "precio": 3.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20381_1780385018639.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:24.348Z",
-      "modified_at": "2026-07-15T03:30:41.461Z"
-    },
-    {
       "id": "prod_1780385071281_tipkn7115",
       "nombre": "Alcaparras en Vinagre 3140ml",
       "categoria": "aderezos",
@@ -1903,40 +1750,6 @@
       "disponibilidad": false,
       "created_at": "2026-06-02T07:45:35.418Z",
       "modified_at": "2026-07-17T18:36:52.680Z"
-    },
-    {
-      "id": "prod_1780385819341_7trd7j57s",
-      "nombre": "Minimagdalenas Vima con Chispas de Chocolate 200g",
-      "categoria": "confituras",
-      "precio": 3.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20401_1780385819350.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:38.042Z",
-      "modified_at": "2026-06-23T21:21:47.069Z"
-    },
-    {
-      "id": "prod_1780385956276_3eird4cdl",
-      "nombre": "Minimagdalenas Vima Mármol 200g",
-      "categoria": "confituras",
-      "precio": 3.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "20375_1780385956292.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-06-02T07:45:39.769Z",
-      "modified_at": "2026-06-23T21:21:47.076Z"
     },
     {
       "id": "prod_1780386014122_aynjr5nms",
@@ -2461,43 +2274,9 @@
         "galletas-todeschini-agua-y-sal-360g_1784085366242.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-15T03:31:22.956Z",
-      "modified_at": "2026-10-16T16:04:49.755Z"
-    },
-    {
-      "id": "prod_1784085391218_9s5bo46gf",
-      "nombre": "Galletas Paradise de Chocolate sin Relleno",
-      "categoria": "confituras",
-      "precio": 0.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-paradise-de-chocolate-sin-relleno_1784085391234.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:25.153Z",
-      "modified_at": "2026-10-10T17:43:35.680Z"
-    },
-    {
-      "id": "prod_1784085416556_rb7096vzy",
-      "nombre": "Galletas Oppo de Chocolate",
-      "categoria": "confituras",
-      "precio": 0.39,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-oppo-de-chocolate_1784085416573.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:27.266Z",
-      "modified_at": "2026-08-04T15:25:32.117Z"
+      "modified_at": "2026-11-08T07:01:29.564Z"
     },
     {
       "id": "prod_1784085505794_sqp0ta85x",
@@ -2529,9 +2308,9 @@
         "detergente-yamy-900g_1784085561507.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-15T03:31:33.324Z",
-      "modified_at": "2026-10-10T17:43:35.679Z"
+      "modified_at": "2026-11-08T07:01:27.859Z"
     },
     {
       "id": "prod_1784085602472_g1h7te2sg",
@@ -2549,23 +2328,6 @@
       "disponibilidad": false,
       "created_at": "2026-07-15T03:31:35.199Z",
       "modified_at": "2026-09-19T05:53:34.742Z"
-    },
-    {
-      "id": "prod_1784085748394_kgvax0vp6",
-      "nombre": "Galletas Paradise Fun rellena de Vainilla",
-      "categoria": "confituras",
-      "precio": 0.45,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-paradise-fun-rellena-de-vainilla_1784085748411.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:39.397Z",
-      "modified_at": "2026-09-06T14:54:34.396Z"
     },
     {
       "id": "prod_1784085877455_7jew3h2ho",
@@ -2600,57 +2362,6 @@
       "disponibilidad": false,
       "created_at": "2026-07-15T03:31:48.363Z",
       "modified_at": "2026-08-04T15:25:32.120Z"
-    },
-    {
-      "id": "prod_1784085970352_ewo3rwqs8",
-      "nombre": "Galletas Paradise Fun rellena de Fresa",
-      "categoria": "confituras",
-      "precio": 0.45,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-paradise-fun-rellena-de-fresa_1784085970368.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:50.598Z",
-      "modified_at": "2026-09-06T14:54:34.396Z"
-    },
-    {
-      "id": "prod_1784085996175_ccye2acd2",
-      "nombre": "Galletas Paradise Fun rellena de Chocolate",
-      "categoria": "confituras",
-      "precio": 0.45,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-paradise-fun-rellena-de-chocolate_1784085996192.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-07-15T03:31:52.469Z",
-      "modified_at": "2026-09-06T14:54:34.397Z"
-    },
-    {
-      "id": "prod_1784086022673_448dg85jx",
-      "nombre": "Agua 500ml 1u",
-      "categoria": "bebidas",
-      "precio": 0.75,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "agua-500ml-1u_1784086022683.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:31:54.298Z",
-      "modified_at": "2026-07-15T03:31:54.298Z"
     },
     {
       "id": "prod_1784086072969_29jsrsqk7",
@@ -2733,26 +2444,9 @@
         "61050fd6-b1cf-4c8c-903e-2e7e02d29869_1784311640173.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:13.795Z",
-      "modified_at": "2026-10-20T20:24:14.629Z"
-    },
-    {
-      "id": "prod_1784311684025_ygvgs2mk5",
-      "nombre": "Macedonia de Verduras 535g Vima",
-      "categoria": "despensa",
-      "precio": 3.99,
-      "descuento": 5.51,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "abee50d8-9f06-430e-ab91-f659aabbe766_1784311684039.jfif"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-17T18:36:15.707Z",
-      "modified_at": "2026-10-16T16:05:08.036Z"
+      "modified_at": "2026-11-08T07:00:51.000Z"
     },
     {
       "id": "prod_1784311726011_vwwfly0a8",
@@ -2826,7 +2520,7 @@
       "id": "prod_1784312079492_9a8xpa79d",
       "nombre": "Paquete de Harina «Vima» (1kg)",
       "categoria": "despensa",
-      "precio": 3.39,
+      "precio": 3.02,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -2837,7 +2531,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-07-17T18:36:40.201Z",
-      "modified_at": "2026-10-19T04:28:47.943Z"
+      "modified_at": "2026-11-08T07:00:45.249Z"
     },
     {
       "id": "prod_1784312125410_5z1u3agjz",
@@ -2869,9 +2563,9 @@
         "lentejas-extra-vima-540g_1784312320058.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-17T18:36:45.192Z",
-      "modified_at": "2026-09-11T04:19:54.401Z"
+      "modified_at": "2026-11-08T07:00:37.168Z"
     },
     {
       "id": "prod_1784312391703_ikq9zuhtt",
@@ -2954,9 +2648,9 @@
         "picadillo-mixto-400g_1784879020146.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-24T07:59:41.954Z",
-      "modified_at": "2026-11-01T02:32:11.888Z"
+      "modified_at": "2026-11-08T07:01:27.859Z"
     },
     {
       "id": "prod_1784879404434_ii84p32k8",
@@ -3010,23 +2704,6 @@
       "modified_at": "2026-09-28T00:59:12.282Z"
     },
     {
-      "id": "prod_1784879848198_mpnf25i2m",
-      "nombre": "Salchichón al Ajo Bravo 2Kg",
-      "categoria": "cárnicos",
-      "precio": 19.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "salchichn-al-ajo-bravo-2kg_1784879848219.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-24T08:00:00.470Z",
-      "modified_at": "2026-09-19T05:53:51.640Z"
-    },
-    {
       "id": "prod_1784879876962_3f7iszxnz",
       "nombre": "Mortadela Siciliana Bravo 2Kg",
       "categoria": "cárnicos",
@@ -3039,9 +2716,9 @@
         "mortadela-siciliana-bravo-2kg_1784879876977.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-07-24T08:00:02.287Z",
-      "modified_at": "2026-09-20T05:29:12.922Z"
+      "modified_at": "2026-11-08T07:00:37.167Z"
     },
     {
       "id": "prod_1784879919208_5u85moelo",
@@ -3115,8 +2792,8 @@
       "id": "prod_1785856957255_wgx179rkp",
       "nombre": "Paquete de Carne de Res Troceada 1Kg",
       "categoria": "cárnicos",
-      "precio": 9.87,
-      "descuento": 14.18,
+      "precio": 9.37,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -3124,9 +2801,9 @@
         "paquete-de-carne-de-res-troceada-1kg_1785856957275.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-08-04T15:26:00.918Z",
-      "modified_at": "2026-09-07T15:33:20.711Z"
+      "modified_at": "2026-11-08T07:01:27.859Z"
     },
     {
       "id": "prod_1785857035570_9svxgdf5a",
@@ -3656,23 +3333,6 @@
       "modified_at": "2026-09-22T19:06:51.639Z"
     },
     {
-      "id": "prod_1790534864360_hdfvmbhop",
-      "nombre": "Mortadela Criolla Marca Bravo 800g",
-      "categoria": "cárnicos",
-      "precio": 6.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "mortadela-criolla-marca-bravo-800g_1790534864367.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-09-27T18:50:15.085Z",
-      "modified_at": "2026-10-24T09:27:41.062Z"
-    },
-    {
       "id": "prod_1790534980070_k6rnxzllx",
       "nombre": "Leche Entera 1Lt Vima",
       "categoria": "lacteos",
@@ -3688,23 +3348,6 @@
       "disponibilidad": true,
       "created_at": "2026-09-27T18:50:16.853Z",
       "modified_at": "2026-09-27T18:50:16.853Z"
-    },
-    {
-      "id": "prod_1790556995159_fj2vuedsm",
-      "nombre": "Saco Arroz Americano 25Kg",
-      "categoria": "despensa",
-      "precio": 44.99,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1044048_1790556995162.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-09-28T00:59:12.281Z",
-      "modified_at": "2026-09-28T00:59:12.281Z"
     },
     {
       "id": "prod_1791130061501_6c5h0s0qm",
@@ -3889,9 +3532,9 @@
         "refresco-en-polvo-piata-sabor-pia_1793500185665.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-01T02:32:27.647Z",
-      "modified_at": "2026-11-01T02:32:27.647Z"
+      "modified_at": "2026-11-08T07:00:37.168Z"
     },
     {
       "id": "prod_1793677848553_iulsocrdq",
@@ -3911,38 +3554,123 @@
       "modified_at": "2026-11-03T04:00:39.968Z"
     },
     {
-      "id": "prod_1793677965202_5ib7fyjwr",
-      "nombre": "Codito 500g",
+      "id": "prod_1794120880881_z62kh8hso",
+      "nombre": "Espaguetis (500g)",
       "categoria": "despensa",
-      "precio": 0.99,
+      "precio": 1.69,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "codito-500g_1793677965204.jpg"
+        "espaguetis-500g_1794120880889.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
-      "created_at": "2026-11-03T04:00:42.156Z",
-      "modified_at": "2026-11-03T04:00:42.156Z"
+      "created_at": "2026-11-08T07:01:27.858Z",
+      "modified_at": "2026-11-08T07:01:27.858Z"
     },
     {
-      "id": "prod_1793678032794_z39d8j1p9",
-      "nombre": "Tanques de Yogurt Natural Probiotico 4Lt",
-      "categoria": "lacteos",
-      "precio": 19.99,
+      "id": "prod_1794120982927_36qvs1b4n",
+      "nombre": "Galletas «Dulce» Chocolate (60g)",
+      "categoria": "confituras",
+      "precio": 0.59,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "tanques-de-yogurt-natural-probiotico-4lt_1793678032798.jpg"
+        "galletas-dulce-chocolate-60g_1794120982933.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
-      "created_at": "2026-11-03T04:00:44.217Z",
-      "modified_at": "2026-11-03T04:00:44.217Z"
+      "created_at": "2026-11-08T07:01:29.564Z",
+      "modified_at": "2026-11-08T07:01:29.564Z"
+    },
+    {
+      "id": "prod_1794121058785_5nserraly",
+      "nombre": "Mayonesa Vima 300ml",
+      "categoria": "despensa",
+      "precio": 2.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mayonesa-vima-300ml_1794121058792.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-08T07:01:30.852Z",
+      "modified_at": "2026-11-08T07:01:30.852Z"
+    },
+    {
+      "id": "prod_1794121106838_3n5ejyew8",
+      "nombre": "Galletas Saltinas Original (234g)",
+      "categoria": "confituras",
+      "precio": 2.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "galletas-saltinas-original-234g_1794121106840.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-08T07:01:32.185Z",
+      "modified_at": "2026-11-08T07:01:32.185Z"
+    },
+    {
+      "id": "prod_1794121153656_6fixjalbt",
+      "nombre": "Pasta de Tomate Don Isidro 400g",
+      "categoria": "despensa",
+      "precio": 1.77,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pasta-de-tomate-don-isidro-400g_1794121153661.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-08T07:01:36.724Z",
+      "modified_at": "2026-11-08T07:01:36.724Z"
+    },
+    {
+      "id": "prod_1794121200017_lcn6vc9tk",
+      "nombre": "Mantequilla de Maní 454g",
+      "categoria": "despensa",
+      "precio": 9.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "mantequilla-de-man-454g_1794121200022.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-08T07:01:38.098Z",
+      "modified_at": "2026-11-08T07:01:38.098Z"
+    },
+    {
+      "id": "prod_1794121232744_u856rfir7",
+      "nombre": "Salsa Barbacoa Americano 370g",
+      "categoria": "aderezos",
+      "precio": 3.83,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "salsa-barbacoa-americano-370g_1794121232753.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-08T07:01:39.763Z",
+      "modified_at": "2026-11-08T07:01:39.763Z"
     }
   ]
 }
