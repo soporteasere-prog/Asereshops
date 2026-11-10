@@ -718,18 +718,18 @@
       "id": "mm46rkpk-1nsu79h",
       "nombre": "Fideos 500g",
       "categoria": "despensa",
-      "precio": 0.97,
-      "descuento": 0,
+      "precio": 1.79,
+      "descuento": 45.81,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "20624_1780639642240.webp"
+        "fideos-500g_1794294888393.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-06-20T06:41:49.215Z"
+      "modified_at": "2026-11-10T07:14:59.412Z"
     },
     {
       "id": "mmbwn2vx-m283nb1",
@@ -1415,8 +1415,8 @@
       "id": "prod_1779862313985_w6o8v8k55",
       "nombre": "Mostaza (300ml)",
       "categoria": "aderezos",
-      "precio": 1.69,
-      "descuento": 0,
+      "precio": 2.4,
+      "descuento": 29.58,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1426,7 +1426,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T06:31:16.201Z",
-      "modified_at": "2026-11-08T07:01:29.564Z"
+      "modified_at": "2026-11-10T07:14:52.595Z"
     },
     {
       "id": "prod_1780382904945_vczjgmbth",
@@ -3469,23 +3469,6 @@
       "modified_at": "2026-11-01T02:32:18.740Z"
     },
     {
-      "id": "prod_1793500078794_l15w9il21",
-      "nombre": "Galletas Lamore (150g)",
-      "categoria": "confituras",
-      "precio": 1.29,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "galletas-lamore-150g_1793500078797.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-11-01T02:32:20.748Z",
-      "modified_at": "2026-11-01T02:32:20.748Z"
-    },
-    {
       "id": "prod_1793500114183_ynvcntizi",
       "nombre": "Pack x 12 Néctar de Pera 🍐 (12x330ml)",
       "categoria": "bebidas",
@@ -3600,9 +3583,9 @@
         "mayonesa-vima-300ml_1794121058792.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-08T07:01:30.852Z",
-      "modified_at": "2026-11-08T07:01:30.852Z"
+      "modified_at": "2026-11-10T07:14:52.595Z"
     },
     {
       "id": "prod_1794121106838_3n5ejyew8",
@@ -3617,9 +3600,9 @@
         "galletas-saltinas-original-234g_1794121106840.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-08T07:01:32.185Z",
-      "modified_at": "2026-11-08T07:01:32.185Z"
+      "modified_at": "2026-11-10T07:14:52.595Z"
     },
     {
       "id": "prod_1794121153656_6fixjalbt",
@@ -3671,6 +3654,40 @@
       "disponibilidad": true,
       "created_at": "2026-11-08T07:01:39.763Z",
       "modified_at": "2026-11-08T07:01:39.763Z"
+    },
+    {
+      "id": "prod_1794294825849_66be9y9q6",
+      "nombre": "Ketchup (310ml)",
+      "categoria": "aderezos",
+      "precio": 2.4,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "ketchup-310ml_1794294825852.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-10T07:14:56.331Z",
+      "modified_at": "2026-11-10T07:14:56.331Z"
+    },
+    {
+      "id": "prod_1794294860208_u4wphrzui",
+      "nombre": "Paquete de Garbanzo 500g",
+      "categoria": "despensa",
+      "precio": 3.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-garbanzo-500g_1794294860213.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-10T07:14:58.022Z",
+      "modified_at": "2026-11-10T07:14:58.022Z"
     }
   ]
 }
