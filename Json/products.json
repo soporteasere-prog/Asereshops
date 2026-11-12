@@ -285,9 +285,9 @@
         "picadillo_de_pollo_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-29T05:46:53.947Z"
+      "modified_at": "2026-11-12T18:46:06.421Z"
     },
     {
       "id": "mlgzank3-w0yr57a",
@@ -506,9 +506,9 @@
         "aceite-900ml_1787981655212.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-11-03T04:00:36.397Z"
+      "modified_at": "2026-11-12T18:46:10.940Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -2075,23 +2075,6 @@
       "modified_at": "2026-09-06T14:54:34.394Z"
     },
     {
-      "id": "prod_1784084234692_k2d8onmg8",
-      "nombre": "Aguacate x unidad",
-      "categoria": "despensa",
-      "precio": 1.79,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "aguacate-x-unidad_1784084234711.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-15T03:30:38.983Z",
-      "modified_at": "2026-07-15T03:30:38.983Z"
-    },
-    {
       "id": "prod_1784084721193_sy1q41qd5",
       "nombre": "Caramelo de Leche x unidad",
       "categoria": "confituras",
@@ -2308,9 +2291,9 @@
         "detergente-yamy-900g_1784085561507.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:33.324Z",
-      "modified_at": "2026-11-08T07:01:27.859Z"
+      "modified_at": "2026-11-12T18:46:10.940Z"
     },
     {
       "id": "prod_1784085602472_g1h7te2sg",
@@ -3384,23 +3367,6 @@
       "modified_at": "2026-10-16T16:05:21.334Z"
     },
     {
-      "id": "prod_1792383858468_5ow72rfws",
-      "nombre": "Yogurt Probiotico 500ml sabor naranja piña",
-      "categoria": "bebidas",
-      "precio": 3.59,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "yogurt-probiotico-500ml-sabor-naranja-pia_1792383858477.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-10-19T04:28:52.929Z",
-      "modified_at": "2026-10-19T04:28:52.929Z"
-    },
-    {
       "id": "prod_1792383952105_d8n2cnr24",
       "nombre": "Cafe Sublime 250g",
       "categoria": "café",
@@ -3688,6 +3654,142 @@
       "disponibilidad": true,
       "created_at": "2026-11-10T07:14:58.022Z",
       "modified_at": "2026-11-10T07:14:58.022Z"
+    },
+    {
+      "id": "prod_1794508994103_hdnelj1dj",
+      "nombre": "Spam de Res (320g)",
+      "categoria": "cárnicos",
+      "precio": 3.94,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "spam-de-res-320g_1794508994111.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:13.174Z",
+      "modified_at": "2026-11-12T18:46:13.174Z"
+    },
+    {
+      "id": "prod_1794509033409_6ig2b3le4",
+      "nombre": "Frijoles Pintos x Lb",
+      "categoria": "pastas-y-granos",
+      "precio": 3.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "frijoles-pintos-x-lb_1794509033411.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:15.271Z",
+      "modified_at": "2026-11-12T18:46:15.271Z"
+    },
+    {
+      "id": "prod_1794509062904_owb5lme4u",
+      "nombre": "Paquete de Maiz para Palomitas 500g",
+      "categoria": "despensa",
+      "precio": 3.79,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-maiz-para-palomitas-500g_1794509062913.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:17.187Z",
+      "modified_at": "2026-11-12T18:46:17.187Z"
+    },
+    {
+      "id": "prod_1794509080661_26xkq2rn9",
+      "nombre": "Pimentón Rojo al Natural 390g",
+      "categoria": "despensa",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pimentn-rojo-al-natural-390g_1794509080669.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:19.053Z",
+      "modified_at": "2026-11-12T18:46:19.053Z"
+    },
+    {
+      "id": "prod_1794509107649_7wu2zv1sn",
+      "nombre": "Queso Crema Gustatini 300g",
+      "categoria": "despensa",
+      "precio": 4.99,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "queso-crema-gustatini-300g_1794509107654.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:20.954Z",
+      "modified_at": "2026-11-12T18:46:20.954Z"
+    },
+    {
+      "id": "prod_1794509127562_hs0z2oy5p",
+      "nombre": "Aceitunas Verdes Rellenas de Anchoas 295g",
+      "categoria": "despensa",
+      "precio": 5.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "aceitunas-verdes-rellenas-de-anchoas-295g_1794509127565.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:22.671Z",
+      "modified_at": "2026-11-12T18:46:22.671Z"
+    },
+    {
+      "id": "prod_1794509145453_pupho4i6g",
+      "nombre": "Paquete de Avena en Hojuelas 400g",
+      "categoria": "pastas-y-granos",
+      "precio": 4.39,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-avena-en-hojuelas-400g_1794509145456.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:24.567Z",
+      "modified_at": "2026-11-12T18:46:24.567Z"
+    },
+    {
+      "id": "prod_1794509160275_9l0an9t2o",
+      "nombre": "Paquete de Frijoles Colorados 1Kg",
+      "categoria": "pastas-y-granos",
+      "precio": 4.59,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-frijoles-colorados-1kg_1794509160277.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-12T18:46:26.493Z",
+      "modified_at": "2026-11-12T18:46:26.493Z"
     }
   ]
 }
