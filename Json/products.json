@@ -404,9 +404,9 @@
         "coditos-ada-500g_1792166496205.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-10-16T16:05:10.655Z"
+      "modified_at": "2026-11-17T12:51:46.301Z"
     },
     {
       "id": "mlgzank4-1oad65v",
@@ -438,9 +438,9 @@
         "pack_de_1kg_de_jamn_bravo_y_1kg_de_queso_gouda.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-10-27T21:22:06.734Z"
+      "modified_at": "2026-11-17T12:51:51.167Z"
     },
     {
       "id": "mlgzank5-12209k3",
@@ -560,23 +560,6 @@
       "disponibilidad": false,
       "created_at": null,
       "modified_at": "2026-11-03T04:00:56.847Z"
-    },
-    {
-      "id": "mlq5if2i-yv9djh1",
-      "nombre": "Atún en Aceite Vegetal Premium (1kg)",
-      "categoria": "enlatados",
-      "precio": 12.83,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "1000083093_1779470065589.webp"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": null,
-      "modified_at": "2026-10-16T16:04:57.272Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -778,9 +761,9 @@
         "queso-gouda-vima-premium-3kg_1792384042536.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-10-27T21:22:06.734Z"
+      "modified_at": "2026-11-17T12:51:51.167Z"
     },
     {
       "id": "mml2uism-1ue4vr5",
@@ -795,9 +778,9 @@
         "lomo_de_cerdo_deshuesado_x_kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-09-22T19:06:43.176Z"
+      "modified_at": "2026-11-17T12:51:49.947Z"
     },
     {
       "id": "mmm59z91-ngv7s6m",
@@ -1101,9 +1084,9 @@
         "jamn_bravo_2kg.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-08T07:01:25.877Z"
+      "modified_at": "2026-11-17T12:51:51.166Z"
     },
     {
       "id": "mnq50bj3-1qtfbhl",
@@ -1254,9 +1237,9 @@
         "pure_de_papas_1kg.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-10-27T21:22:06.735Z"
+      "modified_at": "2026-11-17T12:51:46.300Z"
     },
     {
       "id": "prod_1777963926079_utzbwgzvz",
@@ -2257,9 +2240,9 @@
         "galletas-todeschini-agua-y-sal-360g_1784085366242.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-15T03:31:22.956Z",
-      "modified_at": "2026-11-08T07:01:29.564Z"
+      "modified_at": "2026-11-17T12:51:46.301Z"
     },
     {
       "id": "prod_1784085505794_sqp0ta85x",
@@ -2495,9 +2478,9 @@
         "troncho-de-pescado-en-tomate-425g_1784312038660.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:37.834Z",
-      "modified_at": "2026-08-15T08:17:11.365Z"
+      "modified_at": "2026-11-17T12:51:46.301Z"
     },
     {
       "id": "prod_1784312079492_9a8xpa79d",
@@ -2750,9 +2733,9 @@
         "jamon-chopped-800g-marca-bravo_1785475908044.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-31T05:32:44.972Z",
-      "modified_at": "2026-10-24T09:27:41.062Z"
+      "modified_at": "2026-11-17T12:51:46.301Z"
     },
     {
       "id": "prod_1785856877811_06w11tpqh",
@@ -2784,9 +2767,9 @@
         "paquete-de-carne-de-res-troceada-1kg_1785856957275.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-04T15:26:00.918Z",
-      "modified_at": "2026-11-08T07:01:27.859Z"
+      "modified_at": "2026-11-17T12:51:46.301Z"
     },
     {
       "id": "prod_1785857035570_9svxgdf5a",
@@ -3146,23 +3129,6 @@
       "modified_at": "2026-09-06T14:54:43.140Z"
     },
     {
-      "id": "prod_1788706464524_3o1k7h4lf",
-      "nombre": "Queso Crema Vima (200g)",
-      "categoria": "despensa",
-      "precio": 5.49,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "queso-crema-vima-200g_1788706464540.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-09-06T14:54:44.987Z",
-      "modified_at": "2026-09-06T14:54:44.987Z"
-    },
-    {
       "id": "prod_1789796108167_phelelfxu",
       "nombre": "Caja de Jugo de Manzana Fresko 24x330ml",
       "categoria": "bebidas",
@@ -3291,12 +3257,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "aceite-1lt_1790103548621.jpg"
+        "aceite-1lt_1794919894438.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-09-22T19:06:40.147Z",
-      "modified_at": "2026-09-24T03:26:26.454Z"
+      "modified_at": "2026-11-17T12:51:52.888Z"
     },
     {
       "id": "prod_1790103983773_7vkq8kb0b",
@@ -3569,23 +3535,6 @@
       "disponibilidad": false,
       "created_at": "2026-11-08T07:01:32.185Z",
       "modified_at": "2026-11-10T07:14:52.595Z"
-    },
-    {
-      "id": "prod_1794121153656_6fixjalbt",
-      "nombre": "Pasta de Tomate Don Isidro 400g",
-      "categoria": "despensa",
-      "precio": 1.77,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "pasta-de-tomate-don-isidro-400g_1794121153661.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-11-08T07:01:36.724Z",
-      "modified_at": "2026-11-08T07:01:36.724Z"
     },
     {
       "id": "prod_1794121200017_lcn6vc9tk",
