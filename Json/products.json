@@ -123,7 +123,7 @@
       "id": "mlgzank2-1pwcv2o",
       "nombre": "Cartón de Huevos",
       "categoria": "despensa",
-      "precio": 11.59,
+      "precio": 9.99,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -134,7 +134,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-08T07:01:27.859Z"
+      "modified_at": "2026-11-21T14:01:08.697Z"
     },
     {
       "id": "mlgzank2-psrcao1",
@@ -497,7 +497,7 @@
       "id": "mli2ve9o-a60fi91",
       "nombre": "Aceite 900ml",
       "categoria": "despensa",
-      "precio": 5.99,
+      "precio": 4.9,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -506,9 +506,9 @@
         "aceite-900ml_1787981655212.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-12T18:46:10.940Z"
+      "modified_at": "2026-11-21T14:01:08.697Z"
     },
     {
       "id": "mlipxcrm-1ev233g",
@@ -548,8 +548,8 @@
       "id": "mll8va5a-rodndwa",
       "nombre": "Caja de Malta Bucanero",
       "categoria": "bebidas",
-      "precio": 30,
-      "descuento": 16.67,
+      "precio": 28.97,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -557,9 +557,9 @@
         "caja_de_malta_bucanero.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-03T04:00:56.847Z"
+      "modified_at": "2026-11-21T14:01:23.162Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -1330,8 +1330,8 @@
       "id": "prod_1779859225646_w1oxwv3sx",
       "nombre": "Saco de Azucar Blanca 25Kg",
       "categoria": "despensa",
-      "precio": 59.99,
-      "descuento": 25,
+      "precio": 46.97,
+      "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -1341,7 +1341,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-05-27T05:58:06.080Z",
-      "modified_at": "2026-09-06T14:54:39.932Z"
+      "modified_at": "2026-11-21T14:01:13.168Z"
     },
     {
       "id": "prod_1779859869975_0b7rj40s1",
@@ -1645,9 +1645,9 @@
         "20411_1780384951635.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:22.733Z",
-      "modified_at": "2026-08-23T22:37:02.974Z"
+      "modified_at": "2026-11-21T14:01:13.168Z"
     },
     {
       "id": "prod_1780385071281_tipkn7115",
@@ -2682,9 +2682,9 @@
         "mortadela-siciliana-bravo-2kg_1784879876977.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-24T08:00:02.287Z",
-      "modified_at": "2026-11-08T07:00:37.167Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
     },
     {
       "id": "prod_1784879919208_5u85moelo",
@@ -2741,8 +2741,8 @@
       "id": "prod_1785856877811_06w11tpqh",
       "nombre": "Picadillo de Res 1lb",
       "categoria": "cárnicos",
-      "precio": 2.97,
-      "descuento": 0,
+      "precio": 3.89,
+      "descuento": 23.65,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
@@ -2750,9 +2750,9 @@
         "picadillo-de-res-1lb_1785856877826.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-08-04T15:25:56.543Z",
-      "modified_at": "2026-08-07T10:45:13.933Z"
+      "modified_at": "2026-11-21T14:01:19.096Z"
     },
     {
       "id": "prod_1785856957255_wgx179rkp",
@@ -3098,18 +3098,18 @@
       "id": "prod_1788706292998_ys4xpw869",
       "nombre": "Filete/Bistec de Res 1Kg",
       "categoria": "cárnicos",
-      "precio": 10.57,
+      "precio": 9.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "filete-bistec-de-res-1kg_1788706293017.jpg"
+        "filete-bistec-de-res-1kg_1795269611580.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-09-06T14:54:39.930Z",
-      "modified_at": "2026-09-24T03:26:29.736Z"
+      "modified_at": "2026-11-21T14:01:20.628Z"
     },
     {
       "id": "prod_1788706396895_eolylam99",
@@ -3243,9 +3243,9 @@
         "aceite-de-oliva-vima-1litro_1789796965325.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-19T05:54:00.264Z",
-      "modified_at": "2026-09-19T05:54:00.264Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
     },
     {
       "id": "prod_1790103548613_1lmi4jyfc",
@@ -3280,23 +3280,6 @@
       "disponibilidad": true,
       "created_at": "2026-09-22T19:06:51.639Z",
       "modified_at": "2026-09-22T19:06:51.639Z"
-    },
-    {
-      "id": "prod_1790534980070_k6rnxzllx",
-      "nombre": "Leche Entera 1Lt Vima",
-      "categoria": "lacteos",
-      "precio": 3.97,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "leche-entera-1lt-vima_1790534980077.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-09-27T18:50:16.853Z",
-      "modified_at": "2026-09-27T18:50:16.853Z"
     },
     {
       "id": "prod_1791130061501_6c5h0s0qm",
@@ -3336,7 +3319,7 @@
       "id": "prod_1792383952105_d8n2cnr24",
       "nombre": "Cafe Sublime 250g",
       "categoria": "café",
-      "precio": 7.99,
+      "precio": 5.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3347,13 +3330,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-10-19T04:28:54.520Z",
-      "modified_at": "2026-10-19T04:28:54.520Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
     },
     {
       "id": "prod_1792383985919_d8ihmhnra",
       "nombre": "Leche en Polvo 1Kg",
       "categoria": "lacteos",
-      "precio": 9.99,
+      "precio": 8.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3364,7 +3347,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-10-19T04:28:56.062Z",
-      "modified_at": "2026-10-19T04:28:56.062Z"
+      "modified_at": "2026-11-21T14:01:13.168Z"
     },
     {
       "id": "prod_1793136123738_fu39m4cbi",
@@ -3455,7 +3438,7 @@
       "id": "prod_1793677848553_iulsocrdq",
       "nombre": "Azúcar Blanca (1Kg)",
       "categoria": "despensa",
-      "precio": 3.97,
+      "precio": 2.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3466,7 +3449,7 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-11-03T04:00:39.968Z",
-      "modified_at": "2026-11-03T04:00:39.968Z"
+      "modified_at": "2026-11-21T14:01:11.605Z"
     },
     {
       "id": "prod_1794120880881_z62kh8hso",
@@ -3617,9 +3600,9 @@
         "spam-de-res-320g_1794508994111.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-12T18:46:13.174Z",
-      "modified_at": "2026-11-12T18:46:13.174Z"
+      "modified_at": "2026-11-21T14:01:13.168Z"
     },
     {
       "id": "prod_1794509033409_6ig2b3le4",
@@ -3676,7 +3659,7 @@
       "id": "prod_1794509107649_7wu2zv1sn",
       "nombre": "Queso Crema Gustatini 300g",
       "categoria": "despensa",
-      "precio": 4.99,
+      "precio": 3.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3687,13 +3670,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-11-12T18:46:20.954Z",
-      "modified_at": "2026-11-12T18:46:20.954Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
     },
     {
       "id": "prod_1794509127562_hs0z2oy5p",
       "nombre": "Aceitunas Verdes Rellenas de Anchoas 295g",
       "categoria": "despensa",
-      "precio": 5.59,
+      "precio": 4.59,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3704,13 +3687,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-11-12T18:46:22.671Z",
-      "modified_at": "2026-11-12T18:46:22.671Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
     },
     {
       "id": "prod_1794509145453_pupho4i6g",
       "nombre": "Paquete de Avena en Hojuelas 400g",
       "categoria": "pastas-y-granos",
-      "precio": 4.39,
+      "precio": 3.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3721,13 +3704,13 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-11-12T18:46:24.567Z",
-      "modified_at": "2026-11-12T18:46:24.567Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
     },
     {
       "id": "prod_1794509160275_9l0an9t2o",
       "nombre": "Paquete de Frijoles Colorados 1Kg",
       "categoria": "pastas-y-granos",
-      "precio": 4.59,
+      "precio": 4.19,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3738,7 +3721,92 @@
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-11-12T18:46:26.493Z",
-      "modified_at": "2026-11-12T18:46:26.493Z"
+      "modified_at": "2026-11-21T14:01:17.407Z"
+    },
+    {
+      "id": "prod_1795268755527_sygygnqv3",
+      "nombre": "Paquete de Galletas de Sal (1Kg)",
+      "categoria": "despensa",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-galletas-de-sal-1kg_1795268755534.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-21T14:01:11.605Z",
+      "modified_at": "2026-11-21T14:01:11.605Z"
+    },
+    {
+      "id": "prod_1795268916348_a42xozuj1",
+      "nombre": "Café «Purasangre» (250g)",
+      "categoria": "café",
+      "precio": 6.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "images_1795268916350.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-21T14:01:13.167Z",
+      "modified_at": "2026-11-21T14:01:13.167Z"
+    },
+    {
+      "id": "prod_1795269095025_vrf2dkkhx",
+      "nombre": "Paquete de Refresco en polvo de Piña Colada 45g/6Lt",
+      "categoria": "bebidas",
+      "precio": 2.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-refresco-en-polvo-de-pia-colada-45g-6lt_1795269095029.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-21T14:01:15.634Z",
+      "modified_at": "2026-11-21T14:01:15.634Z"
+    },
+    {
+      "id": "prod_1795269149912_0qapm5cje",
+      "nombre": "Paquete de Chocolate en Polvo 400g Neska",
+      "categoria": "despensa",
+      "precio": 3.19,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-chocolate-en-polvo-400g-neska_1795269149915.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-21T14:01:17.407Z",
+      "modified_at": "2026-11-21T14:01:17.407Z"
+    },
+    {
+      "id": "prod_1795269642720_i8npi2nuu",
+      "nombre": "Paquete de Pechugas de Pollo Sin Piel y Sin Huesos de 2Lb",
+      "categoria": "cárnicos",
+      "precio": 8.67,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "paquete-de-pechugas-de-pollo-sin-piel-y-sin-huesos-de-2lb_1795269642724.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-21T14:01:23.162Z",
+      "modified_at": "2026-11-21T14:01:23.162Z"
     }
   ]
 }
