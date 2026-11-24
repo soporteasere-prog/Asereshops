@@ -146,12 +146,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "arroz-1kg_1785111928829.jpg"
+        "arroz-1kg_1795536377941.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-08T07:00:45.249Z"
+      "modified_at": "2026-11-24T16:17:26.580Z"
     },
     {
       "id": "mlgzank2-q8ffff1",
@@ -557,9 +557,9 @@
         "caja_de_malta_bucanero.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-11-21T14:01:23.162Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "mlq662le-rfllul7",
@@ -897,9 +897,9 @@
         "paquete_de_filetes_de_panga.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-08T07:00:58.114Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -1098,12 +1098,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "paca-de-arroz-de-30u-de-1kg66lb_1794119763836.jpg"
+        "paca-de-arroz-de-30u-de-1kg66lb_1795536434402.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-11-08T07:00:40.828Z"
+      "modified_at": "2026-11-24T16:17:34.679Z"
     },
     {
       "id": "moe41gnc-77m3901",
@@ -1679,9 +1679,9 @@
         "20415_1780385154090.webp"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-02T07:45:27.254Z",
-      "modified_at": "2026-07-15T03:30:41.461Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "prod_1780385348211_o7tzow1is",
@@ -1832,9 +1832,9 @@
         "qqqqq_1780732999690.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-06-06T08:10:39.562Z",
-      "modified_at": "2026-09-19T05:54:00.264Z"
+      "modified_at": "2026-11-24T16:17:37.627Z"
     },
     {
       "id": "prod_1780898576880_bipsglzoq",
@@ -2427,9 +2427,9 @@
         "2941b51e-a0dc-457b-8568-c1f4bd5cb823_1784311726025.jfif"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-07-17T18:36:18.069Z",
-      "modified_at": "2026-07-17T18:36:18.069Z"
+      "modified_at": "2026-11-24T16:17:37.627Z"
     },
     {
       "id": "prod_1784311855068_8snj9k830",
@@ -2750,9 +2750,9 @@
         "picadillo-de-res-1lb_1785856877826.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-08-04T15:25:56.543Z",
-      "modified_at": "2026-11-21T14:01:19.096Z"
+      "modified_at": "2026-11-24T16:17:37.627Z"
     },
     {
       "id": "prod_1785856957255_wgx179rkp",
@@ -3047,7 +3047,7 @@
       "id": "prod_1788445197858_5wzu64df1",
       "nombre": "Mayonesa Celorrio 500ml",
       "categoria": "aderezos",
-      "precio": 7.87,
+      "precio": 6.79,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3056,9 +3056,9 @@
         "mayonesa-celorrio-500ml_1788445197865.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-09-03T14:23:36.544Z",
-      "modified_at": "2026-10-27T21:22:06.734Z"
+      "modified_at": "2026-11-24T16:17:39.404Z"
     },
     {
       "id": "prod_1788445248267_ysocuxx1q",
@@ -3107,9 +3107,9 @@
         "filete-bistec-de-res-1kg_1795269611580.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-09-06T14:54:39.930Z",
-      "modified_at": "2026-11-21T14:01:20.628Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "prod_1788706396895_eolylam99",
@@ -3149,7 +3149,7 @@
       "id": "prod_1789796447389_y46pnolu4",
       "nombre": "Helado Nestlé Sabor Chocolate (4.5Lts)",
       "categoria": "lacteos",
-      "precio": 22.99,
+      "precio": 19.97,
       "descuento": 0,
       "mas_vendido": false,
       "nuevo": false,
@@ -3158,9 +3158,9 @@
         "1000447467_1789796447397.webp"
       ],
       "descripcion": "",
-      "disponibilidad": false,
+      "disponibilidad": true,
       "created_at": "2026-09-19T05:53:44.224Z",
-      "modified_at": "2026-10-10T17:43:35.680Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "prod_1789796497793_x90hqizlz",
@@ -3413,9 +3413,9 @@
         "pack-x-12-nctar-de-manzana-12x330ml_1793500137238.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-01T02:32:24.336Z",
-      "modified_at": "2026-11-01T02:32:24.336Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "prod_1793500185657_7um0f4ccg",
@@ -3461,12 +3461,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "espaguetis-500g_1794120880889.jpg"
+        "espaguetis-500g_1795536364800.jpg"
       ],
       "descripcion": "",
       "disponibilidad": true,
       "created_at": "2026-11-08T07:01:27.858Z",
-      "modified_at": "2026-11-08T07:01:27.858Z"
+      "modified_at": "2026-11-24T16:17:21.453Z"
     },
     {
       "id": "prod_1794120982927_36qvs1b4n",
@@ -3770,9 +3770,9 @@
         "paquete-de-refresco-en-polvo-de-pia-colada-45g-6lt_1795269095029.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-21T14:01:15.634Z",
-      "modified_at": "2026-11-21T14:01:15.634Z"
+      "modified_at": "2026-11-24T16:17:37.628Z"
     },
     {
       "id": "prod_1795269149912_0qapm5cje",
@@ -3807,6 +3807,91 @@
       "disponibilidad": true,
       "created_at": "2026-11-21T14:01:23.162Z",
       "modified_at": "2026-11-21T14:01:23.162Z"
+    },
+    {
+      "id": "prod_1795536709449_0g5sw4xd6",
+      "nombre": "Caja x 24 Néctar de Mango 🥭 ‘Nezka’ (250ml)",
+      "categoria": "bebidas",
+      "precio": 24.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-x-24-nctar-de-mango-nezka-250ml_1795536709457.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-24T16:17:39.404Z",
+      "modified_at": "2026-11-24T16:17:39.404Z"
+    },
+    {
+      "id": "prod_1795536822642_u6s1rc48d",
+      "nombre": "Caja de Nectar de Pera 24u",
+      "categoria": "bebidas",
+      "precio": 24.97,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "caja-de-nectar-de-pera-24u_1795536822670.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-24T16:17:42.255Z",
+      "modified_at": "2026-11-24T16:17:42.255Z"
+    },
+    {
+      "id": "prod_1795536881540_fos410xvm",
+      "nombre": "Pasta Dental Colgate (128g)",
+      "categoria": "aseo",
+      "precio": 2.69,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pasta-dental-colgate-128g_1795536881564.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-24T16:17:45.168Z",
+      "modified_at": "2026-11-24T16:17:45.168Z"
+    },
+    {
+      "id": "prod_1795536947165_q0nf0c83i",
+      "nombre": "Pasta de tomate 210g",
+      "categoria": "despensa",
+      "precio": 1.29,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "pasta-de-tomate-210g_1795536947190.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-24T16:17:47.406Z",
+      "modified_at": "2026-11-24T16:17:47.406Z"
+    },
+    {
+      "id": "prod_1795537028955_s3i9j78dy",
+      "nombre": "Frijoles Negros (1Kg)",
+      "categoria": "pastas-y-granos",
+      "precio": 2.89,
+      "descuento": 0,
+      "mas_vendido": false,
+      "nuevo": false,
+      "oferta": false,
+      "imagenes": [
+        "frijoles-negros-1kg_1795537028957.jpg"
+      ],
+      "descripcion": "",
+      "disponibilidad": true,
+      "created_at": "2026-11-24T16:17:50.220Z",
+      "modified_at": "2026-11-24T16:17:50.220Z"
     }
   ]
 }
