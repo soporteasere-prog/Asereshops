@@ -42,7 +42,7 @@
       "top": false,
       "nuevo": false,
       "oferta": false,
-      "disponible": true,
+      "disponible": false,
       "imagenes": [
         "42962_1789882122996.webp"
       ],
@@ -55,11 +55,7 @@
         "x10 plátanos"
       ],
       "created_at": "2026-07-24T08:00:11.079Z",
-      "modified_at": "2026-09-20T05:29:17.321Z",
-      "precioFinal": 21.99,
-      "imagenUrl": "https://raw.githubusercontent.com/soporteasere-prog/Asereshops/main/Images/Packs/42962_1789882122996.webp",
-      "searchText": "pack veloz pack ",
-      "searchNorm": "pack veloz pack"
+      "modified_at": "2026-11-28T08:16:18.520Z"
     },
     {
       "id": "9",
