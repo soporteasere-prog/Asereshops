@@ -44,12 +44,12 @@
       "nuevo": false,
       "oferta": false,
       "imagenes": [
-        "Chuletas_de_Cerdo.jpg"
+        "chuletas-de-cerdo-x-lb_1795853471360.jpg"
       ],
       "descripcion": "Corte fresco se realiza al momento del pedido",
       "disponibilidad": true,
       "created_at": null,
-      "modified_at": "2026-09-06T14:54:36.521Z"
+      "modified_at": "2026-11-28T08:16:12.862Z"
     },
     {
       "id": "mlgzank1-1eo49xr",
@@ -115,9 +115,9 @@
         "Frijol_Negro.jpeg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-06-05T06:19:40.403Z"
+      "modified_at": "2026-11-28T08:16:10.323Z"
     },
     {
       "id": "mlgzank2-1pwcv2o",
@@ -421,9 +421,9 @@
         "frijoles_colorados_x_lb.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-10-09T07:25:37.127Z"
+      "modified_at": "2026-11-28T08:16:10.323Z"
     },
     {
       "id": "mlgzank4-gbgcf0r",
@@ -472,9 +472,9 @@
         "azcar_parda_x_lb.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-08-04T15:25:42.858Z"
+      "modified_at": "2026-11-28T08:16:16.878Z"
     },
     {
       "id": "mli1qt1h-m8mjr31",
@@ -676,9 +676,9 @@
         "pasta-de-tomate-vima-400g_1784312578703.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-10-20T20:24:14.628Z"
+      "modified_at": "2026-11-28T08:16:16.878Z"
     },
     {
       "id": "mm0wy3wx-1jvjivz",
@@ -897,9 +897,9 @@
         "paquete_de_filetes_de_panga.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": null,
-      "modified_at": "2026-11-24T16:17:37.628Z"
+      "modified_at": "2026-11-28T08:16:10.323Z"
     },
     {
       "id": "mmxpp1m7-mr2qt01",
@@ -2602,23 +2602,6 @@
       "modified_at": "2026-09-03T14:23:33.811Z"
     },
     {
-      "id": "prod_1784879020125_epzgxylc4",
-      "nombre": "Picadillo Mixto (400g)",
-      "categoria": "cárnicos",
-      "precio": 2.25,
-      "descuento": 12.44,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "picadillo-mixto-400g_1784879020146.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": true,
-      "created_at": "2026-07-24T07:59:41.954Z",
-      "modified_at": "2026-11-08T07:01:27.859Z"
-    },
-    {
       "id": "prod_1784879404434_ii84p32k8",
       "nombre": "Gelatina Gely de Fresa (125ml)",
       "categoria": "despensa",
@@ -3396,9 +3379,9 @@
         "pack-x-12-nctar-de-pera-12x330ml_1793500114189.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-01T02:32:22.659Z",
-      "modified_at": "2026-11-01T02:32:22.659Z"
+      "modified_at": "2026-11-28T08:16:15.619Z"
     },
     {
       "id": "prod_1793500137230_ath5xdr93",
@@ -3586,23 +3569,6 @@
       "disponibilidad": true,
       "created_at": "2026-11-10T07:14:58.022Z",
       "modified_at": "2026-11-10T07:14:58.022Z"
-    },
-    {
-      "id": "prod_1794508994103_hdnelj1dj",
-      "nombre": "Spam de Res (320g)",
-      "categoria": "cárnicos",
-      "precio": 3.94,
-      "descuento": 0,
-      "mas_vendido": false,
-      "nuevo": false,
-      "oferta": false,
-      "imagenes": [
-        "spam-de-res-320g_1794508994111.jpg"
-      ],
-      "descripcion": "",
-      "disponibilidad": false,
-      "created_at": "2026-11-12T18:46:13.174Z",
-      "modified_at": "2026-11-21T14:01:13.168Z"
     },
     {
       "id": "prod_1794509033409_6ig2b3le4",
@@ -3889,9 +3855,9 @@
         "frijoles-negros-1kg_1795537028957.jpg"
       ],
       "descripcion": "",
-      "disponibilidad": true,
+      "disponibilidad": false,
       "created_at": "2026-11-24T16:17:50.220Z",
-      "modified_at": "2026-11-24T16:17:50.220Z"
+      "modified_at": "2026-11-28T08:16:10.323Z"
     }
   ]
 }
